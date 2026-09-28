@@ -1,0 +1,99 @@
+{
+  "id": "AffinityDef_quirk_Im_a_Leaf_on_the_Wind",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_StubbleWings"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "我是风中的一片叶",
+        "decription": "\"从天而降\"：+1 精度，-25% 自伤与自稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_DeathFromAbove_Dmg",
+              "Name": "Quirk Affinity Im a Leaf on the Wind: Decreased DFA Self Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_DFA_Attacker_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_DeathFromAbove_Dmg",
+              "Name": "Quirk Affinity Im a Leaf on the Wind: Decreased DFA Stability Self Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_DFA_Attacker_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-TalonsMeleeACC",
+              "Name": "Quirk Affinity Im a Leaf on the Wind: Improved DFA Hit Chance",
+              "Details": "尝试的近战攻击命中率降低2。",
+              "Icon": "uixSvgIcon_equipment_Gyro"
+            },
+            "statisticData": {
+              "statName": "CBTBE_DFA_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "Name": "CustomLocalization",
+  "Enabled": true,
+  "Version": "0.0.14",
+  "PackagedOn": "2019-01-31T00:00:00Z",
+  "DLL": "CustomLocalization.dll",
+  "DLLEntryPoint": "CustomTranslation.Core.Init",
+  "DependsOn": [],
+  "ConflictsWith": [],
+  "OptionallyDependsOn": [ "NewSaveFolder" ],
+  "Description": "CustomLocalization",
+  "Author": "KMiSSioN",
+  "Website": "https://www.nexusmods.com/battletech/mods/XXX",
+  "Settings": {
+    "debugLog": false,
+    "procSettings": {
+        "CustomWeatherEffect": {
+          "type": "CustomWeatherEffect",
+          "useName": true,
+          "procs": [ "startMission.words" ]
+        },
+        "MoodSettings": {
+          "type": "MoodSettings",
+          "useName": true,
+          "procs": []
+        },
+        "CCCategories": {
+          "type": "CCCategories",
+          "useName": true,
+          "procs": [ "Settings.DisplayName", "Settings.Name" ]
+        },
+        "CCUnitTypes": {
+          "type": "CCUnitTypes",
+          "useName": true,
+          "procs": [ "Settings.Name" ]
+        },        "AbilityDef": {
+          "type": "AbilityDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "Description.Name", "EffectData.Description.Name", "EffectData.Description.Details", "ShortDesc" ]
+        },
+        "AmmunitionDef": {
+          "type": "AmmunitionDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "statusEffects.Description.Name", "statusEffects.Description.Details", "deferredEffect.statusEffects.Description.Name", "deferredEffect.statusEffects.Description.Details" ]
+        },
+        "AmmunitionBoxDef": {
+          "type": "AmmunitionBoxDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details",
+            "Manufacturer",
+            "Model",
+            "BonusValueA",
+            "BonusValueB",
+            "ActivationMessage",
+            "DeactivationMessage",
+            "ExplosionMessage",
+            "statusEffects.Description.Name",
+            "statusEffects.Description.Details",
+            "Custom.ActivatableComponent.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.statusEffects.Description.Details",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Name",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Details",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Details"
+          ]
+        },
+        "BackgroundDef": {
+          "type": "BackgroundDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "Description.Name", "OptionName", "OptionDescription", "BioDescription" ]
+        },
+        "BuildingDef": {
+          "type": "BuildingDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "Description.Name" ]
+        },
+        "CastDef": {
+          "type": "CastDef",
+          "useName": true,
+          "procs": [ "firstName", "lastName", "callsign", "rank" ]
+        },
+        "ChassisDef": {
+          "type": "ChassisDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "StockRole", "YangsThoughts", "Manufacturer", "Model" ]
+        },
+        "ContractOverride": {
+          "type": "ContractOverride",
+          "useName": true,
+          "procs": [ "contractName", "shortDescription", "longDescription", "objectiveList.title", "objectiveList.description", "dialogueList.dialogueContent.words" ]
+        },
+        "ConversationContent": {
+          "type": "ConversationContent",
+          "useName": true,
+          "procs": [ "contents.words" ]
+        },
+        "BaseDescriptionDef": {
+          "type": "BaseDescriptionDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "Description.Name" ]
+        },
+        "DesignMaskDef": {
+          "type": "DesignMaskDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "Description.Name", "stickyEffect.Description.Name", "stickyEffect.Description.Details" ]
+        },
+        "DropshipDef": {
+          "type": "DropshipDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "Description.Name" ]
+        },
+        "SimGameEventDef": {
+          "type": "SimGameEventDef",
+          "useName": true,
+          "procs": [ "Description.Details", "Options.Description.Name", "Options.Description.Details", "Options.ResultSets.Description.Name", "Options.ResultSets.Description.Details" ]
+        },
+        "FactionDef": {
+          "type": "FactionDef",
+          "useName": true,
+          "procs": [ "Description", "Name", "ShortName", "Demonym", "MissionSuccessStatement", "GoodFaithFailureStatement", "BadFaithFailureStatement" ]
+        },
+        "HeatSinkDef": {
+          "type": "HeatSinkDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details",
+            "Manufacturer",
+            "Model",
+            "BonusValueA",
+            "BonusValueB",
+            "ActivationMessage",
+            "DeactivationMessage",
+            "ExplosionMessage",
+            "statusEffects.Description.Name",
+            "statusEffects.Description.Details",
+            "Custom.ActivatableComponent.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.statusEffects.Description.Details",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Name",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Details",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Details"
+          ]
+        },
+        "HeraldryDef": {
+          "type": "HeraldryDef",
+          "useName": true,
+          "procs": []
+        },
+        "JumpJetDef": {
+          "type": "JumpJetDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details",
+            "Manufacturer",
+            "Model",
+            "BonusValueA",
+            "BonusValueB",
+            "ActivationMessage",
+            "DeactivationMessage",
+            "ExplosionMessage",
+            "statusEffects.Description.Name",
+            "statusEffects.Description.Details",
+            "Custom.ActivatableComponent.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.statusEffects.Description.Details",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Name",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Details",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Details"
+          ]
+        },
+        "MechDef": {
+          "type": "MechDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details"
+          ]
+        },
+        "PilotDef": {
+          "type": "PilotDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details",
+            "Description.FirstName",
+            "Description.LastName",
+            "Description.Callsign"
+          ]
+        },
+        "ShipModuleUpgrade": {
+          "type": "ShipModuleUpgrade",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "SimGameStatDescDef": {
+          "type": "SimGameStatDescDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "setResult",
+            "positiveResult",
+            "negativeResult",
+            "temporalSetResult",
+            "temporalNegativeResult",
+            "temporalPositiveResult",
+            "infinitivePositiveResult",
+            "infinitiveSetResult",
+            "infinitiveNegativeResult",
+            "Description.Details"
+          ]
+        },
+        "StarSystemDef": {
+          "type": "StarSystemDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details"
+          ]
+        },
+        "TurretChassisDef": {
+          "type": "TurretChassisDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "StockRole", "YangsThoughts", "Manufacturer", "Model" ]
+        },
+        "TurretDef": {
+          "type": "TurretDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details"
+          ]
+        },
+        "UpgradeDef": {
+          "type": "UpgradeDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details",
+            "Manufacturer",
+            "Model",
+            "BonusValueA",
+            "BonusValueB",
+            "ActivationMessage",
+            "DeactivationMessage",
+            "ExplosionMessage",
+            "statusEffects.Description.Name",
+            "statusEffects.Description.Details",
+            "Custom.ActivatableComponent.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.statusEffects.Description.Details",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Name",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Details",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Details"
+          ]
+        },
+        "VehicleDef": {
+          "type": "VehicleDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details"
+          ]
+        },
+        "VehicleChassisDef": {
+          "type": "VehicleChassisDef",
+          "useName": true,
+          "procs": [ "Description.UIName", "Description.Details", "StockRole", "YangsThoughts", "Manufacturer", "Model" ]
+        },
+        "WeaponDef": {
+          "type": "WeaponDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Details",
+            "Manufacturer",
+            "Model",
+            "BonusValueA",
+            "BonusValueB",
+            "ActivationMessage",
+            "DeactivationMessage",
+            "ExplosionMessage",
+            "statusEffects.Description.Name",
+            "statusEffects.Description.Details",
+            "Custom.ActivatableComponent.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.statusEffects.Description.Details",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Name",
+            "Custom.ActivatableComponent.offlineStatusEffects.Description.Details",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Name",
+            "Custom.ActivatableComponent.Explosion.statusEffects.Description.Details",
+            "Modes.statusEffects.Description.Name",
+            "deferredEffect.statusEffects.Description.Name",
+            "deferredEffect.statusEffects.Description.Details"
+          ]
+        },
+        "SimGameDifficultySettingList": {
+          "type": "SimGameDifficultySettingList",
+          "useName": true,
+          "procs": []
+        },
+        "BackgroundQuestionDef": {
+          "type": "BackgroundQuestionDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "FlashpointDef": {
+          "type": "FlashpointDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details",
+            "FlashpointShortDescription"
+          ]
+        },
+        "SimGameMilestoneSet": {
+          "type": "SimGameMilestoneSet",
+          "useName": true,
+          "procs": []
+        },
+        "AffinitiesDef": {
+          "type": "AffinitiesDef",
+          "useName": true,
+          "procs": [
+            "affinityLevels.description",
+            "affinityLevels.decription",
+            "affinityLevels.levelName"
+          ]
+        },
+        "QuirkDef": {
+          "type": "QuirkDef",
+          "useName": true,
+          "procs": [
+            "quirkName",
+            "description",
+            "effectData.Description.Name",
+            "effectData.Description.Details"
+          ]
+        },
+        "PilotDecorationDef": {
+          "type": "PilotDecorationDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "DropSlotDef": {
+          "type": "DropSlotDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "DropLanceDef": {
+          "type": "DropLanceDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "DropSlotsDef": {
+          "type": "DropSlotsDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "DropSlotDecorationDef": {
+          "type": "DropSlotDecorationDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "DropClassDef": {
+          "type": "DropClassDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "CustomHangarDef": {
+          "type": "CustomHangarDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "PilotingClassDef": {
+          "type": "PilotingClassDef",
+          "useName": true,
+          "procs": [
+            "Description.UIName",
+            "Description.Name",
+            "Description.Details"
+          ]
+        },
+        "MEStatusEffects": {
+          "type": "MEStatusEffects",
+          "useName": false,
+          "procs": [
+            "Settings.Description.Name",
+            "Settings.Description.Details"
+          ]
+        },
+        "MEBonusDescriptions": {
+          "type": "MEBonusDescriptions",
+          "useName": false,
+          "procs": [
+            "MechEngineer.Settings.Short",
+            "MechEngineer.Settings.Long",
+            "MechEngineer.Settings.Full"
+          ]
+        }
+      },
+    "localizationProcType": "Content",
+    "fontsReplacementTable": { },
+    "metaEvaluators": [
+      {
+        "Name": "{location}",
+        "Localization": {
+          "left arm": {
+            "CULTURE_EN_US": {
+              "{side}": "left",
+              "{location}": "left arm"
+            },
+            "CULTURE_RU_RU": {
+              "{сторона}": "лев.",
+              "{location}": "левая рука"
+            }
+          },
+          "left leg": {
+            "CULTURE_EN_US": {
+              "{side}": "left",
+              "{location}": "left leg"
+            },
+            "CULTURE_RU_RU": {
+              "{сторона}": "лев.",
+              "{location}": "левая нога"
+            }
+          },
+          "left torso": {
+            "CULTURE_EN_US": {
+              "{side}": "left",
+              "{location}": "left torso"
+            },
+            "CULTURE_RU_RU": {
+              "{сторона}": "лев.",
+              "{location}": "левый полуторс"
+            }
+          },
+          "right arm": {
+            "CULTURE_EN_US": {
+              "{side}": "right",
+              "{location}": "right arm"
+            },
+            "CULTURE_RU_RU": {
+              "{сторона}": "прав.",
+              "{location}": "правая рука"
+            }
+          },
+          "right leg": {
+            "CULTURE_EN_US": {
+              "{side}": "right",
+              "{location}": "right leg"
+            },
+            "CULTURE_RU_RU": {
+              "{сторона}": "прав.",
+              "{location}": "правая нога"
+            }
+          },
+          "right torso": {
+            "CULTURE_EN_US": {
+              "{side}": "right",
+              "{location}": "right torso"
+            },
+            "CULTURE_RU_RU": {
+              "{сторона}": "прав.",
+              "{location}": "правый полуторс"
+            }
+          },
+          "center torso": {
+            "CULTURE_EN_US": {
+              "{side}": "center",
+              "{location}": "center torso"
+            },
+            "CULTURE_RU_RU": {
+              "{сторона}": "цент.",
+              "{location}": "центр торса"
+            }
+          },
+          "head": {
+            "CULTURE_EN_US": {
+              "{side}": "head",
+              "{location}": "head"
+            },
+            "CULTURE_RU_RU": {
+              "{сторона}": "голов.",
+              "{location}": "голова"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "Manifest": []
+}

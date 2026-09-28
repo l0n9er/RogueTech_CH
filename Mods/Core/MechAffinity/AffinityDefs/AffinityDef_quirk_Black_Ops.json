@@ -1,0 +1,72 @@
+{
+  "id": "AffinityDef_quirk_Black_Ops",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_AR20"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "黑色行动",
+        "decription": "+1 ECM 护盾，+1 探测器",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "forceVisRebuild": true,
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "LV_PROBE_CARRIER",
+              "Name": "Quirk Affinity Black Ops: Active Probe",
+              "Details": "降低隐身与 ECM 护盾单位的效能",
+              "Icon": "uixSvgIcon_status_ECM-ghost"
+            },
+            "statisticData": {
+              "statName": "LV_PROBE_CARRIER",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "LV_ECM_SHIELD",
+              "Name": "Quirk Affinity Black Ops: Increased ECM Shield",
+              "Details": "占位填充文本",
+              "Icon": "uixSvgIcon_status_ECM-missileDef"
+            },
+            "statisticData": {
+              "statName": "LV_ECM_SHIELD",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

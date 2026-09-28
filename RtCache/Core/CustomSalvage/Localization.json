@@ -1,0 +1,81 @@
+[
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.TITLE",
+    "Localization": {
+      "CULTURE_EN_US": "Limit of 1 Unique 'Mech of a given type.",
+      "CULTURE_ZH_CN": "每种独特机甲限 1 台.",
+      "CULTURE_RU_RU": "Ограничение: не более 1 уникального меха"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.HEADER",
+    "Localization": {
+      "CULTURE_EN_US": "<i>\"Hey, Boss! I ran the numbers and we don't have any space techs to maintain several of these hotrods. We used the parts to build a generic variant instead.\"</i>",
+      "CULTURE_ZH_CN": "<i>\"嘿，老大！我算了一下，我们没有足够的太空技师来维护这几台炫酷玩意儿。我们就用这些部件造了一个通用变体。\"</i>",
+      "CULTURE_RU_RU": "<i>««Эй, босс! Я тут подсчитал, у нас не хватит техов, чтобы обслуживать несколько таких монстров. Ребята повозились и из этих частей сваяли для вас стандартный вариант.»»</i>"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.REMOVED.PARTS",
+    "Localization": {
+      "CULTURE_EN_US": "- Removed {0} parts of {1} chassis.",
+      "CULTURE_ZH_CN": "- 已移除 {1} 底盘的 {0} 个部件.",
+      "CULTURE_RU_RU": "- Частей {1} удалено: {0}."
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.REMOVED.CHASSIS",
+    "Localization": {
+      "CULTURE_EN_US": "- Removed {0} of {1} chassis.",
+      "CULTURE_ZH_CN": "- 已移除 {1} 底盘的 {0}. ",
+      "CULTURE_RU_RU": "- Удалено: {0} {1}."
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.REPLACED.PARTS",
+    "Localization": {
+      "CULTURE_EN_US": "- Converted {0} parts to parts of {1}.",
+      "CULTURE_ZH_CN": "- 已将 {0} 个部件转换为 {1} 的部件.",
+      "CULTURE_RU_RU": "- Частей переделано в части от {1}: {0}"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.REPLACED.CHASSIS",
+    "Localization": {
+      "CULTURE_EN_US": "- Converted {0} chassis to {1} chassis.",
+      "CULTURE_ZH_CN": "- 已将 {0} 底盘转换为 {1} 底盘.",
+      "CULTURE_RU_RU": "- {0} переделан в {1}."
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.REPLACED.CHASSIS_TO_PARTS",
+    "Localization": {
+      "CULTURE_EN_US": "- Converted {0} chassis to parts.",
+      "CULTURE_ZH_CN": "- 已将 {0} 底盘转换为部件.",
+      "CULTURE_RU_RU": "- {0} переделан в части."
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.BLOCKED.ASSEMBLY",
+    "Localization": {
+      "CULTURE_EN_US": "<i>\"Hey, Boss! I ran the numbers and we don't have any space techs to maintain several of these hotrods, so I am just gonna ignore those orders.\"</i>\n\nAssembly of mech <b>{0}</b> has been cancelled.",
+      "CULTURE_ZH_CN": "<i>\"嘿，老大！我算了一下，我们没有足够的太空技师来维护这几台炫酷玩意儿，所以我就当那些订单没下了。\"</i>\n\n机甲 <b>{0}</b> 的组装已被取消。"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CS.UNITS_REPLACED.BLOCKED.ACQUIRE",
+    "Localization": {
+      "CULTURE_EN_US": "<i>\"Hey, Boss! I ran the numbers and we don't have any space techs to maintain several of these hotrods, so I am just gonna ignore those orders.\"</i>\n\nMech <b>{0}</b> has been convert to mech parts.",
+      "CULTURE_ZH_CN": "<i>\"嘿，老大！我算了一下，我们没有足够的太空技师来维护这几台炫酷玩意儿，所以我就当那些订单没下了。\"</i>\n\n机甲 <b>{0}</b> 已被拆解为机甲部件。"
+    }
+  }
+]

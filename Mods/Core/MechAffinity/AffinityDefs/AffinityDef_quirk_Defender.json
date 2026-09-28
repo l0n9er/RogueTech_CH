@@ -1,0 +1,47 @@
+{
+  "id": "AffinityDef_quirk_Defender",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_IndustrialTSM",
+      "Quirk_Protomech_Resilient"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "防御者",
+        "decription": "+1 胆识",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Guts",
+              "Name": "Quirk Affinity Defender: Increased Guts",
+              "Details": "提升胆识技能",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "Guts",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

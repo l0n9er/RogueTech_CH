@@ -1,0 +1,163 @@
+{
+  "id": "AffinityDef_fixed_Swordmaster",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_HandHeld_Melee_ChiKatana",
+      "Unique_Actuator_Cutlass_Prototype",
+      "Unique_Weapon_Sword_Templar",
+      "Lootable_HandHeld_Melee_VibroSword_1tons",
+      "Lootable_HandHeld_Melee_Sword_1tons",
+      "Lootable_HandHeld_Melee_VibroSword_2tons",
+      "Lootable_HandHeld_Melee_Sword_2tons",
+      "Lootable_HandHeld_Melee_VibroSword_3tons",
+      "Lootable_HandHeld_Melee_Sword_3tons",
+      "Lootable_HandHeld_Melee_VibroSword_4tons",
+      "Lootable_HandHeld_Melee_Sword_4tons",
+      "Lootable_HandHeld_Melee_VibroSword_5tons",
+      "Lootable_HandHeld_Melee_Sword_5tons",
+      "Lootable_HandHeld_Melee_VibroSword_6tons",
+      "Lootable_HandHeld_Melee_Sword_6tons",
+      "Lootable_HandHeld_Melee_VibroSword_7tons",
+      "Lootable_HandHeld_Melee_Sword_7tons",
+      "Lootable_HandHeld_Melee_VibroSword_8tons",
+      "Lootable_HandHeld_Melee_Sword_8tons",
+      "Lootable_HandHeld_Melee_VibroSword_9tons",
+      "Lootable_HandHeld_Melee_Sword_9tons",
+      "Lootable_HandHeld_Melee_VibroSword_10tons",
+      "Lootable_HandHeld_Melee_Sword_10tons",
+      "Lootable_HandHeld_Melee_VibroSword_11tons",
+      "Lootable_HandHeld_Melee_Sword_11tons",
+      "Lootable_HandHeld_Melee_VibroSword_12tons",
+      "Lootable_HandHeld_Melee_Sword_12tons",
+      "Lootable_HandHeld_Melee_VibroSword_13tons",
+      "Lootable_HandHeld_Melee_Sword_13tons",
+      "Lootable_HandHeld_Melee_VibroSword_14tons",
+      "Lootable_HandHeld_Melee_Sword_14tons",
+      "Lootable_HandHeld_Melee_VibroSword_15tons",
+      "Lootable_HandHeld_Melee_Sword_15tons",
+      "Default_HandHeld_Melee_VibroSword_1tons",
+      "Default_HandHeld_Melee_Sword_1tons",
+      "Default_HandHeld_Melee_VibroSword_2tons",
+      "Default_HandHeld_Melee_Sword_2tons",
+      "Default_HandHeld_Melee_VibroSword_3tons",
+      "Default_HandHeld_Melee_Sword_3tons",
+      "Default_HandHeld_Melee_VibroSword_4tons",
+      "Default_HandHeld_Melee_Sword_4tons",
+      "Default_HandHeld_Melee_VibroSword_5tons",
+      "Default_HandHeld_Melee_Sword_5tons",
+      "Default_HandHeld_Melee_VibroSword_6tons",
+      "Default_HandHeld_Melee_Sword_6tons",
+      "Default_HandHeld_Melee_VibroSword_7tons",
+      "Default_HandHeld_Melee_Sword_7tons",
+      "Default_HandHeld_Melee_VibroSword_8tons",
+      "Default_HandHeld_Melee_Sword_8tons",
+      "Default_HandHeld_Melee_VibroSword_9tons",
+      "Default_HandHeld_Melee_Sword_9tons",
+      "Default_HandHeld_Melee_VibroSword_10tons",
+      "Default_HandHeld_Melee_Sword_10tons",
+      "Default_HandHeld_Melee_VibroSword_11tons",
+      "Default_HandHeld_Melee_Sword_11tons",
+      "Default_HandHeld_Melee_VibroSword_12tons",
+      "Default_HandHeld_Melee_Sword_12tons",
+      "Default_HandHeld_Melee_VibroSword_13tons",
+      "Default_HandHeld_Melee_Sword_13tons",
+      "Default_HandHeld_Melee_VibroSword_14tons",
+      "Default_HandHeld_Melee_Sword_14tons",
+      "Default_HandHeld_Melee_VibroSword_15tons",
+      "Default_HandHeld_Melee_Sword_15tons",
+      "Unique_HandHeld_Melee_Vibrosword_Large",
+      "Unique_HandHeld_Melee_EnergySword",
+      "Unique_Gear_Actuator_Arm_Upper_Shielded",
+      "Unique_HandHeld_Melee_VibroBlade"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 120,
+        "levelName": "剑术大师",
+        "decription": "物理武器：+1 精度，+5% 伤害与稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Damage_Mod",
+              "Name": "Fixed Affinity Swordmaster: Increased Physical Weapon Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Stability_Mod",
+              "Name": "Fixed Affinity Swordmaster: Increased Physical Weapon Stability Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Accuracy_Weapon",
+              "Name": "Fixed Affinity Swordmaster: Improved Physical Weapon Hit Chance",
+              "Details": "近战武器精度修正",
+              "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

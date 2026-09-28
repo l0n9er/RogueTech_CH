@@ -1,0 +1,197 @@
+{
+  "id": "AffinityDef_chassis_Agile",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "ANAT_25",
+      "BaileyCar_27",
+      "GMCVandura_27",
+      "Bandit_50",
+      "Bearcat_35",
+      "Blizzard_25",
+      "Cizin_45",
+      "Eldingar_50",
+      "Gabriel_5",
+      "Gallant_70",
+      "Harasser_25",
+      "Falcon_50",
+      "gundambase_55",
+      "HeavyAPC_20",
+      "JESCarrier_50",
+      "Manteuffel_70",
+      "MHI_35",
+      "Roadrunner-ul_30",
+      "urbanmech-squad_120",
+      "Stiletto-ul_30",
+      "Myrmidon_40",
+      "Neiro_40",
+      "Plainsman_35",
+      "Quaestor_30",
+      "Saladin_35",
+      "Scapha_40",
+      "Scimitar_35",
+      "Seax_20",
+      "ShanShi_30",
+      "Skalpel_40",
+      "ThangTa_10",
+      "Tufana_35",
+      "Tyr_45",
+      "Fireball_20",
+      "Winterhawk_20",
+      "Yama_65",
+      "Snake_45",
+      "stinger_20",
+      "arion_35",
+      "stingeriic_20",
+      "ostroc_60",
+      "ostwar_65",
+      "VonRohrs_65",
+      "ostrocmkii_60",
+      "blacklanner_55",
+      "banshee_95",
+      "marauderiic_85",
+      "pouncer_40",
+      "talos_50",
+      "talos-QS_50",
+      "spider_30",
+      "spideriic_30",
+      "venom_35",
+      "flea-ul_30",
+      "flea_20",
+      "mite_40",
+      "corgi-ul_20",
+      "corgi-ul_40",
+      "DragonX_70",
+      "dragon_60",
+      "dragon_65",
+      "dragonii_65",
+      "granddragon_60",
+      "granddragon_65",
+      "Dart_25",
+      "bushwacker_55",
+      "bushwacker-QS_55",
+      "Gauntlet_55",
+      "Skinwalker_55",
+      "stormcrow_55",
+      "ryokenii_75",
+      "sunspider_70",
+      "adder_35",
+      "Raptor_25",
+      "Jinggau_65",
+      "StagII_45",
+      "Stag_45",
+      "Koshi_25",
+      "TBT-QS_50",
+      "hellhound_50",
+      "Goliath_80",
+      "Sirocco_95",
+      "barghest_70",
+      "ryokeniiixp_55",
+      "tarantula_25",
+      "stalkingspider_50",
+      "stalkingspider2_45",
+      "spartan_80",
+      "excalibur_70",
+      "scourge_65",
+      "bee_35",
+      "antlion_45",
+      "corvis_40",
+      "omnicorvis_50",
+      "crimsonlangur_50",
+      "daikyu_70",
+      "longshot_35",
+      "morrigan_35",
+      "porcupine_20",
+      "revenant_30",
+      "rhino_50",
+      "rhinois_60",
+      "shrikequad_50",
+      "spatha_60",
+      "tessen_50",
+      "thunderbird_55",
+      "arana_40",
+      "tolva_40",
+      "ursus_50",
+      "ursusii_50",
+      "viper_vpr_35",
+      "apollon_30",
+      "sheepdog_40",
+      "wisp_40"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "vehiclechassisdef_REGULATOR_ARROW"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "灵活",
+        "decription": "+1 防御，+1 近战防御",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Agile_Defense",
+              "Name": "Chassis Affinity Agile: Reduced Hit Chance Against",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "ToHitThisActor",
+              "operation": "Float_Add",
+              "modValue": "1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Agile_MeleeDefense",
+              "Name": "Chassis Affinity Agile: Reduced Melee Hit Chance Against",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "ToHitThisActor",
+              "operation": "Float_Add",
+              "modValue": "1",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponSubType": "Melee"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

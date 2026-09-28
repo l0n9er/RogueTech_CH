@@ -1,0 +1,47 @@
+{
+  "id": "AffinityDef_quirk_Supercooled_Laser",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_ImprovedCoolingJacket_Laser"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "过冷激光",
+        "decription": "激光：-10% 产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-FCS_AC21",
+              "Name": "Quirk Affinity Supercooled Laser: Decreased Laser Heat Generated",
+              "Details": "激光武器 -10% 热量。",
+              "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Laser"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

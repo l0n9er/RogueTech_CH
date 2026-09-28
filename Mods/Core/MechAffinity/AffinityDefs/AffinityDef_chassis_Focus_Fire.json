@@ -1,0 +1,133 @@
+{
+  "id": "AffinityDef_chassis_Focus_Fire",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "YuHuang_90",
+      "emperor_90",
+      "madcatmkii_95",
+      "bombard_50",
+      "argus_60",
+      "blackjack_55",
+      "O-Bakemono_80",
+      "Crossbow_60",
+      "CrossbowOmni_65",
+      "jagermech_65",
+      "jagermechiicjm6_65",
+      "jagermechiicjm7_100",
+      "jagermechiii_65",
+      "jagermechjm7_70",
+      "toyama_75",
+      "commando_35",
+      "blackjack_45",
+      "blackjackomni_50",
+      "Galahad_60",
+      "Galahad_50",
+      "GlassSpider_60",
+      "riflemaniic_65",
+      "riflemanii_80",
+      "riflemaniii_90",
+      "rifleman_50",
+      "rifleman-QS_50",
+      "rifleman_60",
+      "wolfman_55",
+      "Mhacha_60",
+      "Lynx_55",
+      "Perseus_75",
+      "doloire_80",
+      "riflemanii_90",
+      "riflemaniia_80",
+      "enforceriii_50",
+      "blackheart_70",
+      "gunslinger_85",
+      "eidolon_55",
+      "fennec_55",
+      "gallant_70",
+      "lobo_40",
+      "luweibing_85",
+      "masauwu_75",
+      "onslaught_75",
+      "paladin_60",
+      "penthesilea_75",
+      "rookassault_100",
+      "suncobra_55",
+      "tempest_65",
+      "trooperbtm_55",
+      "vandal_65",
+      "wardog_75",
+      "starhawk_70",
+      "smilodon_110",
+      "quest_60",
+      "barrage_75",
+      "neutron_100",
+      "heilian_170"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "集中火力",
+        "decription": "臂载武器 +1 精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_FocusFire_LA",
+              "Name": "Chassis Affinity Focus Fire: Improved Left Arm Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "LeftArm.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_FocusFire_RA",
+              "Name": "Chassis Affinity Focus Fire: Improved Right Arm Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "RightArm.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

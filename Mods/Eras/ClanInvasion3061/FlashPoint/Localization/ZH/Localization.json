@@ -1,0 +1,1874 @@
+[
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-1N.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-1N.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-1N.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Developed by Team Banzai as the big brother of the highly successful Hatchetman, the Axman was designed exclusively to be a 'Mech killer. The Axman was also intended as a symbol of solidarity throughout the Federated Commonwealth by using components that were produced in Davion, Steiner, and even former Liao space.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>",
+        "CULTURE_ZH_CN": "斧兵由班宰小队研发，是极为成功的刽子手的大哥，专门被设计为机甲杀手。斧兵还被用作整个联邦共同体团结的象征——它的部件分别产自达维昂、施泰纳乃至前廖氏领地。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.07</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-1X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-1X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-1X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An early prototype of the Axman, the AXM-1X paved the road for the large investments into the project by the AFFC that eventually led to its large success. Besides its large hatchet it mounts a Autocannon/10, a Large Laser and two Medium Lasers. It also used a standard size engine and single heat sinks, making it quite inferior to many production run Axmans.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>",
+        "CULTURE_ZH_CN": "作为斧兵的早期原型，AXM-1X为AFFC对该项目的大笔投资铺平了道路，最终带来了它的巨大成功。除了一把大斧，它还装有一门自动炮/10、一门大型激光器和两门中型激光器。它还采用标准尺寸引擎和单重散热器，使其远逊于多数量产型斧兵。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.07</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-2N.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-2N.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-2N.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 2N variant of the Axman, introduced in the late 3040s, has been called a mistake by some and a stroke of genius by others. The 2N carries two LRM-15 launchers in place of the massive Autocannon/20 as the autocannon often jammed on early models. While this changes the 'Mech's role from a city fighter to a long-range bombardment 'Mech, it also allows the Axman to be a support 'Mech that can defend itself with its massive Hatchet at ranges where the LRMs are ineffective if an enemy closes.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>",
+        "CULTURE_ZH_CN": "斧兵的2N改型于3040年代末推出，有人称其为错误，也有人称之为神来之笔。由于早期型号的自动炮经常卡壳，2N以两具LRM-15发射器取代了庞大的自动炮/20。这虽然把该机甲的角色从城市战士变为远程轰炸机甲，但也让斧兵成为一台能自保的支援机甲——当敌人逼近、LRM失效时，它可以靠那把巨斧自我防卫。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.09</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-2R.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-2R.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-2R.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A short range brawler variant of the Axman, the AXM-2R is often run as the follow-up unit after other Axman models punched through most of an enemy's armor. Its short range loadout of two Artemis IV-enabled SRM-6 launchers, two Medium Pulser Lasers and a single Large Pulser Laser can deliver quite the punch.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>",
+        "CULTURE_ZH_CN": "作为斧兵的近距近战改型，AXM-2R常在其他斧兵型号打穿敌方大部分装甲之后作为后续单位投入。它那套由两具带阿尔忒弥斯IV的SRM-6发射器、两门中型脉冲激光器和一门大型脉冲激光器构成的近距载荷，打击力相当可观。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.09</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-3S.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-3S.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman",
+        "CULTURE_ZH_CN": "刀斧手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_axman_AXM-3S.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Furillo manufactured 3S introduced in 3057 removes the XL Engine of the 1N and 2N variants and replaces it with a Light Fusion Engine. This exclusively Lyran variant of the Axman is armed with a massive LB-X Autocannon/20, which allows it to fire either solid rounds or cluster rounds that act like a 'Mech sized shotgun. The 'Mech also carries three ER Medium Lasers for close combat and a Guardian ECM Suite, which defends against enemy electronic warfare equipment.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>",
+        "CULTURE_ZH_CN": "这台由富里洛制造、3057年推出的3S，拆掉了1N与2N改型的XL引擎，换成一具轻型聚变引擎。这款莱兰专属的斧兵改型武装为一门巨大的LB-X自动炮/20，可发射实心弹或集束弹，效果如同机甲尺寸的霰弹枪。该机甲还携带三门增程中型激光器用于近战，以及一套守卫者ECM套件，用于防御敌方电子战装备。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.09</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-20.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-20.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-20.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Designed in 2719 during the last days of the Star League, the Crab was built as a medium-weight raider and guerrilla fighter for the Star League Defense Force. Although lacking hand actuators or jump jets, it possessed good overland speed and its all-energy weapons payload was suitable for long-range missions without the prospect for resupply.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>",
+        "CULTURE_ZH_CN": "螃蟹于2719年、星盟最后的日子里设计，是星盟防卫部队的中量级袭扰与游击战斗机甲。虽然没有手部驱动器或跳跃推进器，它拥有良好的地面速度，且全能量武器载荷使其适合在无从补给的情况下执行远程任务。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27-EC.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27-EC.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27-EC.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An early clan Mech dating from the days of Operation Klondike, the Crab CRB-27-EC was an upgrade of the CRB-27 that replaced the weapons with Early Clan variants. It would be discontinued and forgotten as modern clan spec weapons entered production.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "作为可追溯到克朗代克行动时期的一种早期氏族机甲，螃蟹CRB-27-EC是CRB-27的升级版，把武器换成了早期氏族变体。随着现代氏族规格武器投产，它被停产并逐渐被遗忘。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab 27s fulfill an oft overlooked role, that of a skirmisher with firepower. Wielding strong energy weapons, the Crab delivers a punch at nearly all ranges, with no ammunition constraints. The blend of firepower, heat efficiency, and speed make the Crab the perfect 'Mech to raid enemy positions.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "螃蟹27履行着一个常被忽视的角色：带火力的游击手。凭借强力的能量武器，螃蟹几乎在所有射程上都能打出打击，且不受弹药限制。火力、热效率与速度的结合，使螃蟹成为袭扰敌方阵地的完美机甲。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27b.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27b.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27b.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A simple upgrade utilized by the SLDF Royals concurrently with the original Crab, the 27b replaces the heat sinks with double-strength models and the Lasers with Extended Range variants.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "这是SLDF皇家部队与原版螃蟹同期使用的一次简单升级，27b把散热器换成双倍强度型号，激光器换成增程型号。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27sl.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27sl.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-27sl.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A simple upgrade utilized by the SLDF Royals concurrently with the original Crab, the 27sl changes the weapons payload to pulse variants.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "这是SLDF皇家部队与原版螃蟹同期使用的一次简单升级，27sl把武器载荷换成脉冲型号。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.06</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-30.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-30.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-30.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab 30s are a complete overhaul of the old Crab design, upgrading its electronics, engine and weapons to the latest standards.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "螃蟹30是对老旧螃蟹设计的彻底翻新，把电子设备、引擎与武器升级到最新标准。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-C.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-C.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-C.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The CRB-C Crab is a minor update of the design modified to include a C3 Slave Unit. Introduced by the Draconis Combine in 3056 this Crab makes space for the C3 unit by removing the medium laser.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "CRB-C螃蟹是该设计的小幅更新版，加装了一套C3从属系统。它由龙尼斯联合体于3056年推出，通过拆除中型激光器为C3单元腾出空间。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-FL.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-FL.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-FL.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Based on the Crab that Judith Faber piloted during the Battle of Tukkayyid, this model named Florentine, this variant is a virtual mini-King Crab mounting an Ultra AC/5 in each arm supported by a left-torso mounted LRM-5 and a right-torso mounted Medium Laser. Carrying one ton of LRM missiles and three of Ultra Autocannon rounds, the Florentine's weapon loadout is made possible through use of a 250 XL Engine and an Endo Steel frame.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "该型号名为“佛罗伦萨”，基于朱迪思·法贝尔在图卡伊德战役中驾驶的螃蟹。它实际上是一台迷你帝王蟹，双臂各装一门超速AC/5，由左躯干的LRM-5和右躯干的中型激光器支援。它携带一吨LRM导弹和三吨超速自动炮弹，之所以能装下这套武器，得益于250 XL引擎与内层钢框架。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.06</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-S.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-S.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab",
+        "CULTURE_ZH_CN": "螃蟹"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_crab_CRB-S.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Repurposed by a Goliath Scorpion Seeker who recovered it from a lost Brian Cache, this CRB-27b has undergone an extensive restoration effort. Sporting Clan tech weapons, augmented by a targeting computer and an active probe; this Crab aids the Seeker in their search for Star League relics. Surprisingly, the design mounts jump jets – enough to leap 150 metres at a time- an unusual addition to the Crab. Intended to aid in exploration work, they have surprised many opponents in combat or a circle of equals, helping to contribute to the Seeker's many victories.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.08</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "这台CRB-27b由一位从失落布莱恩储藏库中寻回它的蝎狮氏族探寻者重新启用，并经过大规模修复。它装备氏族科技武器，辅以一台瞄准计算机和一个主动探测器；这台螃蟹协助探寻者搜寻星盟遗物。令人意外的是，该设计装了跳跃推进器——足以一次跃出150米——这对螃蟹而言是异乎寻常的加装。它们本意是辅助勘探工作，却在战斗或同齐圆环中让许多对手措手不及，为探寻者的诸多胜利立下功劳。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.08</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-HQ.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-HQ.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-HQ.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The most notable of all Cyclops variants, introduced in 2750, fits the 'Mech with a Collapsible Command Module strapped to its rear torso, allowing a fully operational headquarters bunker to be set up in fifteen minutes. In order to make room for the module the Autocannon/20 and its ammunition was removed from this variant. Irreparable damages suffered during the Succession Wars means less than half of those Cyclopses with a working B-2000 have an operable command module.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+        "CULTURE_ZH_CN": "作为所有独眼巨人改型中最著名的一款，它于2750年推出，在后躯干绑上一台可折叠指挥模块，能在十五分钟内搭建起一座完整运作的指挥部掩体。为给该模块腾出空间，这一改型拆掉了自动炮/20及其弹药。继承战争期间遭受的不可修复损伤，意味着装有可用B-2000的独眼巨人中，不到一半还保有可运转的指挥模块。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.14</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-HQ2.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-HQ2.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-HQ2.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A refit of the original CP-10-HQ that replaces two heat sinks with two extra tons of ammunition. This refit is very uncommon, only seeing use at a few select battle fields where it was a last ditch effort to have even the command 'Mechs engage in prolonged battles, thus needing the extra ammunition.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+        "CULTURE_ZH_CN": "这是原版CP-10-HQ的一次改装，用两吨额外弹药替换两具散热器。该改装非常罕见，只在少数几处战场上使用过——那是最后的无奈之举，为的是让连指挥机甲也投入持久战，因此需要额外弹药。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.14</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-Q.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-Q.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-Q.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops 10-Qs are strong support units. Lacking the close in weapons and command suite of the 10-Z variant, this model instead capitalizes on a longer range weapon configuration and added armor. The protection and expanded missile racks make the 10-Q a significant threat at range in the right hands.\n\n<b><color=#e62e00>Quirk: Cowl</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "独眼巨人10-Q是强力的支援单位。它没有10-Z改型的近距武器与指挥套件，改而以一套更远程的武器配置和增加的装甲取胜。防护与扩充的导弹架使10-Q在行家手中成为远程上的重大威胁。\n\n\n<b><color=#e62e00>特质: 罩壳</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-WDR.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-WDR.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-WDR.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A custom variant of the Cyclops CP-10-Q, fielded by Wolf's Dragoons and their affiliated Mercnary outfits. Replacing almost all of the equipment with Clan tech, the 'Mech primarily save use as a defensive AMS platform as the Wolf's Dragoons did not consider the 'Mech of much battleworth.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>",
+        "CULTURE_ZH_CN": "这是独眼巨人CP-10-Q的定制改型，由狼族龙骑兵及其附属雇佣兵部队使用。它把几乎所有装备换成氏族科技，但该机甲主要被当作防御性AMS平台使用，因为狼族龙骑兵并不认为这台机甲有多少战斗价值。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.22</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-Z.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-Z.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-Z.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops 10-Zs use their imposing presence and unique communications equipment to control the battlefield. While the 10-Z carries a lethal array of close range weaponry, its primary role is command and control, bolstering friendly units with its specialized battle computer.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+        "CULTURE_ZH_CN": "独眼巨人10-Z凭借其威压般的存在感与独特的通讯设备掌控战场。虽然10-Z携带致命的近距离武器阵列，其主要角色仍是指挥与控制，用专门的战斗计算机增强友军单位。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.14</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-ZW.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-ZW.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-10-ZW.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An attempt by Wolf's Dragoons to make the CP-10-Z more useful in battle. Upgrading most of its weaponry with ER or Clan versions, the main weapon is a side torso mounted UAC/10 and two Artemis IV enabled LRM-10 launchers.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>",
+        "CULTURE_ZH_CN": "这是狼族龙骑兵为使CP-10-Z在战斗中更有用所做的一次尝试。它把大部分武器升级为增程或氏族版本，主武器是侧躯干的一门UAC/10与两具带阿尔忒弥斯IV的LRM-10发射器。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.22</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-A-DC.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-A-DC.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-A-DC.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Cyclops is one of the Capellan Confederation's preferred 'Mechs to install Dual Cockpits. This standard refit installs the Dual Cockpit on a CP-11-A, removing one ton of gauss rifle ammunition.\n\n<b><color=#e62e00>Quirk: Cowl</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "独眼巨人是卡佩兰联邦偏爱的双座座舱安装平台之一。这一标准改装在CP-11-A上安装双座座舱，拆掉一吨磁轨炮弹药。\n\n\n<b><color=#e62e00>特质: 罩壳</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A common modification of the Cyclops that uses some rediscovered Star League technology, the 11-A was introduced in 3045 and replaces the massive Autocannon/20 for a Zeus Slingshot Gauss Rifle with two tons of ammo. Although doing slightly less damage it has a much larger effective range.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+        "CULTURE_ZH_CN": "作为独眼巨人常见的一项改装，11-A使用了部分重新发现的星盟科技，于3045年推出，把那门庞大的自动炮/20换成一门宙斯弹弓磁轨炮配两吨弹药。虽然伤害略低，其有效射程大得多。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.14</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-C.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-C.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-C.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 11-C is similar to the 11-A in that they carry an almost identical weapons payload. Built in 3050 the only difference is that the 11-C has removed the LRM-10 launcher and replaced it with a C3 Computer, which allows it to share targeting data and coordinate C3 lances. An additional two tons of armor have been added to the design as well. This makes the 11-C a highly effective sniper and command 'Mech.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "11-C与11-A相似，两者武器载荷几乎相同。11-C造于3050年，唯一区别在于它拆掉了LRM-10发射器，换上一台C3计算机，使其能共享瞄准数据并协调C3分队。该设计还额外加装了两吨装甲。这使11-C成为高效的狙击与指挥机甲。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-G.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-G.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-G.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A full redesign of the Cyclops, the 11-G was built by Grumium Creations for the Second Star League Defense Force, Com Guards and Free Rasalhague Republic. Debuting in 3058 it redesigns the chassis to use Endo Steel construction and also replaces the standard armor with fifteen tons of Ferro-Fibrous armor. For long range combat it retains the Gauss Rifle and LRM-10 missile launcher minus one ton of missile reloads, while the arm-mounted medium lasers and center-torso SRM launcher were also upgraded to ER Medium Lasers and a Streak SRM-4 launcher. All ammunition for the weapons was also shifted to the right-side torso and uses CASE to protect itself from complete destruction in the event of an ammunition explosion.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "作为独眼巨人的全新设计，11-G由格鲁缪姆创意为第二星盟防卫部队、康卫队与自由拉萨尔哈格共和国建造。它于3058年首次亮相，底盘改用内层钢构造，并以十五吨铁纤装甲替换标准装甲。远程作战方面，它保留磁轨炮和LRM-10导弹发射器（少一吨导弹备用弹），同时把臂装中型激光器与中央躯干SRM发射器升级为增程中型激光器和一具连发SRM-4发射器。所有武器弹药也移到右侧躯干，并使用CASE以防弹药爆炸时整机尽毁。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-P.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-P.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-11-P.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This version of the Cyclops was improved by using an Endo Steel frame. As a result the variant is able to mount a SRM 4 in the center torso, a LRM-5 along with Guardian ECM in the left torso, 2 AC/5's in the right torso, and 2 Medium Lasers in each arm. Rounding up the design is 14 tons of Ferro-Fibrous armor.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "这一版独眼巨人通过采用内层钢框架得到改进。因此该改型得以在中央躯干装一具SRM 4，左躯干装一具LRM-5和守卫者ECM，右躯干装2门AC/5，双臂各2门中型激光器。该设计另有14吨铁纤装甲收尾。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-12-K.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-12-K.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-12-K.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 12-K variant of the Cyclops takes the 'Mech to the logical conclusion based on equipment available to the DCMS. Built by Grumium and introduced in 3059, the 'Mech is armed with an Ultra Autocannon/10 for close to intermediate range combat. In place of the LRM launcher it carries an MRM-20 launcher, which compliments the Autocannon's range profile, while retaining two ER medium lasers and a Streak SRM-4 for for close ranges. The 'Mech is also armored with fourteen and a half tons of armor.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "独眼巨人的12-K改型基于DCMS可获得的装备，把这台机甲推向合乎逻辑的终点。它由格鲁缪姆建造并于3059年推出，武装为一门超速自动炮/10，负责近至中距作战。它以一具MRM-20发射器取代LRM发射器，与自动炮的射程曲线相配，同时保留两门增程中型激光器和一具连发SRM-4用于近距离。该机甲还披挂十四吨半装甲。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-20-C3.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-20-C3.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops",
+        "CULTURE_ZH_CN": "独眼巨人"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_cyclops_CP-20-C3.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "There is little knowledge of the source of this variant of the Cyclops. Similar in base design to CP-10 and CP-11 models mounting C3 units, the design also incorporates an XL engine on an Endo Steel frame, allowing both more armor and weapons to be mounted.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "关于这台独眼巨人改型的来源所知甚少。它的基础设计与装有C3单元的CP-10和CP-11型号相似，同时在内层钢框架上采用XL引擎，使其能装下更多装甲与武器。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3F.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3F.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3F.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman 3Fs are the king of the close quarters fight. Packing high impact short range weaponry, and a unique melee Hatchet, any target is in danger when close to the Hatchetman. The Hatchetmans lighter armor requires it to rely on maneuvering and ambushing to stay in the fight.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "斧手3F是近距离近战之王。它携带高冲击力的短程武器和一把独特的近战斧，任何目标一旦靠近斧手都处于危险之中。斧手较薄的装甲要求它依靠机动与埋伏来留在战斗中。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3FR.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3FR.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3FR.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A field refit of the -3F, converting the mech to use double heat sinks and downgrades one of the medium lasers to a small so CASE protection can be added.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "这是-3F的战地改装，把机甲改用双重散热器，并把其中一门中型激光器降级为小型，以便加装CASE防护。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3F_austin.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3F_austin.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3F_austin.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Originally assigned to the NAIS Training Cadres, it was selected as a NAIS technology test bed before being assigned to Fox's Teeth member Austin Vorster in the lead-up to the War of 3039. Mounting a NAIS Mk. 1 LB 10-X Autocannon prototype saved enough weight to add a third medium laser, moving all three to the left arm to avoid inhibiting use of the 'Mech's hatchet.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.03</color></b>",
+        "CULTURE_ZH_CN": "它最初被分配给NAIS训练干部，后被选为NAIS技术试验台，随后在3039年战争前夕分配给狐牙成员奥斯汀·沃斯特。装上一门NAIS Mk. 1 LB 10-X自动炮原型省下的重量足以加装第三门中型激光器，三门全部移到左臂，以免妨碍该机甲使用斧头。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.03</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3NH.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3NH.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3NH.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This unusual variant of the Hatchmen does not actually bring a hatchet. Instead it improves the cooling of the 'Mech. This was however never an intended design, but rather a field refit of 'Mechs that were waiting for replacement Hatchets after losing theirs.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "这一不寻常的斧手改型其实并没有带斧头。它改为改善机甲散热。不过这从不是有意设计的改型，而是对那把斧头丢失后等待替换的机甲所做的战地改装。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-3X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Hatchetman -3X further indexes on the stock design's close combat role, adding more armor and replacing its AC/10 for an array of SRMs, Lasers, and Anti-Personnel weapons. This is the ultimate melee brawler.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "斧手-3X进一步强化了原设计的近战角色，增加装甲，并把它的AC/10换成一批SRM、激光器和反人员武器。这是终极的近战蛮牛。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-4S.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-4S.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-4S.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An upgrade to the -3 series of Hatchetmen, using Endo Steel structure to allow adding both more armor and two more tons of ammo. The 'Mech is also converted to use double heat sinks.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "这是对斧手-3系列的升级，采用内层钢结构，得以同时增加装甲和两吨弹药。该机甲也改用双重散热器。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-5S.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-5S.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-5S.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Dismissed by some upon its introduction as little more than a rapidly overheating deathtrap, the HCT-5S is nonetheless one of the most efficient city and close quarters fighting 'mechs ever produced. Its LB-X AC/10 and three Medium Pulse Lasers give it destructive alpha strike potential at close range, and the Hatchetman's natural melee abilities give it a useful fallback when at risk of overheating.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.03</color></b>",
+        "CULTURE_ZH_CN": "HCT-5S推出时曾被一些人贬为不过是个很快就会过热的死亡陷阱，但它仍是有史以来最高效的城市与近距战斗机甲之一。它的LB-X AC/10与三门中型脉冲激光器赋予其近距离毁灭性的全弹齐射潜力，而斧手天生的近战能力在有过热风险时提供了有用的退路。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.03</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-5S_austin.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-5S_austin.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman",
+        "CULTURE_ZH_CN": "刽子手"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_hatchetman_HCT-5S_austin.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Receiving a 3050s era 5S model after the Fox's Teeth faced Clan Jade Falcon on Wotan in 3051, Austin Vorster had it refitted in the lead-up to the FedCom Civil War. Almost identical to the 6S created by the Lyran Alliance in the conflict, the only significant difference is the placement of all ER Medium Lasers in the 'Mech's left arm.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>",
+        "CULTURE_ZH_CN": "在狐牙于3051年在沃坦对上翡翠猎鹰氏族之后，奥斯汀·沃斯特收到了一台3050年代的5S型号，并在联邦共同体内战前夕对它进行了改装。它与莱兰联盟在那场冲突中打造的6S几乎完全相同，唯一显著差别是所有增程中型激光器都装在机甲左臂。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus",
+        "CULTURE_ZH_CN": "圣甲虫"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus",
+        "CULTURE_ZH_CN": "圣甲虫"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Scarabus is equipped with a close range weapons arsenal, with the primary weapons being a pair of medium lasers backed up by a pair of small lasers. To defend itself when the 'Mech gets into extremely close range combat, the Scarabus carries a two ton hatchet, which allows it to cleave into an enemy's armor. The 'Mech is also equipped with a Guardian ECM suite to protect itself from advanced electronic detection equipment when scouting against an enemy, and mounts a TAG to designate targets for Arrow IV artillery attacks.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "圣甲虫装备一套近距离武器库，主武器是一对中型激光器，由一对小型激光器提供后援。为了在机甲陷入极近距离战斗时自保，圣甲虫携带一把两吨重的斧头，能劈开敌方装甲。该机甲还装备一套守卫者ECM套件，在对敌侦察时保护自己免遭先进电子探测设备的发现，并装有一具TAG，为箭矢IV炮击标定目标。\n\n\n<b><color=#e62e00>特质: 坚固</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9B.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus",
+        "CULTURE_ZH_CN": "圣甲虫"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9B.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus",
+        "CULTURE_ZH_CN": "圣甲虫"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9B.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 9B variant of the Scarabus is built using Triple Strength Myomer to enhance the 'Mech's speed and strength once in the proper heat range. This enhances the 'Mech's top speed to a maximum of 183.6 km/h and also increases the sheer amount of damage that the Scarabus is capable of doing with its hatchet. The only other change is the conversion to use double heat sinks for improved cooling, something that can be seen as counterproductive for the added TSM.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "圣甲虫的9B改型采用三倍强度肌纤维建造，在达到合适热量区间后提升机甲的速度与力量。这将其最高速度提升到183.6公里/小时，也大幅增加圣甲虫用斧头所能造成的伤害。唯一的其他改动是改用双重散热器以改善散热——考虑到新增的TSM，这可以看作是反效果。\n\n\n<b><color=#e62e00>特质: 坚固</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9T.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus",
+        "CULTURE_ZH_CN": "圣甲虫"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9T.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus",
+        "CULTURE_ZH_CN": "圣甲虫"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_scarabus_SCB-9T.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 9T variant of the Scarabus is built using Triple Strength Myomer to enhance the 'Mech's speed and strength once in the proper heat range. This enhances the 'Mech's top speed to a maximum of 183.6 km/h and also increases the sheer amount of damage that the Scarabus is capable of doing with its hatchet. Otherwise, the 'Mech has not had any significant changes made.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "圣甲虫的9T改型采用三倍强度肌纤维建造，在达到合适热量区间后提升机甲的速度与力量。这将其最高速度提升到183.6公里/小时，也大幅增加圣甲虫用斧头所能造成的伤害。除此之外，该机甲没有做任何重大改动。\n\n\n<b><color=#e62e00>特质: 坚固</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_screamer_lam_SCR-1X-LAM.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Screamer LAM",
+        "CULTURE_ZH_CN": "尖啸者 LAM"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_screamer_lam_SCR-1X-LAM.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Screamer",
+        "CULTURE_ZH_CN": "尖啸者"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.chassisdef_screamer_lam_SCR-1X-LAM.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Screamer LAM is a prototype Land-Air 'Mech which was produced during the reign of Emperor Stefan Amaris when his forces were occupying the Terran Hegemony in late Star League Era. The design shares the same tonnage as the Shadow Hawk LAM. The 'Mech was built as a harasser and quick strike machine. Unlike the original prototype LAM, the Screamer was able to transition into a fighter, 'Mech, or AirMech modes.\n\n<b><color=#e62e00>Quirk: Land Air Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>",
+        "CULTURE_ZH_CN": "尖啸者LAM是一种原型陆空机甲，在星盟时代末期、斯特凡·阿马里斯皇帝麾下部队占领地球霸权期间生产。该设计与影子鹰LAM吨位相同。它被建造为袭扰与快速打击机器。与最初的原型LAM不同，尖啸者能转换为战机、机甲或空甲模式。\n\n\n<b><color=#e62e00>特质: 陆空机甲</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.07</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-1N.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-1N",
+        "CULTURE_ZH_CN": "刀斧手 AXM-1N"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-1N.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-1N",
+        "CULTURE_ZH_CN": "刀斧手 AXM-1N"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-1N.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Developed by Team Banzai as the big brother of the highly successful Hatchetman, the Axman was designed exclusively to be a 'Mech killer. The Axman was also intended as a symbol of solidarity throughout the Federated Commonwealth by using components that were produced in Davion, Steiner, and even former Liao space.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>",
+        "CULTURE_ZH_CN": "斧兵由班宰小队研发，是极为成功的刽子手的大哥，专门被设计为机甲杀手。斧兵还被用作整个联邦共同体团结的象征——它的部件分别产自达维昂、施泰纳乃至前廖氏领地。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.07</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-1X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-1X",
+        "CULTURE_ZH_CN": "刀斧手 AXM-1X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-1X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-1X",
+        "CULTURE_ZH_CN": "刀斧手 AXM-1X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-1X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An early prototype of the Axman, the AXM-1X paved the road for the large investments into the project by the AFFC that eventually led to its large success. Besides its large hatchet it mounts a Autocannon/10, a Large Laser and two Medium Lasers. It also used a standard size engine and single heat sinks, making it quite inferior to many production run Axmans.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>",
+        "CULTURE_ZH_CN": "作为斧兵的早期原型，AXM-1X为AFFC对该项目的大笔投资铺平了道路，最终带来了它的巨大成功。除了一把大斧，它还装有一门自动炮/10、一门大型激光器和两门中型激光器。它还采用标准尺寸引擎和单重散热器，使其远逊于多数量产型斧兵。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.07</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-2N.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-2N",
+        "CULTURE_ZH_CN": "刀斧手 AXM-2N"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-2N.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-2N",
+        "CULTURE_ZH_CN": "刀斧手 AXM-2N"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-2N.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 2N variant of the Axman, introduced in the late 3040s, has been called a mistake by some and a stroke of genius by others. The 2N carries two LRM-15 launchers in place of the massive Autocannon/20 as the autocannon often jammed on early models. While this changes the 'Mech's role from a city fighter to a long-range bombardment 'Mech, it also allows the Axman to be a support 'Mech that can defend itself with its massive Hatchet at ranges where the LRMs are ineffective if an enemy closes.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>",
+        "CULTURE_ZH_CN": "斧兵的2N改型于3040年代末推出，有人称其为错误，也有人称之为神来之笔。由于早期型号的自动炮经常卡壳，2N以两具LRM-15发射器取代了庞大的自动炮/20。这虽然把该机甲的角色从城市战士变为远程轰炸机甲，但也让斧兵成为一台能自保的支援机甲——当敌人逼近、LRM失效时，它可以靠那把巨斧自我防卫。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.09</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-2R.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-2R",
+        "CULTURE_ZH_CN": "刀斧手 AXM-2R"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-2R.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-2R",
+        "CULTURE_ZH_CN": "刀斧手 AXM-2R"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-2R.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A short range brawler variant of the Axman, the AXM-2R is often run as the follow-up unit after other Axman models punched through most of an enemy's armor. Its short range loadout of two Artemis IV-enabled SRM-6 launchers, two Medium Pulser Lasers and a single Large Pulser Laser can deliver quite the punch.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>",
+        "CULTURE_ZH_CN": "作为斧兵的近距近战改型，AXM-2R常在其他斧兵型号打穿敌方大部分装甲之后作为后续单位投入。它那套由两具带阿尔忒弥斯IV的SRM-6发射器、两门中型脉冲激光器和一门大型脉冲激光器构成的近距载荷，打击力相当可观。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.09</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-3S.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-3S",
+        "CULTURE_ZH_CN": "刀斧手 AXM-3S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-3S.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Axman AXM-3S",
+        "CULTURE_ZH_CN": "刀斧手 AXM-3S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_axman_AXM-3S.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Furillo manufactured 3S introduced in 3057 removes the XL Engine of the 1N and 2N variants and replaces it with a Light Fusion Engine. This exclusively Lyran variant of the Axman is armed with a massive LB-X Autocannon/20, which allows it to fire either solid rounds or cluster rounds that act like a 'Mech sized shotgun. The 'Mech also carries three ER Medium Lasers for close combat and a Guardian ECM Suite, which defends against enemy electronic warfare equipment.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.09</color></b>",
+        "CULTURE_ZH_CN": "这台由富里洛制造、3057年推出的3S，拆掉了1N与2N改型的XL引擎，换成一具轻型聚变引擎。这款莱兰专属的斧兵改型武装为一门巨大的LB-X自动炮/20，可发射实心弹或集束弹，效果如同机甲尺寸的霰弹枪。该机甲还携带三门增程中型激光器用于近战，以及一套守卫者ECM套件，用于防御敌方电子战装备。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.09</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-20.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-20",
+        "CULTURE_ZH_CN": "螃蟹CRB-20"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-20.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-20",
+        "CULTURE_ZH_CN": "螃蟹CRB-20"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-20.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Designed in 2719 during the last days of the Star League, the Crab was built as a medium-weight raider and guerrilla fighter for the Star League Defense Force. Although lacking hand actuators or jump jets, it possessed good overland speed and its all-energy weapons payload was suitable for long-range missions without the prospect for resupply.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>",
+        "CULTURE_ZH_CN": "螃蟹于2719年、星盟最后的日子里设计，是星盟防卫部队的中量级袭扰与游击战斗机甲。虽然没有手部驱动器或跳跃推进器，它拥有良好的地面速度，且全能量武器载荷使其适合在无从补给的情况下执行远程任务。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27-EC.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-27-EC",
+        "CULTURE_ZH_CN": "螃蟹CRB-27-EC"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27-EC.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-27-EC",
+        "CULTURE_ZH_CN": "螃蟹CRB-27-EC"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27-EC.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An early clan Mech dating from the days of Operation Klondike, the Crab CRB-27-EC was an upgrade of the CRB-27 that replaced the weapons with Early Clan variants. It would be discontinued and forgotten as modern clan spec weapons entered production.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "作为可追溯到克朗代克行动时期的一种早期氏族机甲，螃蟹CRB-27-EC是CRB-27的升级版，把武器换成了早期氏族变体。随着现代氏族规格武器投产，它被停产并逐渐被遗忘。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-27",
+        "CULTURE_ZH_CN": "螃蟹CRB-27"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-27",
+        "CULTURE_ZH_CN": "螃蟹CRB-27"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab 27s fulfill an oft overlooked role, that of a skirmisher with firepower. Wielding strong energy weapons, the Crab delivers a punch at nearly all ranges, with no ammunition constraints. The blend of firepower, heat efficiency, and speed make the Crab the perfect 'Mech to raid enemy positions.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "螃蟹27履行着一个常被忽视的角色：带火力的游击手。凭借强力的能量武器，螃蟹几乎在所有射程上都能打出打击，且不受弹药限制。火力、热效率与速度的结合，使螃蟹成为袭扰敌方阵地的完美机甲。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27b.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-27b",
+        "CULTURE_ZH_CN": "螃蟹CRB-27b"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27b.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-27b",
+        "CULTURE_ZH_CN": "螃蟹CRB-27b"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27b.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A simple upgrade utilized by the SLDF Royals concurrently with the original Crab, the 27b replaces the heat sinks with double-strength models and the Lasers with Extended Range variants.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "这是SLDF皇家部队与原版螃蟹同期使用的一次简单升级，27b把散热器换成双倍强度型号，激光器换成增程型号。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27sl.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-27sl",
+        "CULTURE_ZH_CN": "螃蟹CRB-27sl"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27sl.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-27sl",
+        "CULTURE_ZH_CN": "螃蟹CRB-27sl"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-27sl.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A simple upgrade utilized by the SLDF Royals concurrently with the original Crab, the 27sl changes the weapons payload to pulse variants.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "这是SLDF皇家部队与原版螃蟹同期使用的一次简单升级，27sl把武器载荷换成脉冲型号。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.06</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-30.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-30",
+        "CULTURE_ZH_CN": "螃蟹CRB-30"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-30.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-30",
+        "CULTURE_ZH_CN": "螃蟹CRB-30"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-30.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab 30s are a complete overhaul of the old Crab design, upgrading its electronics, engine and weapons to the latest standards.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "螃蟹30是对老旧螃蟹设计的彻底翻新，把电子设备、引擎与武器升级到最新标准。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-C.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-C",
+        "CULTURE_ZH_CN": "螃蟹CRB-C"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-C.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-C",
+        "CULTURE_ZH_CN": "螃蟹CRB-C"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-C.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The CRB-C Crab is a minor update of the design modified to include a C3 Slave Unit. Introduced by the Draconis Combine in 3056 this Crab makes space for the C3 unit by removing the medium laser.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "CRB-C螃蟹是该设计的小幅更新版，加装了一套C3从属系统。它由龙尼斯联合体于3056年推出，通过拆除中型激光器为C3单元腾出空间。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-FL.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-FL 'Florentine'",
+        "CULTURE_ZH_CN": "螃蟹CRB-FL 'Florentine'"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-FL.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-FL",
+        "CULTURE_ZH_CN": "螃蟹CRB-FL"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-FL.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Based on the Crab that Judith Faber piloted during the Battle of Tukkayyid, this model named Florentine, this variant is a virtual mini-King Crab mounting an Ultra AC/5 in each arm supported by a left-torso mounted LRM-5 and a right-torso mounted Medium Laser. Carrying one ton of LRM missiles and three of Ultra Autocannon rounds, the Florentine's weapon loadout is made possible through use of a 250 XL Engine and an Endo Steel frame.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.06</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "该型号名为“佛罗伦萨”，基于朱迪思·法贝尔在图卡伊德战役中驾驶的螃蟹。它实际上是一台迷你帝王蟹，双臂各装一门超速AC/5，由左躯干的LRM-5和右躯干的中型激光器支援。它携带一吨LRM导弹和三吨超速自动炮弹，之所以能装下这套武器，得益于250 XL引擎与内层钢框架。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.06</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-S.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-S",
+        "CULTURE_ZH_CN": "螃蟹CRB-S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-S.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Crab CRB-S",
+        "CULTURE_ZH_CN": "螃蟹CRB-S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_crab_CRB-S.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Repurposed by a Goliath Scorpion Seeker who recovered it from a lost Brian Cache, this CRB-27b has undergone an extensive restoration effort. Sporting Clan tech weapons, augmented by a targeting computer and an active probe; this Crab aids the Seeker in their search for Star League relics. Surprisingly, the design mounts jump jets – enough to leap 150 metres at a time- an unusual addition to the Crab. Intended to aid in exploration work, they have surprised many opponents in combat or a circle of equals, helping to contribute to the Seeker's many victories.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.08</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Lower, Right Lower</color>",
+        "CULTURE_ZH_CN": "这台CRB-27b由一位从失落布莱恩储藏库中寻回它的蝎狮氏族探寻者重新启用，并经过大规模修复。它装备氏族科技武器，辅以一台瞄准计算机和一个主动探测器；这台螃蟹协助探寻者搜寻星盟遗物。令人意外的是，该设计装了跳跃推进器——足以一次跃出150米——这对螃蟹而言是异乎寻常的加装。它们本意是辅助勘探工作，却在战斗或同齐圆环中让许多对手措手不及，为探寻者的诸多胜利立下功劳。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.08</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下, 右下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-HQ.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-HQ",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-HQ"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-HQ.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-HQ",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-HQ"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-HQ.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The most notable of all Cyclops variants, introduced in 2750, fits the 'Mech with a Collapsible Command Module strapped to its rear torso, allowing a fully operational headquarters bunker to be set up in fifteen minutes. In order to make room for the module the Autocannon/20 and its ammunition was removed from this variant. Irreparable damages suffered during the Succession Wars means less than half of those Cyclopses with a working B-2000 have an operable command module.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+        "CULTURE_ZH_CN": "作为所有独眼巨人改型中最著名的一款，它于2750年推出，在后躯干绑上一台可折叠指挥模块，能在十五分钟内搭建起一座完整运作的指挥部掩体。为给该模块腾出空间，这一改型拆掉了自动炮/20及其弹药。继承战争期间遭受的不可修复损伤，意味着装有可用B-2000的独眼巨人中，不到一半还保有可运转的指挥模块。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.14</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-HQ2.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-HQ2",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-HQ2"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-HQ2.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-HQ2",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-HQ2"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-HQ2.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A refit of the original CP-10-HQ that replaces two heat sinks with two extra tons of ammunition. This refit is very uncommon, only seeing use at a few select battle fields where it was a last ditch effort to have even the command 'Mechs engage in prolonged battles, thus needing the extra ammunition.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+        "CULTURE_ZH_CN": "这是原版CP-10-HQ的一次改装，用两吨额外弹药替换两具散热器。该改装非常罕见，只在少数几处战场上使用过——那是最后的无奈之举，为的是让连指挥机甲也投入持久战，因此需要额外弹药。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.14</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-Q.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-Q",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-Q"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-Q.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-Q",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-Q"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-Q.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops 10-Qs are strong support units. Lacking the close in weapons and command suite of the 10-Z variant, this model instead capitalizes on a longer range weapon configuration and added armor. The protection and expanded missile racks make the 10-Q a significant threat at range in the right hands.\n\n<b><color=#e62e00>Quirk: Cowl</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "独眼巨人10-Q是强力的支援单位。它没有10-Z改型的近距武器与指挥套件，改而以一套更远程的武器配置和增加的装甲取胜。防护与扩充的导弹架使10-Q在行家手中成为远程上的重大威胁。\n\n\n<b><color=#e62e00>特质: 罩壳</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-WDR.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-WDR",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-WDR"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-WDR.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-WDR",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-WDR"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-WDR.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A custom variant of the Cyclops CP-10-Q, fielded by Wolf's Dragoons and their affiliated Mercnary outfits. Replacing almost all of the equipment with Clan tech, the 'Mech primarily save use as a defensive AMS platform as the Wolf's Dragoons did not consider the 'Mech of much battleworth.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>",
+        "CULTURE_ZH_CN": "这是独眼巨人CP-10-Q的定制改型，由狼族龙骑兵及其附属雇佣兵部队使用。它把几乎所有装备换成氏族科技，但该机甲主要被当作防御性AMS平台使用，因为狼族龙骑兵并不认为这台机甲有多少战斗价值。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.22</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-Z.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-Z",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-Z"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-Z.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-Z",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-Z"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-Z.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops 10-Zs use their imposing presence and unique communications equipment to control the battlefield. While the 10-Z carries a lethal array of close range weaponry, its primary role is command and control, bolstering friendly units with its specialized battle computer.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+        "CULTURE_ZH_CN": "独眼巨人10-Z凭借其威压般的存在感与独特的通讯设备掌控战场。虽然10-Z携带致命的近距离武器阵列，其主要角色仍是指挥与控制，用专门的战斗计算机增强友军单位。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.14</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-ZW.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-ZW",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-ZW"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-ZW.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-10-ZW",
+        "CULTURE_ZH_CN": "独眼巨人 CP-10-ZW"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-10-ZW.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An attempt by Wolf's Dragoons to make the CP-10-Z more useful in battle. Upgrading most of its weaponry with ER or Clan versions, the main weapon is a side torso mounted UAC/10 and two Artemis IV enabled LRM-10 launchers.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.22</color></b>",
+        "CULTURE_ZH_CN": "这是狼族龙骑兵为使CP-10-Z在战斗中更有用所做的一次尝试。它把大部分武器升级为增程或氏族版本，主武器是侧躯干的一门UAC/10与两具带阿尔忒弥斯IV的LRM-10发射器。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.22</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-A-DC.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-A-DC",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-A-DC"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-A-DC.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-A-DC",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-A-DC"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-A-DC.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Cyclops is one of the Capellan Confederation's preferred 'Mechs to install Dual Cockpits. This standard refit installs the Dual Cockpit on a CP-11-A, removing one ton of gauss rifle ammunition.\n\n<b><color=#e62e00>Quirk: Cowl</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "独眼巨人是卡佩兰联邦偏爱的双座座舱安装平台之一。这一标准改装在CP-11-A上安装双座座舱，拆掉一吨磁轨炮弹药。\n\n\n<b><color=#e62e00>特质: 罩壳</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-A",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-A",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A common modification of the Cyclops that uses some rediscovered Star League technology, the 11-A was introduced in 3045 and replaces the massive Autocannon/20 for a Zeus Slingshot Gauss Rifle with two tons of ammo. Although doing slightly less damage it has a much larger effective range.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+        "CULTURE_ZH_CN": "作为独眼巨人常见的一项改装，11-A使用了部分重新发现的星盟科技，于3045年推出，把那门庞大的自动炮/20换成一门宙斯弹弓磁轨炮配两吨弹药。虽然伤害略低，其有效射程大得多。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.14</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-C.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-C",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-C"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-C.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-C",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-C"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-C.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 11-C is similar to the 11-A in that they carry an almost identical weapons payload. Built in 3050 the only difference is that the 11-C has removed the LRM-10 launcher and replaced it with a C3 Computer, which allows it to share targeting data and coordinate C3 lances. An additional two tons of armor have been added to the design as well. This makes the 11-C a highly effective sniper and command 'Mech.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "11-C与11-A相似，两者武器载荷几乎相同。11-C造于3050年，唯一区别在于它拆掉了LRM-10发射器，换上一台C3计算机，使其能共享瞄准数据并协调C3分队。该设计还额外加装了两吨装甲。这使11-C成为高效的狙击与指挥机甲。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-G.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-G",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-G"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-G.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-G",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-G"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-G.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A full redesign of the Cyclops, the 11-G was built by Grumium Creations for the Second Star League Defense Force, Com Guards and Free Rasalhague Republic. Debuting in 3058 it redesigns the chassis to use Endo Steel construction and also replaces the standard armor with fifteen tons of Ferro-Fibrous armor. For long range combat it retains the Gauss Rifle and LRM-10 missile launcher minus one ton of missile reloads, while the arm-mounted medium lasers and center-torso SRM launcher were also upgraded to ER Medium Lasers and a Streak SRM-4 launcher. All ammunition for the weapons was also shifted to the right-side torso and uses CASE to protect itself from complete destruction in the event of an ammunition explosion.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "作为独眼巨人的全新设计，11-G由格鲁缪姆创意为第二星盟防卫部队、康卫队与自由拉萨尔哈格共和国建造。它于3058年首次亮相，底盘改用内层钢构造，并以十五吨铁纤装甲替换标准装甲。远程作战方面，它保留磁轨炮和LRM-10导弹发射器（少一吨导弹备用弹），同时把臂装中型激光器与中央躯干SRM发射器升级为增程中型激光器和一具连发SRM-4发射器。所有武器弹药也移到右侧躯干，并使用CASE以防弹药爆炸时整机尽毁。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-P.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-P",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-P"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-P.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-11-P",
+        "CULTURE_ZH_CN": "独眼巨人 CP-11-P"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-11-P.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This version of the Cyclops was improved by using an Endo Steel frame. As a result the variant is able to mount a SRM 4 in the center torso, a LRM-5 along with Guardian ECM in the left torso, 2 AC/5's in the right torso, and 2 Medium Lasers in each arm. Rounding up the design is 14 tons of Ferro-Fibrous armor.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "这一版独眼巨人通过采用内层钢框架得到改进。因此该改型得以在中央躯干装一具SRM 4，左躯干装一具LRM-5和守卫者ECM，右躯干装2门AC/5，双臂各2门中型激光器。该设计另有14吨铁纤装甲收尾。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-12-K.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-12-K",
+        "CULTURE_ZH_CN": "独眼巨人 CP-12-K"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-12-K.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-12-K",
+        "CULTURE_ZH_CN": "独眼巨人 CP-12-K"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-12-K.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 12-K variant of the Cyclops takes the 'Mech to the logical conclusion based on equipment available to the DCMS. Built by Grumium and introduced in 3059, the 'Mech is armed with an Ultra Autocannon/10 for close to intermediate range combat. In place of the LRM launcher it carries an MRM-20 launcher, which compliments the Autocannon's range profile, while retaining two ER medium lasers and a Streak SRM-4 for for close ranges. The 'Mech is also armored with fourteen and a half tons of armor.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "独眼巨人的12-K改型基于DCMS可获得的装备，把这台机甲推向合乎逻辑的终点。它由格鲁缪姆建造并于3059年推出，武装为一门超速自动炮/10，负责近至中距作战。它以一具MRM-20发射器取代LRM发射器，与自动炮的射程曲线相配，同时保留两门增程中型激光器和一具连发SRM-4用于近距离。该机甲还披挂十四吨半装甲。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-20-C3.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-20-C3",
+        "CULTURE_ZH_CN": "独眼巨人 CP-20-C3"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-20-C3.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Cyclops CP-20-C3",
+        "CULTURE_ZH_CN": "独眼巨人 CP-20-C3"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_cyclops_CP-20-C3.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "There is little knowledge of the source of this variant of the Cyclops. Similar in base design to CP-10 and CP-11 models mounting C3 units, the design also incorporates an XL engine on an Endo Steel frame, allowing both more armor and weapons to be mounted.\n\n<b><color=#e62e00>Quirk: Battle Computer B2000</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.16</color></b>",
+        "CULTURE_ZH_CN": "关于这台独眼巨人改型的来源所知甚少。它的基础设计与装有C3单元的CP-10和CP-11型号相似，同时在内层钢框架上采用XL引擎，使其能装下更多装甲与武器。\n\n\n<b><color=#e62e00>特质: 战斗计算机 B2000</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.16</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3F.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3F",
+        "CULTURE_ZH_CN": "刽子手 HCT-3F"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3F.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3F",
+        "CULTURE_ZH_CN": "刽子手 HCT-3F"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3F.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman 3Fs are the king of the close quarters fight. Packing high impact short range weaponry, and a unique melee Hatchet, any target is in danger when close to the Hatchetman. The Hatchetmans lighter armor requires it to rely on maneuvering and ambushing to stay in the fight.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "斧手3F是近距离近战之王。它携带高冲击力的短程武器和一把独特的近战斧，任何目标一旦靠近斧手都处于危险之中。斧手较薄的装甲要求它依靠机动与埋伏来留在战斗中。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3FR.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3FR",
+        "CULTURE_ZH_CN": "刽子手 HCT-3FR"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3FR.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3FR",
+        "CULTURE_ZH_CN": "刽子手 HCT-3FR"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3FR.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A field refit of the -3F, converting the mech to use double heat sinks and downgrades one of the medium lasers to a small so CASE protection can be added.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "这是-3F的战地改装，把机甲改用双重散热器，并把其中一门中型激光器降级为小型，以便加装CASE防护。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3F_austin.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3F 'Austin'",
+        "CULTURE_ZH_CN": "刽子手 HCT-3F 'Austin'"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3F_austin.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3F",
+        "CULTURE_ZH_CN": "刽子手 HCT-3F"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3F_austin.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Originally assigned to the NAIS Training Cadres, it was selected as a NAIS technology test bed before being assigned to Fox's Teeth member Austin Vorster in the lead-up to the War of 3039. Mounting a NAIS Mk. 1 LB 10-X Autocannon prototype saved enough weight to add a third medium laser, moving all three to the left arm to avoid inhibiting use of the 'Mech's hatchet.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.03</color></b>",
+        "CULTURE_ZH_CN": "它最初被分配给NAIS训练干部，后被选为NAIS技术试验台，随后在3039年战争前夕分配给狐牙成员奥斯汀·沃斯特。装上一门NAIS Mk. 1 LB 10-X自动炮原型省下的重量足以加装第三门中型激光器，三门全部移到左臂，以免妨碍该机甲使用斧头。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.03</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3NH.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3NH",
+        "CULTURE_ZH_CN": "刽子手 HCT-3NH"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3NH.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3NH",
+        "CULTURE_ZH_CN": "刽子手 HCT-3NH"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3NH.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This unusual variant of the Hatchmen does not actually bring a hatchet. Instead it improves the cooling of the 'Mech. This was however never an intended design, but rather a field refit of 'Mechs that were waiting for replacement Hatchets after losing theirs.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "这一不寻常的斧手改型其实并没有带斧头。它改为改善机甲散热。不过这从不是有意设计的改型，而是对那把斧头丢失后等待替换的机甲所做的战地改装。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3X",
+        "CULTURE_ZH_CN": "刽子手 HCT-3X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-3X",
+        "CULTURE_ZH_CN": "刽子手 HCT-3X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-3X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Hatchetman -3X further indexes on the stock design's close combat role, adding more armor and replacing its AC/10 for an array of SRMs, Lasers, and Anti-Personnel weapons. This is the ultimate melee brawler.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "斧手-3X进一步强化了原设计的近战角色，增加装甲，并把它的AC/10换成一批SRM、激光器和反人员武器。这是终极的近战蛮牛。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-4S.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-4S",
+        "CULTURE_ZH_CN": "刽子手 HCT-4S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-4S.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-4S",
+        "CULTURE_ZH_CN": "刽子手 HCT-4S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-4S.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An upgrade to the -3 series of Hatchetmen, using Endo Steel structure to allow adding both more armor and two more tons of ammo. The 'Mech is also converted to use double heat sinks.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "这是对斧手-3系列的升级，采用内层钢结构，得以同时增加装甲和两吨弹药。该机甲也改用双重散热器。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-5S.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-5S",
+        "CULTURE_ZH_CN": "刽子手 HCT-5S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-5S.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-5S",
+        "CULTURE_ZH_CN": "刽子手 HCT-5S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-5S.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Dismissed by some upon its introduction as little more than a rapidly overheating deathtrap, the HCT-5S is nonetheless one of the most efficient city and close quarters fighting 'mechs ever produced. Its LB-X AC/10 and three Medium Pulse Lasers give it destructive alpha strike potential at close range, and the Hatchetman's natural melee abilities give it a useful fallback when at risk of overheating.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.03</color></b>",
+        "CULTURE_ZH_CN": "HCT-5S推出时曾被一些人贬为不过是个很快就会过热的死亡陷阱，但它仍是有史以来最高效的城市与近距战斗机甲之一。它的LB-X AC/10与三门中型脉冲激光器赋予其近距离毁灭性的全弹齐射潜力，而斧手天生的近战能力在有过热风险时提供了有用的退路。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.03</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-5S_austin.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-5S 'Austin'",
+        "CULTURE_ZH_CN": "刽子手 HCT-5S 'Austin'"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-5S_austin.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hatchetman HCT-5S",
+        "CULTURE_ZH_CN": "刽子手 HCT-5S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_hatchetman_HCT-5S_austin.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Receiving a 3050s era 5S model after the Fox's Teeth faced Clan Jade Falcon on Wotan in 3051, Austin Vorster had it refitted in the lead-up to the FedCom Civil War. Almost identical to the 6S created by the Lyran Alliance in the conflict, the only significant difference is the placement of all ER Medium Lasers in the 'Mech's left arm.\n\n<b><color=#e62e00>Quirk: Melee Actuators</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>",
+        "CULTURE_ZH_CN": "在狐牙于3051年在沃坦对上翡翠猎鹰氏族之后，奥斯汀·沃斯特收到了一台3050年代的5S型号，并在联邦共同体内战前夕对它进行了改装。它与莱兰联盟在那场冲突中打造的6S几乎完全相同，唯一显著差别是所有增程中型激光器都装在机甲左臂。\n\n\n<b><color=#e62e00>特质: 近战驱动器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus SCB-9A",
+        "CULTURE_ZH_CN": "圣甲虫 SCB-9A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus SCB-9A",
+        "CULTURE_ZH_CN": "圣甲虫 SCB-9A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Scarabus is equipped with a close range weapons arsenal, with the primary weapons being a pair of medium lasers backed up by a pair of small lasers. To defend itself when the 'Mech gets into extremely close range combat, the Scarabus carries a two ton hatchet, which allows it to cleave into an enemy's armor. The 'Mech is also equipped with a Guardian ECM suite to protect itself from advanced electronic detection equipment when scouting against an enemy, and mounts a TAG to designate targets for Arrow IV artillery attacks.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "圣甲虫装备一套近距离武器库，主武器是一对中型激光器，由一对小型激光器提供后援。为了在机甲陷入极近距离战斗时自保，圣甲虫携带一把两吨重的斧头，能劈开敌方装甲。该机甲还装备一套守卫者ECM套件，在对敌侦察时保护自己免遭先进电子探测设备的发现，并装有一具TAG，为箭矢IV炮击标定目标。\n\n\n<b><color=#e62e00>特质: 坚固</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9B.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus SCB-9B",
+        "CULTURE_ZH_CN": "圣甲虫 SCB-9B"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9B.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus SCB-9B",
+        "CULTURE_ZH_CN": "圣甲虫 SCB-9B"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9B.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 9B variant of the Scarabus is built using Triple Strength Myomer to enhance the 'Mech's speed and strength once in the proper heat range. This enhances the 'Mech's top speed to a maximum of 183.6 km/h and also increases the sheer amount of damage that the Scarabus is capable of doing with its hatchet. The only other change is the conversion to use double heat sinks for improved cooling, something that can be seen as counterproductive for the added TSM.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "圣甲虫的9B改型采用三倍强度肌纤维建造，在达到合适热量区间后提升机甲的速度与力量。这将其最高速度提升到183.6公里/小时，也大幅增加圣甲虫用斧头所能造成的伤害。唯一的其他改动是改用双重散热器以改善散热——考虑到新增的TSM，这可以看作是反效果。\n\n\n<b><color=#e62e00>特质: 坚固</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9T.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus SCB-9T",
+        "CULTURE_ZH_CN": "圣甲虫 SCB-9T"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9T.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Scarabus SCB-9T",
+        "CULTURE_ZH_CN": "圣甲虫 SCB-9T"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_scarabus_SCB-9T.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 9T variant of the Scarabus is built using Triple Strength Myomer to enhance the 'Mech's speed and strength once in the proper heat range. This enhances the 'Mech's top speed to a maximum of 183.6 km/h and also increases the sheer amount of damage that the Scarabus is capable of doing with its hatchet. Otherwise, the 'Mech has not had any significant changes made.\n\n<b><color=#e62e00>Quirk: Rugged</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>\n\n<color=#FFEF00>Arm Actuator Limit: Left Lower</color>",
+        "CULTURE_ZH_CN": "圣甲虫的9T改型采用三倍强度肌纤维建造，在达到合适热量区间后提升机甲的速度与力量。这将其最高速度提升到183.6公里/小时，也大幅增加圣甲虫用斧头所能造成的伤害。除此之外，该机甲没有做任何重大改动。\n\n\n<b><color=#e62e00>特质: 坚固</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左下</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_screamer_lam_SCR-1X-LAM.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Screamer LAM SCR-1X-LAM",
+        "CULTURE_ZH_CN": "尖啸者 LAM SCR-1X-LAM"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_screamer_lam_SCR-1X-LAM.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Screamer LAM SCR-1X-LAM",
+        "CULTURE_ZH_CN": "尖啸者 LAM SCR-1X-LAM"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Flashpoint.mechdef_screamer_lam_SCR-1X-LAM.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Screamer LAM is a prototype Land-Air 'Mech which was produced during the reign of Emperor Stefan Amaris when his forces were occupying the Terran Hegemony in late Star League Era. The design shares the same tonnage as the Shadow Hawk LAM. The 'Mech was built as a harasser and quick strike machine. Unlike the original prototype LAM, the Screamer was able to transition into a fighter, 'Mech, or AirMech modes.\n\n<b><color=#e62e00>Quirk: Land Air Mech</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.07</color></b>",
+        "CULTURE_ZH_CN": "尖啸者LAM是一种原型陆空机甲，在星盟时代末期、斯特凡·阿马里斯皇帝麾下部队占领地球霸权期间生产。该设计与影子鹰LAM吨位相同。它被建造为袭扰与快速打击机器。与最初的原型LAM不同，尖啸者能转换为战机、机甲或空甲模式。\n\n\n<b><color=#e62e00>特质: 陆空机甲</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.07</color></b>"
+      }
+    }
+]

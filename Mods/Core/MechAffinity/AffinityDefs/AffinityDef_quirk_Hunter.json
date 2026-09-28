@@ -1,0 +1,98 @@
+{
+  "id": "AffinityDef_quirk_Hunter",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_Searchlight"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "猎手",
+        "decription": "+1 高级传感器，+10% 视野范围，+5% 传感器范围",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "forceVisRebuild": true,
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "LV_PROBE_CARRIER",
+              "Name": "Quirk Affinity Hunter: Increased Advanced Sensor Strength",
+              "Details": "降低隐身与 ECM 护盾单位的效能",
+              "Icon": "uixSvgIcon_status_ECM-ghost"
+            },
+            "statisticData": {
+              "statName": "LV_ADVANCED_SENSORS",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "BAProbe",
+              "Name": "Quirk Affinity Hunter: Increased Sensor Range Multiplier",
+              "Details": "提升视野/传感器",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "SensorDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "BAP-Spotting_Gain-T1",
+              "Name": "Quirk Affinity Hunter: Increased Vision Range Multiplier",
+              "Details": "侦察距离增加 50 米。",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "SpotterDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

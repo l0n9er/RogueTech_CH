@@ -1,0 +1,100 @@
+{
+  "id": "AffinityDef_quirk_GERONIMO",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_ReinforcedLegs"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "冲啊！",
+        "decription": "\"从天而降\"：+15% 伤害与稳定伤害，-50% 自稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_DeathFromAbove_Dmg",
+              "Name": "Quirk Affinity GERONIMO: Increased DFA Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_DFA_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.15",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_DeathFromAbove_Dmg",
+              "Name": "Quirk Affinity GERONIMO: Increased DFA Stability Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_DFA_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.15",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_DeathFromAbove_DmgSlf",
+              "Name": "Quirk Affinity GERONIMO: Decreased DFA Stability Self Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_DFA_Attacker_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "0.5",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

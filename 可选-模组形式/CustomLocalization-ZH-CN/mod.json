@@ -1,0 +1,10 @@
+﻿{
+  "Name": "CustomLocalization-ZH-CN",
+  "Enabled": true,
+  "Version": "1.0.0",
+  "Description": "简体中文翻译总表（strings_zh-CN.csv 覆盖）。与游戏目录内同名文件内容一致。",
+  "Author": "local",
+  "ConflictsWith": [],
+  "DependsOn": [],
+  "Manifest": []
+}

@@ -1,0 +1,120 @@
+{
+  "id": "AffinityDef_chassis_Missile_Swarm_Platform",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "ostend_135",
+      "yari_145",
+      "serket_140",
+      "sobek_170",
+      "Karkadann_200",
+      "Singijeon_150"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "chassisdef_narayana_NRY-OC",
+          "chassisdef_sea_wolf_MCV-A"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "导弹蜂群平台",
+        "decription": "导弹：+1 忽略闪避，+1 精度，+0.1 集束度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_MissileSwarmPlatform_EvasivePipsIgnored",
+              "Name": "Chassis Affinity Missile Swarm Platform: Increased Missile Evasive Pips Ignore",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "EvasionIgnoreFilter",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_MissileSwarmPlatform_MissileAccuracy",
+              "Name": "Chassis Affinity Missile Swarm Platform: Improved Missile Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_MissileSwarmPlatform_Clustering",
+              "Name": "Chassis Affinity Missile Swarm Platform: Increased Missile Grouping Modifier",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "ClusteringModifier",
+              "operation": "Float_Add",
+              "modValue": "0.1",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

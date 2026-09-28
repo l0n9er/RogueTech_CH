@@ -1,0 +1,79 @@
+{
+  "id": "AffinityDef_fixed_Calibrated_Weapons",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Weapon_Gauss_Ultra_Quicksell",
+      "Weapon_Gauss_Hand_QSX",
+      "Weapon_Laser_REX_Micro_Quicksell",
+      "Unique_Actuator_RecoillessBallisticMount",
+      "Unique_Weapon_Artillery_Sniper_BigSteel"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 140,
+        "levelName": "校准武器",
+        "decription": "臂载武器 +1 精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_FocusFire_LA",
+              "Name": "Fixed Affinity Calibrated Weapons: Improved Left Arm Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "LeftArm.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_FocusFire_RA",
+              "Name": "Fixed Affinity Calibrated Weapons: Improved Right Arm Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "RightArm.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

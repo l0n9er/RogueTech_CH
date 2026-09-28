@@ -1,0 +1,72 @@
+{
+  "id": "AffinityDef_quirk_Camouflaged",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_OmniStealth",
+      "Quirk_BattleArmor_Ambusher"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "迷彩伪装",
+        "decription": "-20% 可见度与传感器信号",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Stealth_Signature_Decrease_Stealth",
+              "Name": "Quirk Affinity Camouflaged: Decreased Sensor Signature",
+              "Details": "信号特征状态效果。",
+              "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "statisticData": {
+              "statName": "SensorSignatureModifier",
+              "operation": "Float_Multiply",
+              "modValue": "0.8",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Stealth_Visibility_Decrease_Stealth",
+              "Name": "Quirk Affinity Camouflaged: Decreased Visual Signature",
+              "Details": "可见度状态效果。",
+              "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "statisticData": {
+              "statName": "SpottingVisibilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.8",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

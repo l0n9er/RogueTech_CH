@@ -1,0 +1,71 @@
+{
+  "id": "AffinityDef_quirk_Indomitable",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_SelfRepair"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "不屈不挠",
+        "decription": "+5% 伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Indomitable",
+              "Name": "Quirk Affinity Indomitable: Decreased Damage Taken",
+              "Details": "所有武器 +2 精度，+50% 暴击，+30% 射程，-50% 最小射程。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierAll",
+              "operation": "Float_Multiply",
+              "modValue": "0.95",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Indomitable",
+              "Name": "Quirk Affinity Indomitable: Decreased AoE Damage Taken",
+              "Details": "所有武器 +2 精度，+50% 暴击，+30% 射程，-50% 最小射程。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "CACAoEDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.95",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

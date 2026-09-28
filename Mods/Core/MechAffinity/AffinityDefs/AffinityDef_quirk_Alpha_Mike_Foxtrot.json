@@ -1,0 +1,48 @@
+{
+  "id": "AffinityDef_quirk_Alpha_Mike_Foxtrot",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_LandAirMech_Active",
+      "Quirk_LandAirMech_Disabled"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "一路顺风",
+        "decription": "跳跃后 +20% 伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_AMF",
+              "Name": "Quirk Affinity Alpha Mike Foxtrot: Increased Damage after Jumping",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "JumpingWeaponDamageModifier",
+              "operation": "Float_Add",
+              "modValue": "0.2",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

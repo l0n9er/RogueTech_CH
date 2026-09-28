@@ -1,0 +1,117 @@
+{
+  "id": "AffinityDef_chassis_Eagle_Eye",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "arctos_165",
+      "Demolisher2000_125",
+      "Obliterator_150",
+      "Storviltjeger_80"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "vehiclechassisdef_STURMFEUR_HGAUSS"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "鹰眼",
+        "decription": "高斯：+1 精度，+1 忽略闪避，+50% 暴击几率",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_EagleEye_Accuracy",
+              "Name": "Chassis Affinity Eagle Eye: Improved Gauss Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Gauss"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_EagleEye_EvasivePipsIgnored",
+              "Name": "Chassis Affinity Eagle Eye: Increased Gauss Evasive Pips Ignore",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "EvasionIgnoreFilter",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Gauss"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_EagleEye_CriticalChance",
+              "Name": "Chassis Affinity Eagle Eye: Increased Gauss Critical Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CriticalChanceMultiplier",
+              "operation": "Float_Add",
+              "modValue": "0.5",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Gauss"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

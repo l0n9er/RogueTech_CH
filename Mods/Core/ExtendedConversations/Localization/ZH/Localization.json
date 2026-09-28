@@ -1,0 +1,642 @@
+[
+    {
+      "Name": "ExtendedConversations.add_contract.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Contract Id (e.g. SimpleBattle_LastMechStanding)",
+        "CULTURE_ZH_CN": "合约ID（例如 SimpleBattle_LastMechStanding）"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.add_contract.viewLabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "with id '{value}'",
+        "CULTURE_ZH_CN": "ID 为 '{value}'"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.add_flashpoint.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "System Name",
+        "CULTURE_ZH_CN": "星系名称"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.add_flashpoint.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Flashpoint Id (e.g. fp_allianceDavion). Can be empty to select a random Flashpoint.",
+        "CULTURE_ZH_CN": "闪点ID（例如 fp_allianceDavion）。可为空以随机选择一个闪点。"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.add_flashpoint.viewLabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "with id '{value}'",
+        "CULTURE_ZH_CN": "ID 为 '{value}'"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.add_mech.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Add Mech",
+        "CULTURE_ZH_CN": "添加机甲"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.add_mech.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Add mech",
+        "CULTURE_ZH_CN": "添加机甲"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.add_mech.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This add a mech to the player's mechbay. If there is no space in the mechbay then it will ask the user how to handle the situation like vanilla.",
+        "CULTURE_ZH_CN": "这会向玩家的机甲库添加一台机甲。若机甲库没有空间，它会像原版一样询问用户如何处理。"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.add_mech.viewLabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "'{value}' into the mechbay",
+        "CULTURE_ZH_CN": "'{value}' 放入机甲库"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_float.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Company Stats",
+        "CULTURE_ZH_CN": "连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_float.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Less Than",
+        "CULTURE_ZH_CN": "小于"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_float.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "WARNING: BattleTech always stores floats as integers so this will not work well",
+        "CULTURE_ZH_CN": "警告：BattleTech 始终把浮点数存为整数，所以这不会很好用"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_float.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Check if company stat",
+        "CULTURE_ZH_CN": "检查连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_int.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Company Stats",
+        "CULTURE_ZH_CN": "连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_int.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Less Than",
+        "CULTURE_ZH_CN": "小于"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_int.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Check if company stat",
+        "CULTURE_ZH_CN": "检查连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_string.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Evaluate BattleTech String",
+        "CULTURE_ZH_CN": "评估 BattleTech 字符串"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_string.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Company Stats",
+        "CULTURE_ZH_CN": "连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_string.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "For string comparisons (operations 1-2), use any string value. For date comparisons (operations 3-6), format must be: yyyy (3026), yyyy-MM (3026-01), or yyyy-MM-dd (3026-01-20)",
+        "CULTURE_ZH_CN": "字符串比较（运算1至2）可使用任意字符串值。日期比较（运算3至6）格式必须为：yyyy（3026）、yyyy-MM（3026-01）或 yyyy-MM-dd（3026-01-20）"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_battletech_string.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Check if company stat",
+        "CULTURE_ZH_CN": "检查连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_days_since_date.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Less Than",
+        "CULTURE_ZH_CN": "小于"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_days_since_date.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Format must be either: yyyy (3026), yyyy-MM (3026-01) or yyyy-MM-dd (3026-01-20)",
+        "CULTURE_ZH_CN": "格式必须为：yyyy（3026）、yyyy-MM（3026-01）或 yyyy-MM-dd（3026-01-20）"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_funds.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Check if the Company funds",
+        "CULTURE_ZH_CN": "检查公司资金"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_funds.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Less Than",
+        "CULTURE_ZH_CN": "小于"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_tag_for_current_system.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Evaluate Tag for Current System",
+        "CULTURE_ZH_CN": "评估当前星系标签"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.evaluate_timeline.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Format must be either: yyyy (3026), yyyy-MM (3026-01) or yyyy-MM-dd (3026-01-20)",
+        "CULTURE_ZH_CN": "格式必须为：yyyy（3026）、yyyy-MM（3026-01）或 yyyy-MM-dd（3026-01-20）"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_float.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Get BattleTech Float",
+        "CULTURE_ZH_CN": "获取 BattleTech 浮点"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_float.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Get BattleTech Float",
+        "CULTURE_ZH_CN": "获取 BattleTech 浮点"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_float.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Company Stats",
+        "CULTURE_ZH_CN": "连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_float.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "WARNING: BattleTech always stores floats as integers so this will not work well",
+        "CULTURE_ZH_CN": "警告：BattleTech 始终把浮点数存为整数，所以这不会很好用"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_float.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "value for key '{value}'",
+        "CULTURE_ZH_CN": "键 '{value}' 的值"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_int.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Get BattleTech Int",
+        "CULTURE_ZH_CN": "获取 BattleTech 情报"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_int.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Get BattleTech Int",
+        "CULTURE_ZH_CN": "获取 BattleTech 情报"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_int.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Company Stats",
+        "CULTURE_ZH_CN": "连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_int.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "value for key '{value}'",
+        "CULTURE_ZH_CN": "键 '{value}' 的值"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_string.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Get BattleTech String",
+        "CULTURE_ZH_CN": "获取 BattleTech 字符串"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_string.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Get BattleTech String",
+        "CULTURE_ZH_CN": "获取 BattleTech 字符串"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_string.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Company Stats",
+        "CULTURE_ZH_CN": "连队数据"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_battletech_string.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "value for key '{value}'",
+        "CULTURE_ZH_CN": "键 '{value}' 的值"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_current_date.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Get Current Date",
+        "CULTURE_ZH_CN": "获取当前日期"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_current_date.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Get Current Date",
+        "CULTURE_ZH_CN": "获取当前日期"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.get_current_date.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Returns the current simulation date in yyyy-MM-dd format (e.g., 3050-01-20)",
+        "CULTURE_ZH_CN": "以 yyyy-MM-dd 格式返回当前模拟日期（例如 3050-01-20）"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.mod.Description",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Extended Conversations is a utility mod to provide more conversation conditions, actions and other functionality",
+        "CULTURE_ZH_CN": "Extended Conversations 是一个工具模组，提供更多对话条件、动作与其他功能"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.modify_funds.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Modify Funds",
+        "CULTURE_ZH_CN": "修改资金"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.modify_funds.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Modify funds",
+        "CULTURE_ZH_CN": "修改资金"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.modify_funds.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This will add or remove funds from the company",
+        "CULTURE_ZH_CN": "这会为公司增加或扣除资金"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.reset_battletech_viewscreen.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Reset BattleTech Viewscreen",
+        "CULTURE_ZH_CN": "重置BattleTech显示屏"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.reset_battletech_viewscreen.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Reset the conference room viewscreen",
+        "CULTURE_ZH_CN": "重置会议室显示屏"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.reset_battletech_viewscreen.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This action has no properties for you to set and just resets the viewscreen",
+        "CULTURE_ZH_CN": "此动作没有可供你设置的属性，只会重置显示屏"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_battletech_camera_hard_lock.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Set BattleTech Camera Hard Lock",
+        "CULTURE_ZH_CN": "设置BattleTech镜头硬锁定"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_battletech_camera_hard_lock.text",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Argo Upgrade",
+        "CULTURE_ZH_CN": "阿尔戈号升级"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_battletech_camera_hard_lock.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This will ensure only the set lock target is shown. Mainly useful for 1-on-1 conversations and having the non-main character talk but the camera stay focused on the main character.",
+        "CULTURE_ZH_CN": "这会确保只显示设定的锁定目标。主要用于一对一对话，以及让非主角说话但镜头保持聚焦在主角身上。"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_characters_visible.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Set Characters Visible",
+        "CULTURE_ZH_CN": "设置角色可见"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_characters_visible.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Set characters visible",
+        "CULTURE_ZH_CN": "设置角色可见"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_characters_visible.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This is to show or hide the crew members on the dropship, especially used for conversations",
+        "CULTURE_ZH_CN": "用于显示或隐藏空投艇上的船员，尤其用于对话场景"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_current_system.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "System Name",
+        "CULTURE_ZH_CN": "星系名称"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_current_system.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This will instantly teleport to you the system.",
+        "CULTURE_ZH_CN": "这会让你立即传送到该星系。"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.set_current_system.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "and travel time will be ignored",
+        "CULTURE_ZH_CN": "并且移动时间将被忽略"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.sideload_conversation.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Sideload Conversation",
+        "CULTURE_ZH_CN": "侧载对话"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.sideload_conversation.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Sideload conversation",
+        "CULTURE_ZH_CN": "侧载对话"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.sideload_conversation.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This will sideload a conversation into an already running conversation. Useful for having a top level conversation that loads others based on high level conditions. Important: Its recommeneded you set this action on Responses. If you set on a Prompt node then the following Response might not evaluate its condition but it will work for sideloading.",
+        "CULTURE_ZH_CN": "这会把一段对话侧面加载进一个已在运行的对话中。适用于让一个顶层对话根据高层条件加载其他对话。重要：建议把此动作设置在\"回应\"节点上。如果你设置在\"提示\"节点上，后续的\"回应\"可能不会评估其条件，但侧面加载仍会生效。"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.sideload_conversation.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "and resume the host conversation on finish",
+        "CULTURE_ZH_CN": "并在结束时恢复主对话"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.sideload_conversation.viewLabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "for conversation id {value}",
+        "CULTURE_ZH_CN": "对话 ID {value}"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.start_conversation.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This will immediately trigger a group conversation",
+        "CULTURE_ZH_CN": "这会立即触发一段群体对话"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.start_conversation.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "always in the non-FP conference room ",
+        "CULTURE_ZH_CN": "总是在非闪点会议室"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.start_conversation.viewLabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "for conversation id {value}",
+        "CULTURE_ZH_CN": "对话 ID {value}"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.take_contract.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Immediately takes a contract by ID with optional parameters for employer, target, system, map, and difficulty. Unspecified parameters will be randomly selected with intelligent defaults.",
+        "CULTURE_ZH_CN": "按ID立即承接一份合约，可选参数包括雇主、目标、星系、地图和难度。未指定的参数将用智能默认值随机选取。"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.take_contract.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "and keep conversation open",
+        "CULTURE_ZH_CN": "并保持对话开着"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.take_contract.viewLabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "with id '{value}'",
+        "CULTURE_ZH_CN": "ID 为 '{value}'"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.time_skip.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Time Skip",
+        "CULTURE_ZH_CN": "时间跳跃"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.time_skip.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Time skip",
+        "CULTURE_ZH_CN": "时间跳跃"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.time_skip.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This time skip will run the vanilla mechanics (e.g. healing, repair, monthly costs etc)",
+        "CULTURE_ZH_CN": "此时间跳跃将运行原版机制（如治疗、维修、月度开销等）"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.time_skip.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": ", the monthly cost will still be applied",
+        "CULTURE_ZH_CN": "，月度费用仍会照常扣除"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.time_skip_to_date.key",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Time Skip To Date",
+        "CULTURE_ZH_CN": "跳到指定日期"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.time_skip_to_date.label",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Time skip to date",
+        "CULTURE_ZH_CN": "跳到指定日期"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.time_skip_to_date.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This time skip will run the vanilla mechanics (e.g. healing, repair, monthly costs etc)",
+        "CULTURE_ZH_CN": "此时间跳跃将运行原版机制（如治疗、维修、月度开销等）"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.time_skip_to_date.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": ", the monthly cost will still be applied",
+        "CULTURE_ZH_CN": "，月度费用仍会照常扣除"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.trigger_event.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "If true, will ignore all requirements for this event. It may have unintended side effects. If false, if the requirements fail then no event will be triggered.",
+        "CULTURE_ZH_CN": "若为真，将忽略此事件的所有要求。它可能有意外副作用。若为假，当要求不满足时不会触发任何事件。"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.trigger_event.viewlabel",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "and requirements will be ignored",
+        "CULTURE_ZH_CN": "而要求将被忽略"
+      }
+    },
+    {
+      "Name": "ExtendedConversations.trigger_random_event.tooltip",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This action has no properties for you to set and just selects a random event to run",
+        "CULTURE_ZH_CN": "此动作没有可供你设置的属性，只会随机选择一个事件来运行"
+      }
+    }
+]

@@ -1,0 +1,133 @@
+{
+  "id": "AffinityDef_chassis_Robustness",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Aithlon_100",
+      "ironclad_100",
+      "WarthogCAS_51",
+      "loadertitan_135",
+      "urbiestator_200",
+      "GULLFAXI_SHTANK_150",
+      "Gulltoppr_190",
+      "greatturtle_100",
+      "turtleQS_50",
+      "hiisi_150"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "强健",
+        "decription": "+10% 伤害减免，+10% 暴击抗性，-5% 产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Robustness_DamageReduction",
+              "Name": "Chassis Affinity Robustness: Decreased Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierAll",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Robustness_CritsRecieved",
+              "Name": "Chassis Affinity Robustness: Decreased Receive Critical Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CriticalHitChanceReceivedMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Robustness_HeatGenerated",
+              "Name": "Chassis Affinity Robustness: Decreased Heat Generated",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.95",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Robustness_DamageReduction",
+              "Name": "Chassis Affinity Robustness: Decreased AoE Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CACAoEDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

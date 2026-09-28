@@ -1,0 +1,78 @@
+{
+  "id": "AffinityDef_quirk_Missile_Mastery",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_AccurateWeaponCategory_Missiles"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "导弹精通",
+        "decription": "导弹：+1 精度，-1 后坐力",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateMissile_Acc",
+              "Name": "Quirk Affinity Missile Mastery: Improved Missile Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateMissile_RF",
+              "Name": "Quirk Affinity Missile Mastery: Decreased Missile Recoil",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "RefireModifier",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

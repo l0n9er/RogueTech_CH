@@ -1,0 +1,24 @@
+# ---- 安装时产生的备份（体积大，且与具体机器相关）----
+backup/
+*.zhbak
+*.zhbak-settings
+
+# ---- 临时与中间产物 ----
+_bk_tmp/
+_share_test/
+_devtools_removed/
+_backup_archive/
+*.tmp
+*.bak
+*.log
+
+# ---- OS / 编辑器 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# ---- 如果误把游戏目录放进仓库（务必不要提交）----
+Mods/.modtek/
+RtCache-old/

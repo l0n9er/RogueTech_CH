@@ -1,0 +1,113 @@
+{
+  "id": "AffinityDef_chassis_iATM_Expert",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "keratos_150"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "chassisdef_arctos_ACT-5",
+          "chassisdef_nuwisha_NUW-A"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "iATM 专家",
+        "decription": "改进型 ATM：+2 精度，+1 忽略闪避，-20% 产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_iATMExport_EvasivePipsIgnored",
+              "Name": "Chassis Affinity iATM Expert: Increased Evasive Pips Ignore",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Affinity_iATMExport",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_iATMExport_Accuracy",
+              "Name": "Chassis Affinity iATM Expert: Improved Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Affinity_iATMExport",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-2.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_iATMExport_HeatGenerated",
+              "Name": "Chassis Affinity iATM Expert: Decreased Heat Generated",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Affinity_iATMExport",
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.8",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

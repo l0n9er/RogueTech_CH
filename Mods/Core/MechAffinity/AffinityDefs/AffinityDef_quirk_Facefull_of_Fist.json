@@ -1,0 +1,97 @@
+{
+  "id": "AffinityDef_quirk_Facefull_of_Fist",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_BarrelFist"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "一记正脸拳",
+        "decription": "拳击：+1 精度，+5% 伤害，+20% 稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Punch_Damage_Mod",
+              "Name": "Quirk Affinity Facefull of Fist: Increased Punch Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Punch_Stability_Mod",
+              "Name": "Quirk Affinity Facefull of Fist: Increased Punch Stability Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.2",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Accuracy_Punch",
+              "Name": "Quirk Affinity Facefull of Fist: Improved Punch Hit Chance",
+              "Details": "近战武器精度修正",
+              "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

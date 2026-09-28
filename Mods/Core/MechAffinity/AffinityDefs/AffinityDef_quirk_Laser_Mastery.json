@@ -1,0 +1,78 @@
+{
+  "id": "AffinityDef_quirk_Laser_Mastery",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_AccurateWeapon_Laser"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "激光精通",
+        "decription": "激光：+1 精度，+100% 暴击几率",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateLaserAcc",
+              "Name": "Quirk Affinity Laser Mastery: Improved Laser Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Laser"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateLaser_Crit",
+              "Name": "Quirk Affinity Laser Mastery: Increased Laser Critical Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CriticalChanceMultiplier",
+              "operation": "Float_Add",
+              "modValue": "1",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Laser"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

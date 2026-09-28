@@ -1,0 +1,46 @@
+{
+  "id": "AffinityDef_quirk_Airtrooper",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_JumpAttack",
+      "Quirk_ExperimentalVGL"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "空降兵",
+        "decription": "+15% 跳跃距离",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Airtrooper",
+              "Name": "Quirk Affinity Airtrooper: Increased Jump Distance",
+              "Details": "部分机翼系统使跳跃推进器的跳跃距离提升 30%",
+              "Icon": "uixSvgIcon_equipment_Gyro"
+            },
+            "statisticData": {
+              "statName": "JumpDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.15",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

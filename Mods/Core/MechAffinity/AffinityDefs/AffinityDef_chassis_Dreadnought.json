@@ -1,0 +1,148 @@
+{
+  "id": "AffinityDef_chassis_Dreadnought",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Hoplite_55",
+      "Lineholder_55",
+      "ecee_55",
+      "CattleMaster_25",
+      "thunderbolt_65",
+      "omen_85",
+      "dreadnought_100",
+      "Matar_110",
+      "crab_50",
+      "nightchanter_45",
+      "OmniKGC_100",
+      "ebonjaguar_65",
+      "Mackie_100",
+      "bullshark_95",
+      "hatamoto-chi_80",
+      "Corsair_95",
+      "Corsair_65",
+      "stonerhino_100",
+      "behemoth_100",
+      "zeus_80",
+      "zeusX_80",
+      "mauler_90",
+      "daboku_90",
+      "osteon_85",
+      "hyperion_125",
+      "Ostlord_80",
+      "omega_150",
+      "omega_200",
+      "omega_derelict_100",
+      "Flashman_75",
+      "Sunder_90",
+      "TDR-QS_65",
+      "VultureMkIV_60",
+      "Mothball_150",
+      "pulverizer_90",
+      "valkyrieiilam_60",
+      "ajaxlam_55",
+      "doomturtle_200",
+      "xanthos_100",
+      "kingdragon_130",
+      "cyclops_90",
+      "hecatoncheires_65",
+      "linesman_90",
+      "cadenza_80",
+      "vishnu_75",
+      "kumazemi_80",
+      "blurr_90",
+      "rikkitikkitavi_100"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "无畏战舰",
+        "decription": "+5% 伤害减免，+20% 稳定伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Dreadnought_",
+              "Name": "Chassis Affinity Dreadnought: Decreased Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierAll",
+              "operation": "Float_Multiply",
+              "modValue": "0.95",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Dreadnought_",
+              "Name": "Chassis Affinity Dreadnought: Decreased Stability Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "ReceivedInstabilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.8",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Dreadnought_",
+              "Name": "Chassis Affinity Dreadnought: Decreased AoE Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CACAoEDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.95",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

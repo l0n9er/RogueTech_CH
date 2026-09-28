@@ -1,0 +1,78 @@
+{
+  "id": "AffinityDef_quirk_Weapons_Bay_Mastery",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_AccurateWeaponCategory_BombBay"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "武器舱精通",
+        "decription": "舱室武器：+1 精度，-25% 最小射程",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateMissile_Acc",
+              "Name": "Quirk Affinity Weapons Bay Mastery: Improved InternalBombBay Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategoryID": "InternalBombBay"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateMissile_RF",
+              "Name": "Quirk Affinity Weapons Bay Mastery: Decreased InternalBombBay Min Range",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "MinRange",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategoryID": "InternalBombBay"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

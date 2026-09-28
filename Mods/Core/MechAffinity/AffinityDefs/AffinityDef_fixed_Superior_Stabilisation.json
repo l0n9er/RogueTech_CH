@@ -1,0 +1,69 @@
+{
+  "id": "AffinityDef_fixed_Superior_Stabilisation",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_Gyro_Compact_Omni",
+      "Gear_Gyro_HeavyDuty_Omni",
+      "Gear_Gyro_XXL_Omni",
+      "Unique_Gyro_CatapultIII",
+      "Gear_Gyro_Ultralight_Omni",
+      "Gear_Gyro_Omnimech",
+      "Unique_Gyro_SavageWolf",
+      "Gear_Gyro_XL_Omni",
+      "Unique_Gyro_Ultralight_Stabilized",
+      "Unique_Gyro_Omni_Ultralight_Stabilized",
+      "Gear_Gyro_XXL",
+      "Gear_Gyro_Defense_PlusPlus",
+      "Gear_Gyro_Omnimech_Quicsell",
+      "Unique_Gyro_Dreadnought",
+      "Gear_Gyro_Superheavy",
+      "Gear_Gyro_Superheavy_XL",
+      "Gear_Gyro_Superheavy_Compact",
+      "Gear_Gyro_Superheavy_HeavyDuty",
+      "Gear_Gyro_Superheavy_Omni",
+      "Gear_Gyro_Superheavy_Omni_XL",
+      "Unique_Gyro_XXL_Omni_Superheavy_WoB",
+      "Unique_Gyro_Brawler",
+      "Unique_Gyro_Artillery_Heavy",
+      "Gear_Gyro_Compact",
+      "Gear_Gyro_Superheavy_Omni_HeavyDuty"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 150,
+        "levelName": "卓越稳定",
+        "decription": "+5% 稳定伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "OmniStability",
+              "Name": "Fixed Affinity Superior Stabilisation: Decreased Stability Damage Taken",
+              "Details": "所有武器 +2 精度，+50% 暴击，+30% 射程，-50% 最小射程。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "ReceivedInstabilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.95",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

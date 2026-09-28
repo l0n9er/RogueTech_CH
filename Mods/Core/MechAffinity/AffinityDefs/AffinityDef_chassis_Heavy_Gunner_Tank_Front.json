@@ -1,0 +1,94 @@
+{
+  "id": "AffinityDef_chassis_Heavy_Gunner_Tank_Front",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "CarabidaeVTOL_30",
+      "Gladius_40",
+      "KukriVTOL_40",
+      "MainGauche_30",
+      "Pinto_30",
+      "Pisces_25",
+      "Saladin2_35",
+      "SMTankDestroyer_50",
+      "Sortek_45",
+      "Sturmblitz_75",
+      "Bulwark_85"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "vehiclechassisdef_KANGA_AC"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "重型射手（前向）",
+        "decription": "前向安装武器 +1 精度，-1 后坐力",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_HeavyGunner_FA",
+              "Name": "Chassis Affinity Heavy Gunner Tank Front: Improved Front Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "Front.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_HeavyGunner_Recoil",
+              "Name": "Chassis Affinity Heavy Gunner Tank Front: Decreased Recoil",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "RefireModifier",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

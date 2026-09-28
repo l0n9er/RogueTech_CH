@@ -1,0 +1,44 @@
+{
+  "id": "AffinityDef_fixed_Tuned_Battlecomputers",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Gear_TargetingTrackingSystem_Orssos",
+      "Unique_Gear_TargetingTrackingSystem_Snafu",
+      "Unique_Gear_TargetingTrackingSystem_Sniper"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 120,
+        "levelName": "调校战斗计算机",
+        "decription": "+5% 定点射击命中指定部位几率",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+              "Id": "MA_CALLED_SHOT",
+              "Name": "Fixed Affinity Tuned Battlecomputers: Increased Called Shot Targeted Location Hit Chance",
+              "Details": "定点射击可靠性提高一倍",
+              "Icon": "uixSvgIcon_ability_mastertactician"
+            },
+            "statisticData": {
+              "statName": "CalledShotBonusMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

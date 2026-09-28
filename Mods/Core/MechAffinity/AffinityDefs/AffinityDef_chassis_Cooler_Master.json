@@ -1,0 +1,83 @@
+{
+  "id": "AffinityDef_chassis_Cooler_Master",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "thunderstone_190",
+      "nuwisha_130",
+      "stalkeriv_170",
+      "eurypterid_200"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "chassisdef_sea_wolf_MCV-Prime"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "散热大师",
+        "decription": "-15% 产热，+12 散热能力",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_CoolerMaster_HeatGenerated",
+              "Name": "Chassis Affinity Cooler Master: Decreased Heat Generated",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_CoolerMaster_HeatSinkCapacity",
+              "Name": "Chassis Affinity Cooler Master: Increased Cooling",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "HeatSinkCapacity",
+              "operation": "Int_Add",
+              "modValue": "12",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "AffinityDef_quirk_LAM_like",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_LAM_like"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "类陆空机甲",
+        "decription": "+1 防御，+1 \"从天而降\"精度，+10% 跳跃距离",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-Jump_Distance-T3",
+              "Name": "Quirk Affinity LAM like: Increased Jump Distance",
+              "Details": "部分翼系统使跳跃推进器的跳跃距离提升10%",
+              "Icon": "uixSvgIcon_equipment_Gyro"
+            },
+            "statisticData": {
+              "statName": "JumpDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-TalonsMeleeACC",
+              "Name": "Quirk Affinity LAM like: Improved DFA Hit Chance",
+              "Details": "尝试的近战攻击命中率降低2。",
+              "Icon": "uixSvgIcon_equipment_Gyro"
+            },
+            "statisticData": {
+              "statName": "CBTBE_DFA_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-Defense_ToHit-T3",
+              "Name": "Quirk Affinity LAM like: Reduced Hit Chance Against",
+              "Details": "对攻击该单位的所有攻击施加惩罚。",
+              "Icon": "uixSvgIcon_equipment_Gyro"
+            },
+            "statisticData": {
+              "statName": "ToHitThisActor",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

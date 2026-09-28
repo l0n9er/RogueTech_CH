@@ -1,0 +1,28 @@
+{
+  "id": "AffinityDef_global_Elite",
+  "affinityType": "Global",
+  "affinityData": {
+    "missionsRequired": 100,
+    "levelName": "大师",
+    "decription": "所有机师技能 +1（无视加成上限）",
+    "affinities": [
+      {
+        "type": "Gunnery",
+        "bonus": 1
+      },
+      {
+        "type": "Piloting",
+        "bonus": 1
+      },
+      {
+        "type": "Guts",
+        "bonus": 1
+      },
+      {
+        "type": "Tactics",
+        "bonus": 1
+      }
+    ],
+    "effectData": []
+  }
+}

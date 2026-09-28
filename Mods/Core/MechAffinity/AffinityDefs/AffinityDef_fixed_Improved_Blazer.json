@@ -1,0 +1,72 @@
+{
+  "id": "AffinityDef_fixed_Improved_Blazer",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Gear_Armor_ReactivePlating_Mirax",
+      "Unique_Gear_Armor_ReactivePlating_ZeusX"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 140,
+        "levelName": "改进型双联激光",
+        "decription": "+15% 实弹与导弹伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "ReactivePlating",
+              "Name": "Fixed Affinity Improved Blazer: Decreased Missile Damage Taken",
+              "Details": "",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierMissile",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "ReactivePlating",
+              "Name": "Fixed Affinity Improved Blazer: Decreased Ballistic Damage Taken",
+              "Details": "",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierBallistic",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

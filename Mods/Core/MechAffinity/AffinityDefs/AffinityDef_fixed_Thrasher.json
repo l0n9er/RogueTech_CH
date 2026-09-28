@@ -1,0 +1,108 @@
+{
+  "id": "AffinityDef_fixed_Thrasher",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Actuator_Hook",
+      "Unique_Actuator_VibroClaws_Carebear",
+      "Unique_Actuator_Xenorauder_Claws",
+      "Unique_Actuator_Xenorauder_Claws_Queen",
+      "Gear_Actuator_Claws",
+      "Gear_Blade",
+      "Gear_Actuator_SpikedFist",
+      "Unique_Gear_Actuator_ToothedClaws",
+      "Unique_Blade_Cyclone",
+      "Unique_Weapon_Chainsaw_Crosscut",
+      "Gear_Actuator_Arm_Lower_Melee_Punch",
+      "Unique_Actuator_KaijuClaws"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 120,
+        "levelName": "猛击者",
+        "decription": "拳击：+1 精度，+5% 伤害与稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity-Fixed-Thrasher-PunchDamage",
+              "Name": "Fixed Affinity Thrasher: Increased Punch Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity-Fixed-Thrasher-PunchInstability",
+              "Name": "Fixed Affinity Thrasher: Increased Punch Stability Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity-Fixed-Thrasher-PunchAccuracy",
+              "Name": "Fixed Affinity Thrasher: Improved Punch Hit Chance",
+              "Details": "近战武器精度修正",
+              "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

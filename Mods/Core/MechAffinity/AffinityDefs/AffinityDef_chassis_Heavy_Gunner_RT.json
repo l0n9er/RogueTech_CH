@@ -1,0 +1,92 @@
+{
+  "id": "AffinityDef_chassis_Heavy_Gunner_RT",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "vulpes_60",
+      "roughneck_65",
+      "roughneckQS_65",
+      "hunchback_50",
+      "hunchbackQS_50",
+      "quasimodo_55",
+      "solitaire_25",
+      "packhunter_30",
+      "packhunterii_30",
+      "hollander_35",
+      "hollanderii_45",
+      "hollanderiii_35",
+      "Blitzkrieg_50",
+      "howler_20",
+      "devil_30",
+      "legionnaire_50",
+      "warthoglam_45"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "重型射手（右躯干）",
+        "decription": "右躯干安装武器 +1 精度，-1 后坐力",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_HeavyGunner_RTA",
+              "Name": "Chassis Affinity Heavy Gunner RT: Improved Right Torso Accuracy RT",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "RightTorso.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_HeavyGunner_Recoil",
+              "Name": "Chassis Affinity Heavy Gunner RT: Decreased Recoil RT",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "RefireModifier",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

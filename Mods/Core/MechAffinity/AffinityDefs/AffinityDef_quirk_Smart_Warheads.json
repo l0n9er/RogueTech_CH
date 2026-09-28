@@ -1,0 +1,74 @@
+{
+  "id": "AffinityDef_quirk_Smart_Warheads",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_MissileTTS"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "智能弹头",
+        "decription": "导弹：+1 忽略闪避，+25% 暴击几率",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-EnhMS-EvasionIgnore",
+              "Name": "Quirk Affinity Smart Warheads: Increased Missile Evasive Pips Ignore",
+              "Details": "使导弹获得+2闪避无视",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "EvasionIgnoreFilter",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-TTSMISSCRIT",
+              "Name": "Quirk Affinity Smart Warheads: Increased Missile Critical Hit Chance",
+              "Details": "导弹武器的命中提升 3。",
+              "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "statisticData": {
+              "statName": "CriticalChanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.25",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

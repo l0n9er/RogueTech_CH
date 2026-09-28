@@ -1,0 +1,108 @@
+{
+  "id": "AffinityDef_chassis_Electromagnetic_Proficiency",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "chassisdef_black_rose_BRO-3R",
+      "chassisdef_manx_MNX-1320",
+      "chassisdef_narayana_NRY-OE",
+      "chassisdef_sea_wolf_MCV-C",
+      "vehiclechassisdef_ISURUS_LCV14"
+    ],
+    "idType": "ChassisId",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "电磁精通",
+        "decription": "电磁炮：+1 忽略闪避，-2 后坐力，+100% 暴击几率",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ElectromagneticProficiency_EvasivePipsIgnored",
+              "Name": "Chassis Affinity Electromagnetic Proficiency: Increased Evasive Pips Ignore",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Affinity_ElectromagneticProficiency",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ElectromagneticProficiency_Recoil",
+              "Name": "Chassis Affinity Electromagnetic Proficiency: Decreased Recoil",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Affinity_ElectromagneticProficiency",
+              "statName": "RefireModifier",
+              "operation": "Int_Add",
+              "modValue": "-2",
+              "modType": "System.Int32",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ElectromagneticProficiency_CriticalChance",
+              "Name": "Chassis Affinity Electromagnetic Proficiency: Increased Critical Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Affinity_ElectromagneticProficiency",
+              "statName": "CriticalChanceMultiplier",
+              "operation": "Float_Add",
+              "modValue": "1",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

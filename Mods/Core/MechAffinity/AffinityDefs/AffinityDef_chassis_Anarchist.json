@@ -1,0 +1,158 @@
+{
+  "id": "AffinityDef_chassis_Anarchist",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Battle Bus_35",
+      "Brunel_150",
+      "ErisAPC_40",
+      "Guardian_15",
+      "Ignis_30",
+      "Joust_40",
+      "Korvin_50",
+      "Polemos_40",
+      "Ranger_45",
+      "preyseeker_30",
+      "firestarter_35",
+      "firestarter_45",
+      "piranha_20",
+      "piranhaQS_20",
+      "surtur_55",
+      "hogosha_85",
+      "candiru_30"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "vehiclechassisdef_CARRIER_LIGHT_FLAMER"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "无政府主义",
+        "decription": "火焰喷射器与机枪：+1 精度，-10% 产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_BCBallistic",
+              "Name": "Chassis Affinity Anarchist: Improved Flamer Accuracy",
+              "Details": "火焰喷射器攻击的命中率提升 [AMT]。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Flamer"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_BCBallistic",
+              "Name": "Chassis Affinity Anarchist: Improved MachineGun Accuracy",
+              "Details": "机枪攻击命中率提升 [AMT]。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "MachineGun"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_BCHeat",
+              "Name": "Chassis Affinity Anarchist: Decreased Flamer Heat Generated",
+              "Details": "火焰喷射器热量产生降低 10%。",
+              "Icon": "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Flamer"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_BCHeat",
+              "Name": "Chassis Affinity Anarchist: Decreased MachineGun Heat Generated",
+              "Details": "机枪热量产生降低 10%。",
+              "Icon": "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "MachineGun"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

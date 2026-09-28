@@ -1,0 +1,87 @@
+{
+  "id": "AffinityDef_fixed_Marksman",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "HandHeld_Weapon_Gauss_AntiPersonal_Clan",
+      "HandHeld_Weapon_LRM_10_Clan",
+      "HandHeld_Weapon_Laser_Chemical_Large_Clan",
+      "HandHeld_Weapon_Laser_Chemical_Medium_Clan",
+      "HandHeld_Weapon_Autocannon_RAC_5",
+      "HandHeld_Weapon_LRM_5_Streak_Clan",
+      "HandHeld_Weapon_SRM_4_Streak_Clan",
+      "HandHeld_Weapon_SuperShotgun",
+      "HandHeld_Weapon_TAG_Super_Clan",
+      "HandHeld_Weapon_BoomStick",
+      "Unique_Weapon_IndustrialCrane_LoaderKing"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 160,
+        "levelName": "神射手",
+        "decription": "手持与附加武器：+1 精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Handheld_S",
+              "Name": "Fixed Affinity Marksman: Improved BoltOn Accuracy",
+              "Details": "PPC 武器 +1 精度。",
+              "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategoryID": "Special"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Handheld_SM",
+              "Name": "Fixed Affinity Marksman: Improved Hand Held Accuracy",
+              "Details": "PPC 武器 +1 精度。",
+              "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategoryID": "SpecialHandHeld"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

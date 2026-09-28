@@ -1,0 +1,36 @@
+{
+  "id": "AffinityDef_global_Warrior",
+  "affinityType": "Global",
+  "affinityData": {
+    "missionsRequired": 5,
+    "levelName": "熟悉",
+    "decription": "最大闪避 +1",
+    "affinities": [],
+    "effectData": [
+      {
+        "durationData": {
+          "duration": -1,
+          "stackLimit": -1
+        },
+        "targetingData": {
+          "effectTriggerType": "Passive",
+          "effectTargetType": "Creator"
+        },
+        "effectType": "StatisticEffect",
+        "nature": "Buff",
+        "Description": {
+          "Id": "MaxEvasion",
+          "Name": "Global Affinity Warrior: Increased Max Evasive Pips",
+          "Details": "",
+          "Icon": "uixSvgIcon_action_evasivemove"
+        },
+        "statisticData": {
+          "statName": "MaxEvasivePips",
+          "operation": "Int_Add",
+          "modValue": "1",
+          "modType": "System.Int32"
+        }
+      }
+    ]
+  }
+}

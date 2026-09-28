@@ -1,0 +1,88 @@
+{
+  "id": "AffinityDef_chassis_High-Pressure-Cooling",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "lupus_60",
+      "merlin_60",
+      "ostsol_60",
+      "awesome_80",
+      "SavageWolfProto_75",
+      "SavageWolf_75",
+      "cougar_35",
+      "supernova_150",
+      "supernova_90",
+      "warhammeriic_80",
+      "blackhawk-ku_60",
+      "nova_50",
+      "novaqs_50",
+      "blackhawk_50",
+      "warhammer_70",
+      "vfwarhammer_55",
+      "vfwarhammeriic_70",
+      "defiance_75",
+      "Hammertime_70",
+      "BattleAxe_70",
+      "HGN-QS_90",
+      "rifleman_70",
+      "lancelot_60",
+      "Hammerhands_75",
+      "maelstrom_75",
+      "battlecobra_40",
+      "bearcub_25",
+      "kodiakearly_85",
+      "regent_90",
+      "grandcrusader_80",
+      "grandcrusaderii_80",
+      "ymir_90",
+      "sagittaire_95",
+      "dragoon_70",
+      "greatwyrm_45",
+      "hellstar_95",
+      "pinion_45",
+      "verfolger_65",
+      "fire_wasp_iic_60",
+      "quark_20",
+      "ziegfried_65",
+      "slipshot_40"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "高压冷却",
+        "decription": "-10% 武器产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_HPC",
+              "Name": "Chassis Affinity High-Pressure-Cooling: Decreased Heat Generated",
+              "Details": "产热量降低 10%。",
+              "Icon": "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

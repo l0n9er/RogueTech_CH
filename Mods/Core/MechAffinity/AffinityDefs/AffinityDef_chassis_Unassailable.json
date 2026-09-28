@@ -1,0 +1,185 @@
+{
+  "id": "AffinityDef_chassis_Unassailable",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Baras_80",
+      "Baneblade_316",
+      "Kirov_300",
+      "shieldmaiden_200",
+      "Hahnunah_200",
+      "Obj404_200",
+      "ferox_200",
+      "hierophant_200"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "无可撼动",
+        "decription": "+10% 物理、稳定与热量伤害减免，+10% 暴击抗性，+1 胆识",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Unassailable_DamageReduction",
+              "Name": "Chassis Affinity Unassailable: Decreased Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierAll",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Unassailable_CritHitReduction",
+              "Name": "Chassis Affinity Unassailable: Decreased Receive Critical Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CriticalHitChanceReceivedMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Unassailable_StabilityReduction",
+              "Name": "Chassis Affinity Unassailable: Decreased Stability Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "ReceivedInstabilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Unassailable_IncomingHeat",
+              "Name": "Chassis Affinity Unassailable: Decreased Heat Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CACIncomingHeatMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Unassailable_Guts",
+              "Name": "Chassis Affinity Unassailable: Increased Guts",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "Guts",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Unassailable_DamageReduction",
+              "Name": "Chassis Affinity Unassailable: Decreased AoE Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CACAoEDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

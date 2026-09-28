@@ -1,0 +1,76 @@
+{
+  "id": "AffinityDef_chassis_Plasma_Capacitors",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "exarchcrab_150"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "等离子电容器",
+        "decription": "等离子武器与等离子电磁炮：+30% 热量伤害，-10% 产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_PlasmaCapacitors_HeatDamage",
+              "Name": "Chassis Affinity Plasma Capacitors: Increased Heat Damage per Shot",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Affinity_PlasmaCapacitors",
+              "statName": "HeatDamagePerShot",
+              "operation": "Float_Multiply",
+              "modValue": "1.3",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_PlasmaCapacitors_HeatGenerated",
+              "Name": "Chassis Affinity Plasma Capacitors: Decreased Heat Generated",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Affinity_PlasmaCapacitors",
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

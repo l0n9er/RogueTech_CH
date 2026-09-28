@@ -1,0 +1,47 @@
+{
+  "id": "AffinityDef_quirk_Supercooled_Missiles",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_ImprovedCoolingJacket_Missiles"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "过冷导弹",
+        "decription": "导弹：-10% 产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-FCS_AC21",
+              "Name": "Quirk Affinity Supercooled Missiles: Decreased Missile Heat Generated",
+              "Details": "导弹武器 -10% 热量。",
+              "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

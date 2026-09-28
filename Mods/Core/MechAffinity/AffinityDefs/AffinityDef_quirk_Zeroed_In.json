@@ -1,0 +1,96 @@
+{
+  "id": "AffinityDef_quirk_Zeroed_In",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_ExperimentalTC"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "校准完毕",
+        "decription": "+10% 定点射击命中指定部位几率，+1 进攻推进精度，+0.15 集束度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+              "Id": "MA_CALLED_SHOT",
+              "Name": "Quirk Affinity Zeroed In: Increased Called Shot Targeted Location Hit Chance",
+              "Details": "定点射击可靠性提高一倍",
+              "Icon": "uixSvgIcon_ability_mastertactician"
+            },
+            "statisticData": {
+              "statName": "CalledShotBonusMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.10",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-EnhMS-ClusterBonusLRM",
+              "Name": "Quirk Affinity Zeroed In: Increased Grouping Modifier",
+              "Details": "大幅提升该单位 LRM 武器的集束度，并使 SRM 的稳定伤害提升 50%。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "ClusteringModifier",
+              "operation": "Float_Add",
+              "modValue": "0.15",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Gunslinger_OPA",
+              "Name": "Quirk Affinity Zeroed In: Improved Called Shot Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "IRTCalledShotMod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

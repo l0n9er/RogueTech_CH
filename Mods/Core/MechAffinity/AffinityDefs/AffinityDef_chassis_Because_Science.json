@@ -1,0 +1,127 @@
+{
+  "id": "AffinityDef_chassis_Because_Science",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "chassisdef_erebus_ERE-PZ",
+      "chassisdef_nanook_NNK-S",
+      "chassisdef_nuwisha_NUW-Z",
+      "chassisdef_urbiestator_UMS-R9999"
+    ],
+    "idType": "ChassisId",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "因为“科学”",
+        "decription": "+10% 视野范围，+20% 传感器范围，+1 探测器，-20% 产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_BecauseScience_SpotterDistance",
+              "Name": "Chassis Affinity Because Science: Increased Vision Range Multiplier",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SpotterDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_BecauseScience_SensorDistance",
+              "Name": "Chassis Affinity Because Science: Increased Sensor Range Multiplier",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SensorDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.2",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_BecauseScience_Probe",
+              "Name": "Chassis Affinity Because Science: Active Probe",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "LV_PROBE_CARRIER",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_BecauseScience_HeatGenerated",
+              "Name": "Chassis Affinity Because Science: Decreased Heat Generated",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.8",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

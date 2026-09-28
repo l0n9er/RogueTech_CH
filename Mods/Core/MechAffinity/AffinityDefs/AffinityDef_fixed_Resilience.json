@@ -1,0 +1,85 @@
+{
+  "id": "AffinityDef_fixed_Resilience",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_Structure_EndoSteel_Clan",
+      "Gear_Structure_EndoComposite",
+      "Gear_Structure_EndoComposite_Clan",
+      "Gear_Structure_EndoSteel",
+      "Unique_Gear_Structure_EndoSteel_OM77",
+      "Gear_Structure_Composite",
+      "Gear_Structure_Reinforced",
+      "Gear_Structure_EndoSteel_Superheavy",
+      "Gear_Structure_EndoComposite_Superheavy",
+      "Gear_Structure_Reinforced_Superheavy",
+      "Gear_Structure_LAM_Superheavy",
+      "Gear_Structure_EndoTitanium_Superheavy",
+      "Gear_CASE",
+      "Gear_Vehicle_CASE_Clan",
+      "Gear_Vehicle_CASE",
+      "Gear_Structure_LAM_EndoTSM",
+      "Gear_Structure_LAM_Composite",
+      "Gear_Structure_LAM_EndoSteel",
+      "Gear_Actuator_ReinforcedLeg_Mk1",
+      "Unique_Gear_ArmorMod_CASE2_Hephaistos",
+      "Unique_Gear_Structure_MAD",
+      "Unique_Gear_Structure_PrototypeEndoComposite",
+      "Gear_Structure_EndoSteel_Quicsell",
+      "Gear_Structure_EndoSteel_Clan_Superheavy",
+      "Gear_Structure_LAM_QS",
+      "Lootable_Structure_Industrial",
+      "Unique_Gear_Structure_Basilisk",
+      "Unique_Gear_Structure_Gladiator",
+      "Gear_Structure_EndoSteel_Clan_QS",
+      "Gear_Structure_EndoTimber_Clan_QS",
+      "Gear_Structure_Standard_Superheavy",
+      "Lootable_Structure_Standard",
+      "Gear_Structure_EndoComposite_Clan_Superheavy",
+      "Unique_Gear_Actuator_Leg_Jumping_Jack",
+      "Unique_Structure_Wheeled_ConversionGear_PM",
+      "Gear_MechSquad_Structure_EndoSteel",
+      "Gear_MechSquad_Structure_EndoSteel_Clan",
+      "Gear_MechSquad_Structure_Standard",
+      "Gear_MechSquad_Structure_Composite",
+      "Gear_BattleArmor_Structure",
+      "Gear_BattleArmor_Structure_Experimental",
+      "Gear_Protomech_Structure_Standard"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 145,
+        "levelName": "坚韧不拔",
+        "decription": "+5% 暴击抗性",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "AffinityResilience",
+              "Name": "Fixed Affinity Resilience: Decreased Receive Critical Hit Chance",
+              "Details": "加固结构提供暴击减免。",
+              "Icon": "uixSvgIcon_action_end"
+            },
+            "statisticData": {
+              "statName": "CriticalHitChanceReceivedMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.95",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

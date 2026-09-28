@@ -1,0 +1,202 @@
+[
+  {
+    "FileName": "",
+    "Name": "CAE.SelectedTargetForbidden",
+    "Localization": {
+      "CULTURE_EN_US": "\nYou can't activate/deactivate equipment while a target is selected",
+      "CULTURE_ZH_CN": "\n锁定目标时无法启用/停用装备"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.NotAvaibleThisPhase",
+    "Localization": {
+      "CULTURE_EN_US": "\nNot available",
+      "CULTURE_ZH_CN": "\n不可用"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.StandUpFail",
+    "Localization": {
+      "CULTURE_EN_US": "FAILED TO STAND UP",
+      "CULTURE_ZH_CN": "尝试起身失败"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.NonFunctional",
+    "Localization": {
+      "CULTURE_EN_US": "NOT FUNCTIONAL",
+      "CULTURE_ZH_CN": "未实装"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Damaged",
+    "Localization": {
+      "CULTURE_EN_US": "DAMAGED",
+      "CULTURE_ZH_CN": "受损"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.OutOfCharges",
+    "Localization": {
+      "CULTURE_EN_US": "INOP",
+      "CULTURE_ZH_CN": "不可用"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.CHARGES",
+    "Localization": {
+      "CULTURE_EN_US": "CHARGES",
+      "CULTURE_ZH_CN": "充能"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEAT",
+    "Localization": {
+      "CULTURE_EN_US": "HEAT",
+      "CULTURE_ZH_CN": "热量"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.FAIL",
+    "Localization": {
+      "CULTURE_EN_US": "FAIL",
+      "CULTURE_ZH_CN": "失败"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Components",
+    "Localization": {
+      "CULTURE_EN_US": "Components",
+      "CULTURE_ZH_CN": "组件"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENTS",
+    "Localization": {
+      "CULTURE_EN_US": "COMPONENTS",
+      "CULTURE_ZH_CN": "组件"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.STATE",
+    "Localization": {
+      "CULTURE_EN_US": "STATE",
+      "CULTURE_ZH_CN": "状况"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.OPERATIONAL",
+    "Localization": {
+      "CULTURE_EN_US": "OPER",
+      "CULTURE_ZH_CN": "作战"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Done",
+    "Localization": {
+      "CULTURE_EN_US": "Done",
+      "CULTURE_ZH_CN": "完成"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.ReactroTooHot",
+    "Localization": {
+      "CULTURE_EN_US": "REACTOR IS TOO HOT FOR STARTUP",
+      "CULTURE_ZH_CN": "反应堆过热，无法启动"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRED",
+    "Localization": {
+      "CULTURE_EN_US": "REPAIRED",
+      "CULTURE_ZH_CN": "已修复"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRARMOR",
+    "Localization": {
+      "CULTURE_EN_US": "ARMOR",
+      "CULTURE_ZH_CN": "装甲"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRSTRUCTURE",
+    "Localization": {
+      "CULTURE_EN_US": "STRUCTURE",
+      "CULTURE_ZH_CN": "结构"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRSTRUCTURE",
+    "Localization": {
+      "CULTURE_EN_US": "STRUCTURE",
+      "CULTURE_ZH_CN": "结构"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT",
+    "Localization": {
+      "CULTURE_EN_US": "COMPONENT",
+      "CULTURE_ZH_CN": "组件"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_LABEL",
+    "Localization": {
+      "CULTURE_EN_US": "COMPONENT",
+      "CULTURE_ZH_CN": "组件"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_DESCRIPTION",
+    "Localization": {
+      "CULTURE_EN_US": "Description",
+      "CULTURE_ZH_CN": "描述"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_STATE",
+    "Localization": {
+      "CULTURE_EN_US": "STATUS",
+      "CULTURE_ZH_CN": "状态"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_CHARGES",
+    "Localization": {
+      "CULTURE_EN_US": "CHARGES",
+      "CULTURE_ZH_CN": "充能"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_FAIL",
+    "Localization": {
+      "CULTURE_EN_US": "FAIL%",
+      "CULTURE_ZH_CN": "故障概率%"
+    }
+  }
+]

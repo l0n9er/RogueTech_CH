@@ -1,0 +1,79 @@
+{
+  "id": "AffinityDef_fixed_Imperceptible",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_Armor_QueenCarapace",
+      "Gear_Armor_LAM_Stealth",
+      "Unique_Gear_Armor_VoidIntegratedArmor",
+      "Unique_Gear_Armor_VoidWeaveArmor_Society",
+      "Unique_Gear_Armor_VoidWeaveArmor_Society_Superheavy",
+      "Gear_Armor_BlackCarapace",
+      "Gear_BattleArmor_Special_CamoSystem"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 140,
+        "levelName": "难以察觉",
+        "decription": "-15% 可见度与传感器信号",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Predator_Signature",
+              "Name": "Fixed Affinity Imperceptible: Decreased Sensor Signature",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SensorSignatureModifier",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Predator_Visibility",
+              "Name": "Fixed Affinity Imperceptible: Decreased Visual Signature",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SpottingVisibilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

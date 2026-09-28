@@ -1,0 +1,54 @@
+{
+  "id": "AffinityDef_fixed_Missile_Defense",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Weapon_AMS_Laser_RAINDANCER",
+      "Unique_Weapon_AMS_Laser_Avatar",
+      "BoltOn_Weapon_AMS",
+      "Unique_Weapon_AMS_Laser_Apollo",
+      "Weapon_AMS_Laser_Clan",
+      "Weapon_AMS_Laser_Integrated",
+      "Unique_Weapon_AMS_Laser_Prototype",
+      "Weapon_AMS_Advanced",
+      "Weapon_AMS_Pirate",
+      "Unique_Weapon_AMS_GunSquad"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 130,
+        "levelName": "导弹防御",
+        "decription": "+10% 导弹伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-ReactiveBonus2",
+              "Name": "Fixed Affinity Missile Defense: Decreased Missile Damage Taken",
+              "Details": "受到的能量伤害降低。",
+              "Icon": "uixSvgIcon_mwFury"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierMissile",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

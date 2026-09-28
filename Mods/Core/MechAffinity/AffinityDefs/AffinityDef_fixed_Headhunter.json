@@ -1,0 +1,45 @@
+{
+  "id": "AffinityDef_fixed_Headhunter",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_FCS_Headshot",
+      "Unique_FCS_AdvancedTC_Headshot",
+      "Unique_Gear_FCS_Headshot-RTO"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 80,
+        "levelName": "精准打击",
+        "decription": "+1 定点射击精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "TC-CalledShotAcc",
+              "Name": "Fixed Affinity Headhunter: Improved Called Shot Hit Chance",
+              "Details": "被动：以单件武器攻击时忽略目标的掩护与戒备。",
+              "Icon": "uixSvgIcon_ability_precisionstrike"
+            },
+            "statisticData": {
+              "statName": "IRTCalledShotMod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

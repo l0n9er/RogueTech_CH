@@ -1,0 +1,101 @@
+{
+  "id": "AffinityDef_chassis_Hardened_Internals",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "ChrysaorHover_50",
+      "Ganesha_100",
+      "Gurteltier_100",
+      "Giggins_40",
+      "IndraIFV_35",
+      "LindwyrmVTOL_45",
+      "MaximMKII_50",
+      "Maxim_50",
+      "MobilePDS_55",
+      "Nergal_100",
+      "Pitbull_60",
+      "PrimeMover_60",
+      "Prowler_55",
+      "R10_45",
+      "Schiltron_80",
+      "Sleipnir_50",
+      "Telvache_60",
+      "Testudo_75",
+      "Turhan_50",
+      "Tezcatlipoca_60",
+      "Vargr_65",
+      "WraithSerpentus_100",
+      "juliano_90",
+      "lunarcrab_60",
+      "remix_65",
+      "cockroach_90",
+      "maxwell_95",
+      "Wainreeve_75",
+      "Titanhauler_75",
+      "Klyf_75"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "加固内部结构",
+        "decription": "+25% 穿甲伤害减免，+25% 穿甲暴击抗性",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Hardened_Internal_DamageReduction",
+              "Name": "Chassis Affinity Hardened Internals: Decreased AP Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CACAPDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Hardened_Internal_CritsRecieved",
+              "Name": "Chassis Affinity Hardened Internals: Decreased Receive AP Crit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CAC_APCritChance",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

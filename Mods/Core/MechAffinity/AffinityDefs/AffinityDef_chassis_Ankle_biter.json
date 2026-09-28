@@ -1,0 +1,311 @@
+{
+  "id": "AffinityDef_chassis_Ankle_biter",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Ferret_45",
+      "FerretVTOL_5",
+      "MantisVTOL_15",
+      "Nacon_20",
+      "OdinScout_20",
+      "SwiftWind_8",
+      "Fashih_4",
+      "Fashih2_4",
+      "Amazon_4",
+      "Angerona_4",
+      "Kanazuchi_8",
+      "Nephilim_12",
+      "PlasmaBeak_5",
+      "SpaceMarine_5",
+      "Shamash_11",
+      "SavannahMaster_5",
+      "SalamanderBA",
+      "CriderBA",
+      "MarauderBA",
+      "GnomeBA",
+      "GDHeavy_6",
+      "GDStandardBA",
+      "GDInfiltrator_4",
+      "GDScout_3",
+      "GDStrike_4",
+      "Corona_7.5",
+      "FenrirII_8",
+      "Fenrir_8",
+      "Rottweiler_4",
+      "Sloth_6",
+      "ShenLong_6",
+      "WraithBA",
+      "Harpy_10",
+      "Erinyes_10",
+      "Basilisk_21",
+      "BasiliskQ_21",
+      "Cecerops_15",
+      "Centaur_25",
+      "Chrysaor_30",
+      "Delphyne_27",
+      "Gorgon_24",
+      "Hippogriff_24",
+      "Hydra_30",
+      "Minotaur_27",
+      "Orc_20",
+      "Procyon_25",
+      "Procyon-Q_30",
+      "Roc_21",
+      "Satyr_20",
+      "Siren_15",
+      "Triton_24",
+      "Sprite_30",
+      "hobgoblin_30",
+      "slayer_30",
+      "Boggart_26",
+      "Svartalfa_28",
+      "XenoSwarm_5",
+      "gnat_20",
+      "ebony_25",
+      "gambit_25",
+      "havocis_35",
+      "jackal_30",
+      "mongooseii_40",
+      "targe_40",
+      "tsunami_40",
+      "ambassador_30",
+      "bloedhond_30",
+      "cherub_30",
+      "foxfire_30",
+      "mosquito_30",
+      "InfiltratorII_4",
+      "InfiltratorI_3",
+      "LonginusBA",
+      "PurifierBA",
+      "Toadie2_7.5",
+      "TunnelRat_1.6",
+      "AchileusBA",
+      "afreet_5",
+      "ClanBA",
+      "golemba_10",
+      "kage_3",
+      "NighthawkBA",
+      "RoguebearBA",
+      "sylph_3.75",
+      "sylph_4",
+      "UndineBA",
+      "asura_6",
+      "DjinnBA",
+      "grenadier2_6",
+      "grenadier_8",
+      "seirim_6",
+      "TrinityBA",
+      "blackwolf_7.5",
+      "buraq_5",
+      "callisto_5",
+      "CentaurBA",
+      "ConstableBA",
+      "CuchulainnBA",
+      "DragoonBA",
+      "fusilier_8",
+      "HauberkBA",
+      "ironhold_10",
+      "kishi_3",
+      "kopis_8",
+      "LeonidasBA",
+      "ogre_6",
+      "oni_4",
+      "QuirinusBA",
+      "rhinoba_7.5",
+      "SeafoxBA",
+      "shedu_12",
+      "SimianBA",
+      "sniperba_1.6",
+      "SpectreBA",
+      "stormbird_7.5",
+      "TaranisBA",
+      "ThunderbirdBA",
+      "tinstar_4",
+      "TornadoBA",
+      "TortoiseiiBA",
+      "XiphosBA",
+      "zou_6",
+      "ISStandardBA",
+      "KoboldBA",
+      "PhalanxBA",
+      "RavagerBA",
+      "ToadieBA",
+      "VoidBA",
+      "pebble_crab_35",
+      "magellan_20"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "咬脚踝的",
+        "decription": "+1 ECM 护盾，+10% 视野与传感器范围，+1 探测器，-25% 视觉与传感器信号",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Predator_Signature",
+              "Name": "Chassis Affinity Ankle biter: Decreased Sensor Signature",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SensorSignatureModifier",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Predator_Visibility",
+              "Name": "Chassis Affinity Ankle biter: Decreased Visual Signature",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SpottingVisibilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Predator_ECM",
+              "Name": "Chassis Affinity Ankle biter: Increased ECM Shield",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "LV_ECM_SHIELD",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Scout_Probe",
+              "Name": "Chassis Affinity Ankle biter: Active Probe",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "LV_PROBE_CARRIER",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Scout_Sensors",
+              "Name": "Chassis Affinity Ankle biter: Increased Sensor Range Multiplier",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SensorDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Scout_Sight",
+              "Name": "Chassis Affinity Ankle biter: Increased Vision Range Multiplier",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SpotterDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

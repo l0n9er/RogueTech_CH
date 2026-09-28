@@ -1,0 +1,56 @@
+{
+  "id": "AffinityDef_fixed_Firewalker",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Ammo_AmmunitionBox_LRM_Hydra",
+      "Default_Vehicle_Structure_EnviroSealing",
+      "Unique_Weapon_RocketLauncher_5_Inferno",
+      "Unique_Weapon_RocketLauncher_10_Inferno",
+      "Unique_Weapon_RocketLauncher_15_Inferno",
+      "Unique_Weapon_RocketLauncher_20_Inferno",
+      "Special_AddOn_HeatBank",
+      "BoltOn_Weapon_Rocket_20_Inferno_x5",
+      "Gear_EngineCooling_ChassisHeatsink_Society",
+      "Gear_EngineCooling_EmergencyCoolant_RISC_SH",
+      "Unique_Gear_EngineCooling_EnergyRegulator"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 150,
+        "levelName": "火焰行者",
+        "decription": "+10% 热量伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "HeatDamageTaken_Quirk",
+              "Name": "Fixed Affinity Firewalker: Decreased Heat Damage Taken",
+              "Details": "产热量降低 20%。",
+              "Icon": "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "statisticData": {
+              "statName": "CACIncomingHeatMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "AffinityDef_chassis_Man-of-War",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "uberjager_115",
+      "broadside_100",
+      "Burke_140",
+      "DusterAA_55",
+      "LemanRuss_60",
+      "Musketeer_50",
+      "PartisanAA_50",
+      "Soarece_175",
+      "Typhoon_70",
+      "Zhukov_75"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "vehiclechassisdef_METALSTORM_CLAN_SUPERHEAVY_TANK",
+          "vehiclechassisdef_LBX20CARRIER_SUPERHEAVY_TANK",
+          "chassisdef_serket_SKT-5T"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "战舰",
+        "decription": "+1 射击。自动炮：+1 精度，-1 后坐力，+1 忽略闪避",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Gunnery",
+              "Name": "Chassis Affinity Man-of-War: Increased Gunnery",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "Gunnery",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ManOfWar_Accuracy",
+              "Name": "Chassis Affinity Man-of-War: Improved Autocannon Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Autocannon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ManOfWar_PipsIgnored",
+              "Name": "Chassis Affinity Man-of-War: Increased Autocannon Evasive Pips Ignore",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "EvasionIgnoreFilter",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Autocannon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ManOfWar_Recoil",
+              "Name": "Chassis Affinity Man-of-War: Decreased Autocannon Recoil",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "RefireModifier",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Autocannon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

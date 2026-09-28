@@ -1,0 +1,111 @@
+{
+  "id": "AffinityDef_chassis_Close_Quarters_Specialist",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "bloodletter_155",
+      "badaboom_115",
+      "longjohnsilver_175"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "chassisdef_alligator_CYA-L8R"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "近身战专家",
+        "decription": "+1 中程精度，+2 近程精度，+4 最小射程精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_CloseQuartersSpecialist_MediumRange",
+              "Name": "Chassis Affinity Close Quarters Specialist: Improved Medium Range Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACMediumRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_CloseQuartersSpecialist_ShortRange",
+              "Name": "Chassis Affinity Close Quarters Specialist: Improved Short Range Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACShortRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-2.0",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_CloseQuartersSpecialist_MinRange",
+              "Name": "Chassis Affinity Close Quarters Specialist: Improved Minimum Range Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACMinRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-4.0",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

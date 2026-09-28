@@ -1,0 +1,138 @@
+{
+  "id": "AffinityDef_fixed_Size_Does_Not_Matter",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_BattleArmor_ArmoredGloves_NoSwarm",
+      "Gear_BattleArmor_BasicManipulators_NoSwarm",
+      "Gear_BattleArmor_VibroClaws_NoSwarm",
+      "Gear_BattleArmor_HeavyVibroClaws_NoSwarm"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 60,
+        "levelName": "持之以恒",
+        "decription": "+1 胆识",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Guts",
+              "Name": "Fixed Affinity Size Does Not Matter 60 Persistence: Increased Guts",
+              "Details": "+1 胆识",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "Guts",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          }
+        ]
+      },
+      {
+        "missionsRequired": 120,
+        "levelName": "高性能",
+        "decription": "+1 射击，+1 驾驶，+1 战术",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Piloting",
+              "Name": "Fixed Affinity Size Does Not Matter 120 High Performance: Increased Piloting",
+              "Details": "+1 驾驶",
+              "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "statisticData": {
+              "statName": "Piloting",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Gunnery",
+              "Name": "Fixed Affinity Size Does Not Matter 120 High Performance: Increased Gunnery",
+              "Details": "+1 枪炮",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "Gunnery",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Tactics",
+              "Name": "Fixed Affinity Size Does Not Matter 120 High Performance: Increased Tactics",
+              "Details": "+1 战术",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "Tactics",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

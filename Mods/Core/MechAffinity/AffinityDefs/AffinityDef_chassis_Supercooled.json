@@ -1,0 +1,74 @@
+{
+  "id": "AffinityDef_chassis_Supercooled",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Komodo_45",
+      "komodoiic_75",
+      "hellfire_60",
+      "avatar_70",
+      "avatarii_70",
+      "lament_65",
+      "lament_75",
+      "lamentor_60",
+      "madcatiii_55",
+      "timberwolf_75",
+      "timbercatQS_75",
+      "sidewinder_75",
+      "OmniBlackKnight_75",
+      "blackknight_75",
+      "blackknightiic_75",
+      "spiritwalker_75",
+      "novacat_70",
+      "viper_40",
+      "blackpython_75",
+      "whiteraven_75",
+      "MadCatLam_75",
+      "bellerophon_60",
+      "Fox_50",
+      "mastodon_95",
+      "thunderstallion_85",
+      "whiteflame_70",
+      "executionerb_95",
+      "eyleuka_55",
+      "shugenja_75"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "超冷却",
+        "decription": "+10 散热能力",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Supercooled",
+              "Name": "Chassis Affinity Supercooled: Increased Cooling",
+              "Details": "散热能力提升 10",
+              "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "statisticData": {
+              "statName": "HeatSinkCapacity",
+              "operation": "Int_Add",
+              "modValue": "10",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

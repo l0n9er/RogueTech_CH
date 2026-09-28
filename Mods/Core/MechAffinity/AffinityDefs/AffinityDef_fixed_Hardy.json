@@ -1,0 +1,87 @@
+{
+  "id": "AffinityDef_fixed_Hardy",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_Armor_FerroFibrous_Clan",
+      "Unique_Armor_Industrial_Spiked",
+      "Gear_Armor_Duralast_Quicsell",
+      "Unique_Gear_Armor_CasedLightFerroFibrous",
+      "Lootable_Armor_Industrial",
+      "Gear_MechSquad_Armor_FerroFibrous",
+      "Gear_MechSquad_Armor_FerroFibrous_Clan",
+      "Gear_MechSquad_Armor_Standard",
+      "Gear_BattleArmor_Armor_Advanced",
+      "Gear_BattleArmor_Armor_FireResistant",
+      "Gear_BattleArmor_Armor_LaserReflective",
+      "Gear_BattleArmor_Armor_LaserReflective_Clan",
+      "Gear_BattleArmor_Armor_ReactivePlating",
+      "Gear_BattleArmor_Armor_ReactivePlating_Clan",
+      "Gear_BattleArmor_Armor_Standard",
+      "Gear_BattleArmor_Armor_Standard_Clan",
+      "Gear_Protomech_Armor_Standard"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 120,
+        "levelName": "坚固耐用",
+        "decription": "+3% 伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Indomitable",
+              "Name": "Fixed Affinity Hardy: Decreased Damage Taken",
+              "Details": "所有武器 +2 精度，+50% 暴击，+30% 射程，-50% 最小射程。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierAll",
+              "operation": "Float_Multiply",
+              "modValue": "0.97",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Indomitable",
+              "Name": "Fixed Affinity Hardy: Decreased AoE Damage Taken",
+              "Details": "所有武器 +2 精度，+50% 暴击，+30% 射程，-50% 最小射程。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "CACAoEDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.97",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "AffinityDef_chassis_Sharpshooter",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "SmallBertha_140",
+      "wannu_165",
+      "subjugator_120",
+      "jotunn_175",
+      "armageddon_prototype_255"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "chassisdef_nuwisha_NUW-B"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "神射手",
+        "decription": "+1 极远程精度，+1 远程精度，+1 中程精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Sharpshooter_ExtremeRangeAccuracy",
+              "Name": "Chassis Affinity Sharpshooter: Improved Extra Long Range Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACExtraLongRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Sharpshooter_LongRangeAccuracy",
+              "Name": "Chassis Affinity Sharpshooter: Improved Long Range Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACLongRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Sharpshooter_MediumRangeAccuracy",
+              "Name": "Chassis Affinity Sharpshooter: Improved Medium Range Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACMediumRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

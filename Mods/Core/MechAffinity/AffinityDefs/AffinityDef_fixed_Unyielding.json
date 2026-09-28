@@ -1,0 +1,45 @@
+{
+  "id": "AffinityDef_fixed_Unyielding",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_Gyro_LAM_QS"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 120,
+        "levelName": "永不屈服",
+        "decription": "+20% 稳定伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "SamuraiStabDamageBuff",
+              "Name": "Fixed Affinity Unyielding: Decreased Stability Damage Taken",
+              "Details": "来袭稳定伤害降低 [AMT]。",
+              "Icon": "uixSvgIcon_equipment_Gyro"
+            },
+            "statisticData": {
+              "statName": "ReceivedInstabilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.8",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

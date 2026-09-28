@@ -1,0 +1,87 @@
+{
+  "id": "AffinityDef_fixed_Coordination",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_C3_Slave",
+      "Gear_C3i",
+      "Unique_Weapon_TAG_Overlord",
+      "Unique_Sensors_ImprovedCommunication",
+      "Gear_Vehicle_CommunicationsEquipment_1ton",
+      "Gear_Vehicle_CommunicationsEquipment",
+      "Gear_Vehicle_CommunicationsEquipment_Double",
+      "Unique_Sensors_Echidnae",
+      "Unique_Sensors_Transband",
+      "Unique_Cockpit_Dual",
+      "Gear_MechSquad_Special_C3_Slave_x2",
+      "Gear_MechSquad_Special_C3_Slave_x4",
+      "Gear_MechSquad_Special_C3i_x2",
+      "Gear_BattleArmor_Special_C3Slave",
+      "Gear_BattleArmor_Special_C3i"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 140,
+        "levelName": "协调作战",
+        "decription": "所有连队单位：+1 战术（不可叠加），每回合 +1 决心（最多 3 层）",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 3,
+              "stackId": "LanceResolvePerRound"
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "AllLanceMates",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-Morale_Gain-T3",
+              "Name": "Fixed Affinity Coordination: Increased Lance Base Resolve Generation per Round",
+              "Details": "为产生士气的行动提供加成。",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "resolveRoundBaseMod",
+              "operation": "Float_Add",
+              "modValue": "1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "AllLanceMates",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-Coordination-Tactics",
+              "Name": "Fixed Affinity Coordination: Increased Lance Tactics",
+              "Details": "提升战术技能",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "Tactics",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

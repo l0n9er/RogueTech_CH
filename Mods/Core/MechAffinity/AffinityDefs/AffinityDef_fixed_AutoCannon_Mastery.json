@@ -1,0 +1,81 @@
+{
+  "id": "AffinityDef_fixed_AutoCannon_Mastery",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Weapon_Autocannon_SPAC-TAC-ULAR",
+      "Unique_FCS_Devil",
+      "Unique_FCS_Kraken",
+      "Unique_FCS_KuroShi"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 120,
+        "levelName": "自动炮精通",
+        "decription": "自动炮：+1 精度，-2 后坐力",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateAutoCannon_Acc",
+              "Name": "Fixed Affinity AutoCannon Mastery: Improved Autocannon Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Autocannon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateAutoCannon_RF",
+              "Name": "Fixed Affinity AutoCannon Mastery: Decreased Autocannon Recoil",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "RefireModifier",
+              "operation": "Int_Add",
+              "modValue": "-2",
+              "modType": "System.Int32",
+              "targetCollection": "Weapon",
+              "targetWeaponType": "Autocannon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

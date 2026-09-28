@@ -1,0 +1,105 @@
+{
+  "id": "AffinityDef_fixed_Go_for_the_knees",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_BattleArmor_HeavyBattleClaws",
+      "Gear_BattleArmor_HeavyBattleClaws_NoSwarm",
+      "Gear_BattleArmor_BattleClaws",
+      "Gear_BattleArmor_BattleClaws_NoSwarm",
+      "Gear_BattleArmor_MagneticBattleClaws",
+      "Gear_Protomech_Hands_Heavy",
+      "Gear_Protomech_Hands_Light",
+      "Gear_Protomech_Hands_UltraHeavy",
+      "Gear_Protomech_QuadMeleeWeaponSystem"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 80,
+        "levelName": "打他们的膝盖！",
+        "decription": "物理武器：+1 精度，+10% 伤害与稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "TunedActuatorsAffinityAccPhys",
+              "Name": "Fixed Affinity Go for the knees: Improved Physical Weapon Hit Chance",
+              "Details": "近战武器精度修正",
+              "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Damage_Mod",
+              "Name": "Fixed Affinity Go for the knees: Increased Physical Weapon Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Stability_Mod",
+              "Name": "Fixed Affinity Go for the knees: Increased Physical Weapon Stability Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

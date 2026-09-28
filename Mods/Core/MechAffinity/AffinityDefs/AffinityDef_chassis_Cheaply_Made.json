@@ -1,0 +1,103 @@
+{
+  "id": "AffinityDef_chassis_Cheaply_Made",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "logan_105",
+      "queenbeelam_35",
+      "StingerLAM-QS_30",
+      "seishin_50"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "廉价制造",
+        "decription": "-10 米行走距离，-1 精度，+50% 奔跑速度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_CheaplyMade_WalkSpeed",
+              "Name": "Chassis Affinity Cheaply Made: Decreased Walk Speed",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "WalkSpeed",
+              "operation": "Float_Add",
+              "modValue": "-10",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_CheaplyMade_Accuracy",
+              "Name": "Chassis Affinity Cheaply Made: Reduced Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_CheaplyMade_RunSpeed",
+              "Name": "Chassis Affinity Cheaply Made: Increased Run Speed",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_RunMultiMod",
+              "operation": "Float_Add",
+              "modValue": "0.5",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

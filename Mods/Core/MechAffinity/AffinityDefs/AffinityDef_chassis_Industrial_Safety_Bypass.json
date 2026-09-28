@@ -1,0 +1,87 @@
+{
+  "id": "AffinityDef_chassis_Industrial_Safety_Bypass",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "kiso_100",
+      "sarissa_50",
+      "temax_65",
+      "earthshaker_100",
+      "justicar_25",
+      "urbanmax_30",
+      "littlebrother_35",
+      "spacermax_40",
+      "metalmax_45",
+      "bigbrother_50",
+      "demomax_50",
+      "farmermax_65",
+      "extinguisher_80",
+      "kohlen_80",
+      "securimax_100"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "绕过工业安全",
+        "decription": "+5% 武器产热，+30 米行走距离",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Industrial_Safety_Bypass_WalkSpeed",
+              "Name": "Chassis Affinity Industrial Safety Bypass: Increased Walk Speed",
+              "Details": "行走速度提升。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "WalkSpeed",
+              "operation": "Float_Add",
+              "modValue": "30",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Industrial_Safety_Bypass_WeaponCooling",
+              "Name": "Chassis Affinity Industrial Safety Bypass: Increased Heat Generated",
+              "Details": "热量产生增加 5%。",
+              "Icon": "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

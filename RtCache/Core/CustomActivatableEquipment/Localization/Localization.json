@@ -1,0 +1,320 @@
+[
+  {
+    "FileName": "",
+    "Name": "CAE.SelectedTargetForbidden",
+    "Localization": {
+      "CULTURE_EN_US": "\nYou can't activate/deactivate equipment while having target selected",
+      "CULTURE_ZH_CN": "\n锁定目标时无法启用/停用装备"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.NotAvaibleThisPhase",
+    "Localization": {
+      "CULTURE_EN_US": "\nNot avaible",
+      "CULTURE_ZH_CN": "\n不可用"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.StandUpFail",
+    "Localization": {
+      "CULTURE_EN_US": "FAIL TO STAND UP",
+      "CULTURE_ZH_CN": "起身失败"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.NonFunctional",
+    "Localization": {
+      "CULTURE_EN_US": "NOT FUNCTIONAL",
+      "CULTURE_ZH_CN": "未实装"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Damaged",
+    "Localization": {
+      "CULTURE_EN_US": "DAMAGED",
+      "CULTURE_ZH_CN": "受损"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.OutOfCharges",
+    "Localization": {
+      "CULTURE_EN_US": "OUT OF CHARGES",
+      "CULTURE_ZH_CN": "弹药耗尽"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.CHARGES",
+    "Localization": {
+      "CULTURE_EN_US": "CHARGES",
+      "CULTURE_ZH_CN": "充能"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEAT",
+    "Localization": {
+      "CULTURE_EN_US": "HEAT",
+      "CULTURE_ZH_CN": "热量"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.FAIL",
+    "Localization": {
+      "CULTURE_EN_US": "FAIL",
+      "CULTURE_ZH_CN": "失败"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Components",
+    "Localization": {
+      "CULTURE_EN_US": "Components",
+      "CULTURE_ZH_CN": "组件"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENTS",
+    "Localization": {
+      "CULTURE_EN_US": "COMPONENTS",
+      "CULTURE_ZH_CN": "组件"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.STATE",
+    "Localization": {
+      "CULTURE_EN_US": "STATE",
+      "CULTURE_ZH_CN": "状况"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.OPERATIONAL",
+    "Localization": {
+      "CULTURE_EN_US": "OPERATIONAL",
+      "CULTURE_ZH_CN": "运行中"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Done",
+    "Localization": {
+      "CULTURE_EN_US": "Done",
+      "CULTURE_ZH_CN": "完成"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.ReactroTooHot",
+    "Localization": {
+      "CULTURE_EN_US": "REACTOR IS TOO HOT FOR STARTUP",
+      "CULTURE_ZH_CN": "反应堆过热，无法启动"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRED",
+    "Localization": {
+      "CULTURE_EN_US": "REPAIRED",
+      "CULTURE_ZH_CN": "已修复"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRARMOR",
+    "Localization": {
+      "CULTURE_EN_US": "ARMOR",
+      "CULTURE_ZH_CN": "装甲"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRSTRUCTURE",
+    "Localization": {
+      "CULTURE_EN_US": "STRUCTURE",
+      "CULTURE_ZH_CN": "结构"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRSTRUCTURE",
+    "Localization": {
+      "CULTURE_EN_US": "STRUCTURE",
+      "CULTURE_ZH_CN": "结构"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT",
+    "Localization": {
+      "CULTURE_EN_US": "COMPONENT",
+      "CULTURE_ZH_CN": "组件"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_LABEL",
+    "Localization": {
+      "CULTURE_EN_US": "COMPONENT",
+      "CULTURE_ZH_CN": "组件"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_DESCRIPTION",
+    "Localization": {
+      "CULTURE_EN_US": "Description",
+      "CULTURE_ZH_CN": "描述"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_STATE",
+    "Localization": {
+      "CULTURE_EN_US": "MODE",
+      "CULTURE_ZH_CN": "模式"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_CHARGES",
+    "Localization": {
+      "CULTURE_EN_US": "CHARGES",
+      "CULTURE_ZH_CN": "充能"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENT_FAIL",
+    "Localization": {
+      "CULTURE_EN_US": "FAIL%",
+      "CULTURE_ZH_CN": "故障概率%"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TARGET.ERROR",
+    "Localization": {
+      "CULTURE_EN_US": "ERROR",
+      "CULTURE_ZH_CN": "错误"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.ERROR",
+    "Localization": {
+      "CULTURE_EN_US": "UNABLE TO COMPLY",
+      "CULTURE_ZH_CN": "无法执行"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TARGET.HELP",
+    "Localization": {
+      "CULTURE_EN_US": "HELP",
+      "CULTURE_ZH_CN": "帮助"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.USAGE.TARGETS.DETAILS",
+    "Localization": {
+      "CULTURE_EN_US": "You can select target for this component\nYou can hover over ERROR text to view details",
+      "CULTURE_ZH_CN": "你可以为该组件选择目标\n你可以把光标悬停在错误文本上查看详情"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.LIST",
+    "Localization": {
+      "CULTURE_EN_US": "LIST OF SUITABLE WEAPONS",
+      "CULTURE_ZH_CN": "适用武器列表"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.CLOSE",
+    "Localization": {
+      "CULTURE_EN_US": "Close",
+      "CULTURE_ZH_CN": "关闭"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.USAGE",
+    "Localization": {
+      "CULTURE_EN_US": "Information",
+      "CULTURE_ZH_CN": "信息"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.TARGETS",
+    "Localization": {
+      "CULTURE_EN_US": "Weapons",
+      "CULTURE_ZH_CN": "武器"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEAT_PANEL.TOOLTIP.NAME",
+    "Localization": {
+      "CULTURE_EN_US": "HEAT SINKS CONTROL",
+      "CULTURE_ZH_CN": "散热器控制",
+      "CULTURE_RU_RU": "КОНТРОЛЬ ОХЛАДИТЕЛЕЙ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEATSINK_CONTROL.BUTTON",
+    "Localization": {
+      "CULTURE_EN_US": "HEAT SINKS CONTROL",
+      "CULTURE_ZH_CN": "散热器控制",
+      "CULTURE_RU_RU": "КОНТРОЛЬ ОХЛАДИТЕЛЕЙ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEAT_PANEL.TOOLTIP.DESCRIPTION",
+    "Localization": {
+      "CULTURE_EN_US": "Heat sinks control panel. Allows to enable/disable heat sinks",
+      "CULTURE_ZH_CN": "散热器控制面板. 允许启用/停用散热器",
+      "CULTURE_RU_RU": "Панель контроля охладителей. Позволяет включать и выключать охладители."
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEAT_CONTROL.CUR",
+    "Localization": {
+      "CULTURE_EN_US": "Heat(cur./overheat/max)",
+      "CULTURE_ZH_CN": "热量（当前/过热/上限）",
+      "CULTURE_RU_RU": "Нагрев(тек./перегрев/макс.)"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEAT_CONTROL.CAP",
+    "Localization": {
+      "CULTURE_EN_US": "Heat sink capacity",
+      "CULTURE_ZH_CN": "散热器容量",
+      "CULTURE_RU_RU": "Резерв системы охлаждения"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEAT_CONTROL.HELP",
+    "Localization": {
+      "CULTURE_EN_US": "LMB over heat sink to toggle its state",
+      "CULTURE_ZH_CN": "左键点击散热器切换其状态",
+      "CULTURE_RU_RU": "кликни ЛКМ по охладителю для переключения его состояния"
+    }
+  }
+]

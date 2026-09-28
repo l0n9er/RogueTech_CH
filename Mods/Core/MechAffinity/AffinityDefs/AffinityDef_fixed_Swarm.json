@@ -1,0 +1,138 @@
+{
+  "id": "AffinityDef_fixed_Swarm",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_BattleArmor_ArmoredGloves",
+      "Gear_BattleArmor_BasicManipulators",
+      "Gear_BattleArmor_VibroClaws",
+      "Gear_BattleArmor_HeavyVibroClaws",
+      "Gear_BattleArmor_XenoClaws"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 60,
+        "levelName": "蜂群！",
+        "decription": "蜂群攻击检定 +1，+1 近战精度，+10% 近战伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Swarm_to_Hit",
+              "Name": "Fixed Affinity Swarm 60 Swarm!: Improved Melee Accuracy",
+              "Details": "所有武器 +2 精度，+50% 暴击，+30% 射程，-50% 最小射程。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponSubType": "Melee"
+            }
+          }
+        ]
+      },
+      {
+        "missionsRequired": 80,
+        "levelName": "打他们的膝盖！",
+        "decription": "+1 物理精度，+10% 物理武器伤害与稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "TunedActuatorsAffinityAccPhys",
+              "Name": "Fixed Affinity Swarm 80 Go For The Knees!: Improved Physical Weapon Hit Chance",
+              "Details": "近战武器精度修正",
+              "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Damage_Mod",
+              "Name": "Fixed Affinity Swarm 80 Go For The Knees!: Increased Physical Weapon Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Stability_Mod",
+              "Name": "Fixed Affinity Swarm 80 Go For The Knees!: Increased Physical Weapon Stability Damage",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

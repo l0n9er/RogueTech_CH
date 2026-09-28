@@ -1,0 +1,141 @@
+{
+  "id": "AffinityDef_fixed_One_with_the_Machine",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Cockpit_Interface_Desperado",
+      "Unique_Cockpit_Interface_Assassin",
+      "Unique_Cockpit_Interface_TorsoMounted_Mechagodzilla",
+      "Unique_Cockpit_Interface_TorsoMounted_Mekagojira",
+      "Unique_Cockpit_Interface_Skinwalker",
+      "Unique_FCS_BufferedVDNI",
+      "Gear_Cockpit_Interface",
+      "Gear_Cockpit_Interface_TorsoMounted",
+      "Gear_FCS_VDNI",
+      "Default_Vehicle_Crew_VDNI",
+      "Gear_Cockpit_DNI_MkII",
+      "Unique_Gear_Cockpit_ECC",
+      "Unique_Gear_FCS_Berserker",
+      "Gear_Protomech_Cockpit",
+      "Unique_Cockpit_EnhancedImaging_Direstar"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 140,
+        "levelName": "人机合一",
+        "decription": "全部飞行员技能 +1",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Gunnery",
+              "Name": "Fixed Affinity One with the Machine: Increased Gunnery",
+              "Details": "提升射击技能",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "Gunnery",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Piloting",
+              "Name": "Fixed Affinity One with the Machine: Increased Piloting",
+              "Details": "提升驾驶技能",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "Piloting",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Guts",
+              "Name": "Fixed Affinity One with the Machine: Increased Guts",
+              "Details": "提升胆识技能",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "Guts",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Tactics",
+              "Name": "Fixed Affinity One with the Machine: Increased Tactics",
+              "Details": "提升战术技能",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "Tactics",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

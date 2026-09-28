@@ -1,0 +1,54 @@
+{
+  "id": "AffinityDef_fixed_Alacrity",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_MechSquad_Systems_Ultralight_x2",
+      "Gear_MechSquad_Systems_Ultralight_x4",
+      "Gear_MechSquad_Systems_x4",
+      "Gear_BattleArmor_MotiveSystem_MP1",
+      "Gear_BattleArmor_MotiveSystem_MP2",
+      "Gear_BattleArmor_MotiveSystem_MP3",
+      "Gear_BattleArmor_MotiveSystem_MP4",
+      "Gear_BattleArmor_MotiveSystem_MP5",
+      "Gear_BattleArmor_VTOL_MP5",
+      "Gear_BattleArmor_VTOL_MP6",
+      "Gear_BattleArmor_VTOL_MP7"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 90,
+        "levelName": "迅捷",
+        "decription": "移动时 +1 闪避",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "GainEvasion",
+              "Name": "Fixed Affinity Alacrity: Increased Evasive Pips Gain",
+              "Details": "该单位通过移动行动额外获得 1 层闪避（不超过上限）。",
+              "Icon": "uixSvgIcon_action_evasivemove"
+            },
+            "statisticData": {
+              "statName": "EvasivePipsGainedAdditional",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

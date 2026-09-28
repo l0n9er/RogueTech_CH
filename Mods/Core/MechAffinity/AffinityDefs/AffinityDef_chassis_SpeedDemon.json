@@ -1,0 +1,59 @@
+{
+  "id": "AffinityDef_chassis_SpeedDemon",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "CrowVTOL_15",
+      "Cyrano_30",
+      "FerretVTOL_11",
+      "Karnov_30",
+      "Kestrel_25",
+      "Marten_15",
+      "RipperVTOL_10",
+      "SprintVTOL_10",
+      "UAVDrone_0.5",
+      "UAVDrone_1",
+      "NighthawkUAV_5",
+      "Vector_22",
+      "Vespa_15"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "速度狂",
+        "decription": "+3 最大闪避值",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Speed_Demon",
+              "Name": "Chassis Affinity SpeedDemon: Increased Max Evasive Pips",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "MaxEvasivePips",
+              "operation": "Int_Add",
+              "modValue": "3",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

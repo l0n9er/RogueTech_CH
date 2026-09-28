@@ -1,0 +1,172 @@
+{
+  "id": "AffinityDef_chassis_Brute",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "quasit_45",
+      "griffin_55",
+      "thundergriffin_55",
+      "griffin_60",
+      "griffin_65",
+      "griffiniic_40",
+      "charger_80",
+      "charger_75",
+      "crusader_65",
+      "templarcrd_65",
+      "Hammer_30",
+      "loaderking_65",
+      "shadowhawk_50",
+      "shadowhawk_55",
+      "shadowhawkQS_55",
+      "shadowhawkiic_45",
+      "alfar_55",
+      "akuma_90",
+      "atlas_100",
+      "atlasii_100",
+      "atlasiic_100",
+      "atlasiii_100",
+      "atlasiv_100",
+      "kodiak_100",
+      "Gojira_200",
+      "anni-gojira_100",
+      "CGR-QS_80",
+      "DigLord_65",
+      "dominator_65",
+      "kontio_40",
+      "sarath_50",
+      "hammerhead_45",
+      "amarok_100",
+      "colossus_95"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "chassisdef_crab_CRB-GI",
+          "chassisdef_cataphract_CTF-P",
+          "chassisdef_blackknight_BL-S7",
+          "chassisdef_firestarter_FS7-S"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "暴君",
+        "decription": "拳击与踢击：+10% 伤害与稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Brute_Punch_Dmg",
+              "Name": "Chassis Affinity Brute: Increased Punch Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Brute_Punch_StabDmg",
+              "Name": "Chassis Affinity Brute: Increased Punch Stability Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Brute_Kick_Dmg",
+              "Name": "Chassis Affinity Brute: Increased Kick Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Kick_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Brute_Kick_StabDmg",
+              "Name": "Chassis Affinity Brute: Increased Kick Stability Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Kick_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "AffinityDef_chassis_Armed_to_the_Teeth",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Ishtar_65",
+      "IshtarII_65",
+      "SLDFHeavy_80",
+      "SLDFMedium_45",
+      "Vachir_175",
+      "ReallyBigTank_150",
+      "arachnid_200",
+      "tercio_185",
+      "warcrow_70",
+      "blackwatch_85",
+      "malice_100",
+      "malice_105",
+      "nightwolf_90",
+      "peacekeeper_95",
+      "rattler_100",
+      "tempestclan_95",
+      "thunderhawk_clan_90",
+      "wakazashi_85",
+      "grond_175",
+      "dengier_70"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "vehiclechassisdef_ZHUKOV_WOB",
+          "chassisdef_dervish_DV-8D2"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "全副武装",
+        "decription": "+1 忽略闪避，-5% 武器产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ArmedToTheTeeth_EvasionIgnore",
+              "Name": "Chassis Affinity Armed to the Teeth: Increased Evasive Pips Ignore",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "EvasionIgnoreFilter",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ArmedToTheTeeth_Heat",
+              "Name": "Chassis Affinity Armed to the Teeth: Decreased Heat Generated",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.95",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

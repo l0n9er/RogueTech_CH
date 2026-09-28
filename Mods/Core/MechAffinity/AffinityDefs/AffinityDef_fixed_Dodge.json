@@ -1,0 +1,48 @@
+{
+  "id": "AffinityDef_fixed_Dodge",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_BattleArmor_Systems",
+      "Gear_BattleArmor_Systems_NoMount",
+      "Gear_BattleArmor_Systems_Quad",
+      "Gear_BattleArmor_Systems_VTOL"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 100,
+        "levelName": "闪避！",
+        "decription": "+1 防御",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-Defense_ToHit-T2",
+              "Name": "Fixed Affinity Dodge: Reduced Hit Chance Against",
+              "Details": "对攻击该单位的所有攻击施加惩罚。",
+              "Icon": "uixSvgIcon_equipment_Gyro"
+            },
+            "statisticData": {
+              "statName": "ToHitThisActor",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

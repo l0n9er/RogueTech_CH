@@ -1,0 +1,189 @@
+{
+  "id": "AffinityDef_chassis_Scout",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "whiptail_10",
+      "Asher_45",
+      "AWACS_30",
+      "Beagle_15",
+      "Chevalier_35",
+      "Kamisori_20",
+      "Cobra_25",
+      "DauntlessVTOL_30",
+      "Defender_35",
+      "Galleon_30",
+      "Hipparch_30",
+      "KiteRV_30",
+      "Mithras_25",
+      "Neith_40",
+      "NightshadeVTOL_25",
+      "Packrat_20",
+      "PathTrackDrone_3",
+      "Pegasus_35",
+      "WeaponsCarrier_20",
+      "WeaponsCarrier_30",
+      "Rotunda_20",
+      "Shandra_25",
+      "Skanda_35",
+      "Skulker_20",
+      "Striker_35",
+      "WheeledScout_20",
+      "Zephyros_25",
+      "Hitman_30",
+      "Sentinel_40",
+      "mongoose_25",
+      "cometscream_55",
+      "noisejammer_85",
+      "Redshift_20",
+      "Ghost_50",
+      "Kheper_55",
+      "Preta_45",
+      "malak_30",
+      "cyclops_30",
+      "arcticwolf_40",
+      "arcticwolfomni_40",
+      "arcticwolfii_40",
+      "arcticwolfii_45",
+      "LocustIIC_25",
+      "Owens_35",
+      "Stiletto_35",
+      "commando_25",
+      "CommandoIIC_25",
+      "locust_20",
+      "locustQS_20",
+      "raven_35",
+      "gui_guisui_25",
+      "raven_40",
+      "ravenii_40",
+      "Ostscout_35",
+      "ostscoutiic_35",
+      "Gun_20",
+      "gun-squad_80",
+      "VulcanII_40",
+      "NightHawk_35",
+      "COM-QS_25",
+      "VLK-QS_30",
+      "hermes_30",
+      "hermesii_40",
+      "hermesiii_40",
+      "battlecobrawob_40",
+      "raijin_50",
+      "raijinii_50",
+      "waukheonlam_55",
+      "Hephaestus_30",
+      "CentipedeSC_20",
+      "bishamon_45",
+      "eagle_25",
+      "cricket_30",
+      "arbalest_25",
+      "bloodferret_20",
+      "duangang_25",
+      "falconhawk_35",
+      "gurkha_35",
+      "jackalope_30",
+      "mjolnir_25",
+      "nyx_30",
+      "ocelot_35",
+      "parash_35",
+      "pathfinder_25",
+      "silverfox_35",
+      "haruna_35",
+      "parakeet_30",
+      "incursion_70",
+      "voodoolam_25"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "侦察兵",
+        "decription": "+15% 视野与传感器范围，+1 探测器",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Scout_Probe",
+              "Name": "Chassis Affinity Scout: Active Probe",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "LV_PROBE_CARRIER",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Scout_Sensors",
+              "Name": "Chassis Affinity Scout: Increased Sensor Range Multiplier",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SensorDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.15",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Scout_Sight",
+              "Name": "Chassis Affinity Scout: Increased Vision Range Multiplier",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SpotterDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.15",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

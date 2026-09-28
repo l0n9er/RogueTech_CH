@@ -1,0 +1,73 @@
+{
+  "id": "AffinityDef_fixed_Heavy_Gunner_CT",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Turret_VultureMkII"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 80,
+        "levelName": "重型射手（中央躯干）",
+        "decription": "中央躯干安装武器 +1 精度，+15% 稳定伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_HeavyGunner_CT",
+              "Name": "Fixed Affinity Heavy Gunner CT: Improved Center Torso Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CenterTorso.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "SpinalMountAffinityStab",
+              "Name": "Fixed Affinity Heavy Gunner CT: Decreased Stability Damage Taken",
+              "Details": "受到的稳定性伤害降低 20%。",
+              "Icon": "uixSvgIcon_equipment_Gyro"
+            },
+            "statisticData": {
+              "statName": "ReceivedInstabilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

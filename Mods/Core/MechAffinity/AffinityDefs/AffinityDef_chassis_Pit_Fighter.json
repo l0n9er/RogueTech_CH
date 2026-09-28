@@ -1,0 +1,150 @@
+{
+  "id": "AffinityDef_chassis_Pit_Fighter",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "smackie_105"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "角斗士",
+        "decription": "-10% 能力决心消耗。拳击：+20% 伤害与稳定伤害，+2 精度，额外 +1 次拳击",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_PitFighter_Damage",
+              "Name": "Chassis Affinity Pit Fighter: Increased Punch Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.2",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_PitFighter_InstabilityDamage",
+              "Name": "Chassis Affinity Pit Fighter: Increased Punch Stability Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.2",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_PitFighter_Attack",
+              "Name": "Chassis Affinity Pit Fighter: Improved Punch Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Punch_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-2",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_PitFighter_ExtraHits",
+              "Name": "Chassis Affinity Pit Fighter: Increased Physical Weapon Extra Hits",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Extra_Hits_Count",
+              "operation": "Float_Add",
+              "modValue": "1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Primitive_ResolveCost",
+              "Name": "Chassis Affinity Pit Fighter: Decreased Ability Resolve Cost",
+              "Details": "提高机甲战士技能的决心消耗",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "resolveCostBaseMult",
+              "operation": "Float_Add",
+              "modValue": "-0.1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

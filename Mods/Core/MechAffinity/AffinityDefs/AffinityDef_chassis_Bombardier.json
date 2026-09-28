@@ -1,0 +1,144 @@
+{
+  "id": "AffinityDef_chassis_Bombardier",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "KingHarald_200",
+      "Object842_125",
+      "urbanking_110",
+      "yinyang_185",
+      "blackrose_125",
+      "narayana_140"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "chassisdef_arctos_ACT-4"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "轰击手",
+        "decription": "-10% 最小、-15% 最大散布半径，-2 火炮后坐力，多目标",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Bombardier_MaxScatter",
+              "Name": "Chassis Affinity Bombardier: Decreased Max Miss Radius",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CAC_MaxMissRadius_Mod",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Bombardier_MinScatter",
+              "Name": "Chassis Affinity Bombardier: Decreased Min Miss Radius",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CAC_MinMissRadius_Mod",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Bombardier_Recoil",
+              "Name": "Chassis Affinity Bombardier: Decreased Ballistic Recoil",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "Artillery_Filter",
+              "statName": "RefireModifier",
+              "operation": "Int_Add",
+              "modValue": "-2",
+              "modType": "System.Int32",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Ballistic"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Bombardier_MultiTarget",
+              "Name": "Chassis Affinity Bombardier: Allow Multi Target",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "IRAllowMultiTarget",
+              "operation": "Set",
+              "modValue": "true",
+              "modType": "System.Boolean"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

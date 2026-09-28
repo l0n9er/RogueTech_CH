@@ -1,0 +1,73 @@
+{
+  "id": "AffinityDef_quirk_Flexible_Internals",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_ModularWeapons",
+      "Quirk_Copied_Clan_Tech"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "柔韧内部结构",
+        "decription": "+3 散热能力，-6% 武器产热",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Stealth_Heat_Generation_Stealth",
+              "Name": "Quirk Affinity Flexible Internals: Decreased Heat Generated",
+              "Details": "热量产生 6%.",
+              "Icon": "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "statisticData": {
+              "statName": "HeatGenerated",
+              "operation": "Float_Multiply",
+              "modValue": "0.94",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Debuff",
+            "Description": {
+              "Id": "Stealth_Heat_Capacity_Stealth",
+              "Name": "Quirk Affinity Flexible Internals: Increased Cooling",
+              "Details": "散热能力提升 3",
+              "Icon": "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "statisticData": {
+              "statName": "HeatSinkCapacity",
+              "operation": "Int_Add",
+              "modValue": "3",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "AffinityDef_fixed_Black_Ops_Recon",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_Vehicle_Armor_Stealth",
+      "Unique_Gear_Vehicle_Structure_Stealth_RedOctober",
+      "Gear_Armor_Stealth",
+      "Gear_Armor_Stealth_Clan",
+      "Gear_Armor_Stealth_Superheavy",
+      "Gear_Armor_Stealth_Superheavy_Clan",
+      "Gear_BattleArmor_Armor_Stealth_Basic",
+      "Gear_BattleArmor_Armor_Stealth_Basic_Clan",
+      "Gear_BattleArmor_Armor_Stealth_Improved",
+      "Gear_BattleArmor_Armor_Stealth_Improved_Clan",
+      "Gear_BattleArmor_Armor_Stealth_Prototype",
+      "Gear_BattleArmor_Armor_Stealth_Standard",
+      "Gear_BattleArmor_Armor_Stealth_Standard_Clan",
+      "Gear_BattleArmor_Armor_Mimetic"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 140,
+        "levelName": "黑色行动侦察",
+        "decription": "+1 ECM 护盾，-15% 可见度与传感器信号",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Predator_Signature",
+              "Name": "Fixed Affinity Black Ops Recon: Decreased Sensor Signature",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SensorSignatureModifier",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Predator_Visibility",
+              "Name": "Fixed Affinity Black Ops Recon: Decreased Visual Signature",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SpottingVisibilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Predator_ECM",
+              "Name": "Fixed Affinity Black Ops Recon: Increased ECM Shield",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "LV_ECM_SHIELD",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

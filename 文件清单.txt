@@ -1,0 +1,35 @@
+﻿BATTLETECH / RogueTech 简体中文补丁 v25 —— 文件清单
+
+【核心】（游戏真正读取的东西）
+strings_zh-CN.csv                    翻译总表：61,339 行 / 60,888 键
+                                     安装位置：<游戏目录>\BattleTech_Data\StreamingAssets\data\localization\
+Mods\                                已汉化的模组数据（安装脚本会全部写入游戏）
+  Core\MechAffinity\AffinityDefs\*.json    224 个亲和数据（levelName / decription）
+  Core\MechAffinity\MechAffinity.dll       界面标签（等长字节替换，已校验可加载）
+  Core\*\Localization*.json                各模组本地化表（CULTURE_ZH_CN 字段）
+  Core\*\categories\Categories_*.json      装备分类显示名
+
+【安装】
+安装.bat                             一键安装（双击即可）
+工具\安装.ps1                        安装脚本：自动找游戏目录、先备份再覆盖、
+                                     游戏在运行则拒绝执行，共 9 个步骤
+
+【工具】（正常无需手动运行，安装脚本会自动调用）
+工具\fold-apply.ps1                  数据字段汉化（Details / YangsThoughts / StockRole）
+工具\dict-all.tsv                    翻译词典（供上面脚本使用）
+工具\apply-category-zh.ps1           装备分类显示名汉化
+工具\fix-ctl.ps1                     修复 U+001F 控制字符（方框问题根因）
+工具\cleanup.ps1                     清理标点多余空格（占位符受保护）
+工具\apply-norm.ps1                  术语归一化与格式修复
+工具\norm-csv.ps1                    规范化翻译总表的标点格式
+工具\qa-check.ps1                    汉化质量自检
+工具\affinity-zh.tsv                 亲和名称中英对照
+工具\affinity-names-extra.tsv        手工补译的亲和名称
+
+【可选】
+可选-模组形式\CustomLocalization-ZH-CN\   把翻译总表做成 ModTek 模组
+                                          （复制到 <游戏目录>\Mods\Options\Localization\）
+RtCache\                             与 RogueTech 启动器缓存目录对应的副本
+
+【备份】（不打包进 zip）
+backup\                              覆盖前的原文件备份，按时间戳分目录

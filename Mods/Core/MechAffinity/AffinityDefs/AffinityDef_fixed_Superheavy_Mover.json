@@ -1,0 +1,48 @@
+{
+  "id": "AffinityDef_fixed_Superheavy_Mover",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_SuperheavyFrame_Colossal",
+      "Gear_SuperheavyFrame_Large",
+      "Gear_SuperheavyFrame_Massive",
+      "Gear_SuperheavyFrame_Medium",
+      "Gear_SuperheavyFrame_Small"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 140,
+        "levelName": "超重型搬运者",
+        "decription": "+25% 奔跑速度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Trait Superheavy Mover",
+              "Name": "Fixed Affinity Superheavy Mover: Increased Run Speed",
+              "Details": "更快。",
+              "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "statisticData": {
+              "statName": "CBTBE_RunMultiMod",
+              "operation": "Float_Multiply",
+              "modValue": "1.25",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "AffinityDef_quirk_Careful_Aim",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_HyperExtendingActuators"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "谨慎瞄准",
+        "decription": "+2 进攻推进精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "TC-CalledShotAcc",
+              "Name": "Quirk Affinity Careful Aim: Improved Called Shot Hit Chance",
+              "Details": "被动：以单件武器攻击时忽略目标的掩护与戒备。",
+              "Icon": "uixSvgIcon_ability_precisionstrike"
+            },
+            "statisticData": {
+              "statName": "IRTCalledShotMod",
+              "operation": "Int_Add",
+              "modValue": "-2",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

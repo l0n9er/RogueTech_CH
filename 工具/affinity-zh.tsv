@@ -1,0 +1,404 @@
+N	Advanced Field Command	高级战场指挥	pairs
+N	Advanced Long Range Targeting	高级远程瞄准	pairs
+N	Advanced Medium Range Targeting	高级中程瞄准	pairs
+N	Advanced Network	高级网络	pairs
+N	Advanced Short Range Targeting	高级近程瞄准	pairs
+N	Advanced Tracking	高级追踪	pairs
+N	Aerial Acrobat	空中特技	pairs
+N	Afterburner		NONE
+N	Agile	灵活	pairs
+N	Airtrooper		NONE
+N	Alacrity		NONE
+N	All Out	全力以赴	pairs
+N	All Range Tracking	全射程追踪	pairs
+N	All Seeing	全视	pairs
+N	Alpha Mike Foxtrot	一路顺风	pairs
+N	Ambusher	伏击者	csv
+N	Anarchist		NONE
+N	Ankle biter	咬脚踝的	pairs
+N	Anti-'Mech Tactics	反机甲战术	pairs
+N	Aries Initiative	白羊先攻	pairs
+N	Armed to the Teeth	全副武装	pairs
+N	Asskickah		NONE
+N	AutoCannon Mastery	自动炮精通	pairs
+N	Ballistic Expertise	实弹专精	pairs
+N	Ballistics Mastery	实弹精通	pairs
+N	Barbarian		NONE
+N	Barrage		NONE
+N	Battlefield Commander	战场指挥官	pairs
+N	Because "Science"		NONE
+N	Benedictio Caelestis	天赐之福	pairs
+N	Big Bad	大恶棍	pairs
+N	Black Ops	黑色行动	pairs
+N	Black Ops Recon	黑色行动侦察	pairs
+N	Bombardier		NONE
+N	Brawler	缠斗者	pairs
+N	Broadside		NONE
+N	Brute	暴君	csv
+N	Calibrated Weapons	校准武器	pairs
+N	Camouflaged		NONE
+N	Can't Touch This	打不着我	pairs
+N	Careful Aim	谨慎瞄准	pairs
+N	Cased Components	装箱组件	pairs
+N	Cheaply Made	廉价制造	pairs
+N	CHOMP!		NONE
+N	Close Quarters Specialist	近身战专家	pairs
+N	Comfy Coffin	舒适棺材	pairs
+N	Complete Overhaul	彻底翻修	pairs
+N	Cool Running	凉爽运转	pairs
+N	Cooled Laser	冷却激光	pairs
+N	Cooler Master	散热大师	pairs
+N	Coordination		NONE
+N	Death From Above!	从天而降！	pairs
+N	Deep Fried	炸透	pairs
+N	Defender	防御者	csv
+N	Defender of the Word	圣言守护者	pairs
+N	Destroyer		NONE
+N	Dodge!		NONE
+N	Dreadnought	无畏战舰	csv
+N	Durability	耐久	csv
+N	Eagle Eye	鹰眼	pairs
+N	Electromagnetic Proficiency	电磁精通	pairs
+N	Energizer		NONE
+N	Energy Mastery	能量武器精通	pairs
+N	Evasive	闪避	csv
+N	Expert Runner	疾行专家	pairs
+N	Eye of Blake	布雷克之眼	pairs
+N	Faceful of Fist	一记正脸拳	pairs
+N	Faster than Wind	疾于风	pairs
+N	FEAR ME!	畏惧我吧！	pairs
+N	Field Command	战场指挥	pairs
+N	Field Ionizer	野战离子器	pairs
+N	Fighter		NONE
+N	Fire For Effect	效力射	pairs
+N	Firestarter	纵火者	pairs
+N	Firewalker	火焰行者	pairs
+N	First of its Kind	开山之作	pairs
+N	Fisticuffs		NONE
+N	Flexibility		NONE
+N	Flexible Internals	柔韧内部结构	pairs
+N	Fly High!	高飞！	pairs
+N	Focus Fire	集中火力	pairs
+N	Gauss Mastery	高斯精通	pairs
+N	GERONIMO!		NONE
+N	GO FASTAH	再快点！	pairs
+N	Go for the knees!	打他们的膝盖！	pairs
+N	Guardian		NONE
+N	Gunboat		NONE
+N	Gunslinger		NONE
+N	HandHeld Mastery	手持武器精通	pairs
+N	Hardened Internals	加固内部结构	pairs
+N	Hardened Plates	加固装甲板	pairs
+N	Hardy		NONE
+N	Heavy Gunner (CT)	重型射手（中央躯干）	pairs
+N	Heavy Gunner (Front)	重型射手（前向）	pairs
+N	Heavy Gunner (LT)	重型射手（左躯干）	pairs
+N	Heavy Gunner (RT)	重型射手（右躯干）	pairs
+N	Heavy MRM Wizard	重型 MRM 巫师	pairs
+N	High Command	最高指挥部	pairs
+N	High Performance	高性能	pairs
+N	High-Pressure-Cooling		NONE
+N	Hull Down	掩体隐蔽	pairs
+N	Hunter		NONE
+N	Hunter/Killer Team Training	猎杀小组训练	pairs
+N	I See You	我看见你了	pairs
+N	iATM Expert	iATM 专家	pairs
+N	Im a Leaf on the Wind	我是风中的一片叶	pairs
+N	Imperceptible		NONE
+N	Improved Blazer	改进型双联激光	pairs
+N	Improved Concealment	改进型隐蔽	pairs
+N	Indomitable		NONE
+N	Industrial Safety Bypass	绕过工业安全	pairs
+N	Infantry Slayer	步兵杀手	pairs
+N	Jack of all Trades	样样通	pairs
+N	Juggernaut	主宰者	pairs
+N	Jump Trooper	跳跃兵	pairs
+N	Jumpy		NONE
+N	Just a Flesh Wound	不过是皮肉伤	pairs
+N	LAM-like		NONE
+N	Laser Mastery	激光精通	pairs
+N	Leaf on the Wind!	风中之叶！	pairs
+N	Left-handed Specialist	左手专精	pairs
+N	Lifeboat		NONE
+N	MachineGun Mastery	机枪精通	pairs
+N	Machinist		NONE
+N	Man-of-War		NONE
+N	Marksman		NONE
+N	Master Gunner	射击大师	pairs
+N	Master Tactician	战术大师	pairs
+N	Melee Mastery	近战精通	pairs
+N	Missile Boat	导弹平台	pairs
+N	Missile Defender	导弹防御者	pairs
+N	Missile Defense	导弹防御	pairs
+N	Missile Mastery	导弹精通	pairs
+N	Missile Swarm Platform	导弹蜂群平台	pairs
+N	Nothing to See Here	这里没什么可看的	pairs
+N	Obvious Controls	一目了然的操控	pairs
+N	One with the Machine	人机合一	pairs
+N	Overclocking		NONE
+N	Particular Mastery	特殊精通	pairs
+N	Pedal to the Metal	油门踩到底	pairs
+N	Persistence		NONE
+N	Physical Weapon Mastery	物理武器精通	pairs
+N	Pinpoint		NONE
+N	Pinpoint Rockets	精准火箭	pairs
+N	Pit Fighter	角斗士	pairs
+N	Plasma Capacitors	等离子电容器	pairs
+N	Polly!		NONE
+N	PPC Mastery	PPC 精通	pairs
+N	Prototype Weapons Master	原型武器大师	pairs
+N	Push the Envelope	挑战极限	pairs
+N	Range Tracking	射程追踪	pairs
+N	Raxpert		NONE
+N	Reactive Plates	反应装甲板	pairs
+N	Reflective Coating	反射涂层	pairs
+N	Resilience		NONE
+N	Robustness		NONE
+N	Rock Solid	稳如磐石	pairs
+N	Ronin	浪人	csv
+N	Scout	侦察兵	pairs
+N	Scrapper	斗士	csv
+N	Section 8	八号条款	pairs
+N	Sharpshooter	神射手	csv
+N	Shieldbearer		NONE
+N	Shielded		NONE
+N	Shocktrooper		NONE
+N	Sieged		NONE
+N	Skeet Shooter	飞靶射手	pairs
+N	Skilled Sensor Operator	熟练传感器操作员	pairs
+N	Smart Warheads	智能弹头	pairs
+N	Sniper	狙击手	pairs
+N	Speed Demon	速度狂	pairs
+N	Stabilized Weapons Platform	稳定武器平台	pairs
+N	Stabilzation Guru	稳定大师	pairs
+N	Stake Out	蹲守	pairs
+N	Stalker	潜行者	pairs
+N	Steady Aim	稳定瞄准	pairs
+N	Storm Trooper	风暴兵	pairs
+N	Strength of the Faithful	信徒之力	pairs
+N	Supercooled		NONE
+N	Supercooled AutoCannons	过冷自动炮	pairs
+N	Supercooled Laser	过冷激光	pairs
+N	Supercooled Missiles	过冷导弹	pairs
+N	Supercooled PPC	过冷 PPC	pairs
+N	Superheavy Mover	超重型搬运者	pairs
+N	Superheavy Rotary Autocannon Virtuoso	超重型旋转自动炮名家	pairs
+N	Superior Stabilisation	卓越稳定	pairs
+N	Swarm!		NONE
+N	Swiss Cheese	瑞士奶酪	pairs
+N	Swordmaster		NONE
+N	Test Pilot	试驾员	pairs
+N	The Large Bore	大口径	pairs
+N	The One Truth	唯一真理	pairs
+N	Thrasher		NONE
+N	Tuned Actuators	调校执行器	pairs
+N	Tuned Battlecomputers	调校战斗计算机	pairs
+N	Tuned Engine	调校引擎	pairs
+N	Twin Minds	双生心智	pairs
+N	Unassailable		NONE
+N	Unrelenting Flanker	不倦侧翼手	pairs
+N	Unyielding		NONE
+N	Vector Plotting	矢量规划	pairs
+N	Weapons Bay Mastery	武器舱精通	pairs
+N	Well-built		NONE
+N	Wing-mounted Mastery	翼载武器精通	pairs
+N	WITNESS ME!	见证我吧！	pairs
+N	Zeroed In	校准完毕	pairs
+D	+1 accuracy	+1 精度	pairs
+D	+1 accuracy to all torso-mounted weapons	所有躯干安装武器 +1 精度	pairs
+D	+1 accuracy, -1 recoil, -5% weapon heat generation	+1 精度，-1 后坐力，-5% 武器产热	pairs
+D	+1 accuracy, -1 recoil, -5% weapon heat generation, +5% Called Shot location hit chance	+1 精度，-1 后坐力，-5% 武器产热，+5% 定点射击命中指定部位几率	pairs
+D	+1 accuracy, -10% heat generation, +10 heat sinking	+1 精度，-10% 产热，+10 散热能力	pairs
+D	+1 accuracy, -5% weapon heat generation, +5% damage resistance	+1 精度，-5% 武器产热，+5% 伤害减免	pairs
+D	+1 Adv. sensors, +1 to all pilot skills, +35% panic resistance, +45% critical hit resistance (more than canceling malus from quirk). 'Once you totally rebuild a Quicksell tank, they aren't that bad.' - Anon	+1 高级传感器，+1 全部飞行员技能，+35% 恐慌抗性，+45% 暴击抗性（足以抵消特质的减益）。"一旦你把快售坦克彻底重造一遍，它们也没那么糟。" —— 佚名	pairs
+D	+1 Adv. sensors, +10% sensor range	+1 高级传感器，+10% 传感器范围	pairs
+D	+1 Adv. sensors, +10% sight range, +5% sensor range	+1 高级传感器，+10% 视野范围，+5% 传感器范围	pairs
+D	+1 arm-mounted accuracy	臂载武器 +1 精度	pairs
+D	+1 arm-mounted accuracy. Punch & physical weapon: +1 accuracy and +5% damage	臂载武器 +1 精度。拳击与物理武器：+1 精度，+5% 伤害	pairs
+D	+1 arm-mounted weapon accuracy	臂载武器 +1 精度	pairs
+D	+1 Called Shot accuracy	+1 定点射击精度	pairs
+D	+1 center torso-mounted accuracy, +15% stability damage resistance	中央躯干安装武器 +1 精度，+15% 稳定伤害减免	pairs
+D	+1 Defense	+1 防御	pairs
+D	+1 Defense and +1 Melee Defense	+1 防御，+1 近战防御	pairs
+D	+1 Defense, +1 DFA accuracy, +10% jump distance	+1 防御，+1 "从天而降"精度，+10% 跳跃距离	pairs
+D	+1 Defense, -5% visibility	+1 防御，-5% 可见度	pairs
+D	+1 ECM shield, +1 probe	+1 ECM 护盾，+1 探测器	pairs
+D	+1 ECM shield, +10% sight & sensor range, +1 probe, -25% visual & sensor signature	+1 ECM 护盾，+10% 视野与传感器范围，+1 探测器，-25% 视觉与传感器信号	pairs
+D	+1 ECM shield, -15% visibility & sensor signature	+1 ECM 护盾，-15% 可见度与传感器信号	pairs
+D	+1 ECM shield, -15% visual & sensor signature	+1 ECM 护盾，-15% 视觉与传感器信号	pairs
+D	+1 evasion from movement	移动时 +1 闪避	pairs
+D	+1 evasion from movement, +1 max evasion	移动时 +1 闪避，+1 最大闪避值	pairs
+D	+1 evasion from movement, +5 max evasion	移动时 +1 闪避，+5 最大闪避值	pairs
+D	+1 evasion ignored	+1 忽略闪避	pairs
+D	+1 evasion ignored, +1 Gunnery	+1 忽略闪避，+1 射击	pairs
+D	+1 evasion ignored, -5% weapon heat generation	+1 忽略闪避，-5% 武器产热	pairs
+D	+1 extreme range accuracy, +1 long range accuracy, +1 medium range accuracy	+1 极远程精度，+1 远程精度，+1 中程精度	pairs
+D	+1 front-mounted accuracy, -1 recoil	前向安装武器 +1 精度，-1 后坐力	pairs
+D	+1 Gunnery, +1 Offensive Push accuracy, +10% Called Shot location hit chance	+1 射击，+1 进攻推进精度，+10% 定点射击命中指定部位几率	pairs
+D	+1 Gunnery, +1 Piloting, +1 Tactics	+1 射击，+1 驾驶，+1 战术	pairs
+D	+1 Gunnery. Autocannon: +1 accuracy, -1 Recoil, and +1 evasion ignored	+1 射击。自动炮：+1 精度，-1 后坐力，+1 忽略闪避	pairs
+D	+1 Guts	+1 胆识	pairs
+D	+1 Guts, +1 Piloting, +1 pilot health	+1 胆识，+1 驾驶，+1 飞行员生命	pairs
+D	+1 Guts, +2 pilot health	+1 胆识，+2 飞行员生命	pairs
+D	+1 Guts, +20% Resolve generation, +2 Defense. 'You have to be a little crazy to drive one of these in a combat zone'	+1 胆识，+20% 决心获取，+2 防御。"你得有点疯才敢开着这东西上战场"	pairs
+D	+1 left arm-mounted accuracy, +1 Piloting, + 1 Gunnery	左臂安装武器 +1 精度，+1 驾驶，+1 射击	pairs
+D	+1 left torso-mounted accuracy, -1 recoil	左躯干安装武器 +1 精度，-1 后坐力	pairs
+D	+1 long range accuracy	+1 远程精度	pairs
+D	+1 long range accuracy, +1 extreme range accuracy	+1 远程精度，+1 极远程精度	pairs
+D	+1 medium range accuracy	+1 中程精度	pairs
+D	+1 medium range accuracy, +2 short range accuracy, +4 minimum range accuracy	+1 中程精度，+2 近程精度，+4 最小射程精度	pairs
+D	+1 missile accuracy	+1 导弹精度	pairs
+D	+1 Physical Accuracy, +10% Physical Weapon Damage and Stability	+1 物理精度，+10% 物理武器伤害与稳定伤害	pairs
+D	+1 pilot health	+1 飞行员生命	pairs
+D	+1 Piloting	+1 驾驶	pairs
+D	+1 Piloting, +1 Guts	+1 驾驶，+1 胆识	pairs
+D	+1 probe & Adv. sensors, +10% sensor range	+1 探测器与高级传感器，+10% 传感器范围	pairs
+D	+1 probe, +1 Adv. sensors, +10% sight & sensor range	+1 探测器，+1 高级传感器，+10% 视野与传感器范围	pairs
+D	+1 probe, -10% visibility & sensor signature, +5% run speed	+1 探测器，-10% 可见度与传感器信号，+5% 奔跑速度	pairs
+D	+1 right arm-mounted accuracy, +1 Piloting, +1 Gunnery	右臂安装武器 +1 精度，+1 驾驶，+1 射击	pairs
+D	+1 right torso-mounted accuracy, -1 recoil	右躯干安装武器 +1 精度，-1 后坐力	pairs
+D	+1 short & medium range accuracy, +2 minimum range accuracy	+1 近程与中程精度，+2 最小射程精度	pairs
+D	+1 short range accuracy	+1 近程精度	pairs
+D	+1 Tactics	+1 战术	pairs
+D	+1 Tactics (maximum 2 stacks). All Company Units: +1 Resolve per round (maximum 3 stacks)	+1 战术（最多 2 层）。所有连队单位：每回合 +1 决心（最多 3 层）	pairs
+D	+1 to all pilot skills	全部飞行员技能 +1	pairs
+D	+1 to swarming rolls, +1 melee accuracy, +10% melee damage	蜂群攻击检定 +1，+1 近战精度，+10% 近战伤害	pairs
+D	+1 turret accuracy	炮塔 +1 精度	pairs
+D	+10 heat sinking	+10 散热能力	pairs
+D	+10% ballistic & missile damage resistance	+10% 实弹与导弹伤害减免	pairs
+D	+10% Called Shot location hit chance, +1 Offensive Push accuracy, +0.15 grouping	+10% 定点射击命中指定部位几率，+1 进攻推进精度，+0.15 集束度	pairs
+D	+10% damage & stability damage resistance	+10% 伤害与稳定伤害减免	pairs
+D	+10% damage after jumping, +10% jump distance	跳跃后 +10% 伤害，+10% 跳跃距离	pairs
+D	+10% damage resistance, +10% critical hit resistance, -5% heat generation	+10% 伤害减免，+10% 暴击抗性，-5% 产热	pairs
+D	+10% energy damage resistance	+10% 能量伤害减免	pairs
+D	+10% heat damage	+10% 热量伤害	pairs
+D	+10% heat damage resistance	+10% 热量伤害减免	pairs
+D	+10% missile damage resistance	+10% 导弹伤害减免	pairs
+D	+10% missile damage resistance, +25% AMS accuracy	+10% 导弹伤害减免，+25% AMS 精度	pairs
+D	+10% physical, stability & heat damage resistance, +10% critical hit resistance, +1 Guts	+10% 物理、稳定与热量伤害减免，+10% 暴击抗性，+1 胆识	pairs
+D	+10% run speed, +1 Guts	+10% 奔跑速度，+1 胆识	pairs
+D	+10% sight & sensor range	+10% 视野与传感器范围	pairs
+D	+10% sight range, +20% sensor range, +1 probe, -20% heat generation	+10% 视野范围，+20% 传感器范围，+1 探测器，-20% 产热	pairs
+D	+100% Resolve generation, +100% ability Resolve cost, +50 max Resolve, +3 base Resolve per round	+100% 决心获取，+100% 能力决心消耗，+50 最大决心，每回合 +3 基础决心	pairs
+D	+15% ballistic & missile damage resistance	+15% 实弹与导弹伤害减免	pairs
+D	+15% jump distance	+15% 跳跃距离	pairs
+D	+15% sight & sensor range, +1 probe	+15% 视野与传感器范围，+1 探测器	pairs
+D	+2 ECM shield, -10% sensor signature	+2 ECM 护盾，-10% 传感器信号	pairs
+D	+2 ECM shield, -20% visual and sensor signature	+2 ECM 护盾，-20% 视觉与传感器信号	pairs
+D	+2 max evasion, +1 Piloting	+2 最大闪避值，+1 驾驶	pairs
+D	+2 Offensive Push accuracy	+2 进攻推进精度	pairs
+D	+2 Offensive Push accuracy, +5% Called Shot location hit chance	+2 进攻推进精度，+5% 定点射击命中指定部位几率	pairs
+D	+20 armor & +5 structure in left arm, +1 right arm-mounted accuracy , +1 physical weapon accuracy	左臂 +20 装甲、+5 结构，右臂安装武器 +1 精度，+1 物理武器精度	pairs
+D	+20% Called Shot location hit chance, +1 Offensive Push accuracy, +0.3 grouping for ballistic weapons	+20% 定点射击命中指定部位几率，+1 进攻推进精度，实弹武器集束度 +0.3	pairs
+D	+20% critical hit resistance, +5% damage resistance	+20% 暴击抗性，+5% 伤害减免	pairs
+D	+20% damage after jumping	跳跃后 +20% 伤害	pairs
+D	+20% damage resistance	+20% 伤害减免	pairs
+D	+20% run speed	+20% 奔跑速度	pairs
+D	+20% stability damage resistance	+20% 稳定伤害减免	pairs
+D	+20% unsteady threshold and max stability	+20% "不稳"阈值与最大稳定值	pairs
+D	+25% Resolve generation	+25% 决心获取	pairs
+D	+25% run speed	+25% 奔跑速度	pairs
+D	+25% sensor range	+25% 传感器范围	pairs
+D	+25% sight range	+25% 视野范围	pairs
+D	+25% through-armor damage resistance, +25% through-armor critical hit resistance	+25% 穿甲伤害减免，+25% 穿甲暴击抗性	pairs
+D	+3 heat sinking, -6% weapon heat generation	+3 散热能力，-6% 武器产热	pairs
+D	+3 max evasion	+3 最大闪避值	pairs
+D	+3% damage resistance	+3% 伤害减免	pairs
+D	+3% damage resistance, +20% through-armor damage resistance, +10% through-armor critical hit resistance	+3% 伤害减免，+20% 穿甲伤害减免，+10% 穿甲暴击抗性	pairs
+D	+3% damage resistance, +25% through-armor damage resistance	+3% 伤害减免，+25% 穿甲伤害减免	pairs
+D	+30% stability damage	+30% 稳定伤害	pairs
+D	+30m walk distance	+30 米行走距离	pairs
+D	+30m walk distance, +1 Defense, -10% sensor signature, +1 Guts	+30 米行走距离，+1 防御，-10% 传感器信号，+1 胆识	pairs
+D	+30m walk distance, +20% run speed, -10% weapon heat generation	+30 米行走距离，+20% 奔跑速度，-10% 武器产热	pairs
+D	+33% jump distance	+33% 跳跃距离	pairs
+D	+40% critical hit resistance	+40% 暴击抗性	pairs
+D	+5% Called Shot location hit chance	+5% 定点射击命中指定部位几率	pairs
+D	+5% critical hit resistance	+5% 暴击抗性	pairs
+D	+5% damage resistance	+5% 伤害减免	pairs
+D	+5% damage resistance and +20% stability damage resistance	+5% 伤害减免，+20% 稳定伤害减免	pairs
+D	+5% damage resistance, +10% critical hit resistance	+5% 伤害减免，+10% 暴击抗性	pairs
+D	+5% damage resistance, +15% stability damage resistance, +5% unsteady threshold	+5% 伤害减免，+15% 稳定伤害减免，+5% "不稳"阈值	pairs
+D	+5% heat damage	+5% 热量伤害	pairs
+D	+5% jump distance	+5% 跳跃距离	pairs
+D	+5% stability damage resistance	+5% 稳定伤害减免	pairs
+D	+5% weapon heat generation, +30m walk distance	+5% 武器产热，+30 米行走距离	pairs
+D	+50% critical hit resistance	+50% 暴击抗性	pairs
+D	+6 heat sinking, -5% weapon heat generation	+6 散热能力，-5% 武器产热	pairs
+D	-10% ability Resolve cost. Punch: +20% damage & stability damage, +2 accuracy, and +1 extra punch	-10% 能力决心消耗。拳击：+20% 伤害与稳定伤害，+2 精度，额外 +1 次拳击	pairs
+D	-10% min & -15% max scatter radius, -2 artillery recoil, Multi-target	-10% 最小、-15% 最大散布半径，-2 火炮后坐力，多目标	pairs
+D	-10% weapon heat generation	-10% 武器产热	pairs
+D	-10m walk distance, -1 accuracy, +50% run speed	-10 米行走距离，-1 精度，+50% 奔跑速度	pairs
+D	-15% heat generation, +12 heat sinking	-15% 产热，+12 散热能力	pairs
+D	-15% visibility & sensor signature	-15% 可见度与传感器信号	pairs
+D	-2 recoil, +10% stability damage resistance	-2 后坐力，+10% 稳定伤害减免	pairs
+D	-20% jump heat generation	-20% 跳跃产热	pairs
+D	-20% visibility & sensor signature	-20% 可见度与传感器信号	pairs
+D	-3 recoil with ranged weapons, +10% stability damage resistance	远程武器 -3 后坐力，+10% 稳定伤害减免	pairs
+D	-5% weapon heat generation	-5% 武器产热	pairs
+D	Ace Pilot & Multi-target	王牌飞行员与多目标	pairs
+D	All company units gain +2 Initiative and +2 Tactics. If company already has a Tacticon or CommGear effect, increases it by +1. Does not stack	所有连队单位获得 +2 先攻权与 +2 战术。若连队已有战术图标或指挥装备效果，则其效果 +1。不可叠加	pairs
+D	All company units with C3 Master/C3i gear: +1 probe (does not stack)	所有配备 C3 主控/C3i 装备的连队单位：+1 探测器（不可叠加）	pairs
+D	All company units: +1 Tactics (does not stack), +1 Resolve per round (maximum 3 stacks)	所有连队单位：+1 战术（不可叠加），每回合 +1 决心（最多 3 层）	pairs
+D	All enemies suffer -1 Resolve per round	所有敌人每回合 -1 决心	pairs
+D	AP Gauss & MagShot: +50% critical hit chance and +10% damage	AP 高斯与 MagShot：+50% 暴击几率，+10% 伤害	pairs
+D	Autocannon: +1 accuracy and -1 recoil	自动炮：+1 精度，-1 后坐力	pairs
+D	Autocannon: +1 accuracy and -2 recoil	自动炮：+1 精度，-2 后坐力	pairs
+D	Autocannon: -10% heat generation	自动炮：-10% 产热	pairs
+D	Autocannon: -2 recoil	自动炮：-2 后坐力	pairs
+D	Ballistics: +1 accuracy and -1 recoil	实弹：+1 精度，-1 后坐力	pairs
+D	Ballistics: +1 accuracy, -1 recoil, -5% min & -10% max scatter radius	实弹：+1 精度，-1 后坐力，-5% 最小、-10% 最大散布半径	pairs
+D	Bay weapons: +1 accuracy and -25% minimum range	舱室武器：+1 精度，-25% 最小射程	pairs
+D	Breaching Shot	突破一击	pairs
+D	Can target the head with Called Shot	可用定点射击瞄准头部	pairs
+D	Charge, punch & physical weapon: +10% damage	冲锋、拳击与物理武器：+10% 伤害	pairs
+D	Command Console: all company units gain +5% sight & sensor range and +1 Initiative. Does not stack	指挥控制台：所有连队单位获得 +5% 视野与传感器范围以及 +1 先攻权。不可叠加	pairs
+D	Command Module: all company units gain +5% sight & sensor range, +1 Initiative, +1 indirect accuracy and +1 Tactics. Does not stack	指挥模块：所有连队单位获得 +5% 视野与传感器范围、+1 先攻权、+1 间接射击精度与 +1 战术。不可叠加	pairs
+D	Company Coordinator: -10% ability Resolve cost for all company unit (stacks up to 3 times)	连队协调员：所有连队单位 -10% 能力决心消耗（最多叠加 3 次）	pairs
+D	DFA & kick: +1 accuracy and +5% damage	"从天而降"与踢击：+1 精度，+5% 伤害	pairs
+D	DFA: +1 accuracy and -25% self-damage & stability self-damage	"从天而降"：+1 精度，-25% 自伤与自稳定伤害	pairs
+D	DFA: +15% damage & stability damage and -50% stability self-damage	"从天而降"：+15% 伤害与稳定伤害，-50% 自稳定伤害	pairs
+D	DFA: +25% damage and -25% self-damage	"从天而降"：+25% 伤害，-25% 自伤	pairs
+D	Energy weapons: +1 accuracy and -1 recoil	能量武器：+1 精度，-1 后坐力	pairs
+D	Flamers & MGs: +1 accuracy and -10% heat generation	火焰喷射器与机枪：+1 精度，-10% 产热	pairs
+D	Gauss: +1 accuracy and +100% critical hit chance	高斯：+1 精度，+100% 暴击几率	pairs
+D	Gauss: +1 accuracy, +1 evasion ignored, and +50% critical hit chance	高斯：+1 精度，+1 忽略闪避，+50% 暴击几率	pairs
+D	Gauss: +75% critical hit chance and +25% stability damage	高斯：+75% 暴击几率，+25% 稳定伤害	pairs
+D	Handheld and bolt-on: +1 accuracy	手持与附加武器：+1 精度	pairs
+D	Handheld and physical weapons: +1 accuracy	手持与物理武器：+1 精度	pairs
+D	Handheld, bolt-on, physical weapon, and punch: +1 accuracy	手持、附加、物理武器与拳击：+1 精度	pairs
+D	Heavy MRM: +1 accuracy & additional +1 at medium range, +1 evasion ignored, and +10% damage	重型 MRM：+1 精度，中程额外 +1，+1 忽略闪避，+10% 伤害	pairs
+D	Helical Railgun: +1 side torso-mounted accuracy and -2 recoil	螺旋电磁炮：侧躯干安装武器 +1 精度，-2 后坐力	pairs
+D	Improved ATM: +2 accuracy, +1 evasion ignored, and -20% heat generation	改进型 ATM：+2 精度，+1 忽略闪避，-20% 产热	pairs
+D	Ion Cannon: +1 accuracy and -25% heat generation	离子炮：+1 精度，-25% 产热	pairs
+D	Lasers: +1 accuracy and +100% critical hit chance	激光：+1 精度，+100% 暴击几率	pairs
+D	Lasers: -10% heat generation	激光：-10% 产热	pairs
+D	Lasers: -5% heat generation	激光：-5% 产热	pairs
+D	Machine guns: +1 accuracy and 1 evasion ignored	机枪：+1 精度，忽略 1 点闪避	pairs
+D	Mass Driver: -20% jam chance and -2 recoil	质量驱动器：-20% 卡壳几率，-2 后坐力	pairs
+D	Mauler Laser: +5% damage, +100% critical hit chance, and -10% heat generation	重击者激光：+5% 伤害，+100% 暴击几率，-10% 产热	pairs
+D	Missile artillery: -15% min & -25% max scatter radius, +25% missile HP, and -10% AMS intercept chance	导弹火炮：-15% 最小、-25% 最大散布半径，+25% 导弹耐久，-10% 被 AMS 拦截几率	pairs
+D	Missiles: +1 accuracy and -1 recoil	导弹：+1 精度，-1 后坐力	pairs
+D	Missiles: +1 evasion ignored	导弹：+1 忽略闪避	pairs
+D	Missiles: +1 evasion ignored and +25% critical hit chance	导弹：+1 忽略闪避，+25% 暴击几率	pairs
+D	Missiles: +1 evasion ignored, +1 accuracy, and +0.1 grouping	导弹：+1 忽略闪避，+1 精度，+0.1 集束度	pairs
+D	Missiles: -10% heat generation	导弹：-10% 产热	pairs
+D	Multi-target & Breaching Shot	多目标与破袭射击	pairs
+D	Physical weapon: +1 accuracy and +10% damage & stability damage	物理武器：+1 精度，+10% 伤害与稳定伤害	pairs
+D	Physical weapon: +1 accuracy and +5% damage & stability damage	物理武器：+1 精度，+5% 伤害与稳定伤害	pairs
+D	Physical weapon: +10% damage & stability damage	物理武器：+10% 伤害与稳定伤害	pairs
+D	Physical weapon: +5% damage and +15% stability damage	物理武器：+5% 伤害，+15% 稳定伤害	pairs
+D	Physical weapons, punch, and kick: +1 accuracy, +10% damage & stability damage	物理武器、拳击与踢击：+1 精度，+10% 伤害与稳定伤害	pairs
+D	Physical weapons: +1 accuracy and +15% damage & stability damage	物理武器：+1 精度，+15% 伤害与稳定伤害	pairs
+D	Physical weapons: +1 extra attack, +10% damage & stability damage	物理武器：额外 +1 次攻击，+10% 伤害与稳定伤害	pairs
+D	Plasma weapons & Plasma Railgun: +30% heat damage and -10% heat generation	等离子武器与等离子电磁炮：+30% 热量伤害，-10% 产热	pairs
+D	PPC: +1 accuracy, +1 evasion ignored, and -10% heat generation	PPC：+1 精度，+1 忽略闪避，-10% 产热	pairs
+D	PPC: +1 evasion ignored	PPC：+1 忽略闪避	pairs
+D	PPC: -10% heat generation	PPC：-10% 产热	pairs
+D	Punch & kick: +10% damage & stability damage	拳击与踢击：+10% 伤害与稳定伤害	pairs
+D	Punch: +1 accuracy, +10% damage, and +5% stability damage	拳击：+1 精度，+10% 伤害，+5% 稳定伤害	pairs
+D	Punch: +1 accuracy, +5% damage & stability damage	拳击：+1 精度，+5% 伤害与稳定伤害	pairs
+D	Punch: +1 accuracy, +5% damage, and +20% stability damage	拳击：+1 精度，+5% 伤害，+20% 稳定伤害	pairs
+D	Railgun: +1 evasion ignored, -2 recoil, and +100% critical hit chance	电磁炮：+1 忽略闪避，-2 后坐力，+100% 暴击几率	pairs
+D	Rotary autocannon: +1 accuracy, -1 recoil, and -10% jam chance	旋转自动炮：+1 精度，-1 后坐力，-10% 卡壳几率	pairs
+D	SHRAC: +1 accuracy, -1 evasion ignored, -2 recoil, and -10% jam chance	SHRAC：+1 精度，-1 忽略闪避，-2 后坐力，-10% 卡壳几率	pairs
+D	Wing-mounted weapons: +25% critical hit chance and -25% minimum range	翼载武器：+25% 暴击几率，-25% 最小射程	pairs

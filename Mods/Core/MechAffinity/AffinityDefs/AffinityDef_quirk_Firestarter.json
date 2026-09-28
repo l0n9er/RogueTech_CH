@@ -1,0 +1,81 @@
+{
+  "id": "AffinityDef_quirk_Firestarter",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_BattleArmor_FireDemon"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "纵火者",
+        "decription": "+10% 热量伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "DeepFried",
+              "Name": "Quirk Affinity Firestarter 40 Firestarter: Increased Heat Damage per Shot",
+              "Details": "",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "HeatDamagePerShot",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      },
+      {
+        "missionsRequired": 150,
+        "levelName": "纵火者",
+        "decription": "+5% 热量伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "DeepFried2",
+              "Name": "Quirk Affinity Firestarter 150 Firestarter: Increased Heat Damage per Shot",
+              "Details": "",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "statName": "HeatDamagePerShot",
+              "operation": "Float_Multiply",
+              "modValue": "1.05",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

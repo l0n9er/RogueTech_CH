@@ -1,0 +1,133 @@
+{
+  "id": "AffinityDef_chassis_Fire_For_Effect",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "ArrowIVAssault_80",
+      "Chaparral_50",
+      "Hadur_50",
+      "HeavyPadilla_75",
+      "Huitzilopochtli_85",
+      "Vali_40",
+      "fusillade_75",
+      "arrowhead_80"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "效力射",
+        "decription": "导弹火炮：-15% 最小、-25% 最大散布半径，+25% 导弹耐久，-10% 被 AMS 拦截几率",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+              "Id": "Affinity_Fire_For_Effect_MinRadius",
+              "Name": "Chassis Affinity Fire For Effect: Decreased Missile Min Miss Radius",
+              "Details": "最小散布降低",
+              "Icon": "uixSvgIcon_ability_mastertactician"
+            },
+            "statisticData": {
+              "abilifierId": "Artillery_Filter",
+              "statName": "CAC_MinMissRadius_Mod",
+              "operation": "Float_Multiply",
+              "modValue": "0.85",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+              "Id": "Affinity_Fire_For_Effect_MaxRadius",
+              "Name": "Chassis Affinity Fire For Effect: Decreased Missile Max Miss Radius",
+              "Details": "最大散布降低",
+              "Icon": "uixSvgIcon_ability_mastertactician"
+            },
+            "statisticData": {
+              "abilifierId": "Artillery_Filter",
+              "statName": "CAC_MaxMissRadius_Mod",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Fire_For_Effect_MissileHP",
+              "Name": "Chassis Affinity Fire For Effect: Increased Missile Missile Health",
+              "Details": "导弹对AMS的耐久度提高20%。",
+              "Icon": "targeting"
+            },
+            "statisticData": {
+              "abilifierId": "Artillery_Filter",
+              "statName": "MissileHealth",
+              "operation": "Float_Multiply",
+              "modValue": "1.25",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Fire_For_Effect_MissileHP",
+              "Name": "Chassis Affinity Fire For Effect: Decreased Missile AMS Hit Chance Modifier",
+              "Details": "导弹对AMS的耐久度提高20%。",
+              "Icon": "targeting"
+            },
+            "statisticData": {
+              "abilifierId": "Artillery_Filter",
+              "statName": "CAC_AMSHitChance_Mod",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

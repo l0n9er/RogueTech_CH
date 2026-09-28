@@ -1,0 +1,47 @@
+{
+  "id": "AffinityDef_quirk_Advanced_Long_Range_Targeting",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_ImprovedTargeting_Long",
+      "Quirk_ImprovedTargeting_LongPlus"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "高级远程瞄准",
+        "decription": "+1 远程精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "RangeBracketBonusAccLR",
+              "Name": "Quirk Affinity Advanced Long Range Targeting: Improved Long Range Accuracy",
+              "Details": "射程段精度加成",
+              "Icon": "uixSvgIcon_ability_precisionstrike"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACLongRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

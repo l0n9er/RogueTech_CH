@@ -1,0 +1,258 @@
+[
+    {
+      "Name": "WarTech_IIC.Attack.contractMessage",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "We have a mission from {TEAM_EMP.FactionDef.ShortName}, Commander: {RES_OBJ.Name}. Details will be provided en-route about the {RES_OBJ.ContractTypeValue.FriendlyName}.",
+        "CULTURE_ZH_CN": "指挥官，我们收到了来自 {TEAM_EMP.FactionDef.ShortName} 的一份任务：{RES_OBJ.Name}。有关 {RES_OBJ.ContractTypeValue.FriendlyName} 的详情将在途中提供。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.ContractBlockedBecauseCampaign.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This contract is unavailable because an important campaign contract is pending",
+        "CULTURE_ZH_CN": "该合约不可用，因为有一个重要的战役合约待处理."
+      }
+    },
+    {
+      "Name": "WarTech_IIC.ContractBlockedBecauseExtended.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This contract is unavailable because you are already employed in an extended contract",
+        "CULTURE_ZH_CN": "该合约不可用，因为你已经受雇于一份长期合约."
+      }
+    },
+    {
+      "Name": "WarTech_IIC.Raid.contractMessage",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "We have a mission from {TEAM_EMP.FactionDef.ShortName}, Commander: {RES_OBJ.Name}. Details will be provided en-route about the {RES_OBJ.ContractTypeValue.FriendlyName}.",
+        "CULTURE_ZH_CN": "指挥官，我们收到了来自 {TEAM_EMP.FactionDef.ShortName} 的一份任务：{RES_OBJ.Name}。有关 {RES_OBJ.ContractTypeValue.FriendlyName} 的详情将在途中提供。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_attacker.contractName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Flareup: Attack Planet",
+        "CULTURE_ZH_CN": "突发事件: 进攻星球"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_attacker.longDescription",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "If we accept this contract we'll be in for the duration of the campaign, Commander. We'll be offered a series of contracts by {TEAM_EMP.FactionDef.Name} to support their forces as they invade, and we'll take a hit to our reputation if we leave before the invasion concludes.",
+        "CULTURE_ZH_CN": "指挥官，如果我们接受这份合同，我们就要参与整个战役。{TEAM_EMP.FactionDef.Name}会提供一系列合同，支持他们入侵时的部队，而如果我们在入侵结束前离开，声望会受损。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_attacker.shortDescription",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Over the coming weeks, {TEAM_EMP.FactionDef.ShortName} plans to launch a devastating offensive against {TGT_SYSTEM.name}, catching the defenders off guard and taking the planet before they can properly mobilize. They've put out a discreet call for mercenary commands like ours to supplement their forces.",
+        "CULTURE_ZH_CN": "在未来几周内，{TEAM_EMP.FactionDef.ShortName}计划对{TGT_SYSTEM.name}发动一场毁灭性攻势，在守军猝不及防之际夺下这颗行星。他们已发出低调的号召，招募像我们这样的雇佣兵部队来补充兵力。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_attacker.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hostile to All",
+        "CULTURE_ZH_CN": "对所有势力敌对"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_attacker.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Neutral to All",
+        "CULTURE_ZH_CN": "对所有人中立"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_attacker.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Player 1",
+        "CULTURE_ZH_CN": "玩家 1"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_attacker.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Player 2",
+        "CULTURE_ZH_CN": "玩家 2"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_defender.contractName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Flareup: Defend Planet",
+        "CULTURE_ZH_CN": "突发事件: 行星防御"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_defender.longDescription",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "If we accept this contract we'll be in for the duration of the campaign, Commander.  We'll be offered a series of contracts by {TEAM_EMP.FactionDef.Name} to support their forces as they defend, and we'll take a hit to our reputation if we leave before the invasion concludes.",
+        "CULTURE_ZH_CN": "如果我们接受这份合约，就要一直留到这场战役结束，指挥官。{TEAM_EMP.FactionDef.Name}会给我们一系列合约，支援他们防守的部队，而如果我们在入侵结束之前离开，声望会受损。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_defender.shortDescription",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "{TEAM_EMP.FactionDef.CapitalizedName} has heard rumors that over the coming weeks, one of their foes plans to launch an offensive against {TGT_SYSTEM.name}, aiming to catch the {TEAM_EMP.FactionDef.Demonym} defenders off guard before they can properly mobilize. They've put out a call for mercenary commands like ours to supplement their forces.",
+        "CULTURE_ZH_CN": "{TEAM_EMP.FactionDef.CapitalizedName}听闻传言，称未来几周内，他们的一个敌人计划对{TGT_SYSTEM.name}发动攻势，意图在{TEAM_EMP.FactionDef.Demonym}守军来得及充分动员之前打个措手不及。他们已公开号召像我们这样的雇佣兵部队去补充他们的兵力。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_defender.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hostile to All",
+        "CULTURE_ZH_CN": "对所有势力敌对"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_defender.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Neutral to All",
+        "CULTURE_ZH_CN": "对所有人中立"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_defender.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Player 1",
+        "CULTURE_ZH_CN": "玩家 1"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_help_defender.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Player 2",
+        "CULTURE_ZH_CN": "玩家 2"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_attacker.contractName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Flareup: Raid Planet",
+        "CULTURE_ZH_CN": "突发事件: 突袭星球"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_attacker.longDescription",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "If we accept this contract we'll be in for the duration of the campaign, Commander. We'll be offered a series of contracts by {TEAM_EMP.FactionDef.Name} to support their forces as they invade, and we'll take a hit to our reputation if we leave before the raid is resolved.",
+        "CULTURE_ZH_CN": "指挥官，如果我们接受这份合同，我们就要参与整个战役。{TEAM_EMP.FactionDef.Name}会提供一系列合同，支持他们入侵时的部队，而如果我们在袭掠结束前离开，声望会受损。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_attacker.shortDescription",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Over the coming weeks, {TEAM_EMP.FactionDef.ShortName} plans to launch a series of raids on {TGT_SYSTEM.name}, aiming to weaken the defending forces and make off with as much materiel and wealth as possible before the defenders can properly mobilize. They've put out a discreet call for mercenary commands like ours to supplement their forces.",
+        "CULTURE_ZH_CN": "未来几周，{TEAM_EMP.FactionDef.ShortName}计划对{TGT_SYSTEM.name}发动一系列袭掠，意图在守军充分动员之前削弱防御力量，并尽可能多地掠走物资与财富。他们已低调招募像我们这样的雇佣兵部队来补充兵力。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_attacker.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hostile to All",
+        "CULTURE_ZH_CN": "对所有势力敌对"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_attacker.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Neutral to All",
+        "CULTURE_ZH_CN": "对所有人中立"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_attacker.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Player 1",
+        "CULTURE_ZH_CN": "玩家 1"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_attacker.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Player 2",
+        "CULTURE_ZH_CN": "玩家 2"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_defender.contractName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Flareup: Defend Planet",
+        "CULTURE_ZH_CN": "突发事件: 行星防御"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_defender.longDescription",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "If we accept this contract we'll be in for the duration of the campaign, Commander.  We'll be offered a series of contracts by {TEAM_EMP.FactionDef.Name} to support their forces as they defend, and we'll take a hit to our reputation if we leave before the raid is resolved.",
+        "CULTURE_ZH_CN": "如果我们接受这份合约，就要一直留到这场战役结束，指挥官。{TEAM_EMP.FactionDef.Name}会给我们一系列合约，支援他们防守的部队，而如果我们在这轮袭击解决之前离开，声望会受损。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_defender.shortDescription",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "{TEAM_EMP.FactionDef.CapitalizedName} has heard rumors that over the coming weeks, one of their foes plans to launch a raid against {TGT_SYSTEM.name}, aiming to catch the {TEAM_EMP.FactionDef.Demonym} defenders off guard before they can properly mobilize. They've put out a call for mercenary commands like ours to supplement their forces.",
+        "CULTURE_ZH_CN": "{TEAM_EMP.FactionDef.CapitalizedName}听闻传言，称未来几周内，他们的一个敌人计划对{TGT_SYSTEM.name}发动袭击，意图在{TEAM_EMP.FactionDef.Demonym}守军来得及充分动员之前打个措手不及。他们已公开号召像我们这样的雇佣兵部队去补充他们的兵力。"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_defender.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Hostile to All",
+        "CULTURE_ZH_CN": "对所有势力敌对"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_defender.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Neutral to All",
+        "CULTURE_ZH_CN": "对所有人中立"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_defender.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Player 1",
+        "CULTURE_ZH_CN": "玩家 1"
+      }
+    },
+    {
+      "Name": "WarTech_IIC.wiic_raid_defender.teamName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Player 2",
+        "CULTURE_ZH_CN": "玩家 2"
+      }
+    }
+]

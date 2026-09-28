@@ -1,0 +1,133 @@
+{
+  "id": "AffinityDef_chassis_Sniper",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "AA_60",
+      "Alke_75",
+      "Athena_75",
+      "harpagos_75",
+      "Aeron_25",
+      "Cloud_45",
+      "Whirlwind_45",
+      "DIMorgan_100",
+      "Durga_25",
+      "Garuda_40",
+      "HawkMoth_25",
+      "Kestros_50",
+      "Kokou_70",
+      "Morrigu_80",
+      "Pike_60",
+      "Regulator_45",
+      "Regulator2_50",
+      "Schrek_80",
+      "Woodpecker_30",
+      "HarpyVTOL_30",
+      "YellowJacketVTOL_30",
+      "CatapultII_70",
+      "Catapult_65",
+      "Catapult_75",
+      "Catapult-QS_65",
+      "huronwarrior_50",
+      "linebacker_65",
+      "nightstar_95",
+      "nightstar-QS_95",
+      "orioniic_75",
+      "bloodasp_90",
+      "legacy_80",
+      "Caesar_70",
+      "titan_100",
+      "titanii_100",
+      "orion_75",
+      "SavageCoyote_85",
+      "stalker_85",
+      "stalker-QS_85",
+      "stalker_75",
+      "stalkerii_85",
+      "orochi_90",
+      "talon_35",
+      "thunderhawk_100",
+      "grandtitan_100",
+      "minsk_70",
+      "crucible_100",
+      "alphawolf_90",
+      "yinghuochong_35",
+      "Donar_21",
+      "lightning_70",
+      "garm_35",
+      "patriot_65",
+      "warlord_war_100",
+      "VultureVTOL_30",
+      "lion_75",
+      "spiner_25",
+      "battlemax_35",
+      "lu_bu_55",
+      "kageoni_170"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "狙击手",
+        "decription": "+1 远程精度，+1 极远程精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "RangeBracketBonusAccLR",
+              "Name": "Chassis Affinity Sniper: Improved Long Range Accuracy",
+              "Details": "射程段精度加成",
+              "Icon": "uixSvgIcon_ability_precisionstrike"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACLongRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "RangeBracketBonusAccER",
+              "Name": "Chassis Affinity Sniper: Improved Extra Long Range Accuracy",
+              "Details": "射程段精度加成",
+              "Icon": "uixSvgIcon_ability_precisionstrike"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "CACExtraLongRangeAccuracyMod",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

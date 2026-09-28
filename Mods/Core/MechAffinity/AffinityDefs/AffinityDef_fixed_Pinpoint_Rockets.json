@@ -1,0 +1,60 @@
+{
+  "id": "AffinityDef_fixed_Pinpoint_Rockets",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_Weapon_RocketLauncher_Improved20_Peter",
+      "Unique_Weapon_MARS",
+      "Unique_Weapon_Artillery_ArrowIV_Oneshot_X5",
+      "Unique_Weapon_MML10_Artemis",
+      "Unique_Weapon_MRM20_Corsair",
+      "Unique_Weapon_ATM_9_Corsair",
+      "Unique_Weapon_RocketLauncher_HeavyAOE20_Corsair",
+      "Weapon_MRM_40_Pirate",
+      "Weapon_Artillery_ArrowIV_Clan",
+      "Unique_BoltOn_Weapon_Rocket_GroundControl",
+      "Weapon_MicroMissileSystem_40",
+      "Weapon_WingMount_Firecracker",
+      "Unique_Weapon_SRM_2_Streak_Quad"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 160,
+        "levelName": "精准火箭",
+        "decription": "导弹：+1 忽略闪避",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_TTS_EVASION",
+              "Name": "Fixed Affinity Pinpoint Rockets: Increased Missile Evasive Pips Ignore",
+              "Details": "所有武器 +2 精度，+50% 暴击，+30% 射程，-50% 最小射程。",
+              "Icon": "AdvancedTC"
+            },
+            "statisticData": {
+              "abilifierId": "EvasionIgnoreFilter",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

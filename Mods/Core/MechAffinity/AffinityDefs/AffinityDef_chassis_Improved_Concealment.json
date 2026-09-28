@@ -1,0 +1,101 @@
+{
+  "id": "AffinityDef_chassis_Improved_Concealment",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Charybdis_100",
+      "RedOctober_75",
+      "roncone_125",
+      "Kalki_150"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "改进型隐蔽",
+        "decription": "+2 ECM 护盾，-20% 视觉与传感器信号",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ImprovedConcealment_ECM",
+              "Name": "Chassis Affinity Improved Concealment: Increased ECM Shield",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "LV_ECM_SHIELD",
+              "operation": "Int_Add",
+              "modValue": "2",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ImprovedConcealment_Signature",
+              "Name": "Chassis Affinity Improved Concealment: Decreased Sensor Signature",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SensorSignatureModifier",
+              "operation": "Float_Multiply",
+              "modValue": "0.8",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ImprovedConcealment_Visibility",
+              "Name": "Chassis Affinity Improved Concealment: Decreased Visual Signature",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "SpottingVisibilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.8",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

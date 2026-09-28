@@ -1,0 +1,131 @@
+{
+  "id": "AffinityDef_chassis_Shieldbearer",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "OmniCenturion_50",
+      "centurion_50",
+      "centurionQS_50",
+      "centurion_55",
+      "Grendel_45"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "持盾者",
+        "decription": "左臂 +20 装甲、+5 结构，右臂安装武器 +1 精度，+1 物理武器精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_ShieldBearer_PW",
+              "Name": "Chassis Affinity Shieldbearer: Improved Physical Weapon Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Shieldbearer_RA",
+              "Name": "Chassis Affinity Shieldbearer: Improved Right Arm Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "RightArm.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Shieldbearer_LAA",
+              "Name": "Chassis Affinity Shieldbearer: Increased Left Arm Armor",
+              "Details": "加固装甲",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "LeftArm.Armor",
+              "operation": "Float_Add",
+              "modValue": "20",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Shieldbearer_LAS",
+              "Name": "Chassis Affinity Shieldbearer: Increased Left Arm Structure",
+              "Details": "加固装甲",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "LeftArm.Structure",
+              "operation": "Float_Add",
+              "modValue": "5",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

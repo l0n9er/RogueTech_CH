@@ -1,0 +1,70 @@
+{
+  "id": "AffinityDef_fixed_Hunter_Killer_Team_Training",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Default_Vehicle_Turret",
+      "Gear_Vehicle_Turret_VTOLChin"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 60,
+        "levelName": "猎杀小组训练",
+        "decription": "多目标与破袭射击",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "IRAllowMultiTargetEffect",
+              "Name": "Fixed Affinity Hunter Killer Team Training: Allow Multi Target",
+              "Details": "启用多目标。",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "IRAllowMultiTarget",
+              "operation": "Set",
+              "modValue": "true",
+              "modType": "System.Boolean"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "TC-Breaching",
+              "Name": "Fixed Affinity Hunter Killer Team Training: Enable Breaching Shot",
+              "Details": "被动：以单件武器攻击时忽略目标的掩护与戒备。",
+              "Icon": "uixSvgIcon_ability_precisionstrike"
+            },
+            "statisticData": {
+              "statName": "PrecisionStrike",
+              "operation": "Set",
+              "modValue": "true",
+              "modType": "System.Boolean"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

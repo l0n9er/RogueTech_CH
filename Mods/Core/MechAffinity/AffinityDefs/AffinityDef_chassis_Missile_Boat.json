@@ -1,0 +1,117 @@
+{
+  "id": "AffinityDef_chassis_Missile_Boat",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Lincoln_55",
+      "AxelIIC_65",
+      "Balac_25",
+      "CarrierMissiles_55",
+      "CarrierMissiles_60",
+      "Cavalry_25",
+      "ClanCarrier_60",
+      "Hailstorm_100",
+      "HeavyCarrier_80",
+      "Hunter_35",
+      "Hwacha_50",
+      "JESII_95",
+      "LightCarrier_40",
+      "MosquitoVTOL_15",
+      "Puma_95",
+      "Rhino_80",
+      "Combine_45",
+      "Shillelagh_40",
+      "Sturmfeur_85",
+      "Svantovit_35",
+      "Thunderstruck_60",
+      "VLightCarrier_20",
+      "dervish_55",
+      "dervishiic_55",
+      "hellspawn_45",
+      "trebuchet_50",
+      "trebuchet_55",
+      "trebuchetiic_50",
+      "toro_35",
+      "Grigori_60",
+      "Apollo_55",
+      "yeoman_60",
+      "BadbCatha_70",
+      "archer_70",
+      "archeriic_70",
+      "maddog_60",
+      "VultureMkIII_60",
+      "longbow_100",
+      "longbow_85",
+      "longbow-QS_85",
+      "firebee_35",
+      "RabidCoyote_55",
+      "pendragon_95",
+      "Naja_55",
+      "naga_80",
+      "salamander_80",
+      "cougarx_35",
+      "kodiakii_100",
+      "kyudo_45",
+      "freedom_90",
+      "liberty_45",
+      "bowman_70",
+      "haotoko_65",
+      "hawkwolf_80",
+      "naginata_95",
+      "pandarus_75",
+      "violator_45",
+      "locura_100",
+      "valedictus_95",
+      "mosquito_35",
+      "dakota_85",
+      "nighthawklam_55"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "vehiclechassisdef_FORTUNE_THUNDER",
+          "vehiclechassisdef_PADILLA_HEAVY_LRM"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "导弹平台",
+        "decription": "+1 导弹精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-TTSMISSACC1",
+              "Name": "Chassis Affinity Missile Boat: Improved Missile Accuracy",
+              "Details": "导弹武器+1命中。",
+              "Icon": "targeting"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "AccuracyModifier",
+              "operation": "Float_Add",
+              "modValue": "-1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategory": "Missile"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

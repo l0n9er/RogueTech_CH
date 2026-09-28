@@ -1,0 +1,50 @@
+{
+  "id": "AffinityDef_fixed_Skeet_Shooter",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_BattleArmor_Controls_Squad3",
+      "Gear_BattleArmor_Controls_Squad4",
+      "Gear_BattleArmor_Controls_Squad5",
+      "Gear_BattleArmor_Controls_Squad6"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 90,
+        "levelName": "飞靶射手",
+        "decription": "+1 忽略闪避",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Quirk_Damage_Mod",
+              "Name": "Fixed Affinity Skeet Shooter: Increased Evasive Pips Ignore",
+              "Details": "伤害修正",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "abilifierId": "EvasionIgnoreFilter",
+              "statName": "EvasivePipsIgnored",
+              "operation": "Float_Add",
+              "modValue": "1.0",
+              "modType": "System.Single",
+              "targetCollection": "Weapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

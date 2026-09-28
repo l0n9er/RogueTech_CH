@@ -1,0 +1,76 @@
+{
+  "id": "AffinityDef_quirk_Wing_Mounted_Mastery",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_AccurateWeaponCategory_Wingmounted"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "翼载武器精通",
+        "decription": "翼载武器：+25% 暴击几率，-25% 最小射程",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateMissile_Acc",
+              "Name": "Quirk Affinity Wing Mounted Mastery: Decreased WingMountedWeapon Min Range",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "MinRange",
+              "operation": "Float_Multiply",
+              "modValue": "0.75",
+              "modType": "System.Single",
+              "targetCollection": "Weapon",
+              "targetWeaponCategoryID": "WingMountedWeapon"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "QuirkAffinity_AccurateMissile_RF",
+              "Name": "Quirk Affinity Wing Mounted Mastery: Increased WingMountedWeapon Critical Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CriticalChanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.25",
+              "modType": "System.Single",
+              "targetWeaponCategoryID": "WingMountedWeapon"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

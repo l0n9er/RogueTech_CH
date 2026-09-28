@@ -1,0 +1,69 @@
+{
+  "id": "AffinityDef_fixed_Aerial_Acrobat",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Default_Vehicle_Crew_VTOL_Cockpit",
+      "Default_Drone_Control_Systems_UAV"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 60,
+        "levelName": "空中特技",
+        "decription": "移动时 +1 闪避，+5 最大闪避值",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "MaxEvasion",
+              "Name": "Fixed Affinity Aerial Acrobat: Increased Max Evasive Pips",
+              "Details": "该单位通过移动行动额外获得 1 层闪避（不超过上限）。",
+              "Icon": "uixSvgIcon_action_evasivemove"
+            },
+            "statisticData": {
+              "statName": "MaxEvasivePips",
+              "operation": "Int_Add",
+              "modValue": "5",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "GainEvasion",
+              "Name": "Fixed Affinity Aerial Acrobat: Increased Evasive Pips Gain",
+              "Details": "该单位通过移动行动额外获得 1 层闪避（不超过上限）。",
+              "Icon": "uixSvgIcon_action_evasivemove"
+            },
+            "statisticData": {
+              "statName": "EvasivePipsGainedAdditional",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

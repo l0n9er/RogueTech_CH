@@ -1,0 +1,128 @@
+{
+  "id": "AffinityDef_chassis_Twin_Minds",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "ettin_180"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "双生心智",
+        "decription": "+100% 决心获取，+100% 能力决心消耗，+50 最大决心，每回合 +3 基础决心",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_TwinMinds_ResolveGen",
+              "Name": "Chassis Affinity Twin Minds: Increased Resolve Generation",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "resolveGenBaseMult",
+              "operation": "Float_Multiply",
+              "modValue": "2",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_TwinMinds_ResolveCost",
+              "Name": "Chassis Affinity Twin Minds: Increased Ability Resolve Cost",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "resolveCostBaseMult",
+              "operation": "Float_Multiply",
+              "modValue": "2",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_TwinMinds_MaxResolve",
+              "Name": "Chassis Affinity Twin Minds: Increased Maximum Resolve",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "maxResolveMod",
+              "operation": "Int_Add",
+              "modValue": "50",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_TwinMinds_BaseResolve",
+              "Name": "Chassis Affinity Twin Minds: Increased Base Resolve Generation per Round",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "resolveRoundBaseMod",
+              "operation": "Float_Add",
+              "modValue": "3",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

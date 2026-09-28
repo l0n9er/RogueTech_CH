@@ -1,0 +1,45 @@
+{
+  "id": "AffinityDef_fixed_Eye_of_Blake",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Unique_EWS_SeraphimSuite"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 100,
+        "levelName": "布雷克之眼",
+        "decription": "+25% 传感器范围",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect-EyeOfBlake-SensorDistance",
+              "Name": "Fixed Affinity Eye of Blake: Increased Sensor Range Multiplier",
+              "Details": "传感器距离",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "SensorDistanceMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.25",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1622 @@
+[
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_InterceptedEvacuation.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_InterceptedEvacuation.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_InterceptedEvacuation.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_InterceptedEvacuation.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_InterceptedEvacuation.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_InterceptedEvacuation.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_InterceptedEvacuation.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_InterceptedEvacuation.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_InterceptedEvacuation.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_InterceptedEvacuation.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_InterceptedEvacuation.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_InterceptedEvacuation.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_InterceptedEvacuation.json",
+    "Original": "The convoy's almost escaped, Commander. Once they get out of range, that data is as good as gone.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_InterceptedEvacuation..dialogueList6.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "The convoy's almost escaped, Commander. Once they get out of range, that data is as good as gone.",
+      "CULTURE_ZH_CN": "车队快要逃脱了，指挥官。一旦他们离开射程，那些数据就等于是没了。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_Pirate_EasyPickings.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_EasyPickings.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_Pirate_EasyPickings.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_EasyPickings.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_Pirate_EasyPickings.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_EasyPickings.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_Pirate_EasyPickings.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_EasyPickings.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_Pirate_EasyPickings.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_EasyPickings.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_Pirate_EasyPickings.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_EasyPickings.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ProofOfGuilt.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProofOfGuilt.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ProofOfGuilt.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProofOfGuilt.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ProofOfGuilt.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProofOfGuilt.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ProofOfGuilt.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProofOfGuilt.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ProofOfGuilt.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProofOfGuilt.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ProofOfGuilt.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProofOfGuilt.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide_Alt.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide_Alt.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide_Alt.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide_Alt.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide_Alt.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide_Alt.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide_Alt.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide_Alt.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide_Alt.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide_Alt.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\2\\AmbushConvoy_ThornInTheSide_Alt.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ThornInTheSide_Alt.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "Asset Denial",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.contractName",
+    "Localization": {
+      "CULTURE_EN_US": "Asset Denial",
+      "CULTURE_ZH_CN": "资产拒止"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "A {TEAM_TAR.FactionDef.Name} detachment of fire support vehicles is on the move to a strategic location. {TEAM_EMP.FactionDef.Demonym} would prefer that they do not reach their destination.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.shortDescription",
+    "Localization": {
+      "CULTURE_EN_US": "A {TEAM_TAR.FactionDef.Name} detachment of fire support vehicles is on the move to a strategic location. {TEAM_EMP.FactionDef.Demonym} would prefer that they do not reach their destination.",
+      "CULTURE_ZH_CN": "一支 {TEAM_TAR.FactionDef.Name} 火力支援车辆分遣队正在前往某战略地点。{TEAM_EMP.FactionDef.Demonym} 希望它们到不了目的地。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "Commander, the targets will probably be on the slow and squishy side. But the reason we're being asked to hit them in transit, outside entrenched positions, is because they pack a punch.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.longDescription",
+    "Localization": {
+      "CULTURE_EN_US": "Commander, the targets will probably be on the slow and squishy side. But the reason we're being asked to hit them in transit, outside entrenched positions, is because they pack a punch.",
+      "CULTURE_ZH_CN": "指挥官，目标很可能又慢又脆。但之所以要我们在运输途中、在既设阵地之外打击他们，是因为他们火力不弱。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "Mission accomplished. The fire support vehicles have been neutralized.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW..dialogueList1.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Mission accomplished. The fire support vehicles have been neutralized.",
+      "CULTURE_ZH_CN": "任务完成。火力支援车辆已被清除。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "Nothing more to do here Commander, lets go home.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW..dialogueList2.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Nothing more to do here Commander, lets go home.",
+      "CULTURE_ZH_CN": "这里没别的可做了，指挥官，回家吧。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "The target vehicles should be just ahead. Be careful commander, who knows what they're packing.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW..dialogueList3.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "The target vehicles should be just ahead. Be careful commander, who knows what they're packing.",
+      "CULTURE_ZH_CN": "目标车辆应该就在前方。小心，指挥官，谁知道它们带了什么。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "That's got it, primary target damaged. Keep on those ones.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW..dialogueList4.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "That's got it, primary target damaged. Keep on those ones.",
+      "CULTURE_ZH_CN": "打中了，主要目标受损。继续攻击那些。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "Warning, Commander! The target vehicles have begun to arrive at their destination; not much time left before they escape!",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW..dialogueList6.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Warning, Commander! The target vehicles have begun to arrive at their destination; not much time left before they escape!",
+      "CULTURE_ZH_CN": "警告，指挥官！目标车辆已开始抵达目的地；留给它们逃脱的时间不多了！"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_AssetDenial_NEW.json",
+    "Original": "We've got company!",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_AssetDenial_NEW..dialogueList9.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "We've got company!",
+      "CULTURE_ZH_CN": "有敌人来了！"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue_Alt.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue_Alt.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue_Alt.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue_Alt.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue_Alt.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue_Alt.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue_Alt.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue_Alt.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue_Alt.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue_Alt.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_BackyardBarbecue_Alt.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_BackyardBarbecue_Alt.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_CovertSupplies.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_CovertSupplies.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_CovertSupplies.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_CovertSupplies.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_CovertSupplies.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_CovertSupplies.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_LogisticalBreakdown.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_LogisticalBreakdown.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_LogisticalBreakdown.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_LogisticalBreakdown.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_LogisticalBreakdown.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_LogisticalBreakdown.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "Reprisal",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.contractName",
+    "Localization": {
+      "CULTURE_EN_US": "Reprisal",
+      "CULTURE_ZH_CN": "报复"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "We need you to destroy a convoy of {TEAM_TAR.FactionDef.Name} vehicles that was involved in a strike on our holdings. You like credits, yes?",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.shortDescription",
+    "Localization": {
+      "CULTURE_EN_US": "We need you to destroy a convoy of {TEAM_TAR.FactionDef.Name} vehicles that was involved in a strike on our holdings. You like credits, yes?",
+      "CULTURE_ZH_CN": "我们需要你摧毁一支 {TEAM_TAR.FactionDef.Name} 的车队，他们参与了对我们领地的一次打击。你喜欢信用点，对吧？"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "There's not a lot of detail here, Commander.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.longDescription",
+    "Localization": {
+      "CULTURE_EN_US": "There's not a lot of detail here, Commander.",
+      "CULTURE_ZH_CN": "这里细节不多，指挥官。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "I'll keep an eye out from up here.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList0.dialogueContent4.words",
+    "Localization": {
+      "CULTURE_EN_US": "I'll keep an eye out from up here.",
+      "CULTURE_ZH_CN": "我会在上面盯着。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "Mission accomplished.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList1.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Mission accomplished.",
+      "CULTURE_ZH_CN": "任务完成。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "Well, that didn't go as planned.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList2.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Well, that didn't go as planned.",
+      "CULTURE_ZH_CN": "好吧，计划没有成功。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "Wait, wait! Commander, something is wrong!",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList4.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Wait, wait! Commander, something is wrong!",
+      "CULTURE_ZH_CN": "等等，等等！指挥官，不对劲！"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "Those are MASH trucks, they're transporting wounded!",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList4.dialogueContent1.words",
+    "Localization": {
+      "CULTURE_EN_US": "Those are MASH trucks, they're transporting wounded!",
+      "CULTURE_ZH_CN": "那是野战医院车，他们在运送伤员！"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "Our employer didn't include that detail. Completing this contract could have serious consequences, Commander.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList4.dialogueContent2.words",
+    "Localization": {
+      "CULTURE_EN_US": "Our employer didn't include that detail. Completing this contract could have serious consequences, Commander.",
+      "CULTURE_ZH_CN": "我们的雇主没提供那个细节。完成这份合同可能会带来严重后果，指挥官。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "This might be one contract where failing is better for our rep than completing it.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList4.dialogueContent3.words",
+    "Localization": {
+      "CULTURE_EN_US": "This might be one contract where failing is better for our rep than completing it.",
+      "CULTURE_ZH_CN": "这份合同也许失败对我们的声望比完成更有利。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "Heads up, Commander! The target vehicles have begun to arrive at their destination; they'll extract when the last survivor reaches it.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList6.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Heads up, Commander! The target vehicles have begun to arrive at their destination; they'll extract when the last survivor reaches it.",
+      "CULTURE_ZH_CN": "注意，指挥官！目标车辆已开始抵达目的地；当最后一名幸存者到达时它们就会撤离。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "One down.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList7.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "One down.",
+      "CULTURE_ZH_CN": "干掉一个。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Massacre_Pirate_NEW.json",
+    "Original": "They're all dead... now get what 'mechs you have to the extraction point and we'll pull you out. Move quickly.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Massacre_Pirate_NEW..dialogueList8.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "They're all dead... now get what 'mechs you have to the extraction point and we'll pull you out. Move quickly.",
+      "CULTURE_ZH_CN": "他们全死了……现在带你手头有多少机甲撤到撤离点，我们把你接出去。动作快点。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "Nipped in the Bud",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.contractName",
+    "Localization": {
+      "CULTURE_EN_US": "Nipped in the Bud",
+      "CULTURE_ZH_CN": "扼杀于萌芽"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "A lance of newly manufactured {TEAM_TAR.FactionDef.Name} 'mechs is being moved overland from manufacturing facilities to a their garrison. {TEAM_EMP.FactionDef.Demonym} would like these units destroyed before they enter military service.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.shortDescription",
+    "Localization": {
+      "CULTURE_EN_US": "A lance of newly manufactured {TEAM_TAR.FactionDef.Name} 'mechs is being moved overland from manufacturing facilities to a their garrison. {TEAM_EMP.FactionDef.Demonym} would like these units destroyed before they enter military service.",
+      "CULTURE_ZH_CN": "一个连新出厂的 {TEAM_TAR.FactionDef.Name} 机甲正从制造设施经陆路运往其驻地。{TEAM_EMP.FactionDef.Demonym} 希望这些单位在服役前被摧毁。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "Commander, from what I understand the mechs are being piloted by either rookies or support staff. They'll likely try to escape rather than battle. They will have an escort however.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.longDescription",
+    "Localization": {
+      "CULTURE_EN_US": "Commander, from what I understand the mechs are being piloted by either rookies or support staff. They'll likely try to escape rather than battle. They will have an escort however.",
+      "CULTURE_ZH_CN": "指挥官，据我了解，这些机甲的机师要么是新手，要么是后勤人员。他们多半会试图逃跑而不是战斗。不过他们会有一支护卫队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "Mission accomplished. The target mechs have been totaled",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW..dialogueList1.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Mission accomplished. The target mechs have been totaled",
+      "CULTURE_ZH_CN": "任务完成。目标机甲已被全歼"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "Nothing more to do here Commander, lets go home.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW..dialogueList2.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Nothing more to do here Commander, lets go home.",
+      "CULTURE_ZH_CN": "这里没别的可做了，指挥官，回家吧。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "The target mechs should be just ahead. Watch out for their escort too.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW..dialogueList3.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "The target mechs should be just ahead. Watch out for their escort too.",
+      "CULTURE_ZH_CN": "目标机甲应该就在前方。小心他们的护卫。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "That's got it, primary target damaged. Keep on those ones.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW..dialogueList4.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "That's got it, primary target damaged. Keep on those ones.",
+      "CULTURE_ZH_CN": "打中了，主要目标受损。继续攻击那些。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "Warning, Commander! The target mechs have begun to arrive at their destination; not much time left before they escape!",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW..dialogueList6.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "Warning, Commander! The target mechs have begun to arrive at their destination; not much time left before they escape!",
+      "CULTURE_ZH_CN": "警告，指挥官！目标机甲已开始抵达目的地；留给它们逃脱的时间不多了！"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_NippedInTheBud_NEW.json",
+    "Original": "We've got company!",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_NippedInTheBud_NEW..dialogueList9.dialogueContent0.words",
+    "Localization": {
+      "CULTURE_EN_US": "We've got company!",
+      "CULTURE_ZH_CN": "有敌人来了！"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering_Hard.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering_Hard.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering_Hard.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering_Hard.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering_Hard.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering_Hard.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering_Hard.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering_Hard.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering_Hard.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering_Hard.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Pirate_WitnessTampering_Hard.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Pirate_WitnessTampering_Hard.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Robbery.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Robbery.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Robbery.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Robbery.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Robbery.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_Robbery.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_RollingMetal.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_RollingMetal.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_RollingMetal.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_RollingMetal.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_RollingMetal.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_RollingMetal.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_RollingMetal.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_RollingMetal.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_RollingMetal.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_RollingMetal.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\5\\AmbushConvoy_RollingMetal.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_RollingMetal.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_CovertSupplies_Hard.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies_Hard.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_CovertSupplies_Hard.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies_Hard.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_CovertSupplies_Hard.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies_Hard.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_CovertSupplies_Hard.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies_Hard.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_CovertSupplies_Hard.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies_Hard.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_CovertSupplies_Hard.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_CovertSupplies_Hard.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LastChance.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LastChance.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LastChance.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LastChance.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LastChance.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LastChance.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LastChance.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LastChance.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LastChance.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LastChance.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LastChance.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LastChance.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LogisticalBreakdown_Hard.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown_Hard.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LogisticalBreakdown_Hard.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown_Hard.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LogisticalBreakdown_Hard.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown_Hard.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LogisticalBreakdown_Hard.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown_Hard.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LogisticalBreakdown_Hard.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown_Hard.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_LogisticalBreakdown_Hard.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_LogisticalBreakdown_Hard.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_PonyExpress_NEW.json",
+    "Original": "Pony Express",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_PonyExpress_NEW.contractName",
+    "Localization": {
+      "CULTURE_EN_US": "Pony Express",
+      "CULTURE_ZH_CN": "小马快递"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_PonyExpress_NEW.json",
+    "Original": "{TEAM_TAR.FactionDef.Demonym} is transporting classified information by courier in a fast moving convoy. It's in our interests if this information never reaches it's destination. We don't know which vehicle will have the target information, so we need you destroy all of them.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_PonyExpress_NEW.shortDescription",
+    "Localization": {
+      "CULTURE_EN_US": "{TEAM_TAR.FactionDef.Demonym} is transporting classified information by courier in a fast moving convoy. It's in our interests if this information never reaches it's destination. We don't know which vehicle will have the target information, so we need you destroy all of them.",
+      "CULTURE_ZH_CN": "{TEAM_TAR.FactionDef.Demonym} 正以快速车队通过信使运送机密信息。让这些信息永远无法抵达目的地符合我们的利益。我们不知道哪辆车携带目标信息，因此需要你摧毁全部车辆。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_PonyExpress_NEW.json",
+    "Original": "This isn't a normal convoy hit, Commander. The targets will be very fast, we'll need highly mobile units to spot and destroy them.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_PonyExpress_NEW.longDescription",
+    "Localization": {
+      "CULTURE_EN_US": "This isn't a normal convoy hit, Commander. The targets will be very fast, we'll need highly mobile units to spot and destroy them.",
+      "CULTURE_ZH_CN": "这不是普通的车队打击，指挥官。目标会非常快，我们需要高度机动的单位来发现并摧毁它们。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_PonyExpress_NEW.json",
+    "Original": "Destroy the {TEAM_TAR.FactionDef.Demonym} Hovertank Convoy",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_PonyExpress_NEW.objective0.title",
+    "Localization": {
+      "CULTURE_EN_US": "Destroy the {TEAM_TAR.FactionDef.Demonym} Hovertank Convoy",
+      "CULTURE_ZH_CN": "摧毁 {TEAM_TAR.FactionDef.Demonym} 悬浮坦克车队"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_ProfessionalCourtesy.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProfessionalCourtesy.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_ProfessionalCourtesy.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProfessionalCourtesy.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_ProfessionalCourtesy.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProfessionalCourtesy.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_ProfessionalCourtesy.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProfessionalCourtesy.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_ProfessionalCourtesy.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProfessionalCourtesy.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_ProfessionalCourtesy.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_ProfessionalCourtesy.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_Robbery_Hard.json",
+    "Original": "The objective for destroying the convoy units.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery_Hard.objective0.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the convoy units.",
+      "CULTURE_ZH_CN": "摧毁车队单位的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_Robbery_Hard.json",
+    "Original": "The objective for destroying the units guarding the convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery_Hard.objective1.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for destroying the units guarding the convoy.",
+      "CULTURE_ZH_CN": "摧毁护送车队的守卫部队。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_Robbery_Hard.json",
+    "Original": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery_Hard.objective2.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for preventing the enemy from reaching their escape point, if this happens the player will lose.",
+      "CULTURE_ZH_CN": "阻止敌人抵达其撤离点的任务目标，若敌人成功则玩家失败。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_Robbery_Hard.json",
+    "Original": "The objective for the player to intercept/observe the enemy convoy.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery_Hard.objective3.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player to intercept/observe the enemy convoy.",
+      "CULTURE_ZH_CN": "拦截/观察敌方车队的任务目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_Robbery_Hard.json",
+    "Original": "The objective for the player units escaping and finishing the mission.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery_Hard.objective4.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for the player units escaping and finishing the mission.",
+      "CULTURE_ZH_CN": "我方单位撤离并完成任务的目标。"
+    }
+  },
+  {
+    "FileName": "c:\\Games\\steamapps\\common\\BATTLETECH\\RogueTechWorking\\RogueTech Core\\Contracts\\ambushconvoy\\8\\AmbushConvoy_Robbery_Hard.json",
+    "Original": "The objective for killing the additional units that ambush you.",
+    "Commentary": "",
+    "Name": "RogueTech_Core.AmbushConvoy_Robbery_Hard.objective5.description",
+    "Localization": {
+      "CULTURE_EN_US": "The objective for killing the additional units that ambush you.",
+      "CULTURE_ZH_CN": "消灭伏击你的额外部队。"
+    }
+  }
+]

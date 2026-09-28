@@ -1,0 +1,136 @@
+{
+  "id": "AffinityDef_chassis_Fighter",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "grimdark_100",
+      "valkyrieii_60",
+      "valiant_30",
+      "cuirass_40",
+      "hatchetman_45",
+      "hatchetman_50",
+      "hatchetman_55",
+      "axman_65",
+      "no-dachi_70",
+      "mortis_75",
+      "berserker_100",
+      "HitotsumeKozo_55",
+      "banzai_90",
+      "buccaneer_55",
+      "dola_30",
+      "cudgel_80",
+      "dominatrix_55",
+      "reaver_85",
+      "pythagoras_60",
+      "hctbagele_45"
+    ],
+    "idType": "AssemblyVariant",
+    "altMaps": [
+      {
+        "chassisIds": [
+          "chassisdef_atlas_AS7-D-HBB",
+          "chassisdef_wraith_WRT-TR2-P",
+          "chassisdef_banshee_BNC-8S",
+          "chassisdef_rabid_coyote_RB-P",
+          "chassisdef_swordsman_SWD-P",
+          "chassisdef_urbanknight_UK-9000",
+          "HatamotoFighter",
+          "CommandoFighter",
+          "BlackknightFighter"
+        ],
+        "idType": "ChassisId"
+      }
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "近战能手",
+        "decription": "物理武器：+1 精度，+10% 伤害与稳定伤害",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Fighter_Dmg",
+              "Name": "Chassis Affinity Fighter: Increased Physical Weapon Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Target_Damage_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Fighter_StabDmg",
+              "Name": "Chassis Affinity Fighter: Increased Physical Weapon Stability Damage",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Target_Instability_Multi",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Fighter_Accuracy",
+              "Name": "Chassis Affinity Fighter: Improved Physical Weapon Hit Chance",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_Physical_Weapon_Attack_Mod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

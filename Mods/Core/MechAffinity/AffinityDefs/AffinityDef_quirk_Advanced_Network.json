@@ -1,0 +1,45 @@
+{
+  "id": "AffinityDef_quirk_Advanced_Network",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_MorriganC3"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "高级网络",
+        "decription": "所有配备 C3 主控/C3i 装备的连队单位：+1 探测器（不可叠加）",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "CommandConsole_Affinity",
+              "Name": "Quirk Affinity Advanced Network: Enable Morrigan Tacticon Aura",
+              "Details": "小队同僚移动时显示其视野",
+              "Icon": "uixSvgIcon_status_ECM-ghost"
+            },
+            "statisticData": {
+              "statName": "ADD_ENCOUNTER_TAG_Morrigan_Affinity",
+              "operation": "Float_Add",
+              "modValue": "1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

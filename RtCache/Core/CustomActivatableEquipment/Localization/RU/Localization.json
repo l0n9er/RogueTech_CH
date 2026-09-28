@@ -1,0 +1,192 @@
+[
+  {
+    "FileName": "",
+    "Name": "CAE.SelectedTargetForbidden",
+    "Localization": {
+      "CULTURE_RU_RU": "\nВы не можете работать с оборудованием пока выбрана цель"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.NotAvaibleThisPhase",
+    "Localization": {
+      "CULTURE_RU_RU": "\nВы не можете управлять данным мехом. Дождитесь своего хода"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.StandUpFail",
+    "Localization": {
+      "CULTURE_RU_RU": "ПОПТЫКА ВСТАТЬ НЕУДАЧНА"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.NonFunctional",
+    "Localization": {
+      "CULTURE_RU_RU": "ПОЛОМАТЫЙ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Damaged",
+    "Localization": {
+      "CULTURE_RU_RU": "ПОВРЕЖДЕН"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.OutOfCharges",
+    "Localization": {
+      "CULTURE_RU_RU": "НЕТ ЗАРЯДОВ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.CHARGES",
+    "Localization": {
+      "CULTURE_RU_RU": "КОЛ-ВО ЗАРЯДОВ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.HEAT",
+    "Localization": {
+      "CULTURE_RU_RU": "НАГРЕВ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.FAIL",
+    "Localization": {
+      "CULTURE_RU_RU": "ШАНС СБОЯ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Components",
+    "Localization": {
+      "CULTURE_RU_RU": "Компоненты"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.COMPONENTS",
+    "Localization": {
+      "CULTURE_RU_RU": "КОМПОНЕНТЫ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.STATE",
+    "Localization": {
+      "CULTURE_RU_RU": "РЕЖИМ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.OPERATIONAL",
+    "Localization": {
+      "CULTURE_RU_RU": "ГОТОВ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.Done",
+    "Localization": {
+      "CULTURE_RU_RU": "Завершить"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.ReactroTooHot",
+    "Localization": {
+      "CULTURE_RU_RU": "РЕАКТОРУ НАДО ОСТЫТЬ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRED",
+    "Localization": {
+      "CULTURE_RU_RU": "ОТРЕМОНТИРОВАЛ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRARMOR",
+    "Localization": {
+      "CULTURE_RU_RU": "БРОНЮ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.REPAIRSTRUCTURE",
+    "Localization": {
+      "CULTURE_RU_RU": "ВНУТ.СТРУКТУРУ"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TARGET.ERROR",
+    "Localization": {
+      "CULTURE_EN_US": "ОШИБКА",
+      "CULTURE_ZH_CN": "错误"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.ERROR",
+    "Localization": {
+      "CULTURE_EN_US": "НЕВОЗМОЖНО ИСПОЛНИТЬ",
+      "CULTURE_ZH_CN": "无法执行"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TARGET.HELP",
+    "Localization": {
+      "CULTURE_EN_US": "ПОМОЩЬ",
+      "CULTURE_ZH_CN": "帮助"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.USAGE.TARGETS.DETAILS",
+    "Localization": {
+      "CULTURE_EN_US": "Вы можете выбрать компонент к которому присоединен данныы\nНаведите курсор на красный текст ОШИБКА, что бы узнать в чем проблема",
+      "CULTURE_ZH_CN": "你可以选择该组件所连接的部件\n把光标悬停在红色\"错误\"文本上即可了解问题所在"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.LIST",
+    "Localization": {
+      "CULTURE_EN_US": "СПИСОК ДОСТУПНОГО ВООРУЖЕНИЯ",
+      "CULTURE_ZH_CN": "可用武器列表"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.CLOSE",
+    "Localization": {
+      "CULTURE_EN_US": "Закрыть",
+      "CULTURE_ZH_CN": "关闭"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.USAGE",
+    "Localization": {
+      "CULTURE_EN_US": "Информация",
+      "CULTURE_ZH_CN": "信息"
+    }
+  },
+  {
+    "FileName": "",
+    "Name": "CAE.TRG.TARGETS",
+    "Localization": {
+      "CULTURE_EN_US": "Вооружение",
+      "CULTURE_ZH_CN": "武器"
+    }
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "id": "AffinityDef_quirk_Steady_Aim",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_StableWeapons"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "稳定瞄准",
+        "decription": "+1 射击，+1 进攻推进精度，+10% 定点射击命中指定部位几率",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Gunnery",
+              "Name": "Quirk Affinity Steady Aim: Increased Gunnery",
+              "Details": "提升射击技能",
+              "Icon": "uixSvgIcon_equipment_Cockpit"
+            },
+            "statisticData": {
+              "statName": "Gunnery",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "TC-CalledShotAcc",
+              "Name": "Quirk Affinity Steady Aim: Improved Called Shot Hit Chance",
+              "Details": "被动：以单件武器攻击时忽略目标的掩护与戒备。",
+              "Icon": "uixSvgIcon_ability_precisionstrike"
+            },
+            "statisticData": {
+              "statName": "IRTCalledShotMod",
+              "operation": "Int_Add",
+              "modValue": "-1",
+              "modType": "System.Int32"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+              "Id": "MA_CALLED_SHOT",
+              "Name": "Quirk Affinity Steady Aim: Increased Called Shot Targeted Location Hit Chance",
+              "Details": "定点射击可靠性提高一倍",
+              "Icon": "uixSvgIcon_ability_mastertactician"
+            },
+            "statisticData": {
+              "statName": "CalledShotBonusMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

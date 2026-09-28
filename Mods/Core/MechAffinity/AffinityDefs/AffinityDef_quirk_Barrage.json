@@ -1,0 +1,43 @@
+{
+  "id": "AffinityDef_quirk_Barrage",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_MultiTrack"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "弹幕",
+        "decription": "突破一击",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "TC-Breaching",
+              "Name": "Quirk Affinity Barrage: Enable Breaching Shot",
+              "Details": "被动：以单件武器攻击时忽略目标的掩护与戒备。",
+              "Icon": "uixSvgIcon_ability_precisionstrike"
+            },
+            "statisticData": {
+              "statName": "PrecisionStrike",
+              "operation": "Set",
+              "modValue": "true",
+              "modType": "System.Boolean"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

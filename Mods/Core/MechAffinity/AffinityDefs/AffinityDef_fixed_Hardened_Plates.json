@@ -1,0 +1,127 @@
+{
+  "id": "AffinityDef_fixed_Hardened_Plates",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Gear_Armor_FerroCarbideShell",
+      "Unique_Armor_TurtleShell",
+      "Gear_MechSquad_Armor_ImpactResistant"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 110,
+        "levelName": "加固装甲板",
+        "decription": "+3% 伤害减免，+20% 穿甲伤害减免，+10% 穿甲暴击抗性",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "effectTargetsCreator": true,
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity-Fixed-HardenedPlates-DamageReduction",
+              "Name": "Fixed Affinity Hardened Plates: Decreased Damage Taken",
+              "Details": "所有来袭伤害降低 3%.",
+              "Icon": "uixSvgIcon_action_end"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierAll",
+              "operation": "Float_Multiply",
+              "modValue": "0.97",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "effectTargetsCreator": true,
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity-Fixed-HardenedPlates-AoEDamageTaken",
+              "Name": "Fixed Affinity Hardened Plates: Decreased AoE Damage Taken",
+              "Details": "受到的所有范围伤害降低 3%。",
+              "Icon": "uixSvgIcon_action_end"
+            },
+            "statisticData": {
+              "statName": "CACAoEDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.97",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "PaddingEffect_1",
+              "Name": "Fixed Affinity Hardened Plates: Decreased AP Damage",
+              "Details": "该单位能抵抗暴击。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CACAPDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.80",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "PaddingEffect_2",
+              "Name": "Fixed Affinity Hardened Plates: Decreased Receive AP Crit Chance",
+              "Details": "该单位能抵抗穿甲伤害",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CAC_APCritChance",
+              "operation": "Float_Multiply",
+              "modValue": "0.90",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

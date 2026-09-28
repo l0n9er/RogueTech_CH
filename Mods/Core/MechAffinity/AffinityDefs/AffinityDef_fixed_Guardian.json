@@ -1,0 +1,119 @@
+{
+  "id": "AffinityDef_fixed_Guardian",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Lootable_HandHeld_Shield_1tons",
+      "Lootable_HandHeld_Shield_2tons",
+      "Lootable_HandHeld_Shield_3tons",
+      "Lootable_HandHeld_Shield_4tons",
+      "Lootable_HandHeld_Shield_5tons",
+      "Lootable_HandHeld_Shield_6tons",
+      "Lootable_HandHeld_Shield_7tons",
+      "Lootable_HandHeld_Shield_8tons",
+      "Lootable_HandHeld_Shield_9tons",
+      "Lootable_HandHeld_Shield_10tons",
+      "Default_HandHeld_Shield_1tons",
+      "Default_HandHeld_Shield_2tons",
+      "Default_HandHeld_Shield_3tons",
+      "Default_HandHeld_Shield_4tons",
+      "Default_HandHeld_Shield_5tons",
+      "Default_HandHeld_Shield_6tons",
+      "Default_HandHeld_Shield_7tons",
+      "Default_HandHeld_Shield_8tons",
+      "Default_HandHeld_Shield_9tons",
+      "Default_HandHeld_Shield_10tons"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 120,
+        "levelName": "守护者",
+        "decription": "+10% 伤害与稳定伤害减免",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Dreadnought_",
+              "Name": "Fixed Affinity Guardian: Decreased Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "DamageReductionMultiplierAll",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Dreadnought_",
+              "Name": "Fixed Affinity Guardian: Decreased Stability Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "ReceivedInstabilityMultiplier",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_Dreadnought_",
+              "Name": "Fixed Affinity Guardian: Decreased AoE Damage Taken",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CACAoEDamageMult",
+              "operation": "Float_Multiply",
+              "modValue": "0.9",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

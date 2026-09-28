@@ -1,0 +1,47 @@
+{
+  "id": "AffinityDef_quirk_GO_FASTAH",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_AdvancedMASC",
+      "Quirk_Urbie_Squad",
+      "Quirk_Protomech_Sprinter"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "再快点！",
+        "decription": "+30 米行走距离",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "TSMActive1",
+              "Name": "Quirk Affinity GO FASTAH: Increased Walk Speed",
+              "Details": "近战更强，移动更快",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "WalkSpeed",
+              "operation": "Float_Add",
+              "modValue": "30",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

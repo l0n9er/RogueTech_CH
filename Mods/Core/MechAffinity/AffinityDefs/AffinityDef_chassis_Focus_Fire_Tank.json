@@ -1,0 +1,84 @@
+{
+  "id": "AffinityDef_chassis_Focus_Fire_Tank",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Lafayette_80",
+      "Hamilton_65",
+      "dragonlady_20",
+      "Washington_45",
+      "Arrokoth_60",
+      "Ares_40",
+      "Alacorn_95",
+      "Carnivore_80",
+      "Centaurus_15",
+      "Challenger_90",
+      "Chasseur_30",
+      "Demolisher_80",
+      "Ojasan_100",
+      "DemolisherIIC_80",
+      "DemolisherII_100",
+      "DevastatorII_160",
+      "SuperArbalest_110",
+      "Drillson_50",
+      "Eurus_60",
+      "Katydid_80",
+      "Fulcrum_50",
+      "Kalis_45",
+      "MarksmanMBT_95",
+      "Moltke_75",
+      "NikeAA_90",
+      "Ontos_95",
+      "Panzerhaubitze_35",
+      "Po_60",
+      "LTVhover_50",
+      "Sabaku_50",
+      "Scorpion_25",
+      "Scorpion_35",
+      "Scorpion_45",
+      "Sheriff_50",
+      "Trident_30",
+      "Zeus_55",
+      "Zorya_35"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "集中火力",
+        "decription": "炮塔 +1 精度",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false,
+              "hideApplicationFloatie": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_FocusFire_T",
+              "Name": "Chassis Affinity Focus Fire Tank: Improved Turret Accuracy",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "abilifierId": "AccuracyModifierFilter",
+              "statName": "Turret.Accuracy",
+              "operation": "Float_Add",
+              "modValue": "-1",
+              "modType": "System.Single"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

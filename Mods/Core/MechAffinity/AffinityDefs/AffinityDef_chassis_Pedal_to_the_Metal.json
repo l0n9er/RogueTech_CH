@@ -1,0 +1,121 @@
+{
+  "id": "AffinityDef_chassis_Pedal_to_the_Metal",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Peregrine_30",
+      "Glaive_45",
+      "Burro2_50",
+      "ColoSpecial_55",
+      "CornerstoneSHTank_150",
+      "Goblin_45",
+      "Goblin_50",
+      "J27Transporter_50",
+      "JESIII_60",
+      "JedgarHover_25",
+      "Knox_12",
+      "MobileHQ_25",
+      "MobileHQ_40",
+      "Pele_35",
+      "ProjectSectarian_130",
+      "Shara_30",
+      "Sokar_50",
+      "Vedette_50",
+      "Zebra_55",
+      "koschei_65",
+      "nightsky_50",
+      "KrugerCC_10",
+      "Trajan_85"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "油门踩到底",
+        "decription": "+10% 奔跑速度，+1 胆识",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_PedalToTheMetal_WalkSpeed",
+              "Name": "Chassis Affinity Pedal to the Metal: Increased Run Speed",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "CBTBE_RunMultiMod",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "Affinity_PedalToTheMetal_FlankSpeed",
+              "Name": "Chassis Affinity Pedal to the Metal: Increased Flank Speed",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "FlankSpeed",
+              "operation": "Float_Multiply",
+              "modValue": "1.1",
+              "modType": "System.Single"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": 2
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "StatusEffect_Cockpit_Skill_Guts",
+              "Name": "Chassis Affinity Pedal to the Metal: Increased Guts",
+              "Details": "机师已精通该底盘。",
+              "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+              "statName": "Guts",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32",
+              "targetCollection": "Pilot"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

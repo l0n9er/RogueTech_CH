@@ -1,0 +1,50 @@
+{
+  "id": "AffinityDef_quirk_Alacrity",
+  "affinityType": "Quirk",
+  "affinityData": {
+    "quirkNames": [
+      "Quirk_Agile",
+      "Quirk_OffRoader",
+      "Quirk_Nimble",
+      "Quirk_Trooper_Nimble",
+      "Gear_MechTrait_Quad",
+      "Quirk_MechSquad_Quad",
+      "Gear_Protomech_Special_WiGE"
+    ],
+    "affinityLevels": [
+      {
+        "missionsRequired": 40,
+        "levelName": "迅捷",
+        "decription": "移动时 +1 闪避",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "GainEvasion",
+              "Name": "Quirk Affinity Alacrity: Increased Evasive Pips Gain",
+              "Details": "该单位通过移动行动额外获得 1 层闪避（不超过上限）。",
+              "Icon": "uixSvgIcon_action_evasivemove"
+            },
+            "statisticData": {
+              "statName": "EvasivePipsGainedAdditional",
+              "operation": "Int_Add",
+              "modValue": "1",
+              "modType": "System.Int32"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

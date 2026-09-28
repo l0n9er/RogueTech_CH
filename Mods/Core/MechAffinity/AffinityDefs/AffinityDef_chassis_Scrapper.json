@@ -1,0 +1,134 @@
+{
+  "id": "AffinityDef_chassis_Scrapper",
+  "affinityType": "Chassis",
+  "affinityData": {
+    "chassisNames": [
+      "Sling_25",
+      "Saoirse_35",
+      "Koto_25",
+      "Burke_75",
+      "bruin_80",
+      "Firetruck_25",
+      "Magi_70",
+      "NikeIFV_50",
+      "Hades_65",
+      "Cossack_20",
+      "Brigand_25",
+      "hellbringer_65",
+      "hellbringerii_65",
+      "osiris_30",
+      "jenneriic_35",
+      "beetledrone_25",
+      "sounder_65",
+      "bane_100",
+      "Arbiter_35",
+      "Wraith_55",
+      "WraithWing_55",
+      "kitfox_30",
+      "Arcticfox_30",
+      "phoenixhawkiic_80",
+      "phoenixhawk_45",
+      "phoenixhawkl_35",
+      "uziel_50",
+      "medusa_50",
+      "juggernaut_90",
+      "battlemaster_75",
+      "warlord_75",
+      "warlord_80",
+      "battlemaster_85",
+      "battlemasteriic_90",
+      "cataphract_70",
+      "vulcan_40",
+      "hornet_20",
+      "executioner_95",
+      "anzu_60",
+      "summoner_70",
+      "grandsummoner_70",
+      "rakshasa_75",
+      "madcatmkii_90",
+      "turkina_95",
+      "gargoyle_80",
+      "septicemia_55",
+      "Sojourner_60",
+      "Swordsman_40",
+      "BL-QS_75",
+      "BLR-QS_85",
+      "crockett_85",
+      "rifleman3m_60",
+      "katana_85",
+      "nagaii_80",
+      "bakeneko_55",
+      "bloodreaper_70",
+      "crimsonhellkite_55",
+      "hercules_70",
+      "liberator_65",
+      "stoopinghawk_55",
+      "tianzong_75",
+      "madfox_85",
+      "wildfire_65",
+      "megalodon_100",
+      "homunculus_65"
+    ],
+    "idType": "AssemblyVariant",
+    "affinityLevels": [
+      {
+        "missionsRequired": 20,
+        "levelName": "斗士",
+        "decription": "王牌飞行员与多目标",
+        "affinities": [],
+        "effectData": [
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator",
+              "showInTargetPreview": false,
+              "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "IRAllowMultiTargetEffect",
+              "Name": "Chassis Affinity Scrapper: Allow Multi Target",
+              "Details": "启用多目标。",
+              "Icon": "uixSvgIcon_equipment_ActuatorArm"
+            },
+            "statisticData": {
+              "statName": "IRAllowMultiTarget",
+              "operation": "Set",
+              "modValue": "true",
+              "modType": "System.Boolean"
+            }
+          },
+          {
+            "durationData": {
+              "duration": -1,
+              "stackLimit": -1
+            },
+            "targetingData": {
+              "effectTriggerType": "Passive",
+              "effectTargetType": "Creator"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "Description": {
+              "Id": "InterFaceMoveAfterShoot",
+              "Name": "Chassis Affinity Scrapper: Allow Move After Shooting",
+              "Details": "该单位可在射击前或射击后移动。",
+              "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "statisticData": {
+              "statName": "CanMoveAfterShooting",
+              "operation": "Set",
+              "modValue": "true",
+              "modType": "System.Boolean"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1730 @@
+[
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Introduced in 2752, the 10A is a long-range harasser. Both SRM-6 racks are replaced by one LRM-15 in the right torso with one ton of reloads. \n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "10A于2752年推出，是一种远程袭扰机。两具SRM-6架都被右躯干一具LRM-15取代，配一吨备用弹。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10F.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10F.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10F.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Fire Javelin is a dangerous 'Mech for its tonnage, especially against other light mechs and some mediums. The JVN-10F also makes a decent light 'Mech hunter-killer.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "火焰标枪就其吨位而言是一台危险的机甲，尤其对付其他轻型机甲和部分中型机甲。JVN-10F也是一台不错的轻型机甲猎杀者。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10N.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10N.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10N.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Javelin is an extremely effective ambusher and superb reconnaissance mech.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "标枪是一台极高效的伏击者，也是出色的侦察机甲。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10NR.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10NR.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10NR.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A common battlefield refit, replacing two jump jets with C.A.S.E. protection for the SRM ammunition.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "这是常见的战地改装，用C.A.S.E.保护SRM弹药，换取两个跳跃推进器。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10P.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10P.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-10P.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 10P model is an upgrade of the 10N model introduced by the Federated Commonwealth amid much secrecy in 3049. The 10P retains the armor and speed profile of the 10N, removes one of the SRM-6 launchers and replaces it with two Streak SRM-2 launchers. While sacrificing slightly in terms of firepower, this variant is far more ammo-efficient than the original.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "10P型号是10N型号的升级版，由联邦共同体于3049年在高度保密中推出。10P保留10N的装甲与速度配置，拆掉其中一具SRM-6发射器，换成两具连发SRM-2发射器。虽然火力上略有牺牲，该改型比原版省弹药得多。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The second version of the Javelin to carry the moniker of Fire Javelin, this upgrade of the 10F was introduced following the Clan Invasion in 3053 and mounts seven medium lasers, using double heat sinks to counter the massive amount of heat that can build up from using so many energy weapons. The conventional armor was also swapped out for ferro-fibrous and an additional ton was added to increase the overall protection for the Javelin. This design was a field refit often seen after other units had cast off their old parts.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>",
+        "CULTURE_ZH_CN": "作为第二种冠以火焰标枪之名的版本，这一10F的升级在氏族入侵之后的3053年推出，装有七门中型激光器，并使用双重散热器以应对如此多能量武器可能积累的巨量热量。常规装甲也换成了铁纤，并额外增加一吨以提升标枪的整体防护。该设计常作为一种战地改装出现，多见于其他单位把旧零件丢弃之后。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11B.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11B.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11B.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Javelin is an extremely effective ambusher and superb reconnaissance mech.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "标枪是一台极高效的伏击者，也是出色的侦察机甲。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11C.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11C.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11C.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 11C brings some advanced upgrades to the Javelin line, double heat sinks, XL engine and Endo-Steel chassis have all been added. As a result the design can easily fit four Medium Lasers and two Streak SRM-2 launchers, and even increase the protection thanks to usage of Ferro-Fibrous armor.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>",
+        "CULTURE_ZH_CN": "11C为标枪系列带来一些先进升级：双重散热器、XL引擎和内层钢底盘全部加入。因此该设计能轻松装下四门中型激光器和两具连发SRM-2发射器，甚至还能因采用铁纤装甲而提升防护。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11K.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11K.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11K.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 11K replaces all weapons of earlier models with two ER Large lasers by switching to the use of an extralight engine. The variant further adds a C3 slave, switches to double heat sinks and uses an Endo-Steel chassis.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>",
+        "CULTURE_ZH_CN": "11K通过改用超轻型引擎，把早期型号的所有武器换成两门增程大型激光器。该改型还加装一套C3从属系统，改用双重散热器，并使用内层钢底盘。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11U.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11U.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-11U.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An attempt at improving the combat capabilities of the Javelin, the 11U carries five Streak SRM-2 launchers. To fit the weapons, the armor has been slightly reduced and the chassis was switched to use Endo-Steel.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>",
+        "CULTURE_ZH_CN": "作为一次提升标枪作战能力的尝试，11U携带五具连发SRM-2发射器。为装下这些武器，装甲略有减少，底盘也改用内层钢。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-HT.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-HT.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin",
+        "CULTURE_ZH_CN": "标枪"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_javelin_JVN-HT.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 'Hi There!' is the personal 'Mech of Fourth Deneb Light Cavalry's MechWarrior Bill 'Wildman' Wilkes. Mounting a 180-rated XL engine and built on an Endo-Steel chassis, the 'Hi There!' retains the 10N's classic torso SRM-6s and uses the extra weight savings to mount a pair of medium lasers in each arm. Aside from swapping the 10 single heat sinks for double strength versions, the Hi There! features the same level of SRM reloads, armor coverage, and jump jet capacity as the 10N.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "“你好呀！”是第四天津四轻骑兵机师比尔“野人”威尔克斯的私人机甲。它装一具180级XL引擎，建在内层钢底盘上，保留10N经典的两侧躯干SRM-6，并用省下的额外重量在双臂各装一对中型激光器。除了把10具单重散热器换成双倍强度型号外，“你好呀！”在SRM备用弹、装甲覆盖与跳跃推进器容量上都与10N相同。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-1X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-1X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-1X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The original 3024 prototype of what became the RVN-3L Raven, this was the unit that was pressed into service against the Federated Suns during the Fourth Succession War. With XL engine technology not yet available, the 'Mech mounted a standard Omni 175 fusion engine, giving it a maximum speed of 86 km/h, and was protected by four tons of standard armor. The EW Equipment at the time that this 'Mech was built consisted of a massive 7.5 ton experimental electronic warfare suite that unfortunately did not live up to expectations.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "这就是后来成为RVN-3L渡鸦的原始3024年原型，正是它在第四次继承战争期间被投入对联邦太阳的作战。由于当时尚无XL引擎技术，该机甲装一具标准全方位175聚变引擎，最高速度86公里/小时，并由四吨标准装甲保护。该机甲建造时的电子战装备是一套庞大、重达7.5吨的实验性电子战套件——不幸的是它没有达到预期。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-2X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-2X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-2X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Many of the Ravens captured by the Federated Suns in the Fourth Succession War were refitted in 3030 to the 2X standard. This variant replaced the EW equipment with a Large Laser.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "联邦太阳在第四次继承战争中缴获的许多渡鸦在3030年被改装为2X标准。这一改型把电子战装备换成一门大型激光器。\n\n\n<b><color=#e62e00>特质: 灵巧</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.98</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The RVN-3A switch to use double heat sinks and an XL engine to enable the addition of two extra SRM launchers, one of them a Streak. The design also improves the electronic warfare capabilities of the 'Mech.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "RVN-3A改用双重散热器和一具XL引擎，从而得以加装两具额外SRM发射器，其中一具是连发型号。该设计还提升了机甲的电子战能力。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3J.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3J.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3J.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Raven 3J uses a 210 XL engine to free the space for six added Jump Jets as well as improved electronics. An extra Streak SRM-2 launcher was also added.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "渡鸦3J使用一具210 XL引擎腾出空间，用于加装六个跳跃推进器以及改进的电子设备。它还加装了一具额外连发SRM-2发射器。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3L.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3L.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3L.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Raven was a light-weight electronic warfare BattleMech which, when it first debuted after the end of the Third Succession War, was not just one of the first truly original 'Mech designs produced in centuries, but also represented humanity's refusal to slide back technologically.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "渡鸦是一种轻量级电子战战斗机甲，它于第三次继承战争结束后首次亮相时，不仅是数百年来最早真正原创的机甲设计之一，也代表着人类拒绝在技术上倒退。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3M.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3M.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3M.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This variant, based on the 3L, removed the SRM-6 launcher, the medium lasers, and the electronic warfare systems and TAG laser in order to turn the Raven into a long range fire support unit.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "这一改型以3L为基础，拆掉SRM-6发射器、中型激光器、电子战系统和TAG激光器，把渡鸦变成一台远程火力支援单位。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3W.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3W.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3W.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The main change of the Raven RVN-3W is the Large Laser mounted in the left arm. This was made possible by switching to an XL engine and double heatsinks.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "渡鸦RVN-3W的主要改动是装在左臂的大型激光器。这是通过改用一具XL引擎和双重散热器实现的。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-3X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Built around prototype TSM, the Raven 3X is a moderate upgrade to the 1X model that came before it.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "围绕原型TSM建造，渡鸦3X是对其前身1X型号的适度升级。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-4X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-4X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-4X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A Capellan variant of the original prototype, with the battlefield failure of the -1X, the -4X was an attempt to reuse the chassis as a more combat orientated unit. It removes the EW equipment and is outfitted with five jump jets and two Machine Guns with a ton of ammunition. The armor was increased to the chassis' limit of seven tons. Used as a substitute in lances that normally used a JR7-D but needed more anti-infantry capability. \n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "这是原始原型的卡佩兰改型。随着-1X在战场上的失败，-4X是一次把该底盘重新用作更偏战斗单位的尝试。它拆掉电子战装备，装上五个跳跃推进器和两挺机枪配一吨弹药。装甲增加到该底盘的极限——七吨。它被用于替代那些通常使用JR7-D但需要更强反步兵能力的分队。\n\n\n<b><color=#e62e00>特质: 灵巧</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.98</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-H.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-H.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-H.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Named for one of the mythical ravens that aided the Norse god Odin and piloted by Sergeant Odin Sigurd of the Free Rasalhague Republic. The Huginn is armed for close range combat, mounting paired Machine Guns in each arm in support of right torso SRM-6 and left torso Streak SRM-2.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "它以神话中协助北欧神奥丁的两只渡鸦之一命名，由自由拉萨尔哈格共和国的奥丁·西古德中士驾驶。胡金为近距离作战而武装，双臂各装成对机枪，支援右躯干的SRM-6和左躯干的连发SRM-2。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-M.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-M.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven",
+        "CULTURE_ZH_CN": "渡鸦"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.chassisdef_raven_RVN-M.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Named for one of the mythical ravens that aided the Norse god Odin. The Muninn is armed for long range combat, carrying a incendiary LRM alongside a single Bombast Laser.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "它以神话中协助北欧神奥丁的两只渡鸦之一命名。穆宁为远程作战而武装，携带一具燃烧弹LRM以及一门夸张激光器。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10A",
+        "CULTURE_ZH_CN": "标枪 JVN-10A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10A",
+        "CULTURE_ZH_CN": "标枪 JVN-10A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Introduced in 2752, the 10A is a long-range harasser. Both SRM-6 racks are replaced by one LRM-15 in the right torso with one ton of reloads. \n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "10A于2752年推出，是一种远程袭扰机。两具SRM-6架都被右躯干一具LRM-15取代，配一吨备用弹。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10F.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10F 'Fire Javelin'",
+        "CULTURE_ZH_CN": "标枪 JVN-10F 'Fire Javelin'"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10F.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10F",
+        "CULTURE_ZH_CN": "标枪 JVN-10F"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10F.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Fire Javelin is a dangerous 'Mech for its tonnage, especially against other light mechs and some mediums. The JVN-10F also makes a decent light 'Mech hunter-killer.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "火焰标枪就其吨位而言是一台危险的机甲，尤其对付其他轻型机甲和部分中型机甲。JVN-10F也是一台不错的轻型机甲猎杀者。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10N.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10N",
+        "CULTURE_ZH_CN": "标枪 JVN-10N"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10N.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10N",
+        "CULTURE_ZH_CN": "标枪 JVN-10N"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10N.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Javelin is an extremely effective ambusher and superb reconnaissance mech.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "标枪是一台极高效的伏击者，也是出色的侦察机甲。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10NR.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10NR",
+        "CULTURE_ZH_CN": "标枪 JVN-10NR"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10NR.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10NR",
+        "CULTURE_ZH_CN": "标枪 JVN-10NR"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10NR.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A common battlefield refit, replacing two jump jets with C.A.S.E. protection for the SRM ammunition.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "这是常见的战地改装，用C.A.S.E.保护SRM弹药，换取两个跳跃推进器。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10P.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10P",
+        "CULTURE_ZH_CN": "标枪 JVN-10P"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10P.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-10P",
+        "CULTURE_ZH_CN": "标枪 JVN-10P"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-10P.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 10P model is an upgrade of the 10N model introduced by the Federated Commonwealth amid much secrecy in 3049. The 10P retains the armor and speed profile of the 10N, removes one of the SRM-6 launchers and replaces it with two Streak SRM-2 launchers. While sacrificing slightly in terms of firepower, this variant is far more ammo-efficient than the original.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "10P型号是10N型号的升级版，由联邦共同体于3049年在高度保密中推出。10P保留10N的装甲与速度配置，拆掉其中一具SRM-6发射器，换成两具连发SRM-2发射器。虽然火力上略有牺牲，该改型比原版省弹药得多。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11A 'Fire Javelin'",
+        "CULTURE_ZH_CN": "标枪 JVN-11A 'Fire Javelin'"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11A",
+        "CULTURE_ZH_CN": "标枪 JVN-11A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The second version of the Javelin to carry the moniker of Fire Javelin, this upgrade of the 10F was introduced following the Clan Invasion in 3053 and mounts seven medium lasers, using double heat sinks to counter the massive amount of heat that can build up from using so many energy weapons. The conventional armor was also swapped out for ferro-fibrous and an additional ton was added to increase the overall protection for the Javelin. This design was a field refit often seen after other units had cast off their old parts.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>",
+        "CULTURE_ZH_CN": "作为第二种冠以火焰标枪之名的版本，这一10F的升级在氏族入侵之后的3053年推出，装有七门中型激光器，并使用双重散热器以应对如此多能量武器可能积累的巨量热量。常规装甲也换成了铁纤，并额外增加一吨以提升标枪的整体防护。该设计常作为一种战地改装出现，多见于其他单位把旧零件丢弃之后。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11B.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11B",
+        "CULTURE_ZH_CN": "标枪 JVN-11B"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11B.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11B",
+        "CULTURE_ZH_CN": "标枪 JVN-11B"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11B.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Javelin is an extremely effective ambusher and superb reconnaissance mech.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.97</color></b>",
+        "CULTURE_ZH_CN": "标枪是一台极高效的伏击者，也是出色的侦察机甲。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.97</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11C.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11C",
+        "CULTURE_ZH_CN": "标枪 JVN-11C"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11C.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11C",
+        "CULTURE_ZH_CN": "标枪 JVN-11C"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11C.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 11C brings some advanced upgrades to the Javelin line, double heat sinks, XL engine and Endo-Steel chassis have all been added. As a result the design can easily fit four Medium Lasers and two Streak SRM-2 launchers, and even increase the protection thanks to usage of Ferro-Fibrous armor.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>",
+        "CULTURE_ZH_CN": "11C为标枪系列带来一些先进升级：双重散热器、XL引擎和内层钢底盘全部加入。因此该设计能轻松装下四门中型激光器和两具连发SRM-2发射器，甚至还能因采用铁纤装甲而提升防护。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11K.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11K",
+        "CULTURE_ZH_CN": "标枪 JVN-11K"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11K.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11K",
+        "CULTURE_ZH_CN": "标枪 JVN-11K"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11K.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 11K replaces all weapons of earlier models with two ER Large lasers by switching to the use of an extralight engine. The variant further adds a C3 slave, switches to double heat sinks and uses an Endo-Steel chassis.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>",
+        "CULTURE_ZH_CN": "11K通过改用超轻型引擎，把早期型号的所有武器换成两门增程大型激光器。该改型还加装一套C3从属系统，改用双重散热器，并使用内层钢底盘。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11U.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11U",
+        "CULTURE_ZH_CN": "标枪 JVN-11U"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11U.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-11U",
+        "CULTURE_ZH_CN": "标枪 JVN-11U"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-11U.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "An attempt at improving the combat capabilities of the Javelin, the 11U carries five Streak SRM-2 launchers. To fit the weapons, the armor has been slightly reduced and the chassis was switched to use Endo-Steel.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.99</color></b>",
+        "CULTURE_ZH_CN": "作为一次提升标枪作战能力的尝试，11U携带五具连发SRM-2发射器。为装下这些武器，装甲略有减少，底盘也改用内层钢。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.99</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-HT.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-HT 'Hi There!'",
+        "CULTURE_ZH_CN": "标枪 JVN-HT 'Hi There!'"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-HT.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Javelin JVN-HT",
+        "CULTURE_ZH_CN": "标枪 JVN-HT"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_javelin_JVN-HT.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The 'Hi There!' is the personal 'Mech of Fourth Deneb Light Cavalry's MechWarrior Bill 'Wildman' Wilkes. Mounting a 180-rated XL engine and built on an Endo-Steel chassis, the 'Hi There!' retains the 10N's classic torso SRM-6s and uses the extra weight savings to mount a pair of medium lasers in each arm. Aside from swapping the 10 single heat sinks for double strength versions, the Hi There! features the same level of SRM reloads, armor coverage, and jump jet capacity as the 10N.\n\n<b><color=#e62e00>Quirk: Easy to Maintain</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.01</color></b>",
+        "CULTURE_ZH_CN": "“你好呀！”是第四天津四轻骑兵机师比尔“野人”威尔克斯的私人机甲。它装一具180级XL引擎，建在内层钢底盘上，保留10N经典的两侧躯干SRM-6，并用省下的额外重量在双臂各装一对中型激光器。除了把10具单重散热器换成双倍强度型号外，“你好呀！”在SRM备用弹、装甲覆盖与跳跃推进器容量上都与10N相同。\n\n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.01</color></b>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-1X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-1X",
+        "CULTURE_ZH_CN": "渡鸦 RVN-1X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-1X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-1X",
+        "CULTURE_ZH_CN": "渡鸦 RVN-1X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-1X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The original 3024 prototype of what became the RVN-3L Raven, this was the unit that was pressed into service against the Federated Suns during the Fourth Succession War. With XL engine technology not yet available, the 'Mech mounted a standard Omni 175 fusion engine, giving it a maximum speed of 86 km/h, and was protected by four tons of standard armor. The EW Equipment at the time that this 'Mech was built consisted of a massive 7.5 ton experimental electronic warfare suite that unfortunately did not live up to expectations.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "这就是后来成为RVN-3L渡鸦的原始3024年原型，正是它在第四次继承战争期间被投入对联邦太阳的作战。由于当时尚无XL引擎技术，该机甲装一具标准全方位175聚变引擎，最高速度86公里/小时，并由四吨标准装甲保护。该机甲建造时的电子战装备是一套庞大、重达7.5吨的实验性电子战套件——不幸的是它没有达到预期。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-2X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-2X",
+        "CULTURE_ZH_CN": "渡鸦 RVN-2X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-2X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-2X",
+        "CULTURE_ZH_CN": "渡鸦 RVN-2X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-2X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Many of the Ravens captured by the Federated Suns in the Fourth Succession War were refitted in 3030 to the 2X standard. This variant replaced the EW equipment with a Large Laser.\n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "联邦太阳在第四次继承战争中缴获的许多渡鸦在3030年被改装为2X标准。这一改型把电子战装备换成一门大型激光器。\n\n\n<b><color=#e62e00>特质: 灵巧</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.98</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3A.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3A",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3A.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3A",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3A"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3A.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The RVN-3A switch to use double heat sinks and an XL engine to enable the addition of two extra SRM launchers, one of them a Streak. The design also improves the electronic warfare capabilities of the 'Mech.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "RVN-3A改用双重散热器和一具XL引擎，从而得以加装两具额外SRM发射器，其中一具是连发型号。该设计还提升了机甲的电子战能力。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3J.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3J",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3J"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3J.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3J",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3J"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3J.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Raven 3J uses a 210 XL engine to free the space for six added Jump Jets as well as improved electronics. An extra Streak SRM-2 launcher was also added.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "渡鸦3J使用一具210 XL引擎腾出空间，用于加装六个跳跃推进器以及改进的电子设备。它还加装了一具额外连发SRM-2发射器。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3L.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3L",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3L"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3L.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3L",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3L"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3L.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Raven was a light-weight electronic warfare BattleMech which, when it first debuted after the end of the Third Succession War, was not just one of the first truly original 'Mech designs produced in centuries, but also represented humanity's refusal to slide back technologically.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "渡鸦是一种轻量级电子战战斗机甲，它于第三次继承战争结束后首次亮相时，不仅是数百年来最早真正原创的机甲设计之一，也代表着人类拒绝在技术上倒退。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3M.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3M",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3M"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3M.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3M",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3M"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3M.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "This variant, based on the 3L, removed the SRM-6 launcher, the medium lasers, and the electronic warfare systems and TAG laser in order to turn the Raven into a long range fire support unit.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "这一改型以3L为基础，拆掉SRM-6发射器、中型激光器、电子战系统和TAG激光器，把渡鸦变成一台远程火力支援单位。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3W.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3W",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3W"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3W.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3W",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3W"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3W.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The main change of the Raven RVN-3W is the Large Laser mounted in the left arm. This was made possible by switching to an XL engine and double heatsinks.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.05</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "渡鸦RVN-3W的主要改动是装在左臂的大型激光器。这是通过改用一具XL引擎和双重散热器实现的。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3X",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-3X",
+        "CULTURE_ZH_CN": "渡鸦 RVN-3X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-3X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Built around prototype TSM, the Raven 3X is a moderate upgrade to the 1X model that came before it.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.04</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "围绕原型TSM建造，渡鸦3X是对其前身1X型号的适度升级。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-4X.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-4X",
+        "CULTURE_ZH_CN": "渡鸦 RVN-4X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-4X.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-4X",
+        "CULTURE_ZH_CN": "渡鸦 RVN-4X"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-4X.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "A Capellan variant of the original prototype, with the battlefield failure of the -1X, the -4X was an attempt to reuse the chassis as a more combat orientated unit. It removes the EW equipment and is outfitted with five jump jets and two Machine Guns with a ton of ammunition. The armor was increased to the chassis' limit of seven tons. Used as a substitute in lances that normally used a JR7-D but needed more anti-infantry capability. \n\n<b><color=#e62e00>Quirk: Nimble</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 0.98</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "这是原始原型的卡佩兰改型。随着-1X在战场上的失败，-4X是一次把该底盘重新用作更偏战斗单位的尝试。它拆掉电子战装备，装上五个跳跃推进器和两挺机枪配一吨弹药。装甲增加到该底盘的极限——七吨。它被用于替代那些通常使用JR7-D但需要更强反步兵能力的分队。\n\n\n<b><color=#e62e00>特质: 灵巧</color></b>\n\n<b><color=#e62e00>投放成本倍率: 0.98</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-H.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven 'Huginn'",
+        "CULTURE_ZH_CN": "渡鸦 'Huginn'"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-H.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-H",
+        "CULTURE_ZH_CN": "渡鸦 RVN-H"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-H.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Named for one of the mythical ravens that aided the Norse god Odin and piloted by Sergeant Odin Sigurd of the Free Rasalhague Republic. The Huginn is armed for close range combat, mounting paired Machine Guns in each arm in support of right torso SRM-6 and left torso Streak SRM-2.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "它以神话中协助北欧神奥丁的两只渡鸦之一命名，由自由拉萨尔哈格共和国的奥丁·西古德中士驾驶。胡金为近距离作战而武装，双臂各装成对机枪，支援右躯干的SRM-6和左躯干的连发SRM-2。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-M.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven 'Muninn'",
+        "CULTURE_ZH_CN": "渡鸦 'Muninn'"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-M.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Raven RVN-M",
+        "CULTURE_ZH_CN": "渡鸦 RVN-M"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.mechdef_raven_RVN-M.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Named for one of the mythical ravens that aided the Norse god Odin. The Muninn is armed for long range combat, carrying a incendiary LRM alongside a single Bombast Laser.\n\n<b><color=#e62e00>Quirk: Improved Jammer</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.02</color></b>\n\n<color=#FFEF00>Arm Actuator Limits: Left Upper, Right Upper</color>",
+        "CULTURE_ZH_CN": "它以神话中协助北欧神奥丁的两只渡鸦之一命名。穆宁为远程作战而武装，携带一具燃烧弹LRM以及一门夸张激光器。\n\n\n<b><color=#e62e00>特质: 改进干扰器</color></b>\n\n<b><color=#e62e00>投放成本倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上, 右上</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (2574)",
+        "CULTURE_ZH_CN": "豪侠 (2574)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (2574)",
+        "CULTURE_ZH_CN": "豪侠 (2574)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "With 'Mechs having begun their rule of the open battlefields the Gallant was intended as a niche product for the specific role of urban warfare and infantry support. Developed by Freeport Armorworks on Helm (production was later taken over by Kallon Industries on Loyalty) the design was nearly killed by budget issues which forced downgrades to the planned fusion power plant and other modern features, though eventually it was equipped at least with CASE. To fulfill its urban combat role the vehicle featured a low, very heavily armored chassis with self-inflating tires, a necessity to keep the heavy six-wheeler mobile under fire. \n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 3/5 hexes / 90/150 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>       300     35\n<b>Left</b>         275     35\n<b>Right</b>       275     35\n<b>Rear</b>        300     35\n<b>Turret</b>      250     35\n\n<b>Total</b>      1400    175</color>\n\n<color=#ff0000>Quirk: Main Battle Tank</color>",
+        "CULTURE_ZH_CN": "随着机甲开始统治开阔战场，豪侠被定位为一款专精城市战与步兵支援的小众产品。它由亥姆星上的弗里波特装甲厂研发（生产后来由洛亚尔蒂星上的卡隆工业接管），但预算问题几乎让这个设计胎死腹中——原定的聚变动力与其他现代化配置被迫降级，不过最终至少装上了CASE。为履行城市作战角色，该车辆采用低矮且装甲极其厚重的底盘，并配备自动充气轮胎——这是让这辆重型六轮车在火力下保持机动的必要条件。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 3/5 格 / 90/150 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>       300     35\n<b>左</b>         275     35\n<b>右</b>       275     35\n<b>后</b>        300     35\n<b>炮塔</b>      250     35\n\n<b>合计</b>      1400    175</color>\n\n<color=#ff0000>特质: 主战坦克</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_2900.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (2858)",
+        "CULTURE_ZH_CN": "豪侠 (2858)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_2900.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (2978)",
+        "CULTURE_ZH_CN": "豪侠 (2978)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_2900.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "With 'Mechs having begun their rule of the open battlefields the Gallant was intended as a niche product for the specific role of urban warfare and infantry support. Developed by Freeport Armorworks on Helm (production was later taken over by Kallon Industries on Loyalty) the design was nearly killed by budget issues which forced downgrades to the planned fusion power plant and other modern features, though eventually it was equipped at least with CASE. To fulfill its urban combat role the vehicle featured a low, very heavily armored chassis with self-inflating tires, a necessity to keep the heavy six-wheeler mobile under fire. \n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 3/5 hexes / 90/150 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>       320     35\n<b>Left</b>         260     35\n<b>Right</b>       260     35\n<b>Rear</b>        220     35\n<b>Turret</b>      255     35\n\n<b>Total</b>      1315    175</color>\n\n<color=#ff0000>Quirk: Main Battle Tank</color>",
+        "CULTURE_ZH_CN": "随着机甲开始统治开阔战场，豪侠被定位为一款专精城市战与步兵支援的小众产品。它由亥姆星上的弗里波特装甲厂研发（生产后来由洛亚尔蒂星上的卡隆工业接管），但预算问题几乎让这个设计胎死腹中——原定的聚变动力与其他现代化配置被迫降级，不过最终至少装上了CASE。为履行城市作战角色，该车辆采用低矮且装甲极其厚重的底盘，并配备自动充气轮胎——这是让这辆重型六轮车在火力下保持机动的必要条件。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 3/5 格 / 90/150 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>       320     35\n<b>左</b>         260     35\n<b>右</b>       260     35\n<b>后</b>        220     35\n<b>炮塔</b>      255     35\n\n<b>合计</b>      1315    175</color>\n\n<color=#ff0000>特质: 主战坦克</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_3050.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (3051)",
+        "CULTURE_ZH_CN": "豪侠 (3051)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_3050.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (3051)",
+        "CULTURE_ZH_CN": "豪侠 (3051)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_3050.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "With 'Mechs having begun their rule of the open battlefields the Gallant was intended as a niche product for the specific role of urban warfare and infantry support. Developed by Freeport Armorworks on Helm (production was later taken over by Kallon Industries on Loyalty) the design was nearly killed by budget issues which forced downgrades to the planned fusion power plant and other modern features, though eventually it was equipped at least with CASE. To fulfill its urban combat role the vehicle featured a low, very heavily armored chassis with self-inflating tires, a necessity to keep the heavy six-wheeler mobile under fire. \n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 3/5 hexes / 90/150 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>       350     35\n<b>Left</b>         280     35\n<b>Right</b>       280     35\n<b>Rear</b>        245     35\n<b>Turret</b>      245     35\n\n<b>Total</b>      1400    175</color>\n\n<color=#ff0000>Quirk: Main Battle Tank</color>",
+        "CULTURE_ZH_CN": "随着机甲开始统治开阔战场，豪侠被定位为一款专精城市战与步兵支援的小众产品。它由亥姆星上的弗里波特装甲厂研发（生产后来由洛亚尔蒂星上的卡隆工业接管），但预算问题几乎让这个设计胎死腹中——原定的聚变动力与其他现代化配置被迫降级，不过最终至少装上了CASE。为履行城市作战角色，该车辆采用低矮且装甲极其厚重的底盘，并配备自动充气轮胎——这是让这辆重型六轮车在火力下保持机动的必要条件。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 3/5 格 / 90/150 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>       350     35\n<b>左</b>         280     35\n<b>右</b>       280     35\n<b>后</b>        245     35\n<b>炮塔</b>      245     35\n\n<b>合计</b>      1400    175</color>\n\n<color=#ff0000>特质: 主战坦克</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_FUSION.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (3065)",
+        "CULTURE_ZH_CN": "豪侠 (3065)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_FUSION.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (3065)",
+        "CULTURE_ZH_CN": "豪侠 (3065)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_GALLANT_FUSION.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "With 'Mechs having begun their rule of the open battlefields the Gallant was intended as a niche product for the specific role of urban warfare and infantry support. Developed by Freeport Armorworks on Helm (production was later taken over by Kallon Industries on Loyalty) the design was nearly killed by budget issues which forced downgrades to the planned fusion power plant and other modern features, though eventually it was equipped at least with CASE. To fulfill its urban combat role the vehicle featured a low, very heavily armored chassis with self-inflating tires, a necessity to keep the heavy six-wheeler mobile under fire. \n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 3/5 hexes / 90/150 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>       370     35\n<b>Left</b>         270     35\n<b>Right</b>       270     35\n<b>Rear</b>        240     35\n<b>Turret</b>      250     35\n\n<b>Total</b>      1400    175</color>\n\n<color=#ff0000>Quirk: Main Battle Tank</color>",
+        "CULTURE_ZH_CN": "随着机甲开始统治开阔战场，豪侠被定位为一款专精城市战与步兵支援的小众产品。它由亥姆星上的弗里波特装甲厂研发（生产后来由洛亚尔蒂星上的卡隆工业接管），但预算问题几乎让这个设计胎死腹中——原定的聚变动力与其他现代化配置被迫降级，不过最终至少装上了CASE。为履行城市作战角色，该车辆采用低矮且装甲极其厚重的底盘，并配备自动充气轮胎——这是让这辆重型六轮车在火力下保持机动的必要条件。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 3/5 格 / 90/150 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>       370     35\n<b>左</b>         270     35\n<b>右</b>       270     35\n<b>后</b>        240     35\n<b>炮塔</b>      250     35\n\n<b>合计</b>      1400    175</color>\n\n<color=#ff0000>特质: 主战坦克</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T9",
+        "CULTURE_ZH_CN": "林鼠 PKR-T9"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T9",
+        "CULTURE_ZH_CN": "林鼠 PKR-T9"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        80     10\n<b>Left</b>          80     10\n<b>Right</b>        80     10\n<b>Rear</b>         80     10\n\n<b>Total</b>      320     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        80     10\n<b>左</b>          80     10\n<b>右</b>        80     10\n<b>后</b>         80     10\n\n<b>合计</b>      320     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_1.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T5",
+        "CULTURE_ZH_CN": "林鼠 PKR-T5"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_1.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T5",
+        "CULTURE_ZH_CN": "林鼠 PKR-T5"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_1.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        80     10\n<b>Left</b>          80     10\n<b>Right</b>        80     10\n<b>Rear</b>         80     10\n\n<b>Total</b>      320     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        80     10\n<b>左</b>          80     10\n<b>右</b>        80     10\n<b>后</b>         80     10\n\n<b>合计</b>      320     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_ICE.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T5ic",
+        "CULTURE_ZH_CN": "林鼠 PKR-T5ic"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_ICE.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T5ic",
+        "CULTURE_ZH_CN": "林鼠 PKR-T5ic"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_ICE.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        60     10\n<b>Left</b>          60     10\n<b>Right</b>        60     10\n<b>Rear</b>         60     10\n\n<b>Total</b>      240     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        60     10\n<b>左</b>          60     10\n<b>右</b>        60     10\n<b>后</b>         60     10\n\n<b>合计</b>      240     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_ML.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T7",
+        "CULTURE_ZH_CN": "林鼠 PKR-T7"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_ML.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T7",
+        "CULTURE_ZH_CN": "林鼠 PKR-T7"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_ML.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        80     10\n<b>Left</b>          80     10\n<b>Right</b>        80     10\n<b>Rear</b>         80     10\n\n<b>Total</b>      320     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        80     10\n<b>左</b>          80     10\n<b>右</b>        80     10\n<b>后</b>         80     10\n\n<b>合计</b>      320     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_SRM2.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T6",
+        "CULTURE_ZH_CN": "林鼠 PKR-T6"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_SRM2.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T6",
+        "CULTURE_ZH_CN": "林鼠 PKR-T6"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_PACKRAT_SRM2.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        80     10\n<b>Left</b>          80     10\n<b>Right</b>        80     10\n<b>Rear</b>         80     10\n\n<b>Total</b>      320     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        80     10\n<b>左</b>          80     10\n<b>右</b>        80     10\n<b>后</b>         80     10\n\n<b>合计</b>      320     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-122",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-122"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-122",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-122"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 9/14 hexes / 270/420 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        45     10\n<b>Left</b>          20     10\n<b>Right</b>        20     10\n<b>Rear</b>          5     10\n\n<b>Total</b>       90     40</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 9/14 格 / 270/420 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        45     10\n<b>左</b>          20     10\n<b>右</b>        20     10\n<b>后</b>          5     10\n\n<b>合计</b>       90     40</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_J111.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_J111.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_J111.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 9/14 hexes / 270/420 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        30     10\n<b>Left</b>          20     10\n<b>Right</b>        20     10\n<b>Rear</b>          5     10\n<b>Turret</b>       15     10\n\n<b>Total</b>       90     50</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 9/14 格 / 270/420 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        30     10\n<b>左</b>          20     10\n<b>右</b>        20     10\n<b>后</b>          5     10\n<b>炮塔</b>       15     10\n\n<b>合计</b>       90     50</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_LRM.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111L",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111L"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_LRM.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111L",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111L"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_LRM.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 8/12 hexes / 240/360 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        65     10\n<b>Left</b>          45     10\n<b>Right</b>        45     10\n<b>Rear</b>         25     10\n\n<b>Total</b>      180     40</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 8/12 格 / 240/360 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        65     10\n<b>左</b>          45     10\n<b>右</b>        45     10\n<b>后</b>         25     10\n\n<b>合计</b>      180     40</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_RL.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111R",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111R"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_RL.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111R",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111R"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_RL.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 8/12 hexes / 240/360 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        45     10\n<b>Left</b>          35     10\n<b>Right</b>        35     10\n<b>Rear</b>         10     10\n<b>Turret</b>       35     10\n\n<b>Total</b>      160     50</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 8/12 格 / 240/360 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        45     10\n<b>左</b>          35     10\n<b>右</b>        35     10\n<b>后</b>         10     10\n<b>炮塔</b>       35     10\n\n<b>合计</b>      160     50</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_SRM.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111S",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_SRM.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111S",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehicledef_ROTUNDA_SRM.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 8/12 hexes / 240/360 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        65     10\n<b>Left</b>          45     10\n<b>Right</b>        45     10\n<b>Rear</b>         25     10\n\n<b>Total</b>      180     40</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 8/12 格 / 240/360 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        65     10\n<b>左</b>          45     10\n<b>右</b>        45     10\n<b>后</b>         25     10\n\n<b>合计</b>      180     40</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (2574)",
+        "CULTURE_ZH_CN": "豪侠 (2574)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant UCV",
+        "CULTURE_ZH_CN": "豪侠 UCV"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "With 'Mechs having begun their rule of the open battlefields the Gallant was intended as a niche product for the specific role of urban warfare and infantry support. Developed by Freeport Armorworks on Helm (production was later taken over by Kallon Industries on Loyalty) the design was nearly killed by budget issues which forced downgrades to the planned fusion power plant and other modern features, though eventually it was equipped at least with CASE. To fulfill its urban combat role the vehicle featured a low, very heavily armored chassis with self-inflating tires, a necessity to keep the heavy six-wheeler mobile under fire. \n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 3/5 hexes / 90/150 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>       300     35\n<b>Left</b>         275     35\n<b>Right</b>       275     35\n<b>Rear</b>        300     35\n<b>Turret</b>      250     35\n\n<b>Total</b>      1400    175</color>\n\n<color=#ff0000>Quirk: Main Battle Tank</color>",
+        "CULTURE_ZH_CN": "随着机甲开始统治开阔战场，豪侠被定位为一款专精城市战与步兵支援的小众产品。它由亥姆星上的弗里波特装甲厂研发（生产后来由洛亚尔蒂星上的卡隆工业接管），但预算问题几乎让这个设计胎死腹中——原定的聚变动力与其他现代化配置被迫降级，不过最终至少装上了CASE。为履行城市作战角色，该车辆采用低矮且装甲极其厚重的底盘，并配备自动充气轮胎——这是让这辆重型六轮车在火力下保持机动的必要条件。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 3/5 格 / 90/150 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>       300     35\n<b>左</b>         275     35\n<b>右</b>       275     35\n<b>后</b>        300     35\n<b>炮塔</b>      250     35\n\n<b>合计</b>      1400    175</color>\n\n<color=#ff0000>特质: 主战坦克</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_2900.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (2978)",
+        "CULTURE_ZH_CN": "豪侠 (2978)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_2900.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant UCV",
+        "CULTURE_ZH_CN": "豪侠 UCV"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_2900.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "With 'Mechs having begun their rule of the open battlefields the Gallant was intended as a niche product for the specific role of urban warfare and infantry support. Developed by Freeport Armorworks on Helm (production was later taken over by Kallon Industries on Loyalty) the design was nearly killed by budget issues which forced downgrades to the planned fusion power plant and other modern features, though eventually it was equipped at least with CASE. To fulfill its urban combat role the vehicle featured a low, very heavily armored chassis with self-inflating tires, a necessity to keep the heavy six-wheeler mobile under fire. \n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 3/5 hexes / 90/150 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>       320     35\n<b>Left</b>         260     35\n<b>Right</b>       260     35\n<b>Rear</b>        220     35\n<b>Turret</b>      255     35\n\n<b>Total</b>      1315    175</color>\n\n<color=#ff0000>Quirk: Main Battle Tank</color>",
+        "CULTURE_ZH_CN": "随着机甲开始统治开阔战场，豪侠被定位为一款专精城市战与步兵支援的小众产品。它由亥姆星上的弗里波特装甲厂研发（生产后来由洛亚尔蒂星上的卡隆工业接管），但预算问题几乎让这个设计胎死腹中——原定的聚变动力与其他现代化配置被迫降级，不过最终至少装上了CASE。为履行城市作战角色，该车辆采用低矮且装甲极其厚重的底盘，并配备自动充气轮胎——这是让这辆重型六轮车在火力下保持机动的必要条件。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 3/5 格 / 90/150 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>       320     35\n<b>左</b>         260     35\n<b>右</b>       260     35\n<b>后</b>        220     35\n<b>炮塔</b>      255     35\n\n<b>合计</b>      1315    175</color>\n\n<color=#ff0000>特质: 主战坦克</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_3050.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (3051)",
+        "CULTURE_ZH_CN": "豪侠 (3051)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_3050.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant UCV",
+        "CULTURE_ZH_CN": "豪侠 UCV"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_3050.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "With 'Mechs having begun their rule of the open battlefields the Gallant was intended as a niche product for the specific role of urban warfare and infantry support. Developed by Freeport Armorworks on Helm (production was later taken over by Kallon Industries on Loyalty) the design was nearly killed by budget issues which forced downgrades to the planned fusion power plant and other modern features, though eventually it was equipped at least with CASE. To fulfill its urban combat role the vehicle featured a low, very heavily armored chassis with self-inflating tires, a necessity to keep the heavy six-wheeler mobile under fire. \n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 3/5 hexes / 90/150 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>       350     35\n<b>Left</b>         280     35\n<b>Right</b>       280     35\n<b>Rear</b>        245     35\n<b>Turret</b>      245     35\n\n<b>Total</b>      1400    175</color>\n\n<color=#ff0000>Quirk: Main Battle Tank</color>",
+        "CULTURE_ZH_CN": "随着机甲开始统治开阔战场，豪侠被定位为一款专精城市战与步兵支援的小众产品。它由亥姆星上的弗里波特装甲厂研发（生产后来由洛亚尔蒂星上的卡隆工业接管），但预算问题几乎让这个设计胎死腹中——原定的聚变动力与其他现代化配置被迫降级，不过最终至少装上了CASE。为履行城市作战角色，该车辆采用低矮且装甲极其厚重的底盘，并配备自动充气轮胎——这是让这辆重型六轮车在火力下保持机动的必要条件。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 3/5 格 / 90/150 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>       350     35\n<b>左</b>         280     35\n<b>右</b>       280     35\n<b>后</b>        245     35\n<b>炮塔</b>      245     35\n\n<b>合计</b>      1400    175</color>\n\n<color=#ff0000>特质: 主战坦克</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_FUSION.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant (3065)",
+        "CULTURE_ZH_CN": "豪侠 (3065)"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_FUSION.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Gallant UCV",
+        "CULTURE_ZH_CN": "豪侠 UCV"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_GALLANT_FUSION.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "With 'Mechs having begun their rule of the open battlefields the Gallant was intended as a niche product for the specific role of urban warfare and infantry support. Developed by Freeport Armorworks on Helm (production was later taken over by Kallon Industries on Loyalty) the design was nearly killed by budget issues which forced downgrades to the planned fusion power plant and other modern features, though eventually it was equipped at least with CASE. To fulfill its urban combat role the vehicle featured a low, very heavily armored chassis with self-inflating tires, a necessity to keep the heavy six-wheeler mobile under fire. \n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 3/5 hexes / 90/150 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>       370     35\n<b>Left</b>         270     35\n<b>Right</b>       270     35\n<b>Rear</b>        240     35\n<b>Turret</b>      250     35\n\n<b>Total</b>      1400    175</color>\n\n<color=#ff0000>Quirk: Main Battle Tank</color>",
+        "CULTURE_ZH_CN": "随着机甲开始统治开阔战场，豪侠被定位为一款专精城市战与步兵支援的小众产品。它由亥姆星上的弗里波特装甲厂研发（生产后来由洛亚尔蒂星上的卡隆工业接管），但预算问题几乎让这个设计胎死腹中——原定的聚变动力与其他现代化配置被迫降级，不过最终至少装上了CASE。为履行城市作战角色，该车辆采用低矮且装甲极其厚重的底盘，并配备自动充气轮胎——这是让这辆重型六轮车在火力下保持机动的必要条件。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 3/5 格 / 90/150 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>       370     35\n<b>左</b>         270     35\n<b>右</b>       270     35\n<b>后</b>        240     35\n<b>炮塔</b>      250     35\n\n<b>合计</b>      1400    175</color>\n\n<color=#ff0000>特质: 主战坦克</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T9",
+        "CULTURE_ZH_CN": "林鼠 PKR-T9"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat",
+        "CULTURE_ZH_CN": "林鼠"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        80     10\n<b>Left</b>          80     10\n<b>Right</b>        80     10\n<b>Rear</b>         80     10\n\n<b>Total</b>      320     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        80     10\n<b>左</b>          80     10\n<b>右</b>        80     10\n<b>后</b>         80     10\n\n<b>合计</b>      320     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_1.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T5",
+        "CULTURE_ZH_CN": "林鼠 PKR-T5"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_1.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat",
+        "CULTURE_ZH_CN": "林鼠"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_1.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        80     10\n<b>Left</b>          80     10\n<b>Right</b>        80     10\n<b>Rear</b>         80     10\n\n<b>Total</b>      320     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        80     10\n<b>左</b>          80     10\n<b>右</b>        80     10\n<b>后</b>         80     10\n\n<b>合计</b>      320     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_ICE.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T5ic",
+        "CULTURE_ZH_CN": "林鼠 PKR-T5ic"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_ICE.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat",
+        "CULTURE_ZH_CN": "林鼠"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_ICE.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        60     10\n<b>Left</b>          60     10\n<b>Right</b>        60     10\n<b>Rear</b>         60     10\n\n<b>Total</b>      240     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        60     10\n<b>左</b>          60     10\n<b>右</b>        60     10\n<b>后</b>         60     10\n\n<b>合计</b>      240     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_ML.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T7",
+        "CULTURE_ZH_CN": "林鼠 PKR-T7"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_ML.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat",
+        "CULTURE_ZH_CN": "林鼠"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_ML.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        80     10\n<b>Left</b>          80     10\n<b>Right</b>        80     10\n<b>Rear</b>         80     10\n\n<b>Total</b>      320     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        80     10\n<b>左</b>          80     10\n<b>右</b>        80     10\n<b>后</b>         80     10\n\n<b>合计</b>      320     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_SRM2.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat PKR-T6",
+        "CULTURE_ZH_CN": "林鼠 PKR-T6"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_SRM2.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Packrat",
+        "CULTURE_ZH_CN": "林鼠"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_PACKRAT_SRM2.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Packrat is a speedy eight-wheeled vehicle that is designed for deep infiltration and sabotage. First produced by Robertson Technologies, the vehicle is meant to operate on its own deep behind enemy lines for extended periods of time. While excelling in this role, the Packrat suffered during the Succession Wars as, with the decline in knowledge brought about by the conflicts, many had their advanced fusion engines removed for use elsewhere. The technological renaissance brought about by the Helm Memory Core recovery also proved to be a turning point for the Packrat, as manufacturers in the Lyran Commonwealth were able to put fusion-powered Packrats back into production and help spread them across the Inner Sphere.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 7/11 hexes / 210/330 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Armor\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        80     10\n<b>Left</b>          80     10\n<b>Right</b>        80     10\n<b>Rear</b>         80     10\n\n<b>Total</b>      320     40</color>\n\n<color=#ff0000>Quirk: Improved Communications</color>",
+        "CULTURE_ZH_CN": "林鼠是一种高速八轮车辆，专为纵深渗透与破坏行动设计。它最初由罗伯逊技术公司生产，设计意图是能长时间独自深入敌后独立作战。林鼠在这一角色上表现出色，但在继承战争期间却吃了苦头：随着战乱导致的知识衰退，许多林鼠的先进聚变引擎被拆走挪作他用。亥姆记忆核心复原所带来的技术复兴，也成为林鼠的转折点——莱兰联邦的制造商得以让聚变动力的林鼠重新投产，并帮助把它们扩散到整个内天体。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 7/11 格 / 210/330 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 护甲\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        80     10\n<b>左</b>          80     10\n<b>右</b>        80     10\n<b>后</b>         80     10\n\n<b>合计</b>      320     40</color>\n\n<color=#ff0000>特质: 改进通讯</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-122",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-122"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda Scout Car",
+        "CULTURE_ZH_CN": "圆形大厅侦察车"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 9/14 hexes / 270/420 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        45     10\n<b>Left</b>          20     10\n<b>Right</b>        20     10\n<b>Rear</b>          5     10\n\n<b>Total</b>       90     40</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 9/14 格 / 270/420 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        45     10\n<b>左</b>          20     10\n<b>右</b>        20     10\n<b>后</b>          5     10\n\n<b>合计</b>       90     40</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_J111.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_J111.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda Scout Car",
+        "CULTURE_ZH_CN": "圆形大厅侦察车"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_J111.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: None.</color></b>\n\n<b><color=#ffcc00>Movement: 9/14 hexes / 270/420 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        30     10\n<b>Left</b>          20     10\n<b>Right</b>        20     10\n<b>Rear</b>          5     10\n<b>Turret</b>       15     10\n\n<b>Total</b>       90     50</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 无。</color></b>\n\n<b><color=#ffcc00>移动: 9/14 格 / 270/420 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        30     10\n<b>左</b>          20     10\n<b>右</b>        20     10\n<b>后</b>          5     10\n<b>炮塔</b>       15     10\n\n<b>合计</b>       90     50</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_LRM.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111L",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111L"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_LRM.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda Scout Car",
+        "CULTURE_ZH_CN": "圆形大厅侦察车"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_LRM.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 8/12 hexes / 240/360 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        65     10\n<b>Left</b>          45     10\n<b>Right</b>        45     10\n<b>Rear</b>         25     10\n\n<b>Total</b>      180     40</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 8/12 格 / 240/360 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        65     10\n<b>左</b>          45     10\n<b>右</b>        45     10\n<b>后</b>         25     10\n\n<b>合计</b>      180     40</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_RL.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111R",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111R"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_RL.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda Scout Car",
+        "CULTURE_ZH_CN": "圆形大厅侦察车"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_RL.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 8/12 hexes / 240/360 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        45     10\n<b>Left</b>          35     10\n<b>Right</b>        35     10\n<b>Rear</b>         10     10\n<b>Turret</b>       35     10\n\n<b>Total</b>      160     50</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 8/12 格 / 240/360 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        45     10\n<b>左</b>          35     10\n<b>右</b>        35     10\n<b>后</b>         10     10\n<b>炮塔</b>       35     10\n\n<b>合计</b>      160     50</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_SRM.UIName",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda RND-J-111S",
+        "CULTURE_ZH_CN": "圆形大厅 RND-J-111S"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_SRM.Name",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Rotunda Scout Car",
+        "CULTURE_ZH_CN": "圆形大厅侦察车"
+      }
+    },
+    {
+      "Name": "Clan_Invasion_Urban_Warfare.vehiclechassisdef_ROTUNDA_SRM.Details",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "The Rotunda was a covert reconnaissance wheeled vehicle intentionally designed to resemble a civilian sedan. The 20-ton Rotunda was designed to be a self sufficient combat platform and home for its single crew member. From a distance, the sleek Rotunda resembled any number of civilian ICE-powered saloon cars, only enhanced by body kits which allowed it to become a variety of other similarly shaped vehicle types.\n\n<b><color=#ffcc00>Biome Restrictions: This unit can not deploy in Lunar or Martian biomes due to using an ICE.</color></b>\n\n<b><color=#ffcc00>Movement: 8/12 hexes / 240/360 meters.</color></b>\n\n<color=#ffcc00><b>Armor:</b> Ferro-Fibrous\n<b>Structure:</b> Structure\n<b>Values       A        S  </b>\n<b>Front</b>        65     10\n<b>Left</b>          45     10\n<b>Right</b>        45     10\n<b>Rear</b>         25     10\n\n<b>Total</b>      180     40</color>\n\n<color=#ff0000>Quirk: Narrow/Low Profile</color>",
+        "CULTURE_ZH_CN": "圆形大厅是一种秘密侦察轮式车辆，刻意设计成民用轿车的外观。20吨的圆形大厅被设计为一个自给自足的战斗平台，也是其唯一乘员的家。从远处看，线条流畅的圆形大厅与任意一款民用内燃机轿车别无二致，再加上可换装的车身套件，它还能伪装成多种外形相似的其他车型。\n\n\n<b><color=#ffcc00>Biome Restrictions: 该单位使用内燃机，无法部署在月球或火星生态区。</color></b>\n\n<b><color=#ffcc00>移动: 8/12 格 / 240/360 米。</color></b>\n\n<color=#ffcc00><b>护甲:</b> 铁纤\n<b>结构:</b> 结构\n<b>数值       A        S  </b>\n<b>前</b>        65     10\n<b>左</b>          45     10\n<b>右</b>        45     10\n<b>后</b>         25     10\n\n<b>合计</b>      180     40</color>\n\n<color=#ff0000>特质: 狭小/低矮外形</color>"
+      }
+    }
+]
