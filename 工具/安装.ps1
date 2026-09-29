@@ -143,8 +143,8 @@ foreach ($rel in $dllList) {
     $d = Join-Path $gameRoot $rel
     if (BackupAndCopy $s $d $rel) { $dllCnt++ } else { $dllSkip++ }
 }
-if ($dllSkip -gt 0) { Warn ($dllSkip + " 个 DLL 包内缺失，已跳过") }
-Ok ($dllCnt + " 个 DLL")
+if ($dllSkip -gt 0) { Warn ("有 " + $dllSkip + " 个 DLL 包内缺失，已跳过") }
+Ok ("已写入 " + $dllCnt + " 个 DLL")
 
 # ---------- 4) 清理遗留备份 ----------
 # MechAffinity 会把自己目录下的所有文件都当作定义加载，.zhbak 会导致
@@ -199,9 +199,10 @@ Ok ("翻译总表: " + $csvLine + " 行")
 # 注册表标识符校验: 单位类型名(UnitTypes_*.json 的 Name)是内部标识符, 绝不能被汉化
 # 一旦被译成中文(如 Quad -> 四足), 四足机甲的槽位限制会失效, 报
 # "过量 足部驱动器: 该单位在 左臂 中最多只能安装 0 个 / QuadIncompatible 无法与 四足机甲 搭配使用"
-RunTool 'check-registry.ps1' @('-mods', (Join-Path $gameRoot 'Mods'))
+# check-registry 发现问题会自动按基线还原(所以这里只提示, 不中断)
+& powershell -NoProfile -ExecutionPolicy Bypass -File (Join-Path $PSScriptRoot 'check-registry.ps1') -mods (Join-Path $gameRoot 'Mods')
 if ($LASTEXITCODE -ne 0) {
-    Warn "检测到标识符被汉化, 安装脚本已自动还原, 请查看 backup\registry-check.txt"
+    Warn "检测到标识符被汉化（已自动还原），详见 backup\registry-check.txt"
 } else { Ok "注册表标识符正常" }
 
 Say ""
