@@ -32,9 +32,23 @@
   - RogueTech 模组包及其各子模组的数据文件
       (c) RogueTech 开发团队及各子模组作者
 
-  - MechAffinity（作者：Jamie Wolf）的 MechAffinity.dll 界面标签替换
+  - MechAffinity（上游作者：Jamie Wolf）的 MechAffinity.dll 界面标签替换
   - 各模组 Localization.json 中的原始英文条目
   - terms-13908.json 官方术语表
+
+  - ===== 月光石头 的汉化成果 =====
+      作者：《BATTLETECH 汉化工具》
+      本仓库所附带的主要汉化 DLL 均出自该作者，包括：
+        Assembly-CSharp.dll / MechAffinity.dll / CustomAmmoCategories.dll /
+        CustomUnits.dll / StrategicOperations.dll / IRTweaks.dll 等共 25 个程序集
+      通过反编译修改硬编码字符串实现界面汉化。
+
+      另收录该工具汉化包中的约 450 条译文条目：
+        LAM / Narc / Streak MRM / QS 弹药 / 布雷克圣言会对话 /
+        安杜瑞恩公国合约文本 等。
+      收录文本时仅统一了排版（标点风格、标签后空格），译文内容保持原样。
+
+      上述内容的版权归原作者月光石头所有。
 
 这些文件的版权与许可条款以其原始发布方为准。
 若任何原作者对本仓库的分发方式有异议，请联系我们，将立即移除相关内容。

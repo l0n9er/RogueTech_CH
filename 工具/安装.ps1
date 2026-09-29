@@ -105,11 +105,46 @@ if ([IO.Directory]::Exists($affSrc)) {
     Ok ("" + $cnt + " 个文件")
 } else { Warn "包内缺少亲和数据目录，已跳过" }
 
-# ---------- 3) MechAffinity.dll ----------
-Step 3 "替换 MechAffinity 界面标签"
-$dllSrc = Join-Path $packRoot "Mods\Core\MechAffinity\MechAffinity.dll"
-$dllDst = Join-Path $gameRoot "Mods\Core\MechAffinity\MechAffinity.dll"
-if (BackupAndCopy $dllSrc $dllDst "MechAffinity.dll") { Ok "已替换" }
+# ---------- 3) 汉化 DLL ----------
+# 这些 DLL 出自月光石头的《BATTLETECH 汉化工具》，通过反编译修改硬编码
+# 字符串实现界面汉化。包内按原始相对路径存放，逐个体替换。
+Step 3 "写入汉化 DLL（界面文字）"
+$dllList = @(
+    'BattleTech_Data\Managed\Assembly-CSharp.dll',
+    'BattleTech_Data\Managed\battletech_core.dll',
+    'Mods\Core\Abilifier\Abilifier.dll',
+    'Mods\Core\CustomAmmoCategories\AttackImprovementMod.dll',
+    'Mods\Core\CustomAmmoCategories\CustomAmmoCategories.dll',
+    'Mods\Core\CustomAmmoCategories\CustomAmmoCategoriesHelper.dll',
+    'Mods\Core\CustomAmmoCategories\CustomAmmoCategoriesPrivate.dll',
+    'Mods\Core\CustomComponents\CustomComponents.dll',
+    'Mods\Core\CustomFilters\CustomFilters.dll',
+    'Mods\Core\CustomSalvage\CustomSalvage.dll',
+    'Mods\Core\CustomUnits\CustomDeploy.dll',
+    'Mods\Core\CustomUnits\CustomUnits.dll',
+    'Mods\Core\CustomUnits\CustomUnitsHelper.dll',
+    'Mods\Core\CustomUnits\NAudio.dll',
+    'Mods\Core\DropCostsEnhanced\DropCostsEnhanced.dll',
+    'Mods\Core\IRTweaks\IRTweaks.dll',
+    'Mods\Core\IttyBittyLivingSpace\IttyBittyLivingSpace.dll',
+    'Mods\Core\LootMagnet\LootMagnet.dll',
+    'Mods\Core\MechAffinity\MechAffinity.dll',
+    'Mods\Core\MechEngineer\MechEngineer.dll',
+    'Mods\Core\PilotHealthPopup\PilotHealthPopup.dll',
+    'Mods\Core\Pilot_Fatigue\Pilot_Fatigue.dll',
+    'Mods\Core\StrategicOperations\StrategicOperations.dll',
+    'Mods\Core\TisButAScratch\TisButAScratch.dll',
+    'Mods\WarTechIIC\WarTechIIC.dll'
+)
+$dllCnt = 0
+$dllSkip = 0
+foreach ($rel in $dllList) {
+    $s = Join-Path $packRoot $rel
+    $d = Join-Path $gameRoot $rel
+    if (BackupAndCopy $s $d $rel) { $dllCnt++ } else { $dllSkip++ }
+}
+if ($dllSkip -gt 0) { Warn ($dllSkip + " 个 DLL 包内缺失，已跳过") }
+Ok ($dllCnt + " 个 DLL")
 
 # ---------- 4) 清理遗留备份 ----------
 # MechAffinity 会把自己目录下的所有文件都当作定义加载，.zhbak 会导致

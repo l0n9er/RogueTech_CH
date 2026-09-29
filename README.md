@@ -17,16 +17,22 @@
 
 | 内容 | 说明 |
 |---|---|
-| 翻译总表 | `strings_zh-CN.csv`，61,339 行 / 60,888 键 |
+| 翻译总表 | `strings_zh-CN.csv`，61,788 行 / 61,415 键 |
 | 机甲 / 战车 / 战甲 | 名称、描述、角色定位（Details / YangsThoughts / StockRole） |
 | MechAffinity | 亲和面板的名称与描述 |
 | 各模组本地化表 | 战斗、合约、事件、星图等 |
 | 装备分类显示名 | 机库与商店的筛选分类 |
 | AI 能力与特征 | 驾驶员特质、光环、环境效果说明 |
 | 任务目标标题 | 合约中的可见目标 |
+| **界面硬编码文字** | 25 个汉化 DLL（机库、改装、合约等界面标签） |
 
 术语以 **官方中文术语表**（terms-13908.json，2,952 条）与项目自建术语表为准，
 并做过全表一致性归一（如 混战→近战、载具→车辆、驾驶员→机师）。
+
+> **关于汉化 DLL**：补丁内含 25 个汉化程序集（`Assembly-CSharp.dll`、
+> `MechAffinity.dll`、`CustomUnits.dll`、`StrategicOperations.dll` 等），
+> 用于汉化游戏界面中硬编码的文字。**这些 DLL 出自月光石头的
+> 《BATTLETECH 汉化工具》**，详见下方"致谢"章节。
 
 ---
 
@@ -72,7 +78,7 @@ powershell -File "工具\安装.ps1" -gameRoot "D:\Steam\steamapps\common\BATTLE
 
 1. 写入翻译总表
 2. 写入 MechAffinity 亲和数据
-3. 替换 MechAffinity 界面标签
+3. 写入汉化 DLL（25 个，界面文字）
 4. 清理遗留的 `.zhbak` 备份文件
 5. 汉化数据字段（Details / YangsThoughts / StockRole）
 6. 汉化装备分类显示名
@@ -141,10 +147,10 @@ Mods_Core_RogueTechCore_Localization.json
 
 以下内容**无法**通过本补丁汉化，属于技术限制：
 
-- **插件 DLL 里硬编码的文字**（如机库界面的 `Carry Weight`、`Required Hardpoint`、
-  `Categories:` 等面板标签）。这类文字不查翻译总表，需要逐个改二进制。
 - **运行时动态拼接的文本**（如把两个数值拼成一句话）。
 - 少量**隐藏占位符**（`Hidden TimerObjective` 之类），玩家正常情况下看不到。
+- 极少数第三方 DLL 中未覆盖到的字符串——本补丁已收录 25 个汉化 DLL
+  覆盖主要界面，但若有遗漏，欢迎提交截图反馈。
 
 ---
 
@@ -154,6 +160,12 @@ Mods_Core_RogueTechCore_Localization.json
 
 A：按顺序排查：① 确认装完后**重启过游戏**；② 检查是否装了其它会覆盖
 文本的汉化模组；③ 删除 `<游戏目录>\Mods\.modtek\Cache` 后重启。
+
+**Q：安装脚本会覆盖我游戏里的 DLL 吗？**
+
+A：会。安装脚本第 3 步会替换 25 个汉化 DLL（含 `Assembly-CSharp.dll`）。
+覆盖前会自动备份到 `backup\<时间戳>\`，可随时回滚。如果你已经装过
+月光石头的汉化工具，本补丁的 DLL 与之同源，不会造成冲突。
 
 **Q：某些汉字显示成方框？**
 
@@ -183,6 +195,10 @@ strings_zh-CN.csv                  翻译总表（游戏真正读取的文件）
 安装.bat                          一键安装
 说明.txt                          简要说明
 文件清单.txt                       完整文件列表
+BattleTech_Data\Managed\          游戏主程序集（Assembly-CSharp.dll 等 2 个）
+Mods\                             已汉化的模组数据 + 汉化 DLL（整套 25 个）
+RtCache\                          启动器缓存副本
+可选-模组形式\                     把汉化做成 ModTek 模组（可选）
 工具\                             安装脚本（一般无需手动运行）
   ├─ 安装.ps1                     主安装脚本
   ├─ find-game.ps1                游戏目录自动探测
@@ -194,10 +210,9 @@ strings_zh-CN.csv                  翻译总表（游戏真正读取的文件）
   ├─ apply-norm.ps1               术语归一化与格式修复
   ├─ norm-csv.ps1                 规范化总表标点
   └─ qa-check.ps1                 汉化质量自检
-Mods\                             已汉化的模组数据
-RtCache\                          启动器缓存副本
-可选-模组形式\                     把汉化做成 ModTek 模组（可选）
 ```
+
+> 包内的 25 个汉化 DLL 按原始相对路径存放，安装脚本会逐个写入游戏对应位置。
 
 ---
 
@@ -230,6 +245,43 @@ RtCache\                          启动器缓存副本
 
 7. **更新可能失效。** RogueTech 与 BATTLETECH 会持续更新，本补丁可能
    因更新而失效或引发兼容问题。使用前请确认版本匹配。
+
+---
+
+## 致谢
+
+本补丁的完成离不开以下作者的贡献：
+
+### 月光石头
+
+**《BATTLETECH 汉化工具》的作者。**
+
+**本补丁所使用的主要汉化 DLL 均出自其手**——包括 `Assembly-CSharp.dll`、
+`MechAffinity.dll`、`CustomAmmoCategories.dll`、`CustomUnits.dll`、
+`StrategicOperations.dll`、`IRTweaks.dll` 等共 25 个程序集。这些 DLL 通过
+反编译修改硬编码字符串实现界面汉化，是本补丁无法自行完成的部分
+（本项目仅做文本表与数据文件层面的汉化）。
+
+同时，本项目还收录了该工具汉化包中的以下译文条目：
+
+- **LAM 相关条目**（`LAM层叠装甲`、`LAM超级内置TSM` 等状态效果说明）
+- **Narc 发射器**系列效果描述（翼挂、巡航/侧翼/步行速度、跳跃距离等）
+- **Streak MRM** 武器系统（MRM-10/20/30/40 及弹药说明）
+- **QS 系列弹药**（`MRM QS弹药`、`LRM QS弹药` 等）
+- **布雷克圣言会**（Word of Blake）势力对话文本
+- **安杜瑞恩公国 / 汉弗莱斯家族**合约文本
+- 各类装备特性与状态效果说明（约 450 条）
+
+收录文本时仅对排版做了统一（标点风格、HTML 标签后多余空格），
+译文内容保持原样。**在此向月光石头的汉化工作致以诚挚谢意。**
+
+> 如果你是作者并希望调整署名方式或移除相关内容，
+> 请提交 Issue，我们会立即处理。
+
+### 其他
+
+- 术语基准来自 BATTLETECH 官方中文术语表（terms-13908.json）
+- 感谢 RogueTech 开发团队及各子模组作者
 
 ---
 

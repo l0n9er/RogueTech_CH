@@ -1,13 +1,34 @@
 ﻿BATTLETECH / RogueTech 简体中文补丁 v25 —— 文件清单
 
 【核心】（游戏真正读取的东西）
-strings_zh-CN.csv                    翻译总表：61,339 行 / 60,888 键
+strings_zh-CN.csv                    翻译总表：61,788 行 / 61,415 键
                                      安装位置：<游戏目录>\BattleTech_Data\StreamingAssets\data\localization\
+BattleTech_Data\Managed\*.dll        游戏主程序集（2 个，界面文字汉化）
 Mods\                                已汉化的模组数据（安装脚本会全部写入游戏）
   Core\MechAffinity\AffinityDefs\*.json    224 个亲和数据（levelName / decription）
-  Core\MechAffinity\MechAffinity.dll       界面标签（等长字节替换，已校验可加载）
   Core\*\Localization*.json                各模组本地化表（CULTURE_ZH_CN 字段）
   Core\*\categories\Categories_*.json      装备分类显示名
+
+【汉化 DLL】（共 25 个，出自月光石头的《BATTLETECH 汉化工具》）
+  BattleTech_Data\Managed\Assembly-CSharp.dll              游戏主程序集
+  BattleTech_Data\Managed\battletech_core.dll
+  Mods\Core\Abilifier\Abilifier.dll
+  Mods\Core\CustomAmmoCategories\*.dll                     4 个
+  Mods\Core\CustomComponents\CustomComponents.dll
+  Mods\Core\CustomFilters\CustomFilters.dll
+  Mods\Core\CustomSalvage\CustomSalvage.dll
+  Mods\Core\CustomUnits\*.dll                              4 个
+  Mods\Core\DropCostsEnhanced\DropCostsEnhanced.dll
+  Mods\Core\IRTweaks\IRTweaks.dll
+  Mods\Core\IttyBittyLivingSpace\IttyBittyLivingSpace.dll
+  Mods\Core\LootMagnet\LootMagnet.dll
+  Mods\Core\MechAffinity\MechAffinity.dll
+  Mods\Core\MechEngineer\MechEngineer.dll
+  Mods\Core\PilotHealthPopup\PilotHealthPopup.dll
+  Mods\Core\Pilot_Fatigue\Pilot_Fatigue.dll
+  Mods\Core\StrategicOperations\StrategicOperations.dll
+  Mods\Core\TisButAScratch\TisButAScratch.dll
+  Mods\WarTechIIC\WarTechIIC.dll
 
 【安装】
 安装.bat                             一键安装（双击即可）

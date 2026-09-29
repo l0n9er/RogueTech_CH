@@ -2681,7 +2681,6 @@ eliminatethetargetandescape,消灭目标并摆脱敌人
 eliminatethe{team_tar*factiondef*demonym}spy,消灭{TEAM_TAR.FactionDef.Demonym}间谍
 eliminatethe{team_tar*factiondef*demonym}diplomatandescape,消灭{TEAM_TAR.FactionDef.Demonym}外交官并摆脱敌人
 eliminatethe{team_tar*factiondef*demonym}diplomat,消灭{TEAM_TAR.FactionDef.Demonym}外交官
-eliminatetheflakjackallance,消灭“高炮胡狼”机甲小队
 eliminateoppositionandtakethefacility^commander*,消灭对手并夺取该处设施，指挥官.
 eliminateoppositionandtakecontroloftheterritory^commander*,消灭敌对势力并控制该区域，指挥官.
 eliminatehostileunits,消灭敌对单位
@@ -21652,7 +21651,6 @@ getthesameendo-steelperformancewithoutsomeoftheendo-steelbulk!ourspeed-holeswill
 chainsaw,电锯
 ammomortar,迫击炮弹药
 compactactuatorx3qs,QS紧凑型驱动器×3
-duralastqs,杜拉斯特装甲
 defaultduralastqs:tacimmune,默认杜拉斯特装甲: 免疫穿甲暴击(TAC)
 defaultduralastqs:decreaseddamagetaken,默认杜拉斯特装甲: 降低受到的伤害
 defaultduralastqs:decreasedaoedamagetaken,默认杜拉斯特装甲: 降低受到的范围伤害
@@ -22242,7 +22240,6 @@ validate,确认
 closerange,近程
 c*a*s*e*iiqs,QS C.A.S.E. II
 nimble,灵活
-lightferro,轻型铁纤维
 heavyferro,重型铁纤维
 jumpjet-i(s),跳跃推进器-I(标)
 remotesensordispenser,远程传感器投放器
@@ -22329,7 +22326,6 @@ magshotcannon,磁射炮
 соскрit(c),驾驶舱(氏族)
 cockpitsldf,SLDF驾驶舱
 sensors(c),传感器(氏族)
-mediumrexlaserqs,QS REX中型激光
 ammomg,机枪弹药
 ammomg[trc],机枪弹药[拽光]
 ammomg[quarter],机枪弹药[四分之一]
@@ -22806,7 +22802,6 @@ thissettingcontrolsbasepayoutvalueofcontracts^itscaleswithcontractdifficultyandw
 generous(150%),慷慨(150%)
 normal(100%),普通(100%)
 stingy(67%),小气(67%)
-cheapskate,吝啬
 thissettingchangestheamountofsalvageyoumayobtainfromnegotiation*withgenerousyoucanexpect1extrapriorityandrandompickfrommostcontracts^atstingyyoucanexpect3lessrandompicks*adjustthissettingtomaketheeconomicgameplaymoreorlessforgiving*,此设置改变你通过谈判获得的战利品数量. 选择“慷慨”时，你可以期待大多数合约中额外获得1个优先选择权以及随机拾取机会；选择“吝啬”时，你可以预期减少3个随机拾取机会. 调整此设置可以让经济系统的玩法更加宽松或更加严苛.
 usethistodecideforthestartingexperienceofyourcommander,使用此设置决定你的指挥官初始经验值.
 thissettingcontrolsthechanceofroninappearinginhiringhalls,此设置控制浪人出现在雇佣大厅中的概率.
@@ -22988,7 +22983,6 @@ fusioncore?,聚变核心?
 installfusioncore,安装聚变核心
 invalidequipment,无效装备
 standardfusion,标准型聚变
-actuatorscontrolamechslimbsandareusedtoperformmeleeattacksatclosequarters*allmechscomeequippedwithstockactuators^whichcanbeupgradedforimprovedperformance*,驱动器控制机甲的四肢，用于在近身近战中发动近战攻击. 所有机甲都配备有基础驱动器，可以升级以提升性能.
 theaxumiteprovidenceisaprimitiveislamicstateinthedeepperiphery*thenearestsystemislocated1^000lightyearsanti-spinwardofterra^locatedatthetrailingedgeoforionsbow*theaxumiteshavelimited20thcenturytechnology^andlittleelse*,阿克苏姆天命国是深空外围中一个原始的神权伊斯兰国家，距其最近的星系位于地球逆自旋方向一千光年外的猎户座弓臂后缘. 阿克苏姆人仅拥有有限的20世纪科技，此外几乎别无所长.
 thechainelaneislesisnotaunifiedrealm^butratheracollectionofwaringplanet-statesandminorprincipalitiesfightingwithmostlypre-mechtech*,钱莱恩群岛并非一个统一的国度，而是由众多相互征战的星球国家和次要公国组成的集合体，其战争手段主要依靠前机甲时代的科技.
 clancloudcobra,云蛇氏族
@@ -23189,7 +23183,6 @@ yourcowardiceisasmuchasiexpectfrommercenaryscum*wehavenothingfurthertodiscuss^un
 ipresumeyouwishtotryandmakeamendsforyourpastactionsbeforeikillyou*verywell^hereisataskiwouldnormallygivetoastarofsibkos^donotfail*,我猜你是在我杀死你之前，想为自己过去的行为做些弥补. 很好，这里有一个我通常交给一星后备学员班的任务，别搞砸了.
 ineednotremindyouthatyouhavefoughtthesmokejaguarsbefore^scum*ifyouwishtobegintorightthewrongsofthepast^takethisbatchallbeforeiassignittoasolahmaunit*,我不必提醒你，你以前和烟虎战斗过，渣滓. 如果你想开始纠正过去的错误，在我把这个batchall交给solahma部队之前，接下它吧.
 mercenary^clansmokejaguarhasfacedyouinbattlebefore*takeupthisbatchallandperhapswecanfindamorecommonpurpose*,雇佣兵，烟虎氏族此前已在战斗中与你交锋. 接下这份batchall，或许我们能找到一个更共通的目标.
-youareanunknowntous*proveyourselfonthefieldofbattlewiththisbatchall^andwemayhavefurtheruseofyou*,你对我们而言是个未知数. 通过这份batchall在战场上证明自己，我们或许还会有进一步利用你的地方.
 youhaveassistedtheclaninthepast*continuetobeusefulbytakingupthisbatchallandwemightcontinuethisrelationship*,你过去曾协助过氏族. 接下这份batchall以继续发挥用处，我们或许能维持这段关系
 imustadmitiamwarmingtoyou^asyouhaveprovenyourselftobeusefultotheclan*weofferyouthisbatchallinrecognitionofyourservice*,我必须承认我逐渐对你产生好感了，因为你已证明自己对氏族很有用. 我们授予你这份batchall，以表彰你的贡献.
 commander^youhavehelpedclansmokejaguargreatly^andinrecognitionofyourservice^iofferyouthisbatchallihadreservedforourownwarriors*,指挥官，你曾极大地帮助过烟虎氏族，为表彰你的贡献，我将这份本保留给我们自己战士的batchall授予你.
@@ -24040,7 +24033,6 @@ ammolrmthunderqs,LRM QS雷霆弹药
 ammolrmthunder-i,LRM雷霆I弹药
 ammolrmthunderaugmented,LRM增强型雷霆弹药
 ammolrmmineclear,LRM排雷弹药
-ammolrmmagpulse,LRM磁脉冲弹药
 ammolrmsensors,LRM传感器弹药
 ammolrmsam,LRM地对空弹药
 
@@ -24130,9 +24122,7 @@ ammomediumriflesabot,中型步枪脱壳弹药
 ammoheavyriflesabot,重型步枪脱壳弹药
 ammorifleperiphery,外围步枪弹药
 
-sabot-lightrifle,轻型步枪脱壳
 sabot-mediumrifle,中型步枪脱壳
-sabot-heavyrifle,重型步枪脱壳
 cl-mediumrifle,中型步枪无壳
 cl-heavyrifle,重型步枪无壳
 
@@ -24508,8 +24498,6 @@ excess{0}:thismechcantmountmorethen{1}in{5},过量 {0}: 该机甲在 {5} 中最�
 wrong{0}:unitcanhaveonlyonetypeof{0},{0} 错误: 该单位只能装备一种类型的 {0}
 wrong{0}:mechcanhaveonlyonetypeof{0},{0} 错误: 该机甲只能装备一种类型的 {0}
 mechcanhaveonlyonetypeof{0},机甲只能配备一种类型的 {0}
-cannotadd{0}to{1}:thelocationisdestroyed*,无法将 {0} 添加至 {1}: 该部位已损毁.
-cannotadd{0}to{1}:componentisnotpermittedinthislocation*,无法将 {0} 添加至 {1}: 此部位不允许安装该组件.
 unithas{0}installedinwronglocation,单位在错误部位安装了 {0}
 unithave{0}installedinwronglocation,单位在错误部位安装了 {0}
 unitdoesnthaveenough{4}hardpointsin{5},单位在 {5} 中没有足够的 {4} 挂载点
@@ -25153,7 +25141,6 @@ aircademyvtolappointment,空航学院VTOL培训名额
 aircademyvtolappointment(commander),空航学院VTOL培训名额(指挥官)
 tiredoffeelinggroundedaseverythingelsefliespastyou?wellthen^airtoday^gonetomorrowhastheperfectsolutionforyou:[[dm*basedescriptiondefs[lorevtol]^vtolflighttraining*anappointmenttoairtoday^gonetomorrowsaircademyflightschoolwillrewardyouwiththeknowledgeoftheskillsneededtopilotavtol*thistrainingcourse^supplementedbyneurostimuliandtrainingsimulators^canbeyoursfornomorethan¢750^000*yourtuitionfeecoversallcostsassociatedwithyourtrainingincludingroomandboardforupto6months*stoplettingyourwormseyeviewaffectyourperformanceonthebattlefield!newlinenewlinewarning!tuitioncosts¢750^000andthechosenpilotwillnotbeavailableforupto6months*applicantmusthavepriorvehicleexperience*slotsarelimited^soonlyonepilotmayattendatatime*ourrepsarenotresponsibleifyoudonothavethefundstopaythetuition*avoidbuyinguntilyouhaveaproperbankroll*newlinenewlinenotallapplicantswillbeaccepted!vtoltrainingisdangerous*accidentsdohappenandairtoday^gonetomorrowsaircademyflightschoolwillnotbeheldresponsibleforpilotinjuryordeath*,受够了看着别人从你头顶呼啸而过，自己却<i>困在地面</i> ? 那么，<i>今日飞天，明日成仙</i> 为您准备了完美解决方案: [[DM.BaseDescriptionDefs[LoreVTOL]，VTOL]]飞行训练. 获得<i>今日飞天，明日成仙</i> 空中学院飞行学校的入学资格，您将掌握驾驶垂直起降飞行器所需的知识与技能. 这项培训课程辅以神经刺激和训练模拟器，仅需75万星币即可拥有. 您的学费涵盖培训相关的全部费用，包括最长 6 个月的食宿. 别再让蝼蚁般的视野影响您在战场上的表现了!\n\n<color=#FF0000>警告! 学费为75万星币，所选机师将长达 6 个月无法参战. 申请人必须具有车辆驾驶经验. 名额有限，每次仅限一名机师参加. 若您资金不足无法支付学费，我方代表概不负责. 请确保资金充裕后再行购买.</color>\n\n<color=#FFFF00>并非所有申请者都会被录取! 垂直起降飞行器训练具有危险性. 意外确实可能发生，<i>今日飞天，明日成仙</i> 空中学院飞行学校对机师的伤亡概不负责.</color>
 tiredoffeelinggroundedaseverythingelsefliespastyou?wellthen^airtoday^gonetomorrowhastheperfectsolutionforyou:[[dm*basedescriptiondefs[lorevtol]^vtolflighttraining*anappointmenttoairtoday^gonetomorrowsaircademyflightschoolwillrewardyouwiththeknowledgeoftheskillsneededtopilotavtol*thistrainingcourse^supplementedbyneurostimuliandtrainingsimulators^canbeyoursfornomorethan¢750^000*yourtuitionfeecoversallcostsassociatedwithyourtrainingincludingroomandboardforupto6months*stoplettingyourwormseyeviewaffectyourperformanceonthebattlefield!newlinenewlinewarning!tuitioncosts¢750^000andthecommanderwillnotbeavailableforupto6months*applicantmusthavepriorvehicleexperience*ourrepsarenotresponsibleifyoudonothavethefundstopaythetuition*avoidbuyinguntilyouhaveaproperbankroll*vtoltrainingisdangerous*accidentsdohappenandairtoday^gonetomorrowsaircademyflightschoolwillnotbeheldresponsibleforanyinjuriessustainedduringtraining*,厌倦了感觉<i>被钉在地上</i>，看着其他东西从你头顶飞过? 那么，<i>今日飞天，明日成仙</i> 为你提供了完美的解决方案: [[DM.BaseDescriptionDefs[LoreVTOL]，VTOL]]飞行培训. 预约<i>今日飞天，明日成仙</i> 的空航学院飞行学校，你将获得驾驶VTOL所需的技能知识. 这项培训课程辅以神经刺激和训练模拟器，仅需75万星币即可拥有. 你的学费涵盖了与培训相关的所有费用，包括最长 6 个月的食宿. 别再让蝼蚁般的视野影响您在战场上的表现了!\n\n<color=#FF0000>警告! 学费为75万星币，指挥官将在最长 6 个月内无法执行任务. 申请者必须具有驾驶车辆的经验. 如果你没有足够的资金支付学费，我们的代表概不负责. 请确保资金充足后再购买. VTOL培训具有危险性. 事故确实会发生，<i>今日飞天，明日成仙</i> 空航学院飞行学校对培训期间造成的任何伤害概不负责.</color>
-smalllasersdealsuperbdamagefortheirweightandheatgenerationbuthaveextremelylimitedrange*,在这个重量级上，小型激光造成的伤害和发热很惊人，但射程非常有限.
 
 upto{0}area-of-effectdamagetounitsinradius*unitsfurtherfromthepointofimpacttakelessdamage,对范围内的单位造成最多 {0} 点范围伤害. 离着弹点越远的单位受到的伤害越低.
 dealsarea-of-effectdamagewithin{0}metersofimpact,在着弹点 {0} 米范围内造成范围伤害
@@ -25566,7 +25553,6 @@ aoerocket20,范围火箭 20
 rocket15[wm],火箭 15[翼挂]
 rocket15pod[wm],火箭 15发射舱[翼挂]
 heavyrl5,重型火箭 5
-heavyrl10,重型火箭 10
 heavyrl15,重型火箭 15
 heavyrl20,重型火箭 20
 heavyrl20hydra,九头蛇重型火箭 20
@@ -25756,7 +25742,6 @@ alwaysblamed,总是被指责
 tinybutfierce,小巧凶悍
 pilotquirktinybutfierce:increasedhealth,机师特质-小巧凶悍: 增加生命值
 pilotquirktinybutfierce:decreasedbleedingrate,机师特质-小巧凶悍: 降低流血速度
-prevents[amt]injuriesagainstamechwarrior*,防止机甲战士受到 [AMT] 次伤势.
 bleedratex0*8,流血速度 x 0.8
 despitetheirsmallsize^thispilotisincrediblytoughandtenacious*newlinenewline+2pilothealthand-20%bleedrate*,尽管体型娇小，这名机师却异常坚韧顽强.\n\n+2 机师生命值，-20% 流血速度.
 +2pilothealthand-20%bleedrate*,+2 机师生命值，-20% 流血速度.
@@ -25794,7 +25779,6 @@ clan-fumaster,氏族功夫大师
 thispilotisamasterofmechmartialartsandknockshisopponentsoffbalance*newlinenewline+7*5%punch/kickdamage^+2punchattacks^alwaysdestabilizesonhit*+35%pilotupkeep*,这名机师精通机甲近战术，擅长使对手失去平衡.\n\n+7.5% 拳击/踢击伤害，+2 拳击攻击次数，命中必定造成不稳定效果. +35% 机师维护费用.
 +7*5%punch/kickdamage^+2punchattacks^alwaysdestabilizesonhit*+35%pilotupkeep*,+7.5% 拳击/踢击伤害，+2 拳击攻击次数，命中必定造成不稳定效果. +35% 机师维护费用.
 compowchicken,ComPow Chicken
-thispilotisamasterofmechmartialartsandknockshisopponentsoffbalance*newlinenewline+7*5%punch/kickdamage^+2punchattacks^alwaysdestabilizesonhit*+35%pilotupkeep*,该机师精通机甲近战术，能够让对手失去平衡.\n\n+7.5% 拳击/踢击伤害，+2 拳击攻击次数，命中必定造成不稳定效果. +35% 机师维护费用.
 diplomaticimmunity,外交豁免权
 thispilothasdiplomaticprotection*newlinenewlineimmunetotac*+25%pilotupkeep*,该机师享有外交保护.\n\n免疫TAC. +25% 机师维护费用.
 immunetotac*+25%pilotupkeep*,免疫TAC. +25% 机师维护费用.
@@ -26018,7 +26002,6 @@ overload:amsfiresupto{0}shotsperactivation*,过载: AMS每次激活最多射击 
 overload:{0}heatperactivationinamsmode,过载: AMS模式下每次激活产生 {0} 热量
 lancemodeis{0}accuracy^{1}heat^{2}jamchance^{3}range^andprotectsteammates&allies*,小队模式: 命中率 {0}，热量 {1}，卡壳率 {2}，射程 {3}，可保护队友和友军.
 slipperycustomer,滑不溜手
-reactiveplating,反应装甲
 {0}resistancetomissileattacks,{0}导弹攻击抗性
 {0}missres,{0}导弹抗性
 {0}areaofeffectdamagetaken*,{0}受到的范围伤害.
@@ -26726,7 +26709,6 @@ weaponhasaflat{0}jamchance-mitigatedbygunnery,武器有固定 {0} 卡壳概率�
 distracting,干扰
 distractingunitsstrikefearintotheirenemiesandlowersresolvegainby{0}ina{1}meterradius;limegreenaura*,干扰型单位会使敌人心生恐惧，并在 {1} 米范围内使其决心获取降低 {0}; 黄绿色光环.
 
-a-pod(bolt-on),A-POD(外挂式)
 acidspit,酸液喷溅
 amsflare,AMS耀斑
 boltoni-rocket5,外挂式炼狱火箭5
@@ -26779,7 +26761,6 @@ boltonmortar/5,外挂式迫击炮/5
 boltonmtr/5,外挂式迫击炮/5
 chaffcountermeasures,箔条对抗措施
 groundcontrol,地面控制
-m-pod(bolt-on),M-POD(外挂式)
 smoker,吸烟者
 t*a*e*,定时粘性炸药
 
@@ -26797,7 +26778,6 @@ handheldmml5,手持式MML5
 handheldmml7,手持式MML7
 handheldmml9,手持式MML9
 handheldmrm10,手持式MRM10
-handheldrac/2,手持式RAC/2
 handheldrotaryac/2(p),手持式RAC/2(海盗)
 handheldstreaksrm-4,手持锁定式SRM-4
 handheldstreaksrm-6,手持锁定式SRM-6
@@ -27315,7 +27295,6 @@ sensorstransband:increasedecmshield,传感器-跨频: 增加ECM护盾
 sensorstransband:decreasedecmjamming,传感器-跨频: 降低ECM干扰
 sensorstransband:sharedvision,传感器-跨频: 共享视野
 
-sparrowhawkuavbeacon,麻雀鹰无人机信标
 speedylegactuatorreplacementqs,QS迅捷腿部驱动器替换件
 speedylegactuatorreplacementqs:decreasedunsteadythreshold,QS迅捷腿部驱动器替换件: 失衡阈值降低
 speedylegactuatorreplacementqs:increasedwalkspeed,QS迅捷腿部驱动器替换件: 步行速度提高
@@ -27334,7 +27313,6 @@ upperrecoilqs:decreasedrecoil-{current},QS上躯后坐力控制: 降低后坐力
 upperrecoilqs:increasedflatjamchance-{current},QS上躯后坐力控制: 卡壳概率增加 - {current}
 {0}locationrecoil,{0}部位后坐力
 {0}accuracyforweaponsmountedinthesamelocation*,同部位安装的武器精度 {0}.
-{0}multipliertojamchanceofweaponsintheequipmentlocation*,该装备所在部位武器的卡壳概率倍率 {0}.
 {0}recoillocation,{0}部位后坐力
 sometimeswhenyoubuyquicsell^yougettoomuchbangforyourbuck!weretalkingaboutrecoilofcourse*ifso^theupperrecoilmountisforyou*weguaranteethatourpatentedrecoil-compensationtechnologieswillreducerecoilbymorethananyotheractuatoronthemarket!,有时候买Quicsell的产品，性价比高得让您“震”惊! 我们当然是在说后坐力. 如果遇到这种情况，那上躯后坐力支架就是为您准备的. 我们保证，我们专利的后坐力补偿技术，降低后坐力效果比市面上任何其他驱动器都更强!
 phoenixmissile,凤凰导弹
@@ -27362,7 +27340,6 @@ autocannonfiresasingleshot,自动炮单发射击
 newlineautocannonfiresasingleshot,\n自动炮单发射击
 autocannonfires2shots,自动炮发射 2 发
 newlineautocannonfires2shots,\n自动炮发射 2 发
-twoshots^10%permajam^+2recoil^-1accuracy,两发点射，10% 概率永久卡壳，+2 后坐力，-1 精度
 twoshots^20%missfire^+2recoil^-1accuracy,两发点射，20% 概率走火，+2 后坐力，-1 精度
 newlinetwoshots^10%permajam^+2recoil^-1accuracy,\n两发点射，10% 概率永久卡壳，+2 后坐力，-1 精度
 newlinetwoshots^20%missfire^+2recoil^-1accuracy,\n两发点射，20% 概率走火，+2 后坐力，-1 精度
@@ -27714,7 +27691,6 @@ weaponhasa{0}jamchancepershot-mitigatedbygunnery&jammodifiers,该武器每次射
 weaponhasa{0}jamchancepershotafterthefirst-mitigatedbygunnery&jammodifiers,该武器首次射击后，每次射击有 {0} 的卡壳概率，受枪炮技能与卡壳修正值影响
 weaponhasa{0}jamchanceper{1}shots-mitigatedbygunnery&jammodifiers,该武器每 {1} 次射击有 {0} 的卡壳概率，受枪炮技能与卡壳修正值影响
 weaponhasa{0}jamchancepershot,该武器每次射击有 {0} 的卡壳概率
-weaponhasa{0}jamchancepershotabove{1}*-mitigatedbygunnery&jammodifiers,该武器每次射击超过 {1} 发时有 {0} 的卡壳概率，受枪炮技能与卡壳修正值影响
 rotaryweapon:select-fireof1-6shots*,转管武器: 可选择 1 至 6 发点射.
 xpulse,X脉冲
 x-pulselasershaveincreasedrangeand+2accuracy*,X脉冲激光拥有更远的射程和 +2 命中精度.
@@ -28274,7 +28250,6 @@ enginecrit(1),引擎受损(1)
 enginecrit(2),引擎受损(2)
 gyrocrit,陀螺仪损伤
 gyrostandupfail,陀螺仪起身失败
-gyrodestroyed,陀螺仪损毁
 gyrodestroyedpilotingpenalty,陀螺仪损毁: 驾驶惩罚
 lefthipdestroyed,左髋关节已损毁
 righthipdestroyed,右髋关节已损毁
@@ -28792,7 +28767,6 @@ spikedhelmet(p):decreasedtactics,尖刺头盔(海盗): 降低战术技能
 spikedhelmet(p):increasedinjuryonejectionchance,尖刺头盔(海盗): 弹射时增加受伤概率
 {0}bonushealth,{0}生命加成
 {0}bonushealth*,{0}生命加成.
-impairmove,降低移动能力
 impairmovement,降低移动能力
 paintgun,喷漆枪
 targetsuffers-80%tosight^-2accuracyand+25%visibilityfor3turns,目标视野降低 80%，命中精度降低 2，可见度提高 25%，持续 3 回合
@@ -28981,15 +28955,7 @@ destroythesalinizationplant,摧毁盐碱化工厂
 destroyallraptorforces,消灭所有猛禽部队
 destroyraptorreinforcements,消灭猛禽增援部队
 thesalinizationplantisjustupahead^commander*,指挥官，盐碱化工厂就在前方.
-movein^engagethebasedefenses^andstartthedemolition*,向前推进，与基地守军交火，开始爆破.
 theraptorgarrisonisstillon-site^sobereadyforopposition*,猛禽的驻军仍在现场，做好迎敌准备.
-thatseverything^commander*welldone*,全部结束了，指挥官. 干得漂亮.
-thisisntgoingtolookgoodonourreport*weneedtoabort^commander*,这写到报告里可不好看. 我们得中止行动，指挥官.
-theyvegotmultipleunitsprotectingthisfacility*becarefulnottogetcaughtinanambush*,他们有多支部队守卫着这个设施. 小心别中了埋伏.
-wevedemolishedtheobjectivebuildings*noneedtoloiter^gettotheevaczone*,我们已经摧毁了目标建筑. 没必要逗留，快前往撤离区.
-goodshots^commander!youscoredasolidhitononeofthetargetstructures^keepitup*,打得好，指挥官! 你准确命中了一处目标建筑. 继续保持.
-targetbuildingdestroyed^goodworkcommander^stayatitandwellbedoneinnotime*,目标建筑已摧毁，干得好，指挥官，再加把劲，我们很快就能搞定.
-bkt_killconfirmed:thegarrisonisdestroyed*goodwork*,Bkt_确认击杀: 驻军已消灭. 干得好.
 
 needalift?,需要搭便车吗?
 khaostheory,混沌理论
@@ -29129,7 +29095,6 @@ thisareaofthecityisfullofrubbleanddebris^sothreadcarefully*,城市这片区域�
 darkcloudscovermostthesky^someoccasionalshowersofrainmightimprovecoolingabit*soletloose^andripthemanewhole*,乌云遮蔽了大半个天空，偶尔的阵雨可能会略微改善散热效果. 所以放手去打吧，给他们撕开一道口子.
 thecool^humidairshouldhelpyourheatsinkskeepup^commander^butdontexpectanymiraclesfromalightfoglikethis*,凉爽潮湿的空气应该有助于散热器运转，指挥官，但不要指望这样一层薄雾能带来什么奇迹.
 weatherradarshowsalargehailstorminbound*itislikelytodisruptoursensorsandvisibility^butitcouldalsoaffectourweapons*,气象雷达显示一场大冰雹正在逼近. 它很可能会干扰我们的传感器和能见度，但也可能影响我们的武器.
-thatrainwillhelpwithheatsinking^commander*lightemup*,这场雨有助于散热，指挥官. 放手开火吧.
 weathermapshowsalargethundercellisrightabovethearea^expectalightshowoutthere*,气象图显示一个大型雷暴单体正好位于该区域上方，预计外面会有灯光秀.
 thisissomestrongwindcommander;itsbuffetingusprettyhard*becarefulyourmechsarentblownabout^andkeepaneyeonyourartilleryshots^theymightgetblownaroundaswell*,这风可真够大的，指挥官; 把我们吹得够呛. 小心别让机甲被吹得东倒西歪，同时注意你们的炮弹，它们也可能被风吹偏.
 whothehellconductsmilitaryoperationsduringahurricane^commander?thisisinsane!,谁他妈会在飓风期间进行军事行动啊，指挥官? 这太疯狂了!
@@ -29545,7 +29510,6 @@ unlockbetapodupgrade,解锁贝塔舱段升级
 onthecheap,廉价方案
 youmullovereverythingizeldaberrixhasjustoutlinedtoyou^whileglancingthroughtheprecisedataonthenoteputer*asyouhandthenoteputerbacktodarius^youturntowardsizelda^thankyouforthisinformation*ithinkwewillneedtogowiththecostsaverpackage*weareonaprettytightbudgetandwhileirealizetherearepotentialrisksandissues^thesavingswillgotowardskeeping{company*companyname}afloat*darius^makethearrangements*newlinenewlinedariusnodsasheescortsmsberrixbacktoherdropship^understood^commandernewlinenewlinebetapodupgradeunlockednewlinenewlinevisitengineeringtobeginupgradeconstruction,你仔细掂量着伊泽尔达·贝里克斯刚才向你概述的所有选项，同时扫了一眼记事本上精确的数据。你把记事本递还给达吕斯，转向伊泽尔达说道：“谢谢你的介绍。我想我们得选择<i>省钱套餐</i>。我们预算非常紧张，虽然我明白存在潜在风险与问题，但省下的钱能用来维持{COMPANY.CompanyName}的运转。达吕斯，去安排吧。”\n\n达吕斯陪同贝里克斯女士返回她的空投艇时点了点头：“明白，指挥官。”\n\n<color=#FFA200>贝塔舱段升级已解锁\n\n前往工程区开始升级建造</color>
 [standardpackage:¢900^000],[标准套餐: ¢900，000]
-statusquo,维持现状
 youmullovereverythingizeldaberrixhasjustoutlinedtoyou^whileglancingthroughtheprecisedataonthenoteputer*asyouhandthenoteputerbacktodarius^youturntowardsizelda^thankyouforthisinformation*ithinkwewillgowiththestandardpackage*weareonabudget^butnotonethatputshigherriskatalowercost*darius^makethearrangements*newlinenewlinedariusnodsasheescortsmsberrixbacktoherdropship^understood^commandernewlinenewlinebetapodupgradeunlockednewlinenewlinevisitengineeringtobeginupgradeconstruction,你仔细考虑过伊泽尔达·贝里克斯刚才向你概述的所有选项，同时扫了一眼记事本上精确的数据。你把记事本递还给达吕斯，转向伊泽尔达说道：“谢谢你的介绍。我想我们还是选<i>标准套餐</i>。我们确实有预算限制，但还不至于为了省钱去冒更高的风险。达吕斯，去安排吧。”\n\n达吕斯陪同贝里克斯女士返回她的空投艇时点了点头：“明白，指挥官。”\n\n<color=#FFA200>贝塔舱段升级已解锁\n\n前往工程区开始升级建造</color>
 [premiumpackage:¢2^700^000],[尊享套餐: ¢2，700，000]
 allthefrills,全套奢享
@@ -31292,9 +31256,7 @@ rimworldsrepublic,边缘世界共和国
 defenseofrimworldsrepublicoutpost\#11,边缘世界共和国前哨11号防御战
 resumetheghostofretributioncampaignbyretryingthefailedcontractduringthedefenseofrimworldsrepublicoutpost\#11*,通过在<i>边缘世界共和国前哨11号</i> 防御战期间重试失败的合约，继续<b>复仇幽灵</b>战役.
 striketheinnersphere,袭击内天体
-startthecounterattackagainsttheinnersphereafterthesuccessfuldefenseoftribesystems*,在成功防御部落星系后，发起对内天体的反攻.
 undertheruins,废墟之下
-helptheminnesotatribeexcavatethestarleague-eraresourcesbeforethepiratescan*,赶在海盗之前，协助明尼苏达部落挖掘星际联盟时代的资源.
 ahiddencacheofstarleague-eraindustrialmaterialhasbeenlocatedbeneathaderelictsurveystationondurabon*minnesotatribesalvageteamsareenroutetoextractthepayloadforoff-worldtransport*yourunitistaskedwithsecuringtheoperationfrominitialcontactthroughtoextractionanddeparture*newlinenewlineyouaretomoveaheadofthesalvageteamandestablishcontrolofthesite*oncetheareaissecure^holdpositionwhiletechniciansretrieveandloadthematerials*afterextractioniscomplete^escorttheconvoytoadesignatedevacuationpoint^whereatribedropshipwillbewaiting*newlinenewlinelocalpirateelementshaveshownincreasedactivityintheregionandmayattempttoseizethecachebyforce*expectresistanceduringboththerecoveryandescortphases*escortintegrityisessential*lossofthecargowillvoidtheoperation*,在<i>Durabon</i> 上一座废弃勘测站下方发现了一处星盟时代工业物资的秘密储藏点. 明尼苏达部落的打捞队正在前往回收货物以便运往星球外. 你的单位负责从初次接触到回收及离开的整个行动的安全.\n\n你必须在打捞队之前行动并建立对现场的控制. 一旦该区域安全，守住位置，让技术人员取回并装载物资. 回收完成后，护送车队前往指定的撤离点，那里会有一艘部落空投艇等待.\n\n当地海盗势力在该地区的活动有所增加，可能会试图以武力夺取储藏点. 在回收和护送阶段都要预料到抵抗. 护送完整性至关重要. 货物丢失将导致行动作废.
 hiddenvaults^oldtech^andpirateraiderscrawlingallovertheplace*thisonesgonnagetnoisy^commander*justmakesurethatconvoymakesitoutinonepiece*,隐藏的金库，旧科技，还有海盗袭击者到处都是. 这次会闹得很凶，指挥官. 只要确保那支车队完好无损地撤出去.
 securethecache^escorttheextractionconvoy^andwithdrawsafely,确保储藏点安全，护送回收车队，并安全撤离.
@@ -31311,7 +31273,6 @@ thatsthelastoftheconvoysafe*weredonehere*cleanexit*,最后一批车队也安全�
 convoysholdingposition*theyaretoofaroutfromoursupport*getbackinformationbeforetheystartpanicking*,车队保持位置. 他们离我们的支援太远了. 在他们开始恐慌之前回到编队.
 
 acquirerarematerials,获取稀有材料
-helptheminnesotatribesecurethestoragesiteofrarematerials*,协助明尼苏达部落夺取稀有材料储存地点.
 unwillingasset,非自愿资产
 acquiretheservicesofdr*anikatilsaye*forcefully*,强行征用Anika Tilsaye博士的服务.
 nowitnesses,不留活口
@@ -31360,7 +31321,6 @@ quirkinformationgatherer:increasedadvancedsensorstrength,特性-信息收集者:
 quirkinformationgatherer:increasedsensorrangemultiplier,特性-信息收集者: 提高传感器范围倍率
 advancedzoom,高级变焦
 {0}madvancedzoom,{0}米高级变焦
-advancedzoom:provides+1rangedaccuracyupto{0}meters*,高级变焦: 在 {0} 米内提供 +1 远程精度.
 addsmodes,增加模式
 
 somemodsdidntload,部分模组未能加载
@@ -31395,7 +31355,6 @@ rocketcombine,火箭联合收割机
 themoderncombineharvester^orsimplycombine^isaversatilemachinedesignedtoefficientlyharvestavarietyofgraincrops*thenamederivesfromitscombiningfourseparateharvestingoperationsreaping^threshing^gathering^andwinnowingtoasingleprocess*newlinenewlinebiomerestrictions:thisunitcannotdeployinlunarormartianbiomesduetousinganice*newlinenewlinemovement:4/6hexes/120/180meters*newlinenewlinearmor:armorprimitivenewlinestructure:primitivestructurenewlinevaluesasnewlinefront20025newlineleft16025newlineright16025newlinerear14025newlinenewlinetotal660100newlinenewlinequirk:rugged,现代联合收割机（或简称联合机）是一种多功能机械，专为高效收割多种谷类作物而设计. 其名称源于它将四项独立的收割作业——收割、脱粒、收集和扬净——合并为单一流程.\n\n<b><color=#ffcc00>环境限制: 该单位因使用内燃机，无法在月球或火星环境中部署.</color></b>\n\n<b><color=#ffcc00>移动力: 4/6 格 / 120/180 米.</color></b>\n\n<color=#ffcc00><b>装甲: </b> 原始装甲\n<b>结构: </b> 原始结构\n<b>位置    装甲    结构 </b>\n<b>正面</b>    200    25\n<b>左侧</b> 160    25\n<b>右侧</b>    160    25\n<b>尾部</b>    140    25\n\n<b>总计</b>    660    100</color>\n\n<color=#ff0000>特性: 坚固</color>
 rocketcarrier,火箭运载车
 attachments,附件
-therighthipactuatorwasdestroyed^reducingwalkandsprintdistancesby40%*,右髋关节驱动器已被摧毁，行走和冲刺距离减少 40%.
 failedtostandup,尝试起身失败
 newlinenotavailable,\n不可用
 newlineyoucantactivate/deactivateequipmentwhileatargetisselected,\n选定目标时无法启用/停用装备
@@ -31462,7 +31421,6 @@ lamboosterpack90%,LAM助推器包 90%
 lamboosterpack100%,LAM助推器包 100%
 jumpboosterpack1,跳跃助推器包 1
 jumpboosterpack2,跳跃助推器包 2
-jumpboosterpack3,跳跃助推器包 3
 heatbank(c),蓄热器(氏族)
 
 a{0}h{1}r{2}thermalvision,A{0}H{1}R{2}热成像
@@ -31475,7 +31433,6 @@ zhukovheavytank,ZHUKOV重型坦克
 behemothheavytank,BEHEMOTH重型坦克
 brutusassaulttank,Brutus突击坦克
 ontosheavytank,ONTOS重型坦克
-partisanheavytank,PARTISAN重型坦克
 pilumheavytank,PILUM重型坦克
 bollastealthtank,Bolla潜行坦克
 tarantulahovertank,狼蛛悬浮坦克
@@ -31512,7 +31469,6 @@ typhonlrm:increasedtargetdamagetaken,LRM台风: 增加目标所受伤害
 typhonlrm:increasedtargetaoedamagetaken,LRM台风: 增加目标所受范围伤害
 
 incomingtransmission,收到通讯
-incomingtransmission*,收到通讯.
 
 thestarleaguedefenseforce(sldf)wastheprincipalmilitaryforcedefendingthestarleague^aconglomerationofstarsystemswithinroughly500lightyearsofterra*atitsheightthesldfwasthelargestmilitaryforceknowntoman^composedofover100millionsoldiersorganizedinto486divisions*thestarleaguedefenseforcelefttheinnersphereafterfightingtheamariscivilwar^whenstefanamarisoverthrewtherulingfirstlordofthestarleague^richardcameron*afteralongseriesofbloodybattlesthroughoutthestarleague^commandinggeneralaleksandrkerenskyendedthecoupwiththeliberationofterraandtheexecutionofamaris*howeverwhennonewfirstlordcouldbeagreeduponbythegreathousesthestarleaguewasdissolved*kerenskythenledthesurviving113divisionsoutbeyondtheinnersphereinoperationexodus^hopingtosavetheessenceoftheleaguefromtheinternecineviolencethatwastocome*thesldfwouldreturn300yearslaterastheclans^atechnologicallysuperiormilitarythatinvadedtheinnerspherein3049*,星际联盟防卫军（SLDF）是保卫星际联盟的主要军事力量，星际联盟是由泰拉周围约500光年内的星系组成的联合体. 在其鼎盛时期，SLDF是人类已知最庞大的军事力量，由超过1亿名士兵组成，编为486个师. 星际联盟防卫军在阿玛里斯内战之后离开了内天体——当时斯蒂芬·阿玛里斯推翻了星际联盟在任的第一领主理查德·卡梅伦. 在星际联盟全境经历了一系列漫长的血腥战斗后，总司令亚历山大·克伦斯基解放了泰拉并处决了阿玛里斯，从而终结了政变. 然而，由于各大国未能就新任第一领主达成一致，星际联盟随之解体. 克伦斯基随后带领剩余的113个师通过“大迁徙行动”离开内天体，希望将星际联盟的精髓从即将到来的内部冲突中拯救出来. 300年后，SLDF以氏族的身份归来——一支技术优势明显的军事力量，于3049年入侵了内天体.
 therimworldsrepublic^2250-2769^wasbornofhectorworthingtonroweandhisfive-hundred-strongthebanlegionattheendoftheirownsecondexodus*journeyingforsixyearsthroughthedarknebula^themenwhowouldcreatetherepublicwereanti-allianceveteransontherunaboardblackmailedjumpships^plunderfromslaingarrisons^andalimitednumberofprovisionsandwomentheydtakenasslaves*simplyput-pirates*,边缘世界共和国（2250-2769）由赫克托·沃辛顿·罗和他麾下五百人的底比斯军团在完成他们自己的“第二次大迁徙”后所建立. 在黑暗星云中航行了六年后，那些最终建立共和国的人，实际上是一群反联盟的逃亡老兵. 他们乘坐被胁迫的跃迁舰逃亡，携带从被消灭的驻军中掠夺的财物，以及数量有限的补给和掳来的女性. 简单来说——他们就是海盗.
@@ -31790,13 +31746,11 @@ everyoneknowsthatthemoresrmsyoufireatyourenemy^thebetter^butalltheothercompanies
 morequicsellinnovations!tryourstreaksrmlaunchers*thankstooursophisticatedtargetlockingsystem^youcanhavestreakefficiency*withnormalsrmammo!newlinenewline*efficiencyreferstoroundsfired*somemissilesareexpendedfortheirguidancehardware^leadingtoa50%ammoefficiency*newlinenewlineusessrmammo*,更多Quicsell创新! 试试我们的“锁定式”SRM发射器. 得益于我们精密的锁定系统，你可以用普通SRM弹药获得锁定式效率!\n\n<size=80%> *效率指发射的弹数. 部分导弹会因制导硬件而消耗，导致 50% 的弹药效率.<size=100%>\n\n<b><color=#ffcc00>使用SRM弹药.</color></b>
 ifyouveeverwantedthrowaonetonfirebombatanenemymechtolightthemonfire^quicsellsgotyourback*,如果你曾想过向敌方机甲投掷一吨重的燃烧弹来点燃它们，Quicsell为你准备好了.
 ifyouveeverwantedtothrowanentiregiftbasketofdifferentgrenadesatanenemymech^quicsellsgotyourback*,如果你曾想过向敌方机甲投掷一整套混合手榴弹礼篮，Quicsell为你准备好了.
-ifyouveeverwantedtothrowaonetonexplosivechargeatanenemymechinordertokillthem^quicsellsgotyourback*,如果你曾想过向敌方机甲投掷一吨重的炸药来干掉它们，Quicsell为你准备好了.
 ifyouveeverwantedtoattachaonetonshapedexplosivetoanenemymechinordertoknockthemover^quicsellsgotyourback*,如果你曾想过在敌方机甲上附着 1 吨重的锥形装药炸药来将其击倒，Quicsell为你准备好了.
 ultraautocannon,超级自动炮
 ultraautocannonshells,超级自动炮弹药
 solidslugammoisgreatfortrainingexercisesordemolitionswork^butisineffectiveatdealingdamagetomechsormilitaryvehicles*uponreceivingacriticalhit^anyremainingammunitionstoredinsideanammobinwillexplodedealingdamagetotheinstalllocation*riskcanbemitigatedwiththeuseofc*a*s*e*,实心独头弹药非常适合训练演习或爆破作业，但对机甲或军用车辆造成伤害的效果不佳. 在遭受暴击时，弹药箱内储存的任何剩余弹药都会爆炸，对安装位置造成伤害. 使用C.A.S.E.可以降低此风险.
 solidslugammoisgreatfortrainingexercisesordemolitionswork^butisineffectiveatdealingdamagetomechsormilitaryvehicles*newlinenewlineuponreceivingacriticalhit^anyremainingammunitionstoredinsideanammobinwillexplode^dealingdamagetotheinstalllocation*riskcanbemitigatedwiththeuseofcase*,实心独头弹药非常适合训练演习或爆破作业，但对机甲或军用车辆造成伤害的效果不佳.\n\n在遭受暴击时，弹药箱内储存的任何剩余弹药都会爆炸，对安装位置造成伤害. 使用CASE可以降低此风险.
-thisappointmentwillsendoneofourtrustedhabitatsgalore^aboeinginterstellarsubsidiary^salesrepresentativeswhowillhappilycometoyouanddiscussthevariousoptionsforupgradingyourdropshiptoincludecozylivingquartersforyourfutureadditionalcrew*allweaskforisasmalldeposittocoverourtravelcoststoyouinorbit*ourminimuminstallrateiscurrently¢400^000forourcostsaverpackage*newlinenewlinethisitemisforargoupgradeonly^itwillnotinstallinmechs,此次预约将派遣我们值得信赖的<i>波音星际子公司</i> 销售代表之一，他们将乐意上门与您商讨各种升级方案，为您的登陆舰增加舒适的居住区，以满足未来额外船员的需求. 我们只要求支付一笔小额定金，以覆盖我们前往您轨道位置的差旅费用. 我们目前的最低安装费为40万星币，适用于我们的“省钱”套餐.\n\n<color=#FF0000><i>此物品仅用于阿尔戈号升级，无法安装在机甲上</i></color>
 machinegunsdealverylittledamage^haveseverelylimitedrange^anddependuponvolatileammunitionstores*newlinenewlineusesmgammo*,机枪造成的伤害极低，射程极其有限，并且依赖不稳定的弹药储备.\n\n<b><color=#ffcc00>使用机枪弹药.</color></b>
 machinegunsdealverylittledamage^haveseverelylimitedrange^anddependuponvolatileammunitionstores*thisoneisjusttwoweldedtogethertooperateoffasinglehardpoint*newlinenewlineusesmgammo*,机枪造成的伤害极低，射程极其有限，并且依赖不稳定的弹药储备. 这一挺只是把两挺焊在一起，共用一个挂载点.\n\n<b><color=#ffcc00>使用机枪弹药.</color></b>
 machinegunsdealverylittledamage^haveseverelylimitedrange^anddependuponvolatileammunitionstores*however^theyhaveagreatlyincreasedchancetocausecriticalswhentheyimpactatargetthathasbeenstrippedofitsarmor*newlinenewlineusesmgammo*,机枪造成的伤害极低，射程极其有限，并且依赖不稳定的弹药储备. 然而，当它们命中装甲已被剥离的目标时，造成要害攻击的几率会大幅提升.\n\n<b><color=#ffcc00>使用机枪弹药.</color></b>
@@ -31869,7 +31823,6 @@ developedbylubalinballisticsfortheterranhegemony^thelb-xautocannonwasaderivative
 developedbylubalinballisticsfortheterranhegemony^thelb-xautocannonwasaderivativeofthestandardandrelativelyprimitiveautocannondesign*takingadvantageofadvancedmaterials^thecompanywasabletoreducetheweightoftheweaponforonlyaslightincreaseinbulkandmateditwiththeadvancedmercury-viitargetingsystemtoboostitseffectiverange*newlinenewlineuseslbx10ammo*,LB-X自动炮由Lubalin实弹公司为泰拉霸权研发，源自标准型较为原始的自动炮设计. 借助先进材料，该公司在仅略微增大体积的情况下减轻了武器重量，并为其搭载先进的“水星-VII”火控系统，进一步提升了有效射程.\n\n<b><color=#ffcc00>使用LBX10弹药.</color></b>
 theadvancedtacticalmissilesystem(atm)wasdevelopedbyclancoyoteandallowsitsuserstochoosebetweenthreedifferenttypesofammunition*atmsalsoincludeanintegralartemisivfirecontrolsystem*newlinenewlineusesatmammo*,先进战术导弹系统(ATM)由郊狼氏族研发，允许使用者从三种不同类型的弹药中选择. ATM还内置一套集成式阿尔忒弥斯IV火控系统.\n\n<b><color=#ffcc00>使用ATM弹药.</color></b>
 endo-steelstructure,钢内骨结构
-endo-composite,内复合材料
 endo-composite(c),内复合材料(氏族)
 clanversionoftheendo-compositearmororiginallydevelopedbythelyrans*thebigdifferenceisthatitrequirestwoextraslotsless*newlinenewlineaddexactly3endo-composite(c)slotstoreduceyourinternalstructureweightto75%*,氏族版内复合装甲，最初由天琴研发. 其最大区别在于所需槽位少两个.\n\n添加恰好 <b>3</b> 个内复合(氏族)槽，可将内部结构重量降低至 <b>75%</b>.
 infernoammunitioncanbeusedinstandardautocannonsandtheirlightercousins*developedbynaisscientistsfromthefederatedsuns^theseautocannonroundscontainedaninfernowarheadandwerecoveredinathincoatofmagnesium*,炼狱弹药适用于标准自动炮及其轻型衍生型号. 这款弹药由恒星联邦的 NAIS科学家研发，其自动炮弹头内置燃烧战斗部，并覆有一层薄镁涂层.
@@ -32207,7 +32160,6 @@ rotaryriflewreckerrlph-3r,转管步枪破坏者RLPH-3R
 speedscruise{0}/top{1},<i>速度</i>   巡航 <b>{0}</b> / 最大 <b>{1}</b>
 weights[ton]engine:{0}gyro:{1}sinks:{2},<i>重量 [吨]</i>   引擎: <b>{0}</b>   陀螺仪: <b>{1}</b>   散热器: <b>{2}</b>
 newlineinternalfree:{0}additional:{1}/{2}newlineexternalfree:{3}/{4}additional:{5}newline,\n   内部   免费: <b>{0}</b>    额外: <b>{1} / {2}</b>\n   外部   免费: <b>{3} / {4}</b>    额外: <b>{5}</b>\n
-reservedslots:mechrequires{0}additionalfreeslots,预留槽位: 机甲需要额外保留 {0} 个空闲槽位
 theconvoyiswaitingforyou*,车队正在等你.
 weapondamageincreasesatlongrange^toamaximumof{0},武器伤害在远距离时增加，最高 {0}
 enhancedlrmlauncherscannotfireanyspecialtyammunitiontypes*onlybasiclrmammunitionwillworkinmissions*,强化的LRM发射器无法发射任何特种弹药. 任务中仅可使用基础LRM弹药.
@@ -32260,14 +32212,12 @@ isupposethatwasinstorageforareason^sowecanaffordtoloseitifthingsgowrong*justbeca
 isupposethatwasinstorageforareason^sowecanaffordtoloseitifthingsgowrong*justbecareful*theseweaponsaremeanttodestroymechs^afterall*newlinenewlinelaterthatweek^yougetwordthat[[tgt_mw^{tgt_mw*callsign}isinthemedbay*whenyouvisit{tgt_mw*obj}^{tgt_mw*subj}{tgt_mw*gender?nonbinary:are|default:is}grinningfromeartoear^despitethebandages*newlinenewlineididit^commander!thatlaserispurringlikeakittennow*well^akittenthatwantstokillmechs*ievenmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_laser_er_medium]^{dm*weapondefs[weapon_laser_er_medium]*description*manufacturer}{dm*weapondefs[weapon_laser_er_medium]*description*model}*,“我想那东西被收进仓库是有原因的，所以就算出了岔子我们也损失得起. 只是小心点. 毕竟这些武器是用来摧毁机甲的.”\n\n那周晚些时候，你得到消息说[[TGT_MW ， {TGT_MW.Callsign}]]在医疗舱. 当你去看望{TGT_MW.Obj}时，{TGT_MW.OBJ}尽管缠着绷带，却笑得合不拢嘴.\n\n“我做到了，指挥官! 那门激光现在像小猫一样顺滑. 嗯，一只想干掉机甲的小猫. 我甚至成功复制了[[DM.WeaponDefs[Weapon_Laser_ER_Medium]，{DM.WeaponDefs[Weapon_Laser_ER_Medium].Description.Manufacturer} {DM.WeaponDefs[Weapon_Laser_ER_Medium].Description.Model}]]的性能参数.”
 mechwarriorsbelonginthemechs*techniciansbelonginthemechbay*butyouseemprettyknowledgeableaboutthesethings^andyouvealreadyguttedtheweapon*explaintoyangwhatyouweregoingfor^andmaybehecanfinishwhatyoustarted*newlinenewlinelaterthatweek^youcatch[[tgt_mw^{tgt_mw*callsign}inthehall*newlinenewlinechiefvirtanenwantedmetopassalongthegoodnews*heinvestigatedyoursuggestionsandmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_laser_pulse_medium]^{dm*weapondefs[weapon_laser_pulse_medium]*description*manufacturer}{dm*weapondefs[weapon_laser_pulse_medium]*description*model}*newlinenewline{tgt_mw*callsign}basksintheglowofvictory*iknewitwouldwork!sodoesthatmeanimridingoutonthenextcontract?ifeellikeishouldbethefirsttogettofireit!,“机甲战士就该待在机甲里. 技师就该待在机甲库. 不过你看上去对这东西挺在行，而且你已经把它拆了. 去跟杨解释一下你的想法，也许他能在你的基础上完成它.”\n\n那周晚些时候，你在走廊里遇到了[[TGT_MW ， {TGT_MW.Callsign}]].\n\n“维尔塔宁首席让我转告你好消息. 他研究了你的建议，成功复制了[[DM.WeaponDefs[Weapon_Laser_Pulse_Medium]，{DM.WeaponDefs[Weapon_Laser_Pulse_Medium].Description.Manufacturer} {DM.WeaponDefs[Weapon_Laser_Pulse_Medium].Description.Model}]]的性能参数.”\n\n{TGT_MW.Callsign}沉浸在胜利的喜悦中.“我就知道能行! 那么……这是不是意味着我下次合约可以出任务了? 我觉得我应该第一个试射它!”
 mechwarriorsbelonginthemechs*techniciansbelonginthemechbay*butyouseemprettyknowledgeableaboutthesethings^andyouvealreadyguttedtheweapon*explaintoyangwhatyouweregoingfor^andmaybehecanfinishwhatyoustarted*newlinenewlinelaterthatweek^youcatch[[tgt_mw^{tgt_mw*callsign}inthehall*newlinenewlinechiefvirtanenwantedmetopassalongthegoodnews*heinvestigatedyoursuggestionsandmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_laser_er_medium_brightbloom]^{dm*weapondefs[weapon_laser_er_medium_brightbloom]*description*manufacturer}{dm*weapondefs[weapon_laser_er_medium_brightbloom]*description*model}*newlinenewline{tgt_mw*callsign}basksintheglowofvictory*iknewitwouldwork!sodoesthatmeanimridingoutonthenextcontract?ifeellikeishouldbethefirsttogettofireit!,“机甲战士就该待在机甲里. 技师就该待在机甲库. 不过你看上去对这东西挺在行，而且你已经把它拆了. 去跟杨解释一下你的想法，也许他能在你的基础上完成它.”\n\n那周晚些时候，你在走廊里遇到了[[TGT_MW ， {TGT_MW.Callsign}]].\n\n“维尔塔宁首席让我转告你好消息. 他研究了你的建议，成功复制了[[DM.WeaponDefs[Weapon_Laser_ER_Medium_BrightBloom]，{DM.WeaponDefs[Weapon_Laser_ER_Medium_BrightBloom].Description.Manufacturer} {DM.WeaponDefs[Weapon_Laser_ER_Medium_BrightBloom].Description.Model}]]的性能参数.”\n\n{TGT_MW.Callsign}沉浸在胜利的喜悦中.“我就知道能行! 那么……这是不是意味着我下次合约可以出任务了? 我觉得我应该第一个试射它!”
-mechwarriorsbelonginmechs*techniciansbelonginthemechbay*butyouseemprettyknowledgeableaboutthesethings^andyouvealreadyguttedtheweapon*explaintoyangwhatyouweregoingfor^andmaybehecanfinishwhatyoustarted*newlinenewlinelaterthatweek^youcatch[[tgt_mw^{tgt_mw*callsign}inthehall*newlinenewlinechiefvirtanenwantedmetopassalongthenews*heinvestigatedyoursuggestions^buttheydidntleadanywhereproductive*newlinenewline{tgt_mw*callsign}staresatthefloor^crestfallen*damn^ithoughtforsurethatwouldwork*thanksforaskingthechieftogiveitatry^though*iguessidbettersticktowhatidobest:shootingtheweaponsinsteadoftryingtomodifythem*,“机甲战士就该待在机甲里. 技师就该待在机甲库. 不过你看上去对这东西挺在行，而且你已经把它拆了. 去跟杨解释一下你的想法，也许他能在你的基础上完成它.”\n\n那周晚些时候，你在走廊里遇到了[[TGT_MW ， {TGT_MW.Callsign}]].\n\n“维尔塔宁首席让我转告你消息. 他研究了你的建议，但没能得出什么有用的成果.”\n\n{TGT_MW.Callsign}垂头丧气地盯着地板.“该死，我本以为肯定能行的. 不过还是谢谢你请首席试了一下. 我想我还是该干我最擅长的事: 用武器射击，而不是试图改装它们.”
 isupposethatwasinstorageforareason^sowecanaffordtoloseitifthingsgowrong*butreally^withyourskills^idontseewhyyoucantworkonitduringtheday^withsupervision*so^youllbeworkinginthemechbaythisweek*illtalktothechiefaboutit*newlinenewlinelaterthatweek^[[tgt_mw^{tgt_mw*callsign}catchesyouinthehall^glowingwithexcitement*newlinenewlineididit^commander!thatlaserispurringlikeakittennow*well^akittenthatwantstokillmechs*ievenmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_laser_er_medium]^{dm*weapondefs[weapon_laser_er_medium]*description*manufacturer}{dm*weapondefs[weapon_laser_er_medium]*description*model}*,“我想那东西被收进仓库是有原因的，所以就算出了岔子我们也损失得起. 不过说真的，以你的技术，我觉得没理由不让你在白天、有人监督的情况下继续弄. 所以，你这周会在机甲库工作. 我会跟首席谈这件事.”\n\n那周晚些时候，[[TGT_MW ， {TGT_MW.Callsign}]]在走廊里拦住你，满脸兴奋.\n\n“我做到了，指挥官! 那门激光现在像小猫一样顺滑. 嗯，一只想干掉机甲的小猫. 我甚至成功复制了[[DM.WeaponDefs[Weapon_Laser_ER_Medium]，{DM.WeaponDefs[Weapon_Laser_ER_Medium].Description.Manufacturer} {DM.WeaponDefs[Weapon_Laser_ER_Medium].Description.Model}]]的性能参数.”
 isupposethatwasinstorageforareason^sowecanaffordtoloseitifthingsgowrong*butreally^withyourskills^idontseewhyyoucantworkonitduringtheday^withsupervision*so^youllbeworkinginthemechbaythisweek*illtalktothechiefaboutit*newlinenewlinelaterthatweek^{tgt_mw*callsign}catchesyouinthehall^glowingwithexcitement*newlinenewlineididit^commander!thatlaserispurringlikeakittennow*well^akittenthatwantstokillmechs*ievenmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_laser_reengineered_medium]^{dm*weapondefs[weapon_laser_reengineered_medium]*description*manufacturer}{dm*weapondefs[weapon_laser_reengineered_medium]*description*model}*,“我想那东西被收进仓库是有原因的，所以就算出了岔子我们也损失得起. 不过说真的，以你的技术，我觉得没理由不让你在白天、有人监督的情况下继续弄. 所以，你这周会在机甲库工作. 我会跟首席谈这件事.”\n\n那周晚些时候，{TGT_MW.Callsign}在走廊里拦住你，满脸兴奋.\n\n“我做到了，指挥官! 那门激光现在像小猫一样顺滑. 嗯，一只想干掉机甲的小猫. 我甚至成功复制了[[DM.WeaponDefs[Weapon_Laser_Reengineered_Medium]，{DM.WeaponDefs[Weapon_Laser_Reengineered_Medium].Description.Manufacturer} {DM.WeaponDefs[Weapon_Laser_Reengineered_Medium].Description.Model}]]的性能参数.”
 
 whilepacingthroughthemechbayonasleeplessnight^youstumbleacross[[tgt_mw^{tgt_mw*callsign}*{tgt_mw*subj_c}{tgt_mw*gender?nonbinary:are|default:is}fiddlingwitha[[dm*weapondefs[weapon_lrm_15]^stocklrm*ajumbledpileofloosemetalandwirelittersthedeckplatingaround{tgt_mw*obj}*newlinenewlineasyouapproach^{tgt_mw*callsign}looksup^asheepishgrinon{tgt_mw*det}face*uh*hello^commander*iwasjusttryingtotunethisbeauty^maybegetalittlemoreperformanceoutofher*couldyoudomeafavorandkeepthisfromthechief^though?hesalreadyshooedmeoutofhereoncethisweek*,“在一个不眠之夜，你踱步穿过机甲库时，偶然遇到了[[TGT_MW ， {TGT_MW.Callsign}]]. {TGT_MW.OBJ}正在摆弄一门[[DM.WeaponDefs[Weapon_LRM_15]，标准LRM发射器]]. 一堆零散的金属和线缆散落在{TGT_MW.Obj}周围的甲板上.\n\n当你走近时，{TGT_MW.Callsign}抬起头，脸上带着一丝腼腆的笑容.“呃. 你好，指挥官. 我只是想调试一下这个宝贝，也许能让她发挥出更多性能. 不过，你能帮我瞒着首席吗? 这周他已经把我从这赶出去一次了.”
 isupposethatwasinstorageforareason^sowecanaffordtoloseitifthingsgowrong*justbecareful*theseweaponsaremeanttodestroymechs^afterall*newlinenewlinelaterthatweek^[[tgt_mw^{tgt_mw*callsign}catchesyouinthehall^glowingwithexcitement*newlinenewlineididit^commander!thatlrmlauncherispurringlikeakittennow*well^akittenthatwantstokillmechs*ievenmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_lrm_15_enhanced]^{dm*weapondefs[weapon_lrm_15_enhanced]*description*manufacturer}{dm*weapondefs[weapon_lrm_15_enhanced]*description*model}*,“我想那东西被收进仓库是有原因的，所以就算出了岔子我们也损失得起. 只是小心点. 毕竟这些武器是用来摧毁机甲的.”\n\n那周晚些时候，[[TGT_MW ， {TGT_MW.Callsign}]]在走廊里拦住你，满脸兴奋.\n\n“我做到了，指挥官! 那门LRM发射器现在像小猫一样顺滑. 嗯，一只想干掉机甲的小猫. 我甚至成功复制了[[DM.WeaponDefs[Weapon_LRM_15_Enhanced]，{DM.WeaponDefs[Weapon_LRM_15_Enhanced].Description.Manufacturer} {DM.WeaponDefs[Weapon_LRM_15_Enhanced].Description.Model}]]的性能参数.”
 isupposethatwasinstorageforareason^sowecanaffordtoloseitifthingsgowrong*justbecareful*theseweaponsaremeanttodestroymechs^afterall*newlinenewlinelaterthatweek^yougetwordthat[[tgt_mw^{tgt_mw*callsign}isinthemedbay*whenyouvisit{tgt_mw*obj}^{tgt_mw*subj}{tgt_mw*gender?nonbinary:are|default:is}grinningfromeartoear^despitethebandages*newlinenewlineididit^commander!thatlrmlauncherispurringlikeakittennow*well^akittenthatwantstokillmechs*ievenmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_lrm_15_enhanced]^{dm*weapondefs[weapon_lrm_15_enhanced]*description*manufacturer}{dm*weapondefs[weapon_lrm_15_enhanced]*description*model}*,“我想那东西被收进仓库是有原因的，所以就算出了岔子我们也损失得起. 只是小心点. 毕竟这些武器是用来摧毁机甲的.”\n\n那周晚些时候，你得到消息说[[TGT_MW ， {TGT_MW.Callsign}]]在医疗舱. 当你去看望{TGT_MW.Obj}时，{TGT_MW.OBJ}尽管缠着绷带，却笑得合不拢嘴.\n\n“我做到了，指挥官! 那门LRM发射器现在像小猫一样顺滑. 嗯，一只想干掉机甲的小猫. 我甚至成功复制了[[DM.WeaponDefs[Weapon_LRM_15_Enhanced]，{DM.WeaponDefs[Weapon_LRM_15_Enhanced].Description.Manufacturer} {DM.WeaponDefs[Weapon_LRM_15_Enhanced].Description.Model}]]的性能参数.”
-isupposethatwasinstorageforareason^sowecanaffordtoloseitifthingsgowrong*justbecareful*theseweaponsaremeanttodestroymechs^afterall*newlinenewlinelaterthatweek^[[tgt_mw^{tgt_mw*callsign}catchesyouinthehallwithanupdate*newlinenewlinecommander^imsorrytoreportthatiwasntabletomodifythatweaponlikeiwantedto*butiwasabletoputitbacktogetheragainjustthewayitwasbefore*doubleandtriple-checkedit^justtobesure*,“我想那东西被收进仓库是有原因的，所以就算出了岔子我们也损失得起. 只是小心点. 毕竟这些武器是用来摧毁机甲的.”\n\n那周晚些时候，[[TGT_MW ， {TGT_MW.Callsign}]]在走廊里拦住你，汇报了进展.\n\n“指挥官，很抱歉报告我没能像我想的那样改装那件武器. 不过我把它恢复原样重新组装好了. 反复检查了好几次，确保万无一失.”
 mechwarriorsbelonginthemechs*techniciansbelonginthemechbay*butyouseemprettyknowledgeableaboutthesethings^andyouvealreadyguttedtheweapon*explaintoyangwhatyouweregoingfor^andmaybehecanfinishwhatyoustarted*newlinenewlinelaterthatweek^youcatch[[tgt_mw^{tgt_mw*callsign}inthehall*newlinenewlinechiefvirtanenwantedmetopassalongthegoodnews*heinvestigatedyoursuggestionsandmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_lrm_15_enhanced]^{dm*weapondefs[weapon_lrm_15_enhanced]*description*manufacturer}{dm*weapondefs[weapon_lrm_15_enhanced]*description*model}*newlinenewline{tgt_mw*callsign}basksintheglowofvictory*iknewitwouldwork!sodoesthatmeanimridingoutonthenextcontract?ifeellikeishouldbethefirsttogettofireit!,“机甲战士就该待在机甲里. 技师就该待在机甲库. 不过你看上去对这东西挺在行，而且你已经把它拆了. 去跟杨解释一下你的想法，也许他能在你的基础上完成它.”\n\n那周晚些时候，你在走廊里遇到了[[TGT_MW ， {TGT_MW.Callsign}]].\n\n“维尔塔宁首席让我转告你好消息. 他研究了你的建议，成功复制了[[DM.WeaponDefs[Weapon_LRM_15_Enhanced]，{DM.WeaponDefs[Weapon_LRM_15_Enhanced].Description.Manufacturer} {DM.WeaponDefs[Weapon_LRM_15_Enhanced].Description.Model}]]的性能参数.”\n\n{TGT_MW.Callsign}沉浸在胜利的喜悦中.“我就知道能行! 那么……这是不是意味着我下次合约可以出任务了? 我觉得我应该第一个试射它!”
 mechwarriorsbelonginthemechs*techniciansbelonginthemechbay*butyouseemprettyknowledgeableaboutthesethings^andyouvealreadyguttedtheweapon*explaintoyangwhatyouweregoingfor^andmaybehecanfinishwhatyoustarted*newlinenewlinelaterthatweek^youcatch[[tgt_mw^{tgt_mw*callsign}inthehall*newlinenewlinechiefvirtanenwantedmetopassalongthegoodnews*heinvestigatedyoursuggestionsandmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_lrm_15_extended]^{dm*weapondefs[weapon_lrm_15_extended]*description*manufacturer}{dm*weapondefs[weapon_lrm_15_extended]*description*model}*newlinenewline{tgt_mw*callsign}basksintheglowofvictory*iknewitwouldwork!sodoesthatmeanimridingoutonthenextcontract?ifeellikeishouldbethefirsttogettofireit!,“机甲战士就该待在机甲里. 技师就该待在机甲库. 不过你看上去对这东西挺在行，而且你已经把它拆了. 去跟杨解释一下你的想法，也许他能在你的基础上完成它.”\n\n那周晚些时候，你在走廊里遇到了[[TGT_MW ， {TGT_MW.Callsign}]].\n\n“维尔塔宁首席让我转告你好消息. 他研究了你的建议，成功复制了[[DM.WeaponDefs[Weapon_LRM_15_Extended]，{DM.WeaponDefs[Weapon_LRM_15_Extended].Description.Manufacturer} {DM.WeaponDefs[Weapon_LRM_15_Extended].Description.Model}]]的性能参数.”\n\n{TGT_MW.Callsign}沉浸在胜利的喜悦中.“我就知道能行! 那么……这是不是意味着我下次合约可以出任务了? 我觉得我应该第一个试射它!”
 isupposethatwasinstorageforareason^sowecanaffordtoloseitifthingsgowrong*butreally^withyourskills^idontseewhyyoucantworkonitduringtheday^withsupervision*so^youllbeworkinginthemechbaythisweek*illtalktothechiefaboutit*newlinenewlinelaterthatweek^[[tgt_mw^{tgt_mw*callsign}catchesyouinthehall^glowingwithexcitement*newlinenewlineididit^commander!thatlrmispurringlikeakittennow*well^akittenthatwantstokillmechs*ievenmanagedtoreplicatetheperformancespecsofthe[[dm*weapondefs[weapon_lrm_15_enhanced]^{dm*weapondefs[weapon_lrm_15_enhanced]*description*manufacturer}{dm*weapondefs[weapon_lrm_15_enhanced]*description*model}*,“我想那东西被收进仓库是有原因的，所以就算出了岔子我们也损失得起. 不过说真的，以你的技术，我觉得没理由不让你在白天、有人监督的情况下继续弄. 所以，你这周会在机甲库工作. 我会跟首席谈这件事.”\n\n那周晚些时候，[[TGT_MW ， {TGT_MW.Callsign}]]在走廊里拦住你，满脸兴奋.\n\n“我做到了，指挥官! 那门LRM发射器现在像小猫一样顺滑. 嗯，一只想干掉机甲的小猫. 我甚至成功复制了[[DM.WeaponDefs[Weapon_LRM_15_Enhanced]，{DM.WeaponDefs[Weapon_LRM_15_Enhanced].Description.Manufacturer} {DM.WeaponDefs[Weapon_LRM_15_Enhanced].Description.Model}]]的性能参数.”
@@ -32382,7 +32332,6 @@ aheavilyarmoredunit^increasingitsresilienceandlongevityinbattle*,重型装甲单
 quirkarmored:decreaseddamagetaken,特性-装甲化: 受到的伤害减少
 quirkarmored:tacimmune,特性-装甲化: 免疫穿甲暴击(TAC)
 quirkarmored:decreasedaoedamagetaken,特性-装甲化: 受到的范围伤害减少
-immunetotac*+25%pilotupkeep*,免疫TAC，机师维护费 +25%.
 immunetothrougharmorcriticalsanddamage,免疫穿甲暴击(TAC)和穿甲伤害(TAD)
 immunetothrougharmorcriticalhits(tac)andthrougharmordamage(tad)*,免疫穿甲暴击(TAC)和穿甲伤害(TAD).
 immunetothrougharmorcriticalhits(tac)*,免疫穿甲暴击(TAC).
@@ -32451,7 +32400,6 @@ addoncoolshot(c):increasedsensorsignature,附加酷冷(氏族): 传感器信号�
 addoncoolshot(c):increasedvisualsignature,附加酷冷(氏族): 视觉特征增加
 aemergencycoolantsystemdevelopedbyclanjadefalconasareactiontowardsdezgrauseofheatweapons*volatile!*,这是玉鹰氏族针对敌人使用高热武器这一不荣誉行为而研发的紧急冷却系统. <b><color=#099ff2>易爆!</color></b>
 addoncoolshotactivatable:increasedcooling,附加酷冷(可激活): 散热能力提升
-emergencycoolantsystemdrasticallyimprovesthemechscooling,紧急冷却系统大幅提升机甲散热能力.
 stableweapons,稳定武器
 thisunitsweaponshaveadditionalstabilizersandrecoildampers,此单位的武器配备了额外的稳定装置和后坐力缓冲器
 astarleaguedefenseforcesstandardspeccockpit^completewithballisticarmoredcoolingsuit*,星际联盟防卫军(SLDF)标准规格驾驶舱，配备防弹冷却服
@@ -32776,7 +32724,6 @@ vehiclemode:{0}accuracywithrangedweapons*,车辆模式: 远程武器精度 {0}.
 vehiclemode:{0}evasionpipsignoredwithrangedweapons*,车辆模式: 远程武器无视 {0} 点闪避.
 vehiclemode:{0}recoilwithrangedweapons*,车辆模式: 远程武器后坐力 {0}.
 vehiclemode:{0}stabilitythreshold^{1}maximumstabilityand{2}stabilitydamagetaken*,车辆模式: {0} 稳定性阈值，{1} 最大稳定性，承受稳定性伤害 {2}.
-vehiclemode:modifiesscatterofmissedindirectfireshotsby{0}minimumand{1}maximumdistance*,车辆模式: 修正间接火力未命中后的散布距离，最小偏移 {0}，最大偏移 {1}.
 quadveemechsconvertintovehicleformforadditionalstablityandstorage,四足车辆机甲可转换为车辆形态以获得额外稳定性和存储能力
 quadveescanconverttovehiclemodeswhichgreatlyreducestabilitydamage*quadveesalwayshave360°firingarc*,四足车辆机甲可转换为车辆模式，大幅减少受到的稳定性伤害. 四足车辆机甲始终拥有360度射界.
 donkeykickvee,驴踢式车辆
@@ -32916,10 +32863,6 @@ thisbattlemechfeaturesequipmentthatisparticularlygoodateliminatingtheheatgenerat
 thisbattlemechfeaturesequipmentthatisparticularlygoodateliminatingtheheatgeneratedbylaserweaponry*,此战斗机甲配备的设备特别善于消除激光武器产生的热量.
 thisbattlemechfeaturesequipmentthatisparticularlygoodateliminatingtheheatgeneratedbymissileweaponry*,此战斗机甲配备的设备特别善于消除导弹武器产生的热量.
 thisbattlemechfeaturesequipmentthatisparticularlygoodateliminatingtheheatgeneratedbyppcweaponry*,此战斗机甲配备的设备特别善于消除PPC武器产生的热量.
-improvedcoolingjacket-ac,改进型冷却套-自动炮
-improvedcoolingjacket-laser,改进型冷却套-激光
-improvedcoolingjacket-missile,改进型冷却套-导弹
-improvedcoolingjacket-ppc,改进型冷却套-PPC
 quirkimprovedcoolingjacket-ac:decreasedautocannonheatgenerated,特性-改进型冷却套-自动炮: 自动炮热量生成减少
 quirkimprovedcoolingjacket-laser:decreasedlaserheatgenerated,特性-改进型冷却套-激光: 激光热量生成减少
 quirkimprovedcoolingjacket-missile:decreasedmissileheatgenerated,特性-改进型冷却套-导弹: 导弹热量生成减少
@@ -33688,7 +33631,6 @@ quicsellcaseiireducesinternalexplosiondamagetoonly15points*canbedestroyed*,Quics
 youhaveonly{0}ofsalvage*buttogetthisunityouneed{1},你只有 {0} 打捞份额，但要获得此单位需要 {1}
 condorcavalrytank,秃鹰骑兵坦克
 sell{0},出售 {0}
-sellfor{0},出售价 {0}
 improvedheavylasersdealsuperiordamageandhavenoaccuracypenalty^butcanexplodefor{0}damagewhendestroyed,改良型重激光可造成超高伤害且无命中精度惩罚，但被摧毁时会爆炸，造成 {0} 点伤害
 improvedheavylasersdealsuperiordamageandhavenoaccuracypenalty^butcanexplodewhendestroyed*,改进型重激光可造成超高伤害且无命中率惩罚，但被摧毁时可能爆炸.
 afterthestaraddersintroducedtheirheavylasers^theotherclansstartedprojectstoduplicateorimproveonthem*clangoliathscorpionwasthefirstclantointroduceaneffectiveimprovedheavylaser^butitstillpossessedseveraltradeoffsthatsomewarriorswouldntaccept*mostnotableofthese^itcouldexplodeifitsufferedcriticaldamage^muchlikeagaussrifle*,在星蝰氏族推出重型激光后，其他氏族纷纷启动项目试图仿制或加以改进. 巨蝎氏族是首个推出有效改良型重激光的氏族，但它仍存在一些让某些战士无法接受的妥协. 其中最显著的一点是，一旦遭受致命损伤，它便可能像高斯步枪一样发生爆炸.
@@ -33697,12 +33639,10 @@ lt*streakppcqs,QS轻型锁定式PPC
 lt*streakppcqs:increasedtargetecmjamming,QS轻型锁定式PPC: 增加目标的ECM干扰
 lt*streakppcqs:decreasedcooling,QS轻型锁定式PPC: 降低散热能力
 lt*streakppcqs:antiairfactor,QS轻型锁定式PPC: 防空系数
-quicsellstateoftheartlightstreakppcisguaranteedtohityourtarget*wevedevelopedatrulybreakthroughproductthatyoucantrytodayforonlyfiveeasypaymentsof99^999cbills,Quicsell最新锐的轻型锁定式PPC保证弹无虚发. 我们已开发出真正突破性的产品，现在您就能试用，只需轻松分五期付款，每期仅需99，999星币.
 hv*streakppc,重型锁定式PPC
 hv*streakppcqs,QS重型锁定式PPC
 hv*streakppcqs:increasedtargetecmjamming,QS重型锁定式PPC: 增加目标的ECM干扰
 hv*streakppcqs:decreasedcooling,QS重型锁定式PPC: 降低散热能力
-quicsellstateoftheartheavystreakppcisguaranteedtohityourtarget*wevedevelopedatrulybreakthroughproductthatyoucantrytodayforonlysixeasypaymentsof99^999cbillsplusadministrativefees,Quicsell最新锐的重型锁定式PPC保证弹无虚发. 我们已开发出真正突破性的产品，现在您就能试用，只需轻松分六期付款，每期仅需99，999星币，外加管理费.
 theheavyflamerwasdevelopedbyclanjadefalconafterencounteringlargeinfantryformationsduringoperationrevival*thelyranalliancecapturedseveralandwasabletoreverseengineerthemandputitintoproductiononeyearlater*heavier^yetsmallerthentheoldvehicleheavyflamer^doesitprovideminorimprovementsatrangeandagainstoverheatingtargets*usesheavyflamerammo*,重型火焰喷射器由玉鹰氏族在复兴行动中遭遇大规模步兵编队后研发. 天琴同盟缴获了若干具，并成功对其进行逆向工程，于一年后投入生产. 比老式车辆重型火焰喷射器更重却更小巧，它在射程和攻击过热目标方面提供了一定的改进. <b><color=#F79232>使用重型火焰喷射器弹药.</color></b>
 limitedmediumdropeasy,限制中型空投 <b><color=#009933>简单 </color></b>
 limitedmediumdropmedium,限制中型空投 <b><color=#f0ff00>中等 </color></b>
@@ -33802,9 +33742,6 @@ whyrelyonexpensivesensorsthatcanbreakdowntoincreaseyourviewoutofacrampedcockpit?
 asacommander^youknowthattokeepyourmechwarriorsalive^youneedtofitthemosttonnageontoyourmechsthatyoucan^andatquicsell^wevefoundawaytohelpwiththat*tradidionallifesupportsystemsarecompletelyoverbuilt^sowestrippedthemdowntohalftheweight*yourmechwarriorscanputupwithalittlediscomfort^right?,身为指挥官，您很清楚，要让机甲战士活下来，就得尽可能往机甲里塞更多的东西. 而在Quicsell，我们找到了帮您达成目标的方法. 传统的生命维持系统被过度强化了，所以我们将其精简至一半重量. 您的机甲战士稍微忍忍不适，没问题的，对吧?
 seemslikeaftertheyfiguredhowtomassproducetheirjuryriggedjunkmml^somepiratesgotsmartandhotwiredsomerarestreakguidancesystemintoit*itwillonlyfiremissilesthatwillhit^butgeneratesalotmoreheat*newlinenewlinevolatile!newlinenewlineusesstreaklrm/mrm/srmammo*newlinenewlinefiringmodes:streak-lrm^mrm^srm,看来在那些海盗们琢磨出如何大规模量产他们那堆破铜烂铁拼凑的多用途导弹发射器之后，有些“聪明鬼”又动起了歪脑筋，硬是把某种罕见的锁定式制导系统给搭线接了进来. 这玩意儿只会发射必定命中的导弹，但会产生多得多的热量.\n\n<b><color=#099ff2>易爆!</color></b>\n\n<b><color=#ffcc00>使用锁定式LRM/MRM/SRM弹药.</color></b>\n\n<b><color=#00ffff>射击模式: 锁定式-LRM，MRM，SRM</color></b>
 jratm,拼凑式ATM
-jrsrm,拼凑式SRM
-jrmrm,拼凑式MRM
-jrlrm,拼凑式LRM
 commandbunker,指挥掩体
 ifyouseethisitem^openaticketondiscord,若您看到此物品，请在Discord上提交工单
 innerspherestandard,内天体标准型
@@ -34812,7 +34749,6 @@ seekingouraidagainstoppressionsomeonehasputoutacontractlookingforhelp*,有人为
 speciallootcache,特殊战利品箱
 wevebecomeawareofaconvoytransportingequipmenttoa{team_tar*factiondef*demonym}facility*wedlikethatequipmenttotakeadetour^ifyoutakemymeaning*wewillprovidethecoordinatestolocatetheshipment^andhandleanycleanupaftertheconvoygoesastray*,我们得知有一支运输车队正在向{TEAM_TAR.FactionDef.Demonym}设施运送设备. 我们希望这些设备能够“绕个路”，如果你懂我的意思的话. 我们会提供找到这批货物的坐标，并在车队“偏离路线”后负责处理善后工作.
 imnotsurewhy{team_emp*factiondef*name}isbeingsocircumspect^buttheydontpayustoaskquestions*wehavebeenofferedsomebonusgearifweeliminateanywitnesses*,我不太清楚为什么{TEAM_EMP.FactionDef.Name}要如此谨慎隐秘，但他们雇佣我们可不是为了让我们提问的. 如果我们消灭任何目击者，还会获得一些额外装备作为奖励.
-letterofmarque,私掠许可证
 letterofmarque:mig,私掠许可证: MiG
 letterofmarque:pilotmig,私掠许可证: 机师MiG
 contractactiveforpilotmig,机师MiG的合约已生效
@@ -35436,7 +35372,6 @@ moreenemiesdispatched!,又消灭了一批敌人!
 theyrenotlettingup^commander***,他们没打算放松攻势，指挥官……
 afewworkingunitswereactivatedtohelpdefendthearea*,一些可正常运作的单位已被启动，以协助防守该区域.
 
-chainsaw,链锯
 chainsaw:reducedphysicalweaponhitchance,链锯: 物理武器命中率降低
 chainsaw:physicalweapontargetunsteadyonhit,链锯: 物理武器命中使目标失衡
 chainsaw:physicalweaponattackerunsteadyonmiss,链锯: 物理武器攻击者未命中时失衡
@@ -36221,8 +36156,6 @@ itisalwaysusefultofaceanenemywhoispreparedtodieforhiscountry*thismeansthatbothyo
 theconsensusseemedtobethatifreallylargenumbersofmenweresenttostormthemountain^thenenoughmightsurvivetherockstotakethecitadel*thisisessentiallythebasisofallmilitarythinking*,普遍的看法似乎是，如果派大量兵力去强攻那座山，那么或许会有足够多的人从滚石下幸存，进而夺取要塞. 这本质上就是一切军事思想的基础.
 sometimescrazyisthebestwaytogo*,有时候疯狂才是最好的选择.
 wisdomcomesfromexperience*experienceisoftenaresultoflackofwisdom*,智慧源于经验. 而经验往往是缺乏智慧的产物.
-itsnotworthdoingsomethingunlesssomeone^somewhere^wouldmuchratheryouwerentdoingit*,若没有人、在某处，宁愿你别做这件事，那它就不值得去做.
-realstupiditybeatsartificialintelligenceeverytime*,真正的愚蠢每次都胜过人工智能.
 war*warneverchanges*well^imean^theweapons^tacticsandstrategiesdo^butthekilling^thekillingdoesnt*well^iguesstheresalotmorekilling*soisupposewarchangesalot^wellthiswasawasteoftime***,战争. 战争从未改变. 好吧，我的意思是，武器、战术和战略确实变了，但杀戮，杀戮没有变. 嗯，我想现在杀戮更多了. 所以我想战争变化很大，好吧，这真是浪费时间……
 monstroussizehasnointrinsicmerit*,庞大的体型本身并无内在优势.
 overconfidenceisaslow^andinsidiouskiller*,过度自信是缓慢而阴险的杀手.
@@ -36308,7 +36241,6 @@ mechwarriors:cableisout?thissucks,机甲战士:“电缆断了？真糟糕”
 whatdoyoumeantheatlasistwerking?,“你是什么意思，‘大力神在跳电臀舞？’”
 haveyoutriedturningthemechoffandon?,你试过把机甲关机再开机吗？
 youdonotrecognizethebodiesinthewater,你不认识水中的尸体.
-youdonotrecognizethebodiesinthewater,你认不出水中的尸体.
 themostimportantruleofcombat-havefun!,最重要的战斗规则——“玩得开心！”
 careertip#1:upgradetheargo!upgradescanraiseyourmedtechandmechtechratings^aswellasunlocknewpathsforevents*,生涯提示 #1: 升级阿尔戈号！升级可以提高你的医疗技术和机甲技术评级，并为事件解锁新的路径.
 careertip#2:afullyupgradedargocansupportuptothreemechbaysworkingsimultaneously*,职业提示 #2: 完全升级的阿尔戈号最多可同时支持三个机甲舱运作.
@@ -41088,7 +41020,6 @@ thehconfigurationmountsfouradditionaldoubleheatsinkstocombattheheatthattheheavyl
 theprimaryconfigurationoftheblacklanneriseffectiveatallranges*atlongrange^itcanmakeuseofanerlargelaserandlrm-10*whenitclosesin^itcanattackwithapairofermediumlasersandansrm-6thatcanexploitholesinitsopponentsarmor*anecmsuiteprotectsitfrommanyformsofelectronics*newlinenewlinequirk:stablenewlinenewlinedropcostmultiplier:1*04newlinenewlinearmactuatorlimits:omni,黑狮鹫的主要配置在所有距离上都能发挥效能. 在远距离，它可以利用一门大型增程激光和LRM-10. 当接近敌人时，它可以用两门中型增程激光和一门SRM-6发动攻击，SRM-6能够利用对手装甲上的破绽. ECM套装保护它免受多种电子战干扰. \n\n<b><color=#e62e00>特质: 稳定</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 thesloadoutisahunter-killerdesignedprimarilytotakeoutenemysupportmechs*itcaneasilydealwithenemyreconpatrols^rapidlybypassfrontlinesandbringthefighttosoftertargetsintherearorcloseinquicklyonlarge^slow-movingmissileboatsandartillerysupportvehicles-alldependingonthecurrentneeds*seventy-twopercentoftheweaponssystemsareenergy-based^givingthelannersrespectablebattlefieldendurance*this^combinedwithitsimpressivemobility^translatestochaosandcarnagewhenitreachesthebackfieldnewlinenewlinequirk:stablenewlinenewlinedropcostmultiplier:1*04newlinenewlinearmactuatorlimits:omni,S型配置是一种猎歼单位，主要用于摧毁敌方支援机甲. 它能轻松应对敌方侦察巡逻队，迅速突破前线，直击后方较脆弱的目标，或是快速接近大型、移动缓慢的“导弹平台”和火炮支援车辆——具体任务视战场需求而定. 其武器系统中有72%为能量武器，使Lanner S具备可观的战场持续作战能力. 这一特点，加上它出色的机动性，一旦抵达敌方后方区域，便会带来极大的混乱与毁灭. \n\n<b><color=#e62e00>特质: 稳定</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 theblackpythonissimilarinmanywaystothewarhammerandmarauderbattlemechs*thoughitisfasterthanthoseheavies^ithasasimilarweaponsload-outwithcomparabledamage^albeitwithmuchmoreaccuratedamagepotential*inordertoachievethis^thisexpensivesecond-linemechavailsitselfofallweightsavingtechnologiesthatwereatthedisposaloftheclans^includinganxlengine^endosteelframe^andeleventonsofferro-fibrousarmor*newlinenewlinequirk:improvedtargeting-shortnewlinenewlinedropcostmultiplier:1*17,黑蟒机甲在许多方面与战锤和掠夺者这两种重型机甲相似. 虽然它的速度比那些重型机甲更快，但其武器配置与伤害输出能力相仿，只是在精准打击潜力上更为出色. 为了实现这一点，这款昂贵的二线机甲动用了氏族掌握的一切减重技术，包括超轻型引擎、钢内骨结构以及十一吨重的铁纤维装甲. \n\n<b><color=#e62e00>特质: 改进型瞄准 - 短程</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.17</color></b>
-theblackpythonissimilarinmanywaystothewarhammerandmarauderbattlemechs*thoughitisfasterthanthoseheavies^ithasasimilarweaponsload-outwithcomparabledamage^albeitwithmuchmoreaccuratedamagepotential*inordertoachievethis^thisexpensivesecond-linemechavailsitselfofallweightsavingtechnologiesthatwereatthedisposaloftheclans^includinganxlengine^endosteelframe^andeleventonsofferro-fibrousarmor*newlinenewlinequirk:improvedtargeting-shortnewlinenewlinedropcostmultiplier:1*17,黑蟒蛇机甲在很多方面与战锤和掠夺者战斗机甲相似. 虽然它比那些重型机甲更快，但其武器配置和火力输出与之相当，不过精准伤害潜力更为出色. 为了实现这一点，这款昂贵的二线机甲运用了氏族所能掌握的所有减重技术，包括一台超轻型引擎、钢内骨结构以及十一吨重的铁纤维装甲. \n\n<b><color=#e62e00>特质: 改进型瞄准 - 短程</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.17</color></b>
 thisvariantwasintroducedbyclansteelviper*itreplacesthetraditionalweaponrywithapairoferppcs^agaussrifle^andtwomachineguns*newlinenewlinequirk:improvedtargeting-shortnewlinenewlinedropcostmultiplier:1*17,该型号由钢蛇氏族引入. 它将传统武器替换为一对增程粒子加农炮、一门高斯步枪和两挺机枪. \n\n<b><color=#e62e00>特质: 改进型瞄准 - 短程</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.17</color></b>
 the7rcarriesalightgaussrifleasitsprimaryweapon^allowingthemechtoengageanenemyatuptosevenhundredandfiftymeters*thisisbackedupbyanultraautocannon/10thatcanfireattwicetherateofastandardautocannon*formediumtoshortranges^theblackwatchhasamrm-40launcher*theblackwatchhasreceivedsomecriticismduetoitsheavyrelianceonammunitionbasedweapons*tomakethemostofthem^theblackwatchcarriesac3slaveunittoallowittosharetargetingdatawithfriendlyunitsthroughac3network*newlinenewlinequirk:easytopilotnewlinenewlinedropcostmultiplier:1*15newlinenewlinearmactuatorlimit:rightupper,7R型搭载了一门轻型高斯步枪作为主武器，使其能够在最远七百五十米的距离上与敌机交战. 此外还配备了一门超自动炮/10，射速可达标准自动炮的两倍. 在中短距离交战中，黑色守望号还装有一具MRM-40发射器. 由于该机型高度依赖弹药武器，黑色守望号也受到了一些批评. 为充分发挥这些武器的效能，黑色守望号搭载了一台C3从机，可通过C3网络与友军单位共享目标数据. \n\n<b><color=#e62e00>特质: 易于驾驶</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.15</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 右上臂</color>
 takingitsnamefromatermmeaninglightningwartheblitzkriegcompletelylivesuptothename*theblitzkriegisbuiltonalightweightcoventrybtz-viiendosteelchassisandispoweredbyamagna350xlenginethatweighshalfasmuchasastandardfusionenginewhilegivingthemechatopspeedof118*8km/h*newlinenewlinequirk:accurateweapon-ballisticsnewlinenewlinedropcostmultiplier:1*04newlinenewlinearmactuatorlimits:leftupper^rightupper,从意为“闪电战”的术语得名，闪电式机甲完全名副其实. 闪电式机甲建立在轻量化的考文垂BTZ-VII钢内骨结构底盘之上，由一台麦格纳350超轻型引擎驱动——其重量仅为标准核聚变引擎的一半，却能让这台机甲达到118.8公里/小时的最高时速. \n\n<b><color=#e62e00>特质: 精准武器 - 弹道</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.04</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上臂、右上臂</color>
@@ -41891,7 +41822,6 @@ inthecrk-5003-2slefttorsoisalb-xautocannon/10whichdrawsfromatwo-tonammobininther
 thecrk-5003-2osisthepersonalbattlemechofwarlordorukosaki*ithasaconfigurationveryclosetothestandardcrk-5003-2withonlyafewupgrades*themechsprimaryweaponssystemsremainthesame:twolargelasersbackedupbyasinglelb10-xautocannon*themechalsoretainsthetwostandardshortrangemissileracks*asecondarysystemofsmalllasersroundsoutthemechsoffensivepowers^mountedoneineacharmandoneinthereartorso*oneofthefewupgradestosakiskatanacomesintheformofc*a*s*e*installedintothemechsrighttorso*theotherupgradecomesintheformoffifteenhigh-efficiencyheatsinksreplacingthecrk-5003-2snormaltwentyheatsinks*newlinenewlinequirk:easytopilotnewlinenewlinedropcostmultiplier:1*17newlinenewlinearmactuatorlimits:leftlower^rightlower,CRK-5003-2OS是军阀奥鲁科·萨基的个人战斗机甲. 其配置与标准型CRK-5003-2极为接近，仅进行了少量升级. 这台机甲的主要武器系统保持不变: 两门大型激光，辅以一门LB 10-X霰弹炮. 机甲还保留了两具标准短程火箭发射架. 小型激光副武器系统完善了机甲的进攻火力，每只手臂各安装一门，后躯干安装一门. 萨基的“武士刀”机甲为数不多的升级之一，是在其右躯干安装了C.A.S.E.防护系统. 另一项升级则是用十五具高效散热器替换了CRK-5003-2原本的二十具标准散热器. \n\n<b><color=#e62e00>特质: 易于驾驶</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.17</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
 asimplevariantofthekatanaintroducedin3057^the5003-cvariantisamodificationintendedtocarryac3slaveunitintobattle*inordertoachievethis^themechhasremovedbothofthesmalllasersfromthechassis^freeinguptheneededroomfortheslaveunitandallowingthekatanatosharetargetingdatawithfriendlyunits*newlinenewlinequirk:easytopilotnewlinenewlinedropcostmultiplier:1*15newlinenewlinearmactuatorlimits:leftlower^rightlower,武士刀机甲在3057年推出的一个简单变体，5003-C型是一种旨在将C3从机带入战场的改进型号. 为了实现这一目标，该机甲移除了机体上的两门小型激光，为从属单元腾出了所需空间，并使其能够与友军单位共享目标数据. \n\n<b><color=#e62e00>特质: 易于驾驶</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.15</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
 introducedatthesametimeasthecvariant^thismodificationisintendedtocarryac3computerontothebattlefieldtocoordinateac3lance*thecmvariantdoesthisbyremovingbothofthesmalllasersandoneofthesrm-6launcherstomakeroomforthemastercomputer*thisalsoallowsthemechtosharetargetingdatawithfriendlyunits*newlinenewlinequirk:easytopilotnewlinenewlinedropcostmultiplier:1*15newlinenewlinearmactuatorlimits:leftlower^rightlower,与C型同时推出，此改型旨在携带C3计算机进入战场，以协调C3小队作战. CM型为此拆除了两具小型激光和一具SRM-6发射器，为搭载主计算机腾出空间. 这也使该机甲能够与友军单位共享目标数据. \n\n<b><color=#e62e00>特质: 易于驾驶</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.15</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
-thekingcrabkgc-0isabadlymaintainedprimitiveversionofoneofthemostheavilyarmedandarmoredmechseverconstructed*whilecarryinglesserweaponry^itsarsenalstillabletodeliveracrushingblow*newlinenewlinequirk:commandmechnewlinenewlinedropcostmultiplier:0*96,“帝王蟹（King Crab）”KGC-0 是有史以来建造的武装和装甲最厚重的机甲之一，这是一个维护不善的原始版本. 虽然携带的武器较弱，但其武库仍能给予沉重打击. \n\n<b><color=#e62e00>特质: 指挥型机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 0.96</color></b>
 thekingcrabsprimaryweaponsaretwomassiveautocannon/20s^amongthemostpowerfulbattlemechweaponsevercreated*eacharmcarriesoneofthesemassiveweapons^andtheyarefedbytwotonsofammosplitbetweenthesidetorsos*thefirepoweroftheseweaponsisenoughtodestroyamediummechinonesalvo*toprotecttheautocannonsincombat^engineersdesignedthekingcrabwithsimplehandactuators*inappearanceandmovement^theactuatorsareverysimilartopincersorclawsfoundonrealcrabs^acontributingfactortothemechsname*tobackuptheautocannons^andprovidesomelong-rangecapabilities^thekingcrabcarriesalrm-15launcher^mountedinthelefttorsoandfedbyonetonofreloadsinthesamelocation^andalargelaserintherighttorso*newlinenewlinequirk:commandmechnewlinenewlinedropcostmultiplier:1*16,“帝王蟹（King Crab）”机甲的主武器是两门庞大的AC/20自动炮，这是有史以来最强大的战斗机甲武器之一. 每只手臂各搭载一门巨炮，由分储在左右躯干部位的两吨弹药供弹. 这对武器的火力足以单次齐射摧毁一台中型机甲. 为在战斗中保护自动炮，工程师特意为帝王蟹设计了简易手部驱动器，其外形和动作酷似真实螃蟹的螯钳，这也是该机甲命名的由来之一. 作为自动炮的辅助武器并弥补远程打击能力，帝王蟹在左躯干安装了一具LRM-15导弹发射器（同部位配有一吨备弹），右躯干则装有一门大型激光. \n\n<b><color=#e62e00>特质: 指挥型机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.16</color></b>
 oneofthemostheavilyarmedandarmoredmechseverconstructed^thekingcrab0000iscapableofmassiveburstdamage*apairofheavy^close-rangeautocannonsformitsprimaryweaponry^backedupbyrangedweaponrytofireasitclosesdistance*newlinenewlinequirk:commandmechnewlinenewlinedropcostmultiplier:1*16,“帝王蟹（King Crab）”0000是有史以来武装与装甲最为厚重机甲之一，能够造成巨大的爆发伤害. 其主要武器为一对重型近距自动炮，辅以远程武器，在缩短距离的过程中持续开火. \n\n<b><color=#e62e00>特质: 指挥型机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.16</color></b>
 thekingcrab-000b^thestarleaguesroyalvariant^iseverybitaspowerfulasitsdowngradedcousin^the-0000*stillarmedwithtwinac/20s^the-000bsdoubleheatsinksanddoubledammokeepsthemassivecannonsfiringfarlongerandmorefrequentlymakingthe-000batrueterroronthebattlefield*newlinenewlinequirk:commandmechnewlinenewlinedropcostmultiplier:1*18,“帝王蟹（King Crab）”-000b，星际联盟的皇家变体，其威力与简化版-0000型不相上下. 依然搭载双联AC/20，-000b通过双联散热器和双倍弹药，使这些巨型火炮能更持久、更频繁地开火，令其成为战场上真正的恐怖存在. \n\n<b><color=#e62e00>特质: 指挥型机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.18</color></b>
@@ -43464,7 +43394,6 @@ theharpagosisaclanhellshorsesheavybattlemechdesignedforlong-rangecombat*armedwit
 thisdarkagevariantofthehatamotocarriesagaussrifle^twinmrm-20senhancedwithapollofcs^andasingleermediumlaser*itusesastandardfusionenginetoreachatopspeedof54km/h*thegaussriflehasthreetonsofammunition^andthetwomissilelaunchersalsodrawfromasharedthreetonammobay*thehatamoto-sunaalsousesanxlgyrotosavesomeweight^andisprotectedbyseventeenandahalftonsofreinforcedarmor*newlinenewlinequirk:easytomaintainnewlinenewlinedropcostmultiplier:1*14newlinenewlinearmactuatorlimit:leftlower,这款黑暗时代型号的Hatamoto配备了一门高斯步枪、两具由阿波罗火控系统增强的MRM-20导弹发射器，以及一门中型增程激光. 它使用标准核聚变引擎，最高时速可达54公里. 高斯步枪备弹三吨，两具导弹发射器共享一个三吨容量的共弹舱. Hatamoto-suna还采用了XL陀螺仪以减轻重量，并配有十七吨半的强化装甲提供防护. \n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.14</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂</color>
 facingincreasedcompetitionfromarisingnumberofhigher-qualityassaultmechs^maltexchosetoapplythetechnologiesdevelopedforitsinnovativehatamoto-sunatoitsolderandmorereliablehatamotochi^whilereplacingtheolderppcswithheavymodels*theresultant-30tcheap^tough^andeffectivehasbeenatremendoushitandisbeingproducedinstaggeringnumbers*newlinenewlinequirk:easytomaintainnewlinenewlinedropcostmultiplier:1*14newlinenewlinearmactuatorlimit:leftlower,面对数量日益增多、质量更优的突击型机甲带来的激烈竞争，马尔泰克斯公司选择将其为创新的<u>旗本-砂</u>型所研发的技术，应用到更老但更可靠的<u>旗本-智</u>型上，同时用重型型号替换了老旧的粒子加农炮. 由此诞生的-30T型——廉价、坚固且高效——取得了巨大成功，正以惊人的数量投入生产. \n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.14</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂</color>
 anotherpost-blackoutvariant^thismechisaregimentalorbattalioncommandersunit*itusesthesamechassis^engine^andarmorlayoutasthehatamoto-suna*itsonlyarmamentisapairofclan-specermediumlasersandasingleextendedlrm-15withthreetonsofammunition*tocompensate^thehatamoto-godaiisequippedwithaguardianecmsuite^bloodhoundactiveprobe^twoc3boostedmastercomputers^andacommandconsolethathasbeenarmored*todefendagainstincomingmissilefire^ithasaclan-builtlaseranti-missilesystemintherighttorso*newlinenewlinequirk:easytomaintainnewlinenewlinedropcostmultiplier:1*14newlinenewlinearmactuatorlimit:leftlower,这是另一款大断电后诞生的改型，该机甲是团级或营级指挥官的座机. 它采用了与本都-砂相同的底盘、引擎和装甲布局. 其唯一武器是两门氏族规格的中型增程激光和一具加长型LRM-15，配弹三吨. 作为弥补，本都-五代配备了守护者ECM套件、血猎犬主动式探测仪、两台增强型C3主控计算机，以及经过装甲强化的指挥控制台. 为防御来袭导弹，其右躯干装有一门氏族制激光反导系统. \n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.14</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂</color>
-thefirstomnimechbothdesignedandbuiltbythelyranalliance*theinspirationforthehauptmannisdrawnfromthedaishiomnimechusedbytheclans*usinginformationfromcaptureddaishisanddatagleanedfromtheconstructionofthefirestarteromnimech^whichwassharedbythedraconiscombine^theendresultisapowerfulomnimechcapableofdefendingitselfinmostcombatsituations*thehauptmannisbuiltonastandardchassisandpoweredbya285fusionengine^addingtothemechsdurabilityasitcannotbekilledbyasidetorsoloss*thehauptmannhaselevendoubleheatsinksfixedonthechassisandcanaddmoreifneededinitsvariousconfigurations*forprotection^thehauptmanncarrieseighteenandahalftonsofarmorandhascasefixedintherighttorsotoprotectagainstanammunitionexplosion*newlinenewlinequirk:extendedtorsotwistnewlinenewlinedropcostmultiplier:1*12newlinenewlinearmactuatorlimits:omni,首台由天琴同盟自主设计并制造的万能机甲. Hauptmann的设计灵感源自氏族使用的Daishi万能机甲. 通过研究俘获的Daishi机体数据，并结合天龙联合体所分享的火源万能机甲建造技术资料，最终成果便是这台能在多数战斗情况下有效自卫的强大万能机甲. Hauptmann采用标准底盘，搭载285型聚变引擎，这增强了其战场生存能力，使其不会因侧躯干损毁而瘫痪. 其底盘上固定安装了十一台双散热器，并可在不同配置中按需加装更多. 防护方面，Hauptmann配备了十八吨半的装甲，并在右侧躯干内安装了CASE系统，以防弹药殉爆. \n\n<b><color=#e62e00>特质: 增强躯干转向</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.12</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 a3050seradesign^thehecatoncheiresisthefwlsattempttoproduceadedicatedheavyscoutsuitableforthemodernbattlefield*basedonapreviouslyrejectedredesignofthevenerablecyclops^thehecatoncheiresdownsizestheclassiccyclopsto65tonsinweight*abeagleactiveprobepairedwithac3unitmakeupthemechsspecialistelectronics*4mediumlasersandapairofsrm-6swithartemisivprovideanastypunchatcloserange^whileagaussriflecoverslongerranges*newlinenewlinequirk:commandmechnewlinenewlinedropcostmultiplier:1*09,赫卡同克瑞斯是自由世界联盟为现代战场设计的一款3050年代专用重型侦察机甲. 基于先前被否决的独眼巨人经典机型改造方案，这款机甲将经典的独眼巨人设计缩减至65吨重量. 其专用电子设备由贝格尔主动探测器与C3单元组合构成. 四门中型激光和两具配备阿尔忒弥斯IV火控系统的六联装短程火箭发射器能在近距离造成毁灭性打击，而一门高斯步枪则负责远距离火力覆盖. \n\n<b><color=#e62e00>特质: 指挥型机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.09</color></b>
 builttocommandbc3equippedlances^thehecatoncheires6cmisaminorupgradetothe6cmodel*thestreaklrm-15isdownsizedtoasmallerslrm-10^whiledroppingonetonofammo*theremainingtonismovedtoanewammobaylocatedbelowthecockpit^asourceofconsternationforsomepilots*withthefreedweightandspace^aboostedc3mastercomputerismountedinthelefttorso*newlinenewlinequirk:commandmechnewlinenewlinedropcostmultiplier:1*09,为指挥装备BC3的战队而构建，Hecatoncheires 6Cm是对6C型号的微小升级. 锁定式LRM-15被缩小为更小的SLRM-10，同时减少了一吨弹药. 剩余的一吨被移动到位于驾驶舱下方的新弹药舱，这让一些机师感到不安. 利用释放的重量和空间，一个Boosted C3 Master计算机安装在左躯干. \n\n<b><color=#e62e00>特质: 指挥型机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.09</color></b>
 thehel-6risciscompletelyreskinnedwithchameleonlps-integratedarmorshapedtomatchcommoncapellanmanufacturedheliosvariants*whilethevisualdeceptioncannotfooladetailedscan^itismorethanenoughforthehel-6riscanditscompanions(eithersupportdronesorpilotedunits)tospringacripplingsurprisestrike*thoughhot-runningandoffensivelylackluster^thismechisnonethelesseffectiveinitsroleasalinchpinforblack-opsambushandraidingteams*newlinenewlinequirk:easytomaintainnewlinenewlinedropcostmultiplier:1*13newlinenewlinearmactuatorlimits:leftlower^rightlower,HEL-6RISC彻底换装了与变色龙LPS整合的装甲，其外形仿照常见的卡佩拉制造的Helios型号. 虽然这种视觉伪装无法骗过细致的扫描，但对HEL-6RISC和它的同伴（无论是支援无人机还是有人驾驶单位）来说，已足够发动一次致命的突袭. 尽管这台机甲运行温度偏高、火力并不出众，但作为黑色行动伏击与袭击小队的核心，它依然能有效胜任自己的角色. \n\n<b><color=#e62e00>特质: 易于维护</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.13</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
@@ -43913,7 +43842,6 @@ theclosestthingthedemonseriesofbattlearmorhastoastandard^front-linemodel^theasur
 apost-jihadfieldrefitintroducedin3070toupgradeoldlyranmilitiaatlasesforusebyfront-linelcafunits*theas7-drreplacedthemammothac/20withaheavyppc^usingtheweightandspacesavedtoupgradethesrmlaunchertoastreakmodelandaddaguardianecmsuite^c3slaveandtwoextrastandardheatsinks*newlinenewlinequirk:battlefistsnewlinenewlinedropcostmultiplier:1*18,这是在圣战之后，于3070年引入的一款战场改装型号，旨在升级老式的天琴民兵阿特拉斯机甲，供前线LCAF部队使用. AS7-Dr型将巨大的AC/20替换为一门重型粒子加农炮，利用节省下来的重量和空间将SRM发射器升级为锁定式，并增加了一套守护者电子对抗系统、C3从属模块以及两个额外的标准散热器. \n\n<b><color=#e62e00>特质: 战斗铁拳</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.18</color></b>
 releasedasaprototypein3074andenteringlimitedproductionafterthejihad^thisnewversionsportsalightppcineacharm*apairofmml-9sgivethedesignagoodpunchatbothlongandshortrangewhilearotaryac/5^onesnub-noseppc^twoersmalllasersandtwosmalllasersrounduptheconfigurationscloserrangedamage*theas8-dmountsfourteendoubleheatsinkstobalancetheheatloadgeneratedbytheweapons^butthedesignalsoincorporatedtriplestrengthmyomersothatwhentheas8-disrunninghotitcanreachspeedsofalmostsixty-fivekm/h*newlinenewlinequirk:battlefistsnewlinenewlinedropcostmultiplier:1*18,该型号于3074年作为原型机发布，并在圣战之后进入限量生产. 这个新版本的双臂各装备了一门轻型粒子加农炮. 一对MML-9导弹发射器使它在远、近距离上都具备良好的打击能力，而一门RAC/5、一门短管粒子加农炮、两门小型增程激光和两门标准小型激光则完善了其在近程距离上的伤害输出. AS8-D配备了十四台双重散热器来平衡武器产生的热量负荷，但该设计还加入了三重肌纤维束技术，使得当AS8-D过热运行时可以达到近六十五公里每小时的移动速度. \n\n<b><color=#e62e00>特质: 战斗铁拳</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.18</color></b>
 usedbydevlinstone^thisatlasvariantusedacombinationofclanandinnerspheretechnologytomaximizesurvival*theerlargelasers^xlengine^andheatsinkscamefromclansources*aheavydutygyroisalsofittedtoenhancesurvivability*thelrmandsrmlaunchershavebeenreplacedbyasinglemml-9withanartemisivsystem*caseiiprotectseachsidetorsofromammunitionexplosions^anangelecmsuitefoilsblakistcommunicationsgear^andforadditionalprotectionthelefttorsocarriesananti-missilesystem*foradditionalprotectionthecockpit^sensors^andlifesupportsystemintheheadareallarmored*newlinenewlinequirk:battlefistsnewlinenewlinedropcostmultiplier:1*18,这台由德夫林·斯通使用的阿特拉斯变体混合了氏族和内天体的技术，以最大限度提升生存能力. 大型增程激光、XL发动机及散热器均来自氏族. 为增强生存力，还配备了一台重型陀螺仪. LRM和SRM发射器被一具带阿尔忒弥斯IV系统的MML-9取代. CASE II保护两侧躯干免受弹药殉爆，天使ECM套件能压制布雷克的通讯装置，左侧躯干则搭载了一套反导系统以提供额外防护. 此外，头部的驾驶舱、传感器和生命支持系统都进行了装甲强化. \n\n<b><color=#e62e00>特质: 战斗铁拳</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.18</color></b>
-thefirstoftheinnersphereomnimechstobeconceptualizedandoneofthelasttoreachproductionbythedraconiscombine^theavatarsdesignisbasedoncapturedvultureomnimechs*newlinenewlinequirk:improvedcommunicationsnewlinenewlinedropcostmultiplier:1*05newlinenewlinearmactuatorlimits:omni,作为内天体首批概念化诞生、却最后进入天龙联合体生产序列的万能机甲之一，Avatar的设计基于缴获的Vulture 万能机甲. \n\n<b><color=#e62e00>特质: 改进型通讯</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 developedduringthejihad^theavatarhhasaheavyppcineacharm^backedbytwomml-3sequippedwithartemisivfcs*sixteendoubleheatsinkskeepthemechcool*newlinenewlinequirk:improvedcommunicationsnewlinenewlinedropcostmultiplier:1*05newlinenewlinearmactuatorlimits:omni,于圣战期间开发的Avatar H，每只手臂各装有一门重型粒子加农炮，并辅以两具配备阿尔忒弥斯IV火控系统的多导弹发射器-3. 十六具双散热器使该机甲保持冷却. \n\n<b><color=#e62e00>特质: 改进型通讯</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 theavatariusestwotorso-mountedthunderbolt15missilelaunchersforlongrangestrikingpower*thesemissilelauncherscarrytwotonsofammunitioneach^andarebackedupbyanermediumlaserineacharm*thisversionalsocarriessixteendoubleheatsinks*newlinenewlinequirk:improvedcommunicationsnewlinenewlinedropcostmultiplier:1*05newlinenewlinearmactuatorlimits:omni,Avatar I 使用两具躯干安装的 Thunderbolt 15 导弹发射器，具备远程打击威力. 每具导弹发射器携带两吨弹药，并由每臂一具中型增程激光作为辅助. 该版本还装备了十六具双散热器. \n\n<b><color=#e62e00>特质: 改进型通讯</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 thenewestvariant^ajointprojectbetweenibmuandalshainweaponry^wasintroducedin3067*themechutilizesirianscompactengineandcompactgyrotosavespaceattheexpenseofmass*itretainsthespeedandecmofthe9q^bututilizesanendosteelstructure*twoheavyppcsdealagoodamountofdamageineachblow^whileasnub-noseppcisdeadlyandaccurateatcloserange*atthetimeofitsintroductionthe10kmwasreservedforonlytheeliteunitsofthefreeworldsleagueanddraconiscombine^andthankstoaniron-cladcontracteventhewilyiriantechnologieshadtroublefindingaloopholetosellthemechtotheotherhousesormercenaryunits*newlinenewlinequirk:battlefistsnewlinenewlinedropcostmultiplier:1*14newlinenewlinearmactuatorlimit:rightupper,最新型号是IBMU与阿尔山武器公司的合作项目，于3067年推出. 该机甲采用伊里安公司的紧凑型引擎和紧凑型陀螺仪，以牺牲重量为代价节省空间. 它保留了9Q型的速度和电子对抗系统，但使用了钢内骨结构. 两门重型PPC的每次轰击都能造成可观伤害，而一门短管PPC在近距离交战中则兼具致命性与精准度. 在10KM型问世之初，仅配发给自由世界联盟和天龙联合体的精锐部队，由于一份铁板钉钉的合约，就连老谋深算的伊里安科技公司也难以找到漏洞，将这款机甲出售给其他家族或雇佣兵部队. \n\n<b><color=#e62e00>特质: 战斗铁拳</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.14</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 右上臂</color>
@@ -45103,7 +45031,6 @@ thisvariantcarriestwolrm-20senhancedwithartemisivfirecontrolsystems*twoermediuml
 thisvariantusesanendosteelinternalstructure*itsweaponsconsistofapairoflrm-20sforuseatlongrange^thougheachlauncheronlyhasenoughammunitionforsixshots*whenitcloses^itcanuseanall-energyconfigurationoftwoermediumlasers^twoersmalllasers^andfourermicrolasers*16doubleheatsinksallowthismechtofireallweaponsandnotworryaboutheatsolongasitstickstoitscruisingspeed*ananti-missilesystemincreasesitsprotection*newlinenewlinequirk:improvedcommunicationsnewlinenewlinedropcostmultiplier:1*11newlinenewlinearmactuatorlimits:leftlower^rightlower,该变体采用钢内骨结构内部结构. 武器配置包括两具LRM-20远程导弹发射器，不过每具发射器仅备弹六轮. 进入近距离交战时，可切换为全能量武器配置，包括两门中型增程激光、两门小型增程激光和四门增程微型激光. 16台双散热器让这台机甲在保持巡航速度的情况下，可以毫无顾虑地齐射所有武器. 反导系统进一步增强了其防护能力. \n\n<b><color=#e62e00>特质: 改进型通讯</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.11</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
 thisvariantremovesallofthelasers^replacingthemallwithapairofheavymediumlasers^enoughjumpjetstovaultthemechupto150meters^andmaxesoutthearmor*heatisnolongeraconcern^thoughthelimitedammunitionofthemissilelaunchersismoreofaliability*newlinenewlinequirk:improvedcommunicationsnewlinenewlinedropcostmultiplier:1*11newlinenewlinearmactuatorlimits:leftlower^rightlower,该变体移除了所有激光，取而代之的是两门中型重激光，并配备了足够的跳跃喷气装置，使机甲可跃升至150米高度，同时将装甲提升至极限. 热量已不再是问题，但导弹发射器有限的弹药量会成为一个隐患. \n\n<b><color=#e62e00>特质: 改进型通讯</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.11</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
 thoughbearingaremarkableoutwardresemblancetothetimberwolf^thisbattlemechisanewandpowerfulcreation*thisvariantremovesthegaussriflesandjumpjetsandreplacesthemwithahag/30ineacharm*thesidetorsoseachmountanlrm-10andapairofermediumlasers*alightactiveprobeismountedinthehead^andtheremainingtonnageisgivenovertomorearmorprotection*newlinenewlinequirk:improvedtargeting-mediumnewlinenewlinedropcostmultiplier:1*22newlinenewlinearmactuatorlimits:leftupper^rightupper,尽管外形上与‘森林狼’有着惊人的相似，这台战斗机甲却是全新且强大的创造. 该变体移除了高斯步枪和跳跃喷气装置，代之以每支手臂各安装一门HAG/30. 左右侧躯干各搭载一具LRM-10和两门中型增程激光. 头部安装了一台轻型主动探测器，剩余的吨位则用于提升装甲防护. \n\n<b><color=#e62e00>特质: 改进型瞄准 - 中程</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.22</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上臂、右上臂</color>
-thoughbearingaremarkableoutwardresemblancetothetimberwolf^thisbattlemechisanewandpowerfulcreation*carryingthirteentonsofferro-fibrousarmor^themadcatmkiiisanincrediblyresilientdesign*apairofarmmountedgaussriflessupportedbytorsomountedlrmracksgiveitcompletecommandoverthebattlefield*newlinenewlinequirk:improvedtargeting-mediumnewlinenewlinedropcostmultiplier:1*22newlinenewlinearmactuatorlimits:leftlower^rightlower,尽管在外观上与“森林狼”极为相似，但这款战斗机甲是一件全新而强大的作品.“疯猫（Mad Cat）”MK II 配备了十三吨重的铁纤维装甲，使其具备了惊人的防御能力. 双臂各装有一门高斯步枪，躯干部位的远程导弹发射架为其提供额外火力支援，使其在战场上拥有绝对的统治力. \n\n<b><color=#e62e00>特质: 改进型瞄准 - 中程</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.22</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
 thisvariantcarriesagaussrifleintherightarm^supportedbyanimprovedheavylargelaserandimprovedheavymediumlaserintheleftarm*siximprovedjumpjetsallowittocover180metersatatime*newlinenewlinequirk:improvedtargeting-mediumnewlinenewlinedropcostmultiplier:1*22newlinenewlinearmactuatorlimits:leftupper^rightupper,该型号在右臂搭载了一门高斯步枪，左臂则配备了一门改进型大型重激光和一门改进型中型重激光. 六具改进型跳跃推进器使其一次可跨越180米的距离. \n\n<b><color=#e62e00>特质: 改进型瞄准 - 中程</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.22</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左上臂、右上臂</color>
 thisvariantcarriesapairofstreaksrm-6sintherighttorsoandastreaklrm-15intheleft*themaddoggcarriesasingleerppcintheleftarm^whiletherightmountsatrioofermediumpulselasers*newlinenewlinequirk:improvedtargeting-mediumnewlinenewlinedropcostmultiplier:1*09newlinenewlinearmactuatorlimits:omni,该型号在右躯干搭载一对锁定式SRM-6，左躯干装有一具锁定式LRM-15. 疯狗G型左臂配备单门增程粒子加农炮，右臂则安装三门中型增程脉冲激光. \n\n<b><color=#e62e00>特质: 改进型瞄准 - 中程</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.09</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 themaddogvisadedicatedlongrangesupportconfigurationfeaturinganarrowivmissileartillerysysteminitsrighttorsoandanlrm20initslefttorso*anermediumlaserandmediumpulselaserineacharmprovidecloseindefense*newlinenewlinequirk:improvedtargeting-mediumnewlinenewlinedropcostmultiplier:1*09newlinenewlinearmactuatorlimits:omni,疯狗V型是一种专用的远程支援配置，其右躯干配备箭IV导弹火炮系统，左躯干配备LRM20. 每只手臂各配备一门中型增程激光和中型脉冲激光，用于近距离防御. \n\n<b><color=#e62e00>特质: 改进型瞄准 - 中程</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.09</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
@@ -46319,13 +46246,11 @@ thekingcrabproteuswasdesignedonmarsduringtheearlyclanbusterprogramaspartofattemp
 designedonmarsduringtheearlyclanbusterprograminanattempttoincorporateomnimechtechnologyintoawellunderstooddesign*namedforterranmythologyforagodofverastilityandtheabilitytoassumemanyform*constantlybeingupgradedwiththelatesttechnologiesfirstbycomstar^thenwordofblakeandlastlybyrepublicengineers*newlinenewlinequirk:intimidatingnewlinenewlinedropcostmultiplier:1*13newlinenewlinearmactuatorlimits:omni,在火星设计，诞生于早期反氏族机甲计划的背景下，旨在将万能机甲技术融入一款广为人知的机体. 其命名源自地球神话中一位代表多才多艺与千变万化之力的神明. 该机型不断获得最新技术的升级，先后由通讯之星、布雷克圣言会，最后是共和国的工程师们经手改造. \n\n<b><color=#e62e00>特质: 威吓</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.13</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 basedonthewordofblakeraptoriibattlemech^similarlyemployingadvancedstealthtechnologyandelectronicsistheraptoriiievenmorecapableofdeepstrikescoutandinterceptmissions^hardmountingauniqueadvancedamssystem*newlinenewlinequirk:integratedadv*amsnewlinenewlinedropcostmultiplier:0*99newlinenewlinearmactuatorlimits:omni,以布雷克圣言会的Raptor II型战斗装甲为蓝本，Raptor III同样搭载了先进的潜行技术与电子设备，在深入敌后执行侦察与拦截任务方面更胜一筹，并固定安装了一套独特的高级反导系统. \n\n<b><color=#e62e00>特质: 集成高级反导系统</color></b>\n\n<b><color=#e62e00>部署费用倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 basedonthewordofblakeraptoriibattlemech^similarilyemployingadvancedstealthtechnologyandelectronicsistheraptoriiievenmorecapableofdeepstrikescoutandinterceptmissions^hardmountingauniqueadvancedamssystem*newlinenewlinequirk:integratedadv*amsnewlinenewlinedropcostmultiplier:0*99newlinenewlinearmactuatorlimits:omni,基于布雷克圣言会的 Raptor II 型战斗机甲，同样采用先进的潜行技术和电子设备，Raptor III 更加擅长深入打击侦察和拦截任务，固装着独特的先进 AMS 系统. \n\n<b><color=#e62e00>特质: 集成先进 AMS</color></b>\n\n<b><color=#e62e00>部署费用倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
-basedonthewordofblakeraptoriibattlemech^similarlyemployingadvancedstealthtechnologyandelectronicsistheraptoriiievenmorecapableofdeepstrikescoutandinterceptmissions^hardmountingauniqueadvancedamssystem*newlinenewlinequirk:integratedadv*amsnewlinenewlinedropcostmultiplier:0*99newlinenewlinearmactuatorlimits:omni,基于布雷克圣言会组织的猛禽II型战斗机甲，猛禽III型同样采用了先进的潜行技术和电子设备，在深度侦察和拦截任务方面能力更为出色，其独特之处在于固定搭载了一套先进的AMS系统. \n\n<b><color=#e62e00>特质: 集成式先进AMS</color></b>\n\n<b><color=#e62e00>部署费用倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 thebadbcatha(battlecrow)wasnamedforoldterranirishfolkloreafteragoddessofdeathandchaos^foreshadowingimminentbloodshedandsowingconfusion*partofthemorriganomnimechprogram^alongsidethemhachaandanand*newlinenewlinequirk:morriganc3inewlinenewlinedropcostmultiplier:1*05newlinenewlinearmactuatorlimits:omni,“Badb Catha”（战斗乌鸦）得名于古地球爱尔兰神话中的死亡与混沌女神，预示着即将到来的流血与混乱. 它与Mhacha、Anand同属Morrigan万能机甲项目. \n\n<b><color=#e62e00>特质: Morrigan C3i</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.05</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 themhachaisanothergeniousdesignfromthemorriganprogram^namedforaprotectivegoddesswasthischassisdesignedtoprovidelongrangefirepowerandaaprotection*newlinenewlinequirk:morriganc3inewlinenewlinedropcostmultiplier:1*03newlinenewlinearmactuatorlimits:omni,Mhacha是摩莉甘计划的又一杰作，以一位守护女神命名，该底盘旨在提供远程火力与防空保护. \n\n<b><color=#e62e00>特质: Morrigan C3i</color></b>\n\n<b><color=#e62e00>部署费用倍率:  1.03</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 vengeanceindustries^attemptingtogetafootholdinthemarketforomnimechs^haveredesignedtheancienttalosbasedonliberatedblueprintsfromvandenbergmiltech*withafocusoneasilymaintainableparts^theyhaveensuredthatitcanberepairedwithsparesfromanytalosmodel*newlinenewlinequirk:easytopilotnewlinenewlinedropcostmultiplier:0*99newlinenewlinearmactuatorlimits:omni,复仇工业为在万能机甲市场站稳脚跟，基于从范登堡军事科技“获取”的蓝图重新设计了古老的塔洛斯机甲. 他们专注于易维护部件，确保其可使用任何塔洛斯型号的备件进行修复. \n\n<b><color=#e62e00>特质: 易于驾驶</color></b>\n\n<b><color=#e62e00>部署费用倍率: 0.99</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 theassassiniiistheresultofafederatedsunsspecificationcallingforaquickstrikeharasserunit*themaltexcorporationproposedamajorredesignoftheirolderassassinchassis^theresultingbattlemechexceededallexpectationsandhasstartedtoseeuseasacountertothestealthtechnologyemployedbythecapellanconfederation*newlinenewlinequirk:integratedtsmnewlinenewlinedropcostmultiplier:1*02newlinenewlinearmactuatorlimits:omni,刺客II型是恒星联邦要求研制“快速打击骚扰单位”的产物. 马尔泰克斯公司在其旧款刺客底盘的基础上提出了重大重新设计方案，最终的这款战斗机甲超出了所有预期，并已开始被用作对抗卡佩拉联邦所采用的潜行技术. \n\n<b><color=#e62e00>特质: 集成TSM</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 namedforashapeshiftingmonsterofterranphilippinefolklore^theaswangomnimechemploysadvancedandexperimentaltechnologies^includingamimeticarmor^toblendintothenightandhuntitsvictims*newlinenewlinequirk:ar20warfaresuitenewlinenewlinedropcostmultiplier:1*02newlinenewlinearmactuatorlimits:omni,以地球菲律宾民间传说中的变形怪物命名的“阿斯旺”万能机甲，运用了包括拟态装甲在内的先进实验技术，借此融入夜色并猎杀目标. \n\n<b><color=#e62e00>特质: AR20 战争套件</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
-namedforashapeshiftingmonsterofterranphilippinefolklore^theaswangomnimechemploysadvancedandexperimentaltechnologies^includingamimeticarmor^toblendintothenightandhuntitsvictims*newlinenewlinequirk:ar20warfaresuitenewlinenewlinedropcostmultiplier:1*02newlinenewlinearmactuatorlimits:omni,以地球菲律宾民间传说中一种变形怪物命名的阿斯旺万能机甲，采用了包括拟态装甲在内的先进实验性技术，使其能融入夜色并猎杀目标. \n\n<b><color=#e62e00>特质: AR20战术套件</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.02</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 inanattempttomarryomnitechnologytoaadvancedstealthedlandairmechhaveshengliarmscreatedtheberkutbasedonrecoveredshadowhawklamdesigns*onlybeingabletomountalimitedamountofslotswasthedesignstillconsideredasuccess*newlinenewlinequirk:landairmechnewlinenewlinedropcostmultiplier:1*06newlinenewlinearmactuatorlimits:omni,为了将泛用技术与先进的潜行陆空两用机甲相结合，胜利武装基于回收的“影鹰（Shadow Hawk）”LAM设计创造了‘伯克特’. 尽管只能安装有限的插槽，该设计仍被视为成功. \n\n<b><color=#e62e00>特质: 陆空两用机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.06</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 withgreateffort^riscengineersupgradedthecatapultiichassistoanomnimechleveloftechnology*employingthemostadvancedequipmentattheirdisposal^thisvenerabledesignsweightwasreducedto55tonswithoutsacrificinganyfirepower*the-r1isaskirmisherconfiguration^carryingthirtymmltubesandpairedlightppcsforcombatatanyrange*advancedelectronicsandajumprangeof165mensurethatitcanengageanytargetsuccessfully*newlinenewlinequirk:experimentaltcnewlinenewlinedropcostmultiplier:1*11newlinenewlinearmactuatorlimits:omni,经过不懈努力，RISC工程师将Catapult II的机身升级到了万能机甲技术水准. 利用他们所能获得的最先进装备，这一久经考验的设计成功将重量降至55吨，同时未牺牲任何火力. 该-R1型是一款游击型配置，搭载三十管多导弹发射器与成对的轻型粒子加农炮，可在任何距离展开战斗. 先进的电子设备与165米的跳跃距离确保其能够成功打击任何目标. \n\n<b><color=#e62e00>特质: 实验型TC</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.11</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
 withgreateffort^riscengineersupgradedthecatapultiichassistoanomnimechleveloftechnology*employingthemostadvancedequipmentattheirdisposal^thisvenerabledesignsweightwasreducedto55tonswithoutsacrificinganyfirepower*thisconfigurationreliesonapairofhighlyaccuratestreakmrmlaunchers^backedbyarmor-strippingmediumlasers*aswithmostofthisline^itisprotectedbyalaseranti-missilesystembuiltdirectlyintothearmorplating*newlinenewlinequirk:experimentaltcnewlinenewlinedropcostmultiplier:1*11newlinenewlinearmactuatorlimits:omni,经过不懈努力，RISC工程师将Catapult II底盘升级至万能机甲技术水平. 通过采用最先进的装备，这款经典机型的重量在不牺牲任何火力的情况下被缩减至55吨. 该配置依赖一对高精度锁定式MRM发射器作为主武器，并辅以穿甲型中型激光. 与同系列多数机型一样，其装甲层直接嵌入了激光反导系统提供防护. \n\n<b><color=#e62e00>特质: 试验型目标计算机</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.11</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 万能</color>
@@ -46777,8 +46702,6 @@ theroguebearbaracaswasmodifiedbybearingbanacekafterhavingspenttimeamongstghostbe
 thiswasoriginallythepersonalbattlearmoroflegendarywarriorbearingbanacek^callsignbearing*theroguebearbaracaswasmodifiedbybearingbearingbanacekafterhavingspenttimeamongstghostbeardominionwarriors*herecognisedthefamilyatmosphereoftheghostbearswassimilartotheeasyfraternalattitudewithinstaradder*heisolatedhimselftoredesigntheroguebearbattlearmorintoonehecouldpersonallyuseincombat*heavilyarmored^withstealthandarmedwithheavyvibroclaws^micropulselasersandappc^thebaracasisabletostrikewithoutwarning*newlinenewlinequirk:experimentaldesignnewlinenewlinedropcostmultiplier:0*935newlinenewlinecanmountomniunits^canmelee^cannotswarm*,这原本是传奇战士Bearing Banacek的个人战斗装甲，其呼号为“Bearing”. Rogue Bear <i>“Baracas”</i>是在Bearing·“Bearing”·Banacek与幽灵熊氏族自治领战士们共同生活一段时间后改造而成的型号. 他发现，幽灵熊氏族重视家族关系的氛围，与星蝰氏族内部轻松友爱的兄弟情谊十分相似. 于是他独自进行设计改造，将Rogue Bear战斗装甲重新打造为一套能够亲自投入战斗使用的装备. <i>Baracas</i>拥有厚重装甲，并配备潜行系统以及重型振荡爪、微型脉冲激光和PPC粒子加农炮，能够在敌人毫无预警的情况下发动攻击.\n\n<b><color=#e62e00>特质: 实验型设计</color></b>\n\n<b><color=#e62e00>部署费用倍率: 0.935</color></b>\n\n<b><color=#2aad3b>可挂载于万能单位，可近战，无法发动攀附攻击.</b></color>
 lastrites^amodifiedminsk102^isthepersonalbattlemechoflegendarymechwarriorsakhanburtoniasandisbuilttohispersonalcombatstyle*dominionengineerswereinstructedtoremovetheactiveprobeandupgradetheenginetoaclanxl*thecorewasincreasedformorepowertoa270andboostingspeedfurtherwiththeaddtionofasupercharger*withadisdaintowardsenergyloadouts^themechwasretooledtomounttwingaussrifles(c)^5xapgaussriflesandapairofsrm6(c)launchers*newlinequirk:commandmechnewlinenewlinequirk:commandmechnewlinenewlinedropcostmultiplier:1*16newlinenewlinearmactuatorlimits:leftlower^rightlower,<i>LAST RITES</i> 是一台改装后的Minsk 102，是传奇机甲战士兼副汗Burt O'Nias的个人战斗机甲，并按照其个人战斗风格打造. 自治领工程师接到指令，拆除了主动探测系统，并将引擎升级为氏族XL引擎. 核心引擎功率提升至270额定功率，以提供更强动力，同时加装超充器进一步提升速度. 由于机师厌恶能量武器配置，该机体经过重新改造，搭载了双联氏族高斯步枪、5门反人员高斯步枪以及一对氏族SRM-6发射器.\n\n<b><color=#e62e00>特质: 指挥型机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.16</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
 thiswasoriginallythepersonalbattlemechoflegendarymechwarriorsakhanburtonias^callsignstburt*lastrites^amodifiedminsk102^wasbuilttohispersonalcombatstyle*dominionengineerswereinstructedtoremovetheactiveprobeandupgradetheenginetoaclanxl*thecorewasincreasedformorepowertoa270andboostingspeedfurtherwiththeaddtionofasupercharger*withadisdaintowardsenergyloadouts^themechwasretooledtomounttwingaussrifles(c)^5xapgaussriflesandapairofsrm6(c)launchers*newlinequirk:commandmechnewlinenewlinequirk:commandmechnewlinenewlinedropcostmultiplier:1*16newlinenewlinearmactuatorlimits:leftlower^rightlower,这原本是传奇机甲战士saKhan Burt O'Nias（呼号“St Burt”）的个人战斗机甲. <i>LAST RITES</i> 是一台改装的Minsk 102，为契合其个人战斗风格而建造. 自治领工程师受命拆除主动探测器，并将引擎升级为氏族XL引擎. 核心增加到270以获得更强动力，并通过加装超充器进一步提升速度. 出于对能量武器配置的鄙夷，这台机甲被重新改装，搭载双联氏族高斯步枪、5门反人员高斯步枪和一对氏族SRM6发射器.\n\n<b><color=#e62e00>特质: 指挥型机甲</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.16</color></b>\n\n<color=#FFEF00>手臂驱动器限制: 左前臂、右前臂</color>
-khaostheoryisthepersonalbattlemechoflegendarymechwarriorkhandarkankhaosofclanghostbear*sonamedtoconstantlyremindthekhanthatactionsonthebattlefieldcanhaveeffectsreachingfarbeyondthecurrentskirmishathand*newlinenewlinequirk:distractingnewlinenewlinedropcostmultiplier:1*32,<i>Khaos Theory</i> 是幽灵熊氏族的传奇机甲战士可汗Darkan K'Haos的个人战斗机甲. 如此命名是为了不断提醒这位可汗，战场上的行动可能产生远超当前小规模冲突的影响. \n\n<b><color=#e62e00>特质: 干扰</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.32</color></b>
-thiswasoriginallythepersonalbattlemechoflegendarymechwarriorkhandarkankhaos^callsigndarkkhaos*newlinenewlinequirk:battlefistsnewlinenewlinedropcostmultiplier:1*32,这原本是传奇机甲战士Khan Darkan K'Haos的个人战斗机甲，呼号“Dark Khaos”. \n\n<b><color=#e62e00>特质: 战斗铁拳</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.32</color></b>
 theoriginalvariantofthehēiliánwasthec3^whichcarriedaboostedc3master*nooneremembersanymorewhythedecisionwasmadetocombineac3withstealthequipment^butthisistheresult*besidesthec3master^thevariantcarriesagaussrifleandanerppcineacharm^supportedbytwoextendedrangelargelasersandtwomediumpulselasersintherighttorso*twoextendedrangemediumlasersinthehead^wrapupthedesign*newlinenewlinequirk:breachingshotnewlinenewlinedropcostmultiplier:1*38,Hēi Lián的原始型号是C3，搭载了增强型C3主机. 已经没人记得当初为什么决定将C3与潜行装备结合，但这就是结果. 除了 C3主机外，该型号每只手臂各装有一门高斯步枪和一具增程粒子加农炮，右躯干装有两具大型增程激光和两具中型脉冲激光作为支援. 头部装有两具中型增程激光，完成了整个设计. \n\n<b><color=#e62e00>特质: 突破一击</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.38</color></b>
 thed2isthebyfarmostcommonvariantofthehēilián^astheoriginalc3wasafailure*thed2dropstheboostedc3masterandthelasersintherighttorsocompletely^toinsteadfittwoultraac/5*theleftarmerppcdropped^whiletherightarmerppcismovedtotherighttorsoinstead*takingtheirplacesinthearmsaretwolargepulselasers*newlinenewlinequirk:breachingshotnewlinenewlinedropcostmultiplier:1*38,D2型是Hēi Lián中最常见的变体，因为最初的C3型设计以失败告终. D2型彻底取消了增强型C3主机以及右侧躯干中的激光武器，转而安装两门UAC/5. 左臂的增程PPC被移除，而右臂的增程PPC则被移动至右侧躯干位置. 原本手臂武器的位置则换装为两门大型脉冲激光.\n\n<b><color=#e62e00>特质: 突破一击</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.38</color></b>
 thefirstvariantofthekageoni^thekgo-3k^mountsrailgunasthemaindamagedealerswithtwoenhancedlrm-20launchersassupport*onelargeandtwomediumextendedrangelasersarehousedinthelefttorsoassecondaryfirepowerwhenextraoutputisneeded*newlinenewlinequirk:multitracnewlinenewlinedropcostmultiplier:1*38,Kageoni的首个变体KGO-3K以高斯步枪作为主要伤害输出，并以两具增强型LRM-20发射器提供支援. 左躯干装有一门大型和两门中型增程激光，作为需要额外输出时的次要火力. \n\n<b><color=#e62e00>特质: 多重追踪</color></b>\n\n<b><color=#e62e00>部署费用倍率: 1.38</color></b>
@@ -47036,7 +46959,6 @@ wing-mountedmastery(40):wing-mountedweapons:+25%criticalhitchanceand-25%minimumr
 witnessme!(40):+1toallpilotskills:newlinenewline,<b>见证我!(40)</b>: 机师所有技能 +1:\n\n
 zeroedin(40):+10%calledshotlocationhitchance^+1offensivepushaccuracy^+0*15grouping:newlinenewline,<b>精确归零(40)</b>: 精准射击部位命中率 +10%，进攻推进(OP)精度 +1，弹着集中度 +0.15:\n\n
 allout,全力以赴
-allout(20):+1accuracytoalltorso-mountedweapons:newlinenewline,<b>全力以赴(20)</b>: 所有安装于躯干的武器 +1 精度:\n\n
 
 closesupport&antipersonnel,近程支援 & 反人员
 closesupport&skirmisher,近程支援 & 游击
@@ -61337,3 +61259,530 @@ packrat,林鼠
 rotundascoutcar,圆形大厅侦察车
 wehaveamissionfrom{team_emp*factiondef*shortname}^commander:{res_obj*name}*detailswillbeprovideden-routeaboutthe{res_obj*contracttypevalue*friendlyname}*,指挥官，我们收到了来自 {TEAM_EMP.FactionDef.ShortName} 的一份任务：{RES_OBJ.Name}。有关 {RES_OBJ.ContractTypeValue.FriendlyName} 的详情将在途中提供。
 
+goforthemoney,为了钱去做
+l*pulselaser(p):antiairfactor,大型脉冲激光(海盗): 防空系数
+thisisterrible*apiratefindspulsetechnologyandinanefforttoimproveit^cracksopenthefocusingchamberandhot-wiresthecapacitorsintoafeedbackloop*youvegottostopbringingmethiscrap*,【L. Pulse Laser (P)】这东西糟透了. 一个海盗弄到了脉冲技术  为了改进它  竟然把聚焦腔打开  还把电容器硬接成了反馈回路. 你别再把这种破烂东西拿给我了.
+superendo-tsm,超级内置TSM
+lamsuperendo-tsmon,LAM超级内置TSM 开启
+lamsuperendo-tsmoff,LAM超级内置TSM 关闭
+lamlamellor:decreaseddamagetaken,LAM层叠装甲: 降低受到的伤害
+lamlamellor:decreasedaoedamagetaken,LAM层叠装甲: 降低受到的范围伤害
+lamlamellor:decreasedapdamage,LAM层叠装甲: 降低受到的穿甲伤害
+lamlamellor:decreasedreceiveapcritchance,LAM层叠装甲: 降低遭受穿甲暴击的几率
+narclauncher[wm]:decreasedcruisespeed,Narc发射器[翼挂]: 巡航速度降低
+narclauncher[wm]:decreasedflankspeed,Narc发射器[翼挂]: 侧翼速度降低
+narclauncher[wm]:decreasedwalkspeed,Narc发射器[翼挂]: 步行速度降低
+narclauncher[wm]:decreasedjumpdistance,Narc发射器[翼挂]: 跳跃距离缩短
+narclauncher[wm]:increasedsensorsignature,Narc发射器[翼挂]: 传感器信号特征增加
+enginecore455,引擎核心455
+greetings^seeker*blakespeaceneedstobespread*,你好  探寻者. 布雷克的和平需要得到传播.
+mercenary^wegotajobforyouandmoneytowaste*dothisandyouwillbecompensatedaboveyourstation*,雇佣兵  我们有一份工作要交给你  也有花不完的钱. 完成这项任务  你将获得远超你身份应得的报酬.
+thewordhascomewithpropositionforareliableassetsuchasyou*,圣言会带着一份提议而来  专门提供给像你这样可靠的资产.
+blakebewithyou*wehaveacunningplanthatneedsoutsidehelp*,愿布雷克与你同在. 我们有一个巧妙的计划  需要外部力量的协助.
+mayblakegrantyouwisdomforwehaveopportunitiesahead*,愿布雷克赐予你智慧  因为前方有机遇等待着我们.
+welcomeseeker^blakesblessingsshineonyou*,欢迎  探寻者  布雷克的祝福照耀着你.
+welcomeinitiate^themasterhasplansforyou,欢迎  入门者  大师对你另有安排
+inblakesnameyouhavedonewell^seeker*,以布雷克之名  你做得很好  探索者.
+mayblakegrantyouwisdomtolearnfromyourmistakes*,愿布雷克赐予你智慧  让你从错误中汲取教训.
+blakeslightgotdiminishedtoday^mayyoursnotbediminishedeither*,布雷克的光芒今日黯淡了  愿你的光芒也不要随之黯淡.
+idontknowwhywebotherofferingyoucontracts^tobeperfectlyhonest*itsobviousyourenotafriendtotheduchyofandurien*regardless^wefindourselvesindesperatetimes^sowehavetoscrapethebottomofthebarrel*,老实说  我不知道我们为什么还要给你提供合约. 很明显  你并不是安杜瑞恩公国的朋友. 不管怎么说  我们正处于危急关头  所以只能退而求其次.
+theduchyofandurienhasauseformercenarieslikeyou^commander*ithinkyoullbeinterestedintheattachedcontract*hopefullywecancometoamutuallybeneficialagreement*,安杜瑞恩公国需要像你这样的雇佣兵  指挥官. 我想你会对附件中的合约感兴趣. 希望我们能达成互惠互利的协议.
+theduchyofandurienwouldliketoofferyouachoicecontract^commander*astheleaderofarespectedmercenarycompany^youshouldfindthetermsbothfairandequitable^ithink*,安杜瑞恩公国希望向你提供一份优选合约  指挥官. 作为一家受人尊敬的雇佣兵公司的领袖  我想你应该会认为这份合约的条款既公平又合理.
+commander^ihopethismessagefindsyouwell*thepeopleoftheduchyofandurienwouldliketoextendacontracttoyou^owingtoourrespectforyourskills*pleaseconsideritcarefully*,指挥官  希望这封信送达时你一切安好. 安杜瑞恩公国的人民敬重你的能力  因此希望向你提供一份合约. 请慎重考虑.
+greetings^myfriend*thiscontractisnotonewewouldoffertoalessermercenary^butyouveprovenyourloyalty^prowess^anddedicationtotheidealsoftheduchyofandurien*ihopeyoullacceptouroffer*,你好  我的朋友. 这份合约可不是我们会提供给普通雇佣兵的合约  但你已经证明了自己的忠诚、实力  以及对安杜瑞恩公国理想的坚定信念. 希望你会接受我们的提议.
+webothknowthescore^commander*househumphreysreliesonyoulikeyoureoneofourown^andyouvealwaysbeenhappytohelpusout*ihopeyoucanseefittoagreethistimeaswellthisisajobtooimportantforlesserwarriors*,我们都清楚彼此的立场  指挥官. 汉弗莱斯家族把你当作自己人一样依赖  而你也一直很乐意帮助我们. 希望这次你也能同意——这项任务太重要了  不是那些普通战士能够胜任的.
+top-tierwork^commanderhousehumphreysisveryhappywithyourperformance*keepitup^andillmakesurealotmoreworkcomesyourway*,顶尖的表现  指挥官——汉弗莱斯家族对你的表现非常满意. 继续保持下去  我会确保有更多任务交给你.
+streakmrm-10,锁定式MRM-10
+streakmrm-20,锁定式MRM-20
+streakmrm-30,锁定式MRM-30
+streakmrm-40,锁定式MRM-40
+comingfromsolaris^thestreakmrmweaponssystemmarriesstreakguidancetoamrmlauncher^givingitunparalleledaccuracyandheatefficiencyduringbattle*newlinenewlineusesstreakmrmammo*,【Streak MRM】来自索拉里斯的锁定式MRM武器系统  将锁定式制导技术与MRM发射器结合  使其在战斗中拥有无与伦比的精度和散热效率.\n\n<b><color=#ffcc00>使用锁定式MRM弹药.</color></b>
+ammomrmqs,MRM QS弹药
+ammolrmqs,LRM QS弹药
+lbx2clusterammo,LBX2集束弹药
+amazing^atfirstthislookslikejunk^butifyoulookcloser^itsanoldsldfwasplaserrifleprototype;ivegotnoideawheretheydugthisthinguporevenmadeitworkatall!newlinenewline20rounds*,【Laser Rifle (M)】真令人惊叹  起初看起来像是一堆垃圾  但仔细观察后会发现  这是一把旧式SLDF Wasp激光步枪原型！我完全不知道他们是从哪里挖出这东西的  更不知道他们到底是怎么让它重新运作起来的！\n\n<b><color=#F79232>20 发弹药.</color></b>
+aclangradechemicallaserrifle!similartotheoldsldfdesignsbuttheylinked2chemicalmediumlasertogether*newlinenewline20rounds*newlinenewlinealternativefiringmodeallowsastrongershotwithdoubleammoconsumption,【Laser Rifle (M)(C)】一把氏族级化学激光步枪！类似于旧式SLDF设计  但他们将两台中型化学激光连接在了一起.\n\n<b><color=#F79232>20 发弹药.</color></b>\n\n<b><color=#00ffff>备用射击模式可消耗双倍弹药以发射更强力的射击</color></b>
+tiredoffeelingeveryhit^heatspikeorneuralfeedbackwhenyouareinyourmech?wellthen^mannydominoshastheperfectsolutionforyou:the[[dm*basedescriptiondefs[lorepainshunt]^painshuntsurgicalprocedure*apainshuntwillhelpyoubetterfocusyourattentiononthebattlefieldbyallowingyoutoignorepainfulstimuli**thistechnology^thebackboneofeverymaneidominioperative^canbeyoursfornomorethan¢4^000^000*stoplettingagonyaffectyourperformanceonthebattlefield!newlinenewline*notguaranteedtoignoreanypainenduredfromthatlancematewhojustwontshutupnewlinenewlinewarning!painshuntsurgerymaycostupto¢4^000^000*ourrepsarenotresponsibleifyoudonothavethefundstoproceedwithsurgery*avoidbuyinguntilyouhaveaproperbankroll*newlinenewlinedonotpurchaseifonly1pilotremainswithoutpainshunts!newlinenewlineknownsideeffectsincludeclumsinessandmayrequireextendedphysiotherapy,厌倦了在驾驶机甲时<i>感受</i>每一次撞击、热量激增或神经反馈吗? 那么  <i>Manny Dominos</i>为你提供了完美的解决方案: [[DM.BaseDescriptionDefs[LorePainShunt]  Pain Shunt]]外科手术. 痛觉屏蔽能够让你忽略痛苦刺激  从而帮助你在战场上更好地集中注意力*. 这项作为每名Manei Domini作战人员<i>核心</i>的技术  现在只需不超过4000000星币即可拥有. 别再让痛苦影响你在战场上的表现！\n\n<color=#FFA500>*无法保证能够忽略来自那个永远闭不上嘴的小队队友所造成的痛苦</color>\n\n<color=#FF0000>警告！痛觉屏蔽手术费用最高可能达到4000000星币. 如果你没有足够资金进行手术  我们的销售代表不承担任何责任. 请确保拥有充足资金后再购买.</color>\n\n<color=#FFFF00>如果只剩下一名驾驶员尚未安装痛觉屏蔽  请勿购买！</color>\n\n<color=#FFBA01><i>已知副作用包括行动笨拙  并可能需要进行长期物理治疗</i></color>
+tiredoffeelingeveryhit^heatspikeorneuralfeedbackwhenyouareinyourmech?wellthen^mannydominoshastheperfectsolutionforyou:the[[dm*basedescriptiondefs[lorepainshunt]^painshuntsurgicalprocedure*apainshuntwillhelpyoubetterfocusyourattentiononthebattlefieldbyallowingyoutoignorepainfulstimuli**thistechnology^thebackboneofeverymaneidominioperative^canbeyoursfornomorethan¢4^000^000*stoplettingagonyaffectyourperformanceonthebattlefield!newlinenewline*notguaranteedtoignoreanypainenduredfromthatlancematewhojustwillnotshutupnewlinenewlinewarning!painshuntsurgerymaycostupto¢4^000^000*ourrepsarenotresponsibleifyoudonothavethefundstoproceedwithsurgery*avoidbuyinguntilyouhaveaproperbankroll*newlinenewlineknownsideeffectsincludeclumsinessandmayrequireextendedphysiotherapy,厌倦了在驾驶机甲时<i>感受</i>每一次撞击、热量激增或神经反馈吗? 那么  <i>Manny Dominos</i>为你提供了完美的解决方案: [[DM.BaseDescriptionDefs[LorePainShunt]  Pain Shunt]]外科手术. 痛觉屏蔽能够让你忽略痛苦刺激  从而帮助你在战场上更好地集中注意力*. 这项作为每名Manei Domini作战人员<i>核心</i>的技术  现在只需不到4000000星币即可拥有. 别再让痛苦影响你在战场上的表现！\n\n<color=#FFA500>*无法保证能够忽略来自那个永远闭不上嘴的小队队友所造成的痛苦</color>\n\n<color=#FF0000>警告！痛觉屏蔽手术费用最高可能达到4000000星币. 如果你没有足够资金进行手术  我们的销售代表不承担任何责任. 请确保拥有充足资金后再购买.</color>\n\n<color=#FFBA01><i>已知副作用包括行动笨拙  可能需要进行长期物理治疗</i></color>
+machinegunfires1shots,机枪发射 1 发子弹
+machinegunfires2shots,机枪发射 2 发子弹
+machinegunfires4shots,机枪发射 4 发子弹
+machinegunfires5shots,机枪发射 5 发子弹
+machinegunarrayfiresasalvoof3shots,机枪阵列齐射 3 发子弹
+machinegunarrayfiresasalvoof6shots,机枪阵列齐射 6 发子弹
+machinegunarrayfiresasalvoof9shots,机枪阵列齐射 9 发子弹
+machinegunarrayfiresasalvoof12shots,机枪阵列齐射 12 发子弹
+machinegunarrayfiresasalvoof15shots,机枪阵列齐射 15 发子弹
+machinegunarrayfiresasalvoof18shots,机枪阵列齐射 18 发子弹
+idontknowwhattotellyouchief^itslikeapiratetookaperfectlyserviceablemachinegunandsomehowjustscaleditup*wherethehecktheyevenmanagedtofindaplacetomanufacturetheseoversizedpartsihavenoidea*worstpartistheylookprofessionallymadeontheoutsidebuttheinsideissocrudeitsamiraclethethingevencycles*nowleavemetothebottleofwhiskeyiwillneedtoforgetthistravesty*,我真不知道该怎么说  老大  这就像有个海盗拿了一挺性能完好的机枪  然后不知怎么把它整体放大了. 他们到底是从哪儿找到地方制造这些超大号零件的  我完全想不通. 最糟糕的是  这东西从外表看起来做工相当专业  但内部却粗糙得离谱  能正常完成击发循环简直就是个奇迹. 现在别烦我了  我得去喝瓶威士忌  好忘掉这场惨剧.
+thesecondandthirdbarrelsonthismachinegunhavebeenarcweldedtogetherandsomehowjammedintotheframehere*thefeedingmechanismhasbeenloopedaroundtofeedtheadditionalbreechesaswell*thisentireratsnestweighstwicewhatitwouldtaketomountacouplemoremachinegunsinthefirstplace*newlinenewlineuseshmgammo*leftclickonammocount/damagevalueduringbattletoswitchfiringmode,【MG Heavy (P)】这挺机枪的第二和第三根枪管被电弧焊焊在了一起  还不知怎么地塞进了这里的机架里. 供弹机构也被绕了一圈  以便为额外的枪膛供弹. 这整个乱七八糟的东西的重量  是直接再装两挺机枪所需重量的两倍.\n\n<b><color=#ffcc00>使用重机枪弹药.</color></b> <b><color=#00ffff>战斗中点击弹药数量/伤害数值可切换射击模式</color> </b>
+goodwork*letsseeaboutgettingacopyofthathighlightsholo-vid*,干得不错. 我们看看能不能拿到那份精彩集锦全息影像的副本.
+notourbestshowing*hopefullythatonedoesntmakeitontothetapes*,这不是我们最好的表现. 希望那段录像不会被收录进去.
+nicework^commander*illseeificangrabusacopyofthatrecording*yangdloveit*,干得漂亮  指挥官. 我会看看能不能弄到那段录像的副本. 杨肯定会喜欢的.
+thatsadisappointment*withluckitwasntflashyenoughforthemtopublishit*,真令人失望. 希望运气好的话  他们不会觉得这场比赛足够精彩  不会把它发布出去.
+ifyouthinkwellgoeasyonabunchofnewbloodyouvegotanotherthingcoming*bringiton*,如果你以为我们会对一群新手手下留情  那你就大错特错了. 放马过来吧.
+thecasualdisregardforoursafetyisnoted*eitherway^itstoolatetobackoutnow*goodluck^commander*,我们注意到了他们对我们安全的漠视. 不管怎样  现在想退出已经太晚了. 祝你好运  指挥官.
+onlyallowedtohaveoneassembledcopyofthisunit,只允许拥有一个已组装的该单位副本
+youcanonlyhaveupto{0}unitsinprioritysalvage,优先打捞中最多只能有 {0} 个单位
+outofencounterboundsnewlinedeployforbidden,超出遭遇战范围\n<color=red>禁止部署</color>
+newlinedeployallowed,\n<color=green>允许部署</color>
+newlinedeployforbidden,\n<color=red>禁止部署</color>
+distancefromsuggesteddeployposition{0}maxallowed{1},距离建议部署位置 {0}  最大允许距离 {1}
+newlinedistancefromyourlancemates{0}maxallowed{1},\n距离你的小队队友 {0}  最大允许距离 {1}
+newlinedistancefromknownenemyposition{0}minallowed{1},\n距离已知敌方位置 {0}  最小允许距离 {1}
+handheldplasmarifle,手持式等离子步枪
+highenergyresiduereducesheatefficiencyby15%*,高能残留物使散热效率降低 15%.
+handheldplasmarifle:increasedtargetheatgenerated,手持式等离子步枪: 增加目标的热量生成
+legendkillerrto,RTO传奇杀手
+c3slaveunit,C3从属单元
+pirateppc,海盗PPC
+pirateerppc,海盗增程PPC
+pirateppz,海盗PPZ
+ppc(p),PPC(海盗)
+erppc(p),增程PPC(海盗)
+erppc+cap(p),增程PPC+电容器(海盗)
+erppc(p):antiairfactor,增程PPC(海盗): 防空系数
+erppc(p):increasedtargetecmjamming,增程PPC(海盗): 增加目标的ECM干扰
+blastah:increasedtargetecmjamming,Blastah: 增加目标的ECM干扰
+blastah:antiairfactor,Blastah: 防空系数
+erppc+cap(p):increasedtargetecmjamming,增程PPC+电容器(海盗): 增加目标的ECM干扰
+erppc+cap(p):antiairfactor,增程PPC+电容器(海盗): 防空系数
+ppcfiresinstandardmode,PPC以标准模式开火
+capacitorisusedtofastchargetheppc^improvingaccuracyandrecoilwitha15%misfirechance*mitigatedbyjamreduction*,电容器用于快速充能PPC  提高精度并降低后坐力  同时有 15% 的走火概率. 可通过降低卡壳效果来减轻影响.
+overchargethecapacitorforincreaseddamagewitha15%misfirechance*mitigatedbyjamreduction*,过载电容器以提升伤害  并有 15% 的走火概率. 可通过降低卡壳效果来减轻影响.
+overchargethecapacitorforincreaseddamageatreducedrangewitha15%misfirechance*mitigatedbyjamreduction*,过载电容器  以降低射程为代价提升伤害  并有 15% 的走火概率. 可通过降低卡壳效果来减轻影响.
+setcapacitortoimproverangeandaccuracywitha15%misfirechance*mitigatedbyjamreduction*,调整电容器以提升射程和精度  并有 15% 的走火概率. 可通过降低卡壳效果来减轻影响.
+itlookslikesomeonecombinedtheburnedoutandbrokenpartsoftwoppcstocreateonebarely-functionalppc*theelectromagneticfieldgenerationisunstable*yourelikelytogetzappedifyouwalktooclosetothisthing*,【PPC (P)】看起来有人把两门PPC烧毁且损坏的部件拼凑在一起  制造出了一门勉强能运作的PPC. 电磁场生成极不稳定. 你最好不要离这东西太近  否则很可能会被电到.
+idontknow^boss*thislooksliketypicalpiratejunk^itssimilartoalightppcbutfueledbythesamestuffchemicallasersuse*andtomakemattersworse^someofthesepartslookreallyoldandwellmade*newlinenewlineuseschemlargeammo*,我不知道  老板. 这看起来像典型的海盗垃圾货  和轻型PPC很相似  但使用的是与化学激光相同的燃料. 更糟糕的是  其中一些零件看起来非常古老  而且做工精良.\n\n<b><color=#ffcc00>使用大型化学弹药.</color></b>
+yougottaadmiretheperseveranceofwhateverjackasscameupwiththeideaofhotwiringacapacitorintotheppc^hemadeawholelineoutofit^anddidntoncestoptoaskwhathedoestothesebeauties*thiscapacitoreithervastlyincreasesitsrange^ortradesitforabrutalpunch*newlinenewlinecantogglebetweenextremerangeoroverchargingthecapacitor^exchangingreliabilityforrangeordamage,你不得不佩服那个想出把电容器硬接进PPC里的混蛋的执着. 他搞出了一整条产品线  却一次都没停下来想想自己到底对这些宝贝做了些什么. 这个电容器要么大幅提升射程  要么牺牲射程换来毁灭性的打击力.\n\n<b><color=#00ffff>可在极远射程模式与电容过载模式之间切换  以可靠性换取射程或伤害</color></b>
+thismarvelofengineeringhasbeenviolatedinsomanyways*icannotbegintodecipherwhatitsbeenthrough*andno^thefakemagazineattachedtoitsundersidecannotberemoved*itissomehowintegratedintothecontainmentfieldthatkeepsthisthingfromblowingupwhenfired*volatile!,【ER PPC (P)】这件工程奇迹已经被以各种方式改造得面目全非. 我根本无法想象它到底经历了什么. 还有  不  安装在它底部的假弹匣无法拆除. 它不知为何已经整合进了约束场系统中  而这个系统正是防止这东西在开火时发生爆炸的关键. <b><color=#099ff2>易爆！</color></b>
+handheldboomstick!lbx/10:increasedpunchdamage,手持式轰天棍! LBX/10: 提高拳击伤害
+handheldboomstick!lbx/10:increasedpunchstabilitydamage,手持式轰天棍! LBX/10: 提高拳击稳定性伤害
+leaveittosomeperipheryjunkheadtotakeaperfectlyfinelbxandredneckitintoasawedoffshotgunandscribblestuffallover^wheredotheygetthisstuff***klaatubaradanihikturhun*****newlinenewlineinternalammo10shots,【BOOMSTICK! LBX/10】交给外围星区的某个垃圾佬准没好事  他们居然把一把完好无损的LBX改造成了所谓的“短管霰弹枪”  还在上面乱涂乱画. 这些东西到底是从哪儿弄来的……“Klaatu barada nihikturhun”……\n\n<b><color=#ffcc00>内置 10 发弹药</color></b>
+non-participation,不参与
+sensorminefield:increasedsensorsignature,地雷传感器: 传感器信号特征增加
+sensorminefield:increasedvisualsignature,地雷传感器: 视觉特征增加
+sensorminefield:probeping,地雷传感器: 探测器扫描
+handheldchainwhip:decreasedtargetwalkspeed,手持式链鞭: 降低目标步行速度
+directionaljumpjet,定向跳跃喷射器
+articulatedjumpjets,铰接式跳跃喷射器
+directionaljumpjet(s):increasedjumpheatgenerated,定向喷射器(标): 跳跃热量生成增加
+directionaljumpjet(s):maxjumpjetspermp,定向喷射器(标): 每MP最大跳跃喷口数
+directionaljumpjet(s):increaseddfadamage,定向喷射器(标): 提高死神天降伤害
+directionaljumpjet(s):increaseddamageafterjumping,定向喷射器(标): 跳跃后增伤
+directionaljumpjet(s):improveddfahitchance,定向喷射器(标): 提高死神天降命中率
+directionaljumpjet(a):increasedjumpheatgenerated,定向喷射器(袭): 跳跃热量生成增加
+directionaljumpjet(a):maxjumpjetspermp,定向喷射器(袭): 每MP最大跳跃喷口数
+directionaljumpjet(a):increaseddfadamage,定向喷射器(袭): 提高死神天降伤害
+directionaljumpjet(a):increaseddamageafterjumping,定向喷射器(袭): 跳跃后增伤
+directionaljumpjet(a):improveddfahitchance,定向喷射器(袭): 提高死神天降命中率
+articulatedjumpjets(s):increasedjumpheatgenerated,铰接式跳跃喷射器(标): 跳跃热量生成增加
+articulatedjumpjets(s):reducedhitchanceagainst,铰接式跳跃喷射器(标): 降低被攻击命中率
+articulatedjumpjets(s):increasedwalkspeed,铰接式跳跃喷射器(标): 步行速度提升
+articulatedjumpjets(a):increasedjumpheatgenerated,铰接式跳跃喷射器(袭): 跳跃热量生成增加
+articulatedjumpjets(a):reducedhitchanceagainst,铰接式跳跃喷射器(袭): 降低被攻击命中率
+articulatedjumpjets(a):increasedwalkspeed,铰接式跳跃喷射器(袭): 步行速度提升
+enhancedimaging(c-ds),增强成像(C-DS)
+dualcockpit,双人驾驶舱
+uniquecockpitinterface,独特接口驾驶舱
+cockpittminterface,TM接口驾驶舱
+cockpitinterfaceon,接口驾驶舱 开启
+cockpitinterface(torsomounted)on,接口驾驶舱(躯干安装) 开启
+uniquecockpitinterfaceon,独特接口驾驶舱 开启
+cockpittminterfaceon,TM接口驾驶舱 开启
+skinwalkercockpitinterfaceon,皮行者接口驾驶舱 开启
+doeringelectronicsdualcockpit,多林电子双人驾驶舱
+cockpitinterface:setignoreheadinjuries,接口驾驶舱: 忽略头部被命中受伤
+cockpitinterface:increasedvisionrangemultiplier,接口驾驶舱: 提高视野范围倍率
+cockpitinterface:istorsomount,接口驾驶舱: 是躯干安装式
+cockpitinterface:setcrewlocation:centertorso,接口驾驶舱: 乘员位置为中央躯干
+cockpitinterface:disableinjurecrewonlocationhit,接口驾驶舱: 禁用乘员在部位被击中时受伤
+cockpitinterface:enablebattlearmormounts,接口驾驶舱: 允许搭载战斗装甲
+cockpitinterface:disallowejection,接口驾驶舱: 无法弹射
+uniquecockpitinterface:nightvision,独特接口驾驶舱: 夜视
+uniquecockpitinterface:allowmoveaftershooting,独特接口驾驶舱: 允许射击后移动
+uniquecockpitinterface:decreasedstabilitydamagetaken,独特接口驾驶舱: 减少受到的稳定性伤害
+uniquecockpitinterface:increasedunsteadythreshold,独特接口驾驶舱: 稳定性阈值提高
+uniquecockpitinterface:increasedadvancedsensorstrength,独特接口驾驶舱: 提高高级传感器强度
+uniquecockpitinterface:increasedmaxevasivepips,独特接口驾驶舱: 提高最大闪避点数
+uniquecockpitinterface:increasedevasivepipsgain,独特接口驾驶舱: 提高闪避点数获取量
+uniquecockpitinterface:increasedgunnery,独特接口驾驶舱: 枪炮技能提升
+uniquecockpitinterface:increasedpiloting,独特接口驾驶舱: 驾驶技能提升
+uniquecockpitinterface:increasedguts,独特接口驾驶舱: 意志技能提升
+uniquecockpitinterface:increasedtactics,独特接口驾驶舱: 战术技能提升
+uniquecockpitinterface:decreasedbleedingrate,独特接口驾驶舱: 降低流血速率
+cockpittminterface:allowmoveaftershooting,TM接口驾驶舱: 允许射击后移动
+cockpittminterface:decreasedstabilitydamagetaken,TM接口驾驶舱: 减少受到的稳定性伤害
+cockpittminterface:increasedunsteadythreshold,TM接口驾驶舱: 稳定性阈值提高
+cockpittminterface:increasedadvancedsensorstrength,TM接口驾驶舱: 提高高级传感器强度
+cockpittminterface:increasedmaxevasivepips,TM接口驾驶舱: 提高最大闪避点数
+cockpittminterface:increasedevasivepipsgain,TM接口驾驶舱: 提高闪避点数获取量
+cockpittminterface:increasedgunnery,TM接口驾驶舱: 枪炮技能提升
+cockpittminterface:increasedpiloting,TM接口驾驶舱: 驾驶技能提升
+cockpittminterface:increasedguts,TM接口驾驶舱: 意志技能提升
+cockpittminterface:increasedtactics,TM接口驾驶舱: 战术技能提升
+cockpittminterface:setignoreheadinjuries,TM接口驾驶舱: 忽略头部被命中受伤
+cockpittminterface:nightvision,TM接口驾驶舱: 夜视
+cockpittminterface:increasedvisionrangemultiplier,TM接口驾驶舱: 提高视野范围倍率
+cockpittminterface:improvedextralongrangeaccuracy,TM接口驾驶舱: 提高极远射程精度
+cockpittminterface:improvedlongrangeaccuracy,TM接口驾驶舱: 提高长程射程精度
+cockpittminterface:improvedmediumrangeaccuracy,TM接口驾驶舱: 提高中程射程精度
+cockpittminterface:improvedminimumrangeaccuracy,TM接口驾驶舱: 提高最小射程命中精度
+cockpittminterface:istorsomount,TM接口驾驶舱: 是躯干安装式
+cockpittminterface:setcrewlocation:centertorso,TM接口驾驶舱: 乘员位置为中央躯干
+cockpittminterface:disableinjurecrewonlocationhit,TM接口驾驶舱: 禁用乘员在部位被击中时受伤
+cockpittminterface:decreasedbleedingrate,TM接口驾驶舱: 降低流血速率
+cockpittminterface:enablebattlearmormounts,TM接口驾驶舱: 允许搭载战斗装甲
+cockpittminterface:disallowejection,TM接口驾驶舱: 无法弹射
+skinwalkercockpitinterface:nightvision,皮行者接口驾驶舱: 夜视
+skinwalkercockpitinterface:allowmoveaftershooting,皮行者接口驾驶舱: 允许射击后移动
+skinwalkercockpitinterface:decreasedstabilitydamagetaken,皮行者接口驾驶舱: 减少受到的稳定性伤害
+skinwalkercockpitinterface:increasedunsteadythreshold,皮行者接口驾驶舱: 稳定性阈值提高
+skinwalkercockpitinterface:increasedadvancedsensorstrength,皮行者接口驾驶舱: 提高高级传感器强度
+skinwalkercockpitinterface:increasedmaxevasivepips,皮行者接口驾驶舱: 提高最大闪避点数
+skinwalkercockpitinterface:increasedevasivepipsgain,皮行者接口驾驶舱: 提高闪避点数获取量
+skinwalkercockpitinterface:increasedgunnery,皮行者接口驾驶舱: 枪炮技能提升
+skinwalkercockpitinterface:increasedpiloting,皮行者接口驾驶舱: 驾驶技能提升
+skinwalkercockpitinterface:increasedguts,皮行者接口驾驶舱: 意志技能提升
+skinwalkercockpitinterface:increasedtactics,皮行者接口驾驶舱: 战术技能提升
+skinwalkercockpitinterface:decreasedbleedingrate,皮行者接口驾驶舱: 降低流血速率
+skinwalkercockpitinterface:enablebattlearmormounts,皮行者接口驾驶舱: 允许搭载战斗装甲
+torsomountdnicockpit:allowmoveaftershooting,躯干安装式DNI驾驶舱: 允许射击后移动
+torsomountdnicockpit:sharedvision,躯干安装式DNI驾驶舱: 共享视野
+torsomountdnicockpit:increasedadvancedsensorstrength,躯干安装式DNI驾驶舱: 提高高级传感器强度
+torsomountdnicockpit:increasedmaxevasivepips,躯干安装式DNI驾驶舱: 提高最大闪避点数
+torsomountdnicockpit:increasedevasivepipsgain,躯干安装式DNI驾驶舱: 提高闪避点数获取量
+torsomountdnicockpit:increasedgunnery,躯干安装式DNI驾驶舱: 枪炮技能提升
+torsomountdnicockpit:increasedpiloting,躯干安装式DNI驾驶舱: 驾驶技能提升
+torsomountdnicockpit:increasedguts,躯干安装式DNI驾驶舱: 意志技能提升
+torsomountdnicockpit:increasedtactics,躯干安装式DNI驾驶舱: 战术技能提升
+torsomountdnicockpit:setignoreheadinjuries,躯干安装式DNI驾驶舱: 忽略头部被命中受伤
+torsomountdnicockpit:decreasedstabilitydamagetaken,躯干安装式DNI驾驶舱: 减少受到的稳定性伤害
+torsomountdnicockpit:increasedunsteadythreshold,躯干安装式DNI驾驶舱: 稳定性阈值提高
+torsomountdnicockpit:enableinjuriesonstructuredamage,躯干安装式DNI驾驶舱: 启用结构受损时导致受伤
+torsomountdnicockpit:istorsomount,躯干安装式DNI驾驶舱: 是躯干安装式
+torsomountdnicockpit:setcrewlocation:centertorso,躯干安装式DNI驾驶舱: 乘员位置为中央躯干
+torsomountdnicockpit:disableinjurecrewonlocationhit,躯干安装式DNI驾驶舱: 禁用乘员在部位被击中时受伤
+torsomountdnicockpit:decreasedbleedingrate,躯干安装式DNI驾驶舱: 降低流血速率
+torsomountdnicockpit:disallowejection,躯干安装式DNI驾驶舱: 无法弹射
+enhancedimaging(c-ds):nightvision,增强成像(C-DS): 夜视
+enhancedimaging(c-ds):allowmoveaftershooting,增强成像(C-DS): 允许射击后移动
+enhancedimaging(c-ds):increasedgunnery,增强成像(C-DS): 枪炮技能提升
+enhancedimaging(c-ds):increasedpiloting,增强成像(C-DS): 驾驶技能提升
+enhancedimaging(c-ds):increasedtactics,增强成像(C-DS): 战术技能提升
+enhancedimaging(c-ds):increasedguts,增强成像(C-DS): 意志技能提升
+enhancedimaging(c-ds):decreasedbleedingrate,增强成像(C-DS): 降低流血速率
+enhancedimaging(c-ds):disallowejection,增强成像(C-DS): 无法弹射
+enhancedimaging(c-ds)activatable:enableinjuriesonstructuredamage,增强成像(C-DS)(可激活): 启用结构受损时导致受伤
+enhancedimaging(c-ds)activatable:increasedinitiative,增强成像(C-DS)(可激活): 提高先攻权
+enhancedimaging(c-ds)activatable:increasedmaxevasivepips,增强成像(C-DS)(可激活): 提高最大闪避点数
+enhancedimaging(c-ds)activatable:increasedcalledshottargetedlocationhitchance,增强成像(C-DS)(可激活): 提高精准射击指定部位命中率
+enhancedimaging(c-ds)activatable:improvedaccuracy,增强成像(C-DS)(可激活): 提高命中精度
+dualcockpit:decreasedabilityresolvecost,双人驾驶舱: 降低技能的决心消耗
+dualcockpit:increasedmaximumresolve,双人驾驶舱: 提高最大决心值
+scramblesenemysystemsandgrantsmoraletothelance,干扰敌方系统  并为小队提供士气.
+developedbytheclans^enhancedimagingisanadvancedtargetingandpilotingsystemforusewithhumanoidshapedcombatvehiclessuchasbattlemechs*whileofferingconsiderableadvantages^eiinflictsserioussideeffectsontheuser^includingpossiblementalinstability^nervedamageanddeath*forsomereasonthiscockpitdoesnotallowejections*,由氏族开发的增强成像系统是一种先进的瞄准与驾驶系统  用于战斗机甲等人形战斗载具. 虽然增强成像系统能带来显著优势  但也会对使用者造成严重的副作用  包括可能导致精神不稳定、神经损伤甚至死亡. 由于某种原因  这种驾驶舱不允许弹射.
+cld-3t,冷却-3回合
+cld-2t,冷却-2回合
+cld-1t,冷却-1回合
+starcorpsdalbancommssuite,StarCorps Dalban通讯套件
+incompatible,不兼容
+rifleposition,步枪阵地
+retractablebladeactuators,可伸缩刀刃驱动器
+flail,链枷
+handheldflail:increasedphysicalweaponextrahits,手持式链枷: 物理武器增加额外攻击判定
+handheldflail:isphysicalweapon,手持式链枷: 是物理武器
+handheldflail:usepunchhittable,手持式链枷: 使用拳击命中表
+handheldflail:increasedbonusflatphysicalweapondamage,手持式链枷: 提高物理武器固定伤害加成
+handheldflail:increasedbonusflatphysicalweaponstabilitydamage,手持式链枷: 提高物理武器固定稳定性伤害加成
+handheldflail:reducedphysicalweaponhitchance,手持式链枷: 物理武器命中率降低
+handheldflail:physicalweapontargetunsteadyonhit,手持式链枷: 物理武器命中使目标失衡
+handheldflail:physicalweaponattackerunsteadyonmiss,手持式链枷: 物理武器攻击者未命中时失衡
+meleeweaponextrahits,近战武器额外攻击判定
+chainsword,链锯剑
+handheldchainsword:increasedphysicalweaponextrahits,手持式链锯剑: 物理武器增加额外攻击判定
+handheldchainsword:isphysicalweapon,手持式链锯剑: 是物理武器
+handheldchainsword:usepunchhittable,手持式链锯剑: 使用拳击命中表
+handheldchainsword:increasedbonusflatphysicalweapondamage,手持式链锯剑: 提高物理武器固定伤害加成
+handheldchainsword:increasedbonusflatphysicalweaponstabilitydamage,手持式链锯剑: 提高物理武器固定稳定性伤害加成
+handheldchainsword:improvedphysicalweaponhitchance,手持式链锯剑: 提高物理武器命中率
+supertag(c),超级TAG(氏族)
+handheldhandheldtag(c):targetacquired,手持式超级TAG(氏族): 目标已标记
+handheldhandheldtag(c):enabletag-activatedguidedammunitionaccuracybonuses,手持式超级TAG(氏族): 启用TAG激活式制导弹药命中精度加成
+handheldhandheldtag(c):increasedtargetvisualsignature,手持式超级TAG(氏族): 提高目标的视觉特征
+handheldhandheldtag(c):probeping,手持式超级TAG(氏族): 探测器扫描
+replacesactuators,替换执行器
+replaces{0}actuators*,替换{0}执行器.
+lowerarmandhand,前臂、手部
+jackhammer,气动锤
+lasercutter,激光切割器
+handheldlaserdrill:increasedmeleeheatdamagepershot,手持式激光钻头: 每次射击增加近战热量伤害
+meleeattacksdeal10heatdamage*,近战攻击造成 10 点热量伤害.
+buzzsaw,圆锯
+handheldtitansaw:increasedphysicalweaponextrahits,手持式泰坦锯: 物理武器增加额外攻击判定
+handheldtitansaw:isphysicalweapon,手持式泰坦锯: 是物理武器
+handheldtitansaw:usestandardhittable,手持式泰坦锯: 使用标准命中表
+handheldtitansaw:increasedbonusflatphysicalweapondamage,手持式泰坦锯: 提高物理武器固定伤害加成
+handheldtitansaw:increasedbonusflatphysicalweaponstabilitydamage,手持式泰坦锯: 提高物理武器固定稳定性伤害加成
+handheldtitansaw:improvedphysicalweaponhitchance,手持式泰坦锯: 提高物理武器命中率
+handheldbuzzsaw:increasedphysicalweaponextrahits,手持式圆锯: 物理武器增加额外攻击判定
+handheldbuzzsaw:isphysicalweapon,手持式圆锯: 是物理武器
+handheldbuzzsaw:usestandardhittable,手持式圆锯: 使用标准命中表
+handheldbuzzsaw:increasedbonusflatphysicalweapondamage,手持式圆锯: 提高物理武器固定伤害加成
+handheldbuzzsaw:increasedbonusflatphysicalweaponstabilitydamage,手持式圆锯: 提高物理武器固定稳定性伤害加成
+handheldbuzzsaw:improvedphysicalweaponhitchance,手持式圆锯: 提高物理武器命中率
+handheldchainsaw:increasedphysicalweaponextrahits,手持式链锯: 物理武器增加额外攻击判定
+handheldchainsaw:isphysicalweapon,手持式链锯: 是物理武器
+handheldchainsaw:usestandardhittable,手持式链锯: 使用标准命中表
+handheldchainsaw:increasedbonusflatphysicalweapondamage,手持式链锯: 提高物理武器固定伤害加成
+handheldchainsaw:increasedbonusflatphysicalweaponstabilitydamage,手持式链锯: 提高物理武器固定稳定性伤害加成
+handheldchainsaw:improvedphysicalweaponhitchance,手持式链锯: 提高物理武器命中率
+chainsaw:increasedphysicalweaponextrahits,链锯: 物理武器增加额外攻击判定
+chainsaw:isphysicalweapon,链锯: 是物理武器
+chainsaw:usestandardhittable,链锯: 使用标准命中表
+chainsaw:increasedbonusflatphysicalweapondamage,链锯: 提高物理武器固定伤害加成
+chainsaw:increasedbonusflatphysicalweaponstabilitydamage,链锯: 提高物理武器固定稳定性伤害加成
+chainsaw:reducedchargehitchance,链锯: 降低冲撞命中率
+heavychainsaw:reducedchargehitchance,重型链锯: 降低冲撞命中率
+chargechancetohit,冲撞命中几率
+lightactiveprobe(c):activeprobe,轻型主动探头(氏族): 主动探头
+lightactiveprobe(c):increasedadvancedsensorstrength,轻型主动探头(氏族): 提高高级传感器强度
+lightactiveprobe(c):increasedsensorrangemultiplier,轻型主动探头(氏族): 提高传感器范围倍率
+lightactiveprobe(c):increasedvisionrangemultiplier,轻型主动探头(氏族): 提高视野范围倍率
+lightactiveprobe(c):increasedminefielddetection,轻型主动探头(氏族): 增强雷区探测
+watchdogsuite(c)/auraecm:increasedalliesecmshield,看门狗套件(氏族)/ECM光环: 增强友方ECM护盾
+watchdogsuite(c)/auraeccm:decreasedenemiesecmshield,看门狗套件(氏族)/ECCM光环: 降低敌方ECM护盾
+watchdogsuite(c)/auraeccm:ecmdisruptsc3,看门狗套件(氏族)/ECCM光环: ECM中断C3网络
+watchdogsuite(c)/auraeccm:ecmdisruptsc3i,看门狗套件(氏族)/ECCM光环: ECM中断C3i网络
+watchdogsuite(c)/auraeccm:ecmdisruptsc3nova,看门狗套件(氏族)/ECCM光环: ECM中断C3 Nova
+watchdogsuite(c)/auraeccm:ecmdisruptsc3ai,看门狗套件(氏族)/ECCM光环: ECM中断C3 AI
+watchdogsuite(c):increasedminefielddetection,看门狗套件(氏族): 增强雷区探测
+watchdogsuite(c):activeprobe,看门狗套件(氏族): 主动探头
+watchdogsuite(c):increasedadvancedsensorstrength,看门狗套件(氏族): 提高高级传感器强度
+watchdogsuite(c):increasedsensorrangemultiplier,看门狗套件(氏族): 提高传感器范围倍率
+watchdogsuite(c):increasedvisionrangemultiplier,看门狗套件(氏族): 提高视野范围倍率
+watchdogsuite(c):increasedecmshield,看门狗套件(氏族): 增强ECM护盾
+watchdogsuite(c):decreasedecmjamming,看门狗套件(氏族): 降低ECM干扰
+novacews(c)/auraecm:increasedalliesecmshield,Nova CEWS(氏族)/ECM光环: 增强友方ECM护盾
+novacews(c)/auraeccm:decreasedenemiesecmshield,Nova CEWS(氏族)/ECCM光环: 降低敌方ECM护盾
+novacews(c)/auraeccm:ecmdisruptsc3,Nova CEWS(氏族)/ECCM光环: ECM中断C3网络
+novacews(c)/auraeccm:ecmdisruptsc3i,Nova CEWS(氏族)/ECCM光环: ECM中断C3i网络
+novacews(c)/auraeccm:ecmdisruptsc3nova,Nova CEWS(氏族)/ECCM光环: ECM中断C3 Nova
+novacews(c)/auraeccm:ecmdisruptsc3ai,Nova CEWS(氏族)/ECCM光环: ECM中断C3 AI
+novacews(c):decreasedecmshield,Nova CEWS(氏族): ECM护盾强度降低
+novacews(c):increasedsensorsignature,Nova CEWS(氏族): 传感器信号特征增加
+novacews(c):c3nova,Nova CEWS(氏族): C3 Nova
+novacews(c):c3ai,Nova CEWS(氏族): C3 AI
+novacews(c):increasedminefielddetection,Nova CEWS(氏族): 增强雷区探测
+novacews(c):activeprobe,Nova CEWS(氏族): 主动探头
+novacews(c):increasedadvancedsensorstrength,Nova CEWS(氏族): 提高高级传感器强度
+novacews(c):increasedsensorrangemultiplier,Nova CEWS(氏族): 提高传感器范围倍率
+novacews(c):increasedvisionrangemultiplier,Nova CEWS(氏族): 提高视野范围倍率
+novacews(c):increasedecmshield,Nova CEWS(氏族): 增强ECM护盾
+novacews(c):decreasedecmjamming,Nova CEWS(氏族): 降低ECM干扰
+novacews(c):sharedvision,Nova CEWS(氏族): 共享视野
+novacews(c):decreasedcooling,Nova CEWS(氏族): 降低散热能力
+increasedsight/sensors/health*,增加视野/传感器/生命值.
+medpulsepod[wm],化学脉冲舱[翼挂]
+medpulsepod[wm]:decreasedcruisespeed,化学脉冲舱[翼挂]: 巡航速度降低
+medpulsepod[wm]:decreasedflankspeed,化学脉冲舱[翼挂]: 侧翼速度降低
+medpulsepod[wm]:decreasedwalkspeed,化学脉冲舱[翼挂]: 步行速度降低
+medpulsepod[wm]:decreasedjumpdistance,化学脉冲舱[翼挂]: 跳跃距离缩短
+medpulsepod[wm]:increasedsensorsignature,化学脉冲舱[翼挂]: 传感器信号特征增加
+squads&vehicles,小队、载具
+duchyofandurien3150,安杜瑞恩公国3150
+intelligencereportsconfirmthepresenceofresearchstationtheta-7onryerson^a{team_tar*factiondef*demonym}archivalfacilitycontaininghistoricalrecordsandintelligenceassessmentsrelatedtoclanwolverineoperations*accordingtooursources^thefacilityhousesclassifieddocumentationthatcouldbeweaponizedagainstourpeopleifitwouldbecomeaccessibletotheclans*newlinenewlineyourobjectiveistopenetratethefacilitysdefensiveperimeter^eliminategarrisonforces^andensurecompletedestructionofthedatastorageinfrastructure*primarytargetsincludethemainservervault^backuppowersystems^andoffsiterelaynodes*secondarydestructionofphysicalarchivesisrequiredtopreventmanualrecovery*newlinenewlineexpectedoppositionincludesareinforcedgarrisonlanceandautomatedturretdefenses*thefacilitysremotelocationprovidesoperationalsecurity^butresponseforcesfromtheregionalcapitalcouldarrivewithinhoursofalarmactivation*newlinenewlinetimingiscritical*completedestructionmustbeverifiedbeforeextraction*,情报报告证实  <i>Ryerson</i>上存在<b>Theta-7研究站</b>  这是一处{TEAM_TAR.FactionDef.Demonym}档案设施  保存着与狼獾氏族行动有关的历史记录和情报评估. 据我们的消息来源称  该设施内存放着机密文件  一旦落入氏族之手  就可能被用来对付我们的人.\n\n你的目标是突破该设施的防御外围  消灭驻军  并确保数据存储基础设施被彻底摧毁. 主要目标包括主服务器库、备用电力系统以及远程中继节点. 还必须摧毁实体档案  以防止通过人工手段恢复数据.\n\n预计敌方包括一支增援驻军编队和自动炮台防御. 该设施地处偏远  能够提供行动安全保障  但区域首都的增援部队可能会在警报启动后的数小时内抵达.\n\n时间至关重要. 必须在撤离前确认彻底摧毁.
+boss^theykeeprecordsonpeoplelikethetribesotheycanhuntthemdownifneeded*weremakingsurethosefilesturntoash*,老大  他们保存着像部落这样的人群的档案  以便在需要时追捕他们. 我们会确保那些档案化为灰烬.
+destroyfacilityandextractsafely,摧毁设施并安全撤离
+destroythearchivalfacility,摧毁档案设施
+targetfacilitydetected*sensorsshowstandarddefensivelayout*twogarrisonmechsonpatrol^automatedturretsatcardinalpoints*noheavyreinforcementsinrangeyet*,已发现目标设施. 传感器显示为标准防御布局. 两台驻军机甲正在巡逻  自动炮台部署于四个方位. 目前尚未发现附近有重型增援部队.
+thisisademolitionrun*wehitthedatacore^wreckthebackupgenerators^andtorchanythingthatlookslikeafilingcabinet*fastin^fastout^beforetheyscramblearesponse*,这是一次破坏行动. 我们摧毁数据核心  破坏备用发电机  把所有看起来像档案柜的东西都烧掉. 在他们组织起应对力量之前  快速进入  快速撤离.
+infrastructureanalysissuggestscivilian-gradeconstruction*datastoragewillbecentralized^likelyinthemaincomplex*destroyingprimaryserversandpowerdistributionshouldrendereverythingunrecoverable*,基础设施分析表明  该设施采用民用级建筑结构. 数据存储将集中在主建筑群内. 摧毁主服务器和电力配电系统应该能让所有数据都无法恢复.
+garrisonsrunninglightermechs*nothingthatllgiveustroubleifwekeepthepressureon*focusyourfireonstructuralsupportsoncewereinsidetheperimeter*,驻军使用的是较轻型的机甲. 只要我们持续施压  就不会有什么能给我们造成麻烦. 进入防御外围后  集中火力攻击结构支撑部位.
+primarytargetisthedatavault*everythingelseiscollateral*burnitall*movein*,首要目标是数据金库. 其他一切都是次要目标. 全部烧掉. 行动.
+datacoreisslag*backupsystemsareoffline*whateverrecordstheyhad^theyrenotgettingthemback*notfromhere*,数据核心已经烧成了废渣. 备用系统已离线. 他们拥有的任何记录  都别想再恢复了. 至少这里的记录是这样.
+nofurthertransmissiondetectedeither^nowitisallsilentexceptforthefiresandexplosions*,也没有检测到进一步的通讯  现在除了火焰与爆炸声之外  一切都陷入了寂静.
+facilityiscompromisedbeyondrecovery*missioncomplete*timetogetclearbeforetheysendinvestigators*,设施已被破坏到无法恢复. 任务完成. 趁他们派调查人员过来之前  我们得赶紧撤离.
+werepullingback*targetsstilloperationalandreinforcementsaremovingin*thedatasurvivedthisrun*,我们撤退. 目标设施仍在运转  增援部队正在赶来. 这次行动没能摧毁数据.
+commander^incomingheavyreinforcementsdetectedonlongrangesensors!,指挥官  远程传感器探测到重型增援部队正在赶来!
+itsallaburninginferno^letsgetoutofhere*,这里已经变成一片熊熊燃烧的炼狱  我们赶紧离开这里.
+*static*-repeat^toallenemyforces*thisisaciv-*static*/-allowforevacuation-*static*/,<i>静电杂音</i>——重复一遍  致所有敌方部队. 这是民——<i>静电杂音/<i>——允许撤离——<i>静电杂音/<i>
+didanyonecopythattransmission?somethingaboutevacuation?,有人收到那段通讯了吗? 好像提到了撤离?
+iamnotsure*maybeworthinvestigat**-,我不确定. 也许值得调查一……-
+negative!itisjustafalseattempttotrickyouuntilreinforcementsarrive*presson!,不行! 这只是为了欺骗你们、拖延时间直到增援抵达的诡计. 继续前进!
+commander^thatisonebuildingdown*letsdestroytherestandgetoutofhere*,指挥官  一栋建筑已经被摧毁. 让我们把剩下的也摧毁  然后离开这里.
+andthatisthegarrisonalldealtwith*,驻军也全部解决了.
+battlearmordamaged!,战斗装甲受损!
+beaconlrmammo,LRM信标弹药
+beaconlrm:increasedtargetsensorsignature,LRM信标: 增加目标的传感器特征
+beaconlrm:increasedtargetvisualsignature,LRM信标: 增加目标的视觉特征
+playersafelyevacuates,玩家安全撤离
+protectthebuildings,保护建筑物
+thebasedefensesarentimpressive^buttheyrebetterthannothing*,基地的防御力量并不怎么样  但总比没有强.
+thattakescareofit^commander*sadly^wehavelimitedtimetorecoveranysalvagesbeofrethehostilemainforcesarrive*,解决了  指挥官. 可惜  在敌方主力抵达之前  我们只有有限的时间回收战利品.
+firstsetofconvoysisreadytomoveout*,第一批车队已经准备出发.
+convoyspickuppointishere,车队接应点就在这里
+headsup!secondwaveinbound!,注意! 第二波敌军来了!
+lastbatchofevacuees^keepthemprotected*,最后一批撤离人员  保护好他们.
+forgetthebase^itstoast*protecttheconvoyinstead*,别管基地了  它已经完了. 保护车队.
+hostilesaretryingtohitusfromthesides---covertheconvoynow^commander!,敌人正试图从侧翼攻击我们——现在掩护车队  指挥官!
+additionalhostileunitsenroute,更多敌军正在赶来
+greatjob^commander!allhostilesintheareaaredown*weshouldbeabletogetoutbeforemoreenemyreinforcementsshowup*,干得漂亮  指挥官! 该区域的所有敌军都已被消灭. 我们应该能在更多敌方增援出现之前撤离.
+riskybuisness,高风险生意
+thelocalsonthisplanethaveaspecialrequestforus*theyhavefoundasecretresearchbasethatneedsdestroyed*,这个星球上的当地人向我们提出了一项特殊请求. 他们发现了一座秘密研究基地  需要将其摧毁.
+lookslikeatank,看起来像辆坦克
+quirkimprovedanti-missilesystems:decreasedjamchance,特质-改进型反导系统: 降低卡壳概率
+quirkimprovedanti-missilesystems:decreasedheatgenerated,特质-改进型反导系统: 降低热量生成
+-15%jamchanceforams*,AMS卡壳几率 -15%.
+amsheatgenerationreducedby15%*,AMS热量产生降低 15%.
+retreatingconvoy01safelyreachestheevaczone,撤退车队01安全抵达撤离区
+retreatingconvoy02safelyreachestheevaczone,撤退车队02安全抵达撤离区
+retreatingconvoy03safelyreachestheevaczone,撤退车队03安全抵达撤离区
+convoy1survives,车队1幸存
+convoy2survives,车队2幸存
+convoy3survives,车队3幸存
+marchofthe***,……的行军
+theawakening***,觉醒……
+yourerelaxinginyourofficewhenthecommpanelchimes^yes?newlinenewlinecommander^drrichardkixtinstructedmetoletyouknowthatthemysterypatientisnolongeramystery*newlinenewlineexcellentnews!thankyou^letdrkixtknowimonmyway*youstandupandheadoutthedoortowardsthemedbays*newlinenewlineyouarrivetoseedrkixtandanumberofmedtechsbusyaroundthepatient*youmoveforwardtofinallygetalookatwhoyourescuedwiththeirbandagesoff^greetings***newlinenewlinethepatientsmiles^youmaycallmebryan^bryanmichaels*ioweyouagreatdealapparently^forgettingmeheretohealandrecovermymemories*drkixtsaysiwouldhavediedifyouhadnotrescuedme*newlinenewlineyousmile^anyoneelsewouldhavedonethesamegiventhesituation*doyouknowwhathappened?oranyotherdetails?whereyouarefrom?howdid***newlinenewlinedrkixtputsahandonyourshoulder^commander^ifyouplease^mrmichaelsstillneedshisrestandhehasnotfullyrecoveredallofhismemories*maywespeakinprivate?newlinenewlineyounod^ofcoursedr*youturnbacktothepatient^bryan^continuetogetbetterandwellworkoutthedetailslater^ok?newlinenewlinebryannodsbackatyouasyouturnandmoveintothecorridorwithdrkixt*yougrinwidelyasyousay^ehh^whatsupdoc?newlinenewlinedrkixt^obviouslynotahumorousperson^grimaces^thencontinues^wellcommander^asisaidinthere^mrmichaelsistechnicallyreadyforactivedutynowandhehaspassedbothsimulatortestsformechsandvehicles*newlinenewlineexplaintechnicallyreadyinthiscontextdoc^youstate*newlinenewlinebasically^hehasbeenthroughalot^bothmentallyandphysically*whilehehaspassedallofthetestswevegivenhim^thescoresarentamazing*hehassufferedseverememorylossandalsoshowssymptomsofptsdthatwillmostlikelymanifestitselfincombatasaneedordesiretoavoidasmuchincomingfireaspossible*ifhegetsinanuntenablesituationsuchasbeingknockeddown^hemaylikelytochoosetoejectfromthemech*,你正在办公室里放松，这时通讯面板响起，你说道：“什么事？”\n\n“指挥官，Richard Kixt医生让我通知您，那名神秘病人已经不再是个谜了。”\n\n“太好了！谢谢，告诉Kixt医生我马上过去。” 你站起身，走出房门，朝医疗舱走去。\n\n你到达后看到Kixt医生和几名医疗技师正围着病人忙碌。你走上前，终于得以看看你救回来的人卸下绷带后的模样：“你好……”\n\n病人微笑着说道：“你可以叫我<color=#FFA500><i>Bryan，Bryan Michaels</i></color>。看来我欠你很多，因为是你把我带到这里，让我得以疗伤并恢复记忆。Kixt医生说，如果不是你救了我，我早就死了。”\n\n你微笑道：“换作任何人在当时的情况下都会这么做。你知道发生了什么吗？或者还有其他细节？你来自哪里？你是怎么……”\n\nKixt医生把手搭在你的肩膀上：“指挥官，如果可以的话，Michaels先生还需要休息，而且他的记忆还没有完全恢复。我们能私下谈谈吗？”\n\n你点点头：“当然，医生。” 你转身对病人说道：“Bryan，继续好好休养，具体情况我们之后再谈，好吗？”\n\nBryan对你点了点头，你转身与Kixt医生一起走进走廊。你咧嘴一笑，说道：“呃，医生，怎么了？”\n\nKixt医生显然不是个幽默的人，他皱了皱眉，然后继续说道：“好了，指挥官，正如我刚才在里面所说的，Michaels先生从技术上来说现在已经可以执行现役任务了，而且他已经通过了我安排的机甲和载具模拟测试。”\n\n“医生，解释一下这里的<i>从技术上来说可以执行任务</i>是什么意思。” 你说道。\n\n“基本上，他经历了很多，无论是精神上还是身体上。虽然他通过了我们安排的所有测试，但成绩并不算出色。他遭受了严重的记忆丧失，同时还表现出了创伤后应激障碍的症状，这些症状很可能会在战斗中表现为尽可能躲避来袭火力的需求或倾向。如果他陷入无法应对的情况，比如被击倒，他很可能会选择从机甲中弹射。”
+cutyourlosses,及时止损
+acceptmechwarrior,接受机甲战士
+letbryanmichaelsgo,让Bryan Michaels离开
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherebryanmichaelsisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinebryanlooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinebryanexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢100^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mrmichaels*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Bryan Michaels床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nBryan看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nBryan喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你100000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Michaels先生。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherebryanmichaelsisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinebryanlooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinebryanexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢125^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mrmichaels*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Bryan Michaels床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nBryan看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nBryan喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你125000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Michaels先生。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherebryanmichaelsisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinebryanlooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinebryanexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢150^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mrmichaels*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Bryan Michaels床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nBryan看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nBryan喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你150000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Michaels先生。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherebryanmichaelsisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinebryanlooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinebryanexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢250^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mrmichaels*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Bryan Michaels床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nBryan看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nBryan喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你250000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Michaels先生。”
+addtothecrew,加入船员
+newrecruit,新兵
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherebryanmichaelsisrecovering^so^thedoctellsmeyouvepassedyoursimulatortestingandcanstillqualifyasamechwarrior*soiguessthebigquestionis^doyouwanttoworkforus?newlinenewlinebryanlooksbackatyou^thegratitudeandreliefplainlyevidentonhisface^yes^byallmeanscommander*yousavedmylifeandioweyouadebticannotpossiblyeverrepay*newlinenewlineyousmile^justgetyourselfcombatreadyandhelpuscompletesuccessfulcontracts*newlinenewlinebryanpapamichaelsisnowinthebarracks,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Bryan Michaels床边：“好了，医生告诉我你已经通过了模拟器测试，仍然具备成为一名机甲战士的资格。所以我想现在最大的问题是，你愿意为我们工作吗？”\n\nBryan回头看着你，脸上明显流露出感激和如释重负：“当然愿意，指挥官。你救了我的命，我欠你的这份恩情恐怕一辈子都无法偿还。”\n\n你微笑道：“只要让自己做好战斗准备，帮助我们顺利完成合约就行。”\n\n<color=#FFA500>Bryan·“Papa”·Michaels</color>现在已加入营房
+yourerelaxinginyourofficewhenthecommpanelchimes^yes?newlinenewlinecommander^drrichardkixtinstructedmetoletyouknowthatthemysterypatientisnolongeramystery*newlinenewlineexcellentnews!thankyou^letdrkixtknowimonmyway*youstandupandheadoutthedoortowardsthemedbays*newlinenewlineyouarrivetoseedrkixtandanumberofmedtechsbusyaroundthepatient*youmoveforwardtofinallygetalookatwhoyourescuedwiththeirbandagesoff^greetings***newlinenewlinethepatientsmiles^youmaycallmecarson^carsonlightfoot*ioweyouagreatdealapparently^forgettingmeheretohealandrecover*drkixtsaysiwouldhavediedifyouhadnotrescuedme*newlinenewlineyousmile^anyoneelsewouldhavedonethesamegiventhesituation*doyouknowwhathappened?oranyotherdetails?whereyouarefrom?howdid***newlinenewlinedrkixtputsahandonyourshoulder^commander^ifyouplease^mrlightfootneedshisrestandhehasnotfullyrecoveredallofhismemories*maywespeakinprivate?newlinenewlineyounod^ofcoursedr*youturnbacktothepatient^carson^continuetogetbetterandwellworkoutthedetailslater^ok?newlinenewlinecarsonnodsbackatyouasyouturnandmoveintothecorridorwithdrkixt*yougrinwidelyasyousay^ehh^whatsupdoc?newlinenewlinedrkixt^obviouslynotahumorousperson^grimaces^thencontinues^wellcommander^asisaidinthere^mrlightfootistechnicallyreadyforactivedutynow*hehaspassedthevehiclesimulatortests^butfailedthemechtests*newlinenewlineexplaintechnicallyreadyinthiscontextdoc^youstate*newlinenewlinebasically^hehasbeenthroughalot^bothmentallyandphysically*whilehehaspassedallofthetestswevegivenhim^thescoresarentamazing*hehassufferedseverememorylossandalsoshowssymptomsofptsdthatwillmostlikelymanifestitselfincombatasaneedordesiretoavoidasmuchincomingfireaspossible^tothepointthatifhegetsinanuntenablesituation^hemaypanicinbattle*,你正在办公室里放松，这时通讯面板响起，你说道：“什么事？”\n\n“指挥官，Richard Kixt医生让我通知您，那名神秘病人已经不再是个谜了。”\n\n“太好了！谢谢，告诉Kixt医生我马上过去。” 你站起身，走出房门，朝医疗舱走去。\n\n你到达后看到Kixt医生和几名医疗技师正围着病人忙碌。你走上前，终于得以看看你救回来的人卸下绷带后的模样：“你好……”\n\n病人微笑着说道：“你可以叫我<color=#FFA500><i>Carson，Carson Lightfoot</i></color>。看来我欠你很多，因为是你把我带到这里，让我得以疗伤和恢复。Kixt医生说，如果不是你救了我，我早就死了。”\n\n你微笑道：“换作任何人在当时的情况下都会这么做。你知道发生了什么吗？或者还有其他细节？你来自哪里？你是怎么……”\n\nKixt医生把手搭在你的肩膀上：“指挥官，如果可以的话，Lightfoot先生需要休息，而且他的记忆还没有完全恢复。我们能私下谈谈吗？”\n\n你点点头：“当然，医生。”你转身对病人说道：“Carson，继续好好休养，具体情况我们之后再谈，好吗？”\n\nCarson对你点了点头，你转身与Kixt医生一起走进走廊。你咧嘴一笑，说道：“呃，医生，怎么了？”\n\nKixt医生显然不是个幽默的人，他皱了皱眉，然后继续说道：“好了，指挥官，正如我刚才在里面所说的，Lightfoot先生从技术上来说现在已经可以执行现役任务了。他已经通过了载具模拟测试，但没有通过机甲测试。”\n\n“医生，解释一下这里的<i>从技术上来说可以执行任务</i>是什么意思。” 你说道。\n\n“基本上，他经历了很多，无论是精神上还是身体上。虽然他通过了我们安排的所有测试，但成绩并不算出色。他遭受了严重的记忆丧失，同时还表现出了创伤后应激障碍的症状，这些症状很可能会在战斗中表现为尽可能躲避来袭火力的需求或倾向，以至于如果他陷入无法应对的情况，他可能会在战斗中陷入恐慌。”
+letcarsonlightfootgo,让Carson Lightfoot离开
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherecarsonlightfootisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinecarsonlooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinecarsonexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢100^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mrlightfoot*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Carson Lightfoot床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nCarson看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nCarson喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你100000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Lightfoot先生。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherecarsonlightfootisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinecarsonlooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinecarsonexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢125^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mrlightfoot*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Carson Lightfoot床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nCarson看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nCarson喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你125000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Lightfoot先生。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherecarsonlightfootisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinecarsonlooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinecarsonexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢150^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mrlightfoot*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Carson Lightfoot床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nCarson看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nCarson喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你150000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Lightfoot先生。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherecarsonlightfootisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinecarsonlooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinecarsonexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢250^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mrlightfoot*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Carson Lightfoot床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nCarson看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nCarson喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你250000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Lightfoot先生。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwherecarsonlightfootisrecovering^so^thedoctellsmeyouvepassedyoursimulatortestingandcanstillqualifyasamechwarrior*soiguessthebigquestionis^doyouwanttoworkforus?newlinenewlinecarsonlooksbackatyou^thegratitudeandreliefplainlyevidentonhisface^yes^byallmeanscommander*yousavedmylifeandioweyouadebticannotpossiblyeverrepay*newlinenewlineyousmile^justgetyourselfcombatreadyandhelpuscompletesuccessfulcontracts*newlinenewlinecarsonbeamlightfootisnowinthebarracks,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Carson Lightfoot床边：“好了，医生告诉我你已经通过了模拟器测试，仍然具备成为一名机甲战士的资格。所以我想现在最大的问题是，你愿意为我们工作吗？”\n\nCarson回头看着你，脸上明显流露出感激和如释重负：“当然愿意，指挥官。你救了我的命，我欠你的这份恩情恐怕一辈子都无法偿还。”\n\n你微笑道：“只要让自己做好战斗准备，帮助我们顺利完成合约就行。”\n\n<color=#FFA500>Carson·“Beam”·Lightfoot</color>现在已加入营房
+yourerelaxinginyourofficewhenthecommpanelchimes^yes?newlinenewlinecommander^drrichardkixtinstructedmetoletyouknowthatthemysterypatientisnolongeramystery*newlinenewlineexcellentnews!thankyou^letdrkixtknowimonmyway*youstandupandheadoutthedoortowardsthemedbays*newlinenewlineyouarrivetoseedrkixtandanumberofmedtechsbusyaroundthepatient*youmoveforwardtofinallygetalookatwhoyourescuedwiththeirbandagesoff^greetings***newlinenewlinethepatientsmiles^youmaycallmeerika^erikajones*ioweyouagreatdealapparently^forgettingmeheretohealandrecover*drkixtsaysiwouldhavediedifyouhadnotrescuedme*newlinenewlineyousmile^anyoneelsewouldhavedonethesamegiventhesituation*doyouknowwhathappened?oranyotherdetails?whereyouarefrom?howdid***newlinenewlinedrkixtputsahandonyourshoulder^commander^ifyouplease^msjonesneedsherrestandshehasnotfullyrecoveredallofhermemories*maywespeakinprivate?newlinenewlineyounod^ofcoursedr*youturnbacktothepatient^erika^continuetogetbetterandwellworkoutthedetailslater^ok?newlinenewlineerikanodsbackatyouasyouturnandmoveintothecorridorwithdrkixt*yougrinwidelyasyousay^ehh^whatsupdoc?newlinenewlinedrkixt^obviouslynotahumorousperson^grimaces^thencontinues^wellcommander^asisaidinthere^msjonesistechnicallyreadyforactivedutynow*shehaspassedthevehiclesimulatortests^butfailedthemechtests*newlinenewlineexplaintechnicallyreadyinthiscontextdoc^youstate*newlinenewlinebasically^shehasbeenthroughalot^bothmentallyandphysically*whileshehaspassedallofthetestswevegivenher^thescoresarentamazing*shehassufferedseverememorylossandalsoshowssymptomsofptsdthatwillmostlikelymanifestitselfincombatasaneedordesiretoavoidasmuchincomingfireaspossible^tothepointthatifshegetsinanuntenablesituation^shemaypanicinbattle*,你正在办公室里放松，这时通讯面板响起，你说道：“什么事？”\n\n“指挥官，Richard Kixt医生让我通知您，那名神秘病人已经不再是个谜了。”\n\n“太好了！谢谢，告诉Kixt医生我马上过去。” 你站起身，走出房门，朝医疗舱走去。\n\n你到达后看到Kixt医生和几名医疗技师正围着病人忙碌。你走上前，终于得以看看你救回来的人卸下绷带后的模样：“你好……”\n\n病人微笑着说道：“你可以叫我<color=#FFA500><i>Erika，Erika Jones</i></color>。看来我欠你很多，因为是你把我带到这里，让我得以疗伤和恢复。Kixt医生说，如果不是你救了我，我早就死了。”\n\n你微笑道：“换作任何人在当时的情况下都会这么做。你知道发生了什么吗？或者还有其他细节？你来自哪里？你是怎么……”\n\nKixt医生把手搭在你的肩膀上：“指挥官，如果可以的话，Jones女士需要休息，而且她的记忆还没有完全恢复。我们能私下谈谈吗？”\n\n你点点头：“当然，医生。”你转身对病人说道：“Erika，继续好好休养，具体情况我们之后再谈，好吗？”\n\nErika对你点了点头，你转身与Kixt医生一起走进走廊。你咧嘴一笑，说道：“呃，医生，怎么了？”\n\nKixt医生显然不是个幽默的人，他皱了皱眉，然后继续说道：“好了，指挥官，正如我刚才在里面所说的，Jones女士从技术上来说现在已经可以执行现役任务了。她已经通过了载具模拟测试，但没有通过机甲测试。”\n\n“医生，解释一下这里的<i>从技术上来说可以执行任务</i>是什么意思。” 你说道。\n\n“基本上，她经历了很多，无论是精神上还是身体上。虽然她通过了我们安排的所有测试，但成绩并不算出色。她遭受了严重的记忆丧失，同时还表现出了创伤后应激障碍的症状，这些症状很可能会在战斗中表现为尽可能躲避来袭火力的需求或倾向，以至于如果他陷入无法应对的情况，他可能会在战斗中陷入恐慌。”
+leterikajonesgo,让Erika Jones离开
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwhereerikajonesisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlineerikalooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlineerikaexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢100^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^msjones*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Erika Jones床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nErika看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nErika喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你100000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Jones女士。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwhereerikajonesisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlineerikalooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlineerikaexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢125^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^msjones*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Erika Jones床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nErika看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nErika喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你125000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Jones女士。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwhereerikajonesisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlineerikalooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlineerikaexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢150^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^msjones*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Erika Jones床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nErika看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nErika喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你150000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Jones女士。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwhereerikajonesisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlineerikalooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlineerikaexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢250^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^msjones*,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Erika Jones床边：“好了，医生已经把你的情况告诉我了，他说你的身体状况已经足以出院。”\n\nErika看着你：“是的，指挥官。我已经准备好重新驾驶机甲了。我欠你一条命。你可以随时指挥我。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意：“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nErika喊道：“不！求你了！你不能就这样把我丢在某个陌生的星系上，让我一无所有！”\n\n你轻轻挥了挥手：“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经安排好了交通工具，送你前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]。我们还会给你250000星币，让你在找到当地工作之前维持生计。祝你一切顺利，Jones女士。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwhereerikajonesisrecovering^so^thedoctellsmeyouvepassedyoursimulatortestingandcanstillqualifyasamechwarrior*soiguessthebigquestionis^doyouwanttoworkforus?newlinenewlineerikalooksbackatyou^thegratitudeandreliefplainlyevidentonherface^yes^byallmeanscommander*yousavedmylifeandioweyouadebticannotpossiblyeverrepay*newlinenewlineyousmile^justgetyourselfcombatreadyandhelpuscompletesuccessfulcontracts*newlinenewlineerikathrottlejonesisnowinthebarracks,你点了点头，消化着这番话：“谢谢你，医生。”\n\n你回到正在休养的Erika Jones床边：“好了，医生告诉我你已经通过了模拟器测试，仍然具备成为一名机甲战士的资格。所以我想现在最大的问题是，你愿意为我们工作吗？”\n\nErika回头看着你，脸上明显流露出感激和如释重负：“当然愿意，指挥官。你救了我的命，我欠你的这份恩情恐怕一辈子都无法偿还。”\n\n你微笑道：“只要让自己做好战斗准备，帮助我们顺利完成合约就行。”\n\n<color=#FFA500>Erika·“Throttle”·Jones</color>现在已加入营房
+yourerelaxinginyourofficewhenthecommpanelchimes^yes?newlinenewlinecommander^drrichardkixtinstructedmetoletyouknowthatthemysterypatientisnolongeramystery*newlinenewlineexcellentnews!thankyou^letdrkixtknowimonmyway*youstandupandheadoutthedoortowardsthemedbays*newlinenewlineyouarrivetoseedrkixtandanumberofmedtechsbusyaroundthepatient*youmoveforwardtofinallygetalookatwhoyourescuedwiththeirbandagesoff^greetings***newlinenewlinethepatientsmiles^youmaycallmeburtonias*ioweyouagreatdealapparently^forgettingmeheretohealandrecover*drrichardkixtsaysiwouldhavediedifyouhadnotrescuedme*newlinenewlineyousmile^anyoneelsewouldhavedonethesamegiventhesituation*doyouknowwhathappened?oranyotherdetails?whereyouarefrom?howdid***newlinenewlinedrkixtputsahandonyourshoulder^commander^ifyouplease^mrburtoniasneedshisrestandhehasnotfullyrecoveredallofhismemories*maywespeakinprivate?newlinenewlineyounod^ofcoursedr*youturnbacktothepatient^burt^continuetogetbetterandwellworkoutthedetailslater^ok?newlinenewlineburtoniaslooksatyouwithadeadpanfacebutsaysnothingasyouturnandmoveintothecorridorwithdrkixt*yougrinwidelyasyousay^ehh^whatsupdoc?newlinenewlinedrkixt^obviouslynotahumorousperson^grimaces^thencontinues^wellcommander^asisaidinthere^mrburtoniasisreadyforactivedutynow^whichisamazing*hehaspassedsimulatortestsasamechwarrior^butfailedthevehiculartests^whichdoesnotsurpriseme*newlinenewlinewhywouldfailingthevehicletestnotsurpriseyou^docandwhydoyoukeepusinghisnamelikehessomeoneimportant^youstate*newlinenewlinecommander?!youaretellingmeyoudonotknowwhothatmanisinthere?drkixtasksincredulously*newlinenewlineyourfaceshowsitsconfusionclearly^amisupposedtoknoweveryonethatwefindonthebattlefield?newlinenewlinethedoctorsmiles^yourmysterypatientisnoneotherthantheformersakhanoftheghostbears^burtonias*soyes^outofrespectduetosomeoneofhisinfamy^ill**iwillhonourhisbeliefsandaddresshimashewouldbeaddressedamongsthisclansmen*well^withouthistitle*hesaidheisnotthesakhanatthispointintime^sowecanjustcallhimburtonias*newlineasforthevehicletests^heisatruebornoftheghostbears^soonlythosewhofailedtheirtrialofpositionforrankandamechwouldeverconsideroperatingavehicle*newlinenewlineabigsmilecreepsacrossyourfaceasyoulookbackatthemanlyingthereinthemedicalbed^doc^thankyouforthehistorylesson*ifwecanconvincehimtostaywithus^wecouldverywellhaveavaluableassettothiscompany*newlinenewlineyouheadbackovertothebed^ifihadknownwehadsomeoneofyourstaturehereiwouldhaveassignedyoutomypersonalmedicalsuite^burtonias*iwouldhowever^liketotakethismomenttoofferyouemploymentherewith{company*companyname}*newlinenewlineburtoniaslooksatyouwiththeeyesofamechwarriorthathasseenandheardjustabouteverythingimaginablebeforesmilingatyou^manythanks^commander{commander*firstname}{commander*lastname}*iappreciateyourgenerositybutidonotwishtobepampered*ilostmymechinthebattlethatwoundedmeandyourrescuehasputmeinyourdebt*idonotwishtoseemungrateful^butifyoudonothaveaheavymechforme^theniwouldhavetodenyyouroffer*youhaveaheavymechthatisworthyforthefieldofbattle^quiaff?,你正在办公室里放松，这时通讯面板响起，你说道：“什么事？”\n\n“指挥官，Richard Kixt医生让我通知您，那名神秘病人已经不再是个谜了。”\n\n“太好了！谢谢，告诉Kixt医生我马上过去。”你站起身，走出房门，朝医疗舱走去。\n\n你到达后看到Kixt医生和几名医疗技师正围着病人忙碌。你走上前，终于得以看看你救回来的人卸下绷带后的模样：“你好……”\n\n病人微笑着说道：“你可以叫我<color=#FFA500><i>Burt O'Nias</i></color>。看来我欠你很多，因为是你把我带到这里，让我得以疗伤和恢复。Richard Kixt医生说，如果不是你救了我，我早就死了。”\n\n你微笑道：“换作任何人在当时的情况下都会这么做。你知道发生了什么吗？或者还有其他细节？你来自哪里？你是怎么……”\n\nKixt医生把手搭在你的肩膀上：“指挥官，如果可以的话，Burt O'Nias先生需要休息，而且他的记忆还没有完全恢复。我们能私下谈谈吗？”\n\n你点点头：“当然，医生。”你转身对病人说道：“Burt，继续好好休养，具体情况我们之后再谈，好吗？”\n\nBurt O'Nias面无表情地看着你，没有说话。你转身与Kixt医生一起走进走廊，咧嘴一笑：“呃，医生，怎么了？”\n\nKixt医生显然不是个幽默的人，他皱了皱眉，然后继续说道：“好了，指挥官，正如我刚才在里面所说的，Burt O'Nias先生现在已经可以执行现役任务了，这真是令人惊讶。他已经通过了机甲战士模拟测试，但没有通过载具测试，这一点并不让我意外。”\n\n“医生，为什么他没通过载具测试不让你感到意外？还有，你为什么一直用他的全名称呼他，就好像他是什么重要人物一样？”你说道。\n\n“指挥官？！你是说你不知道里面那个人是谁？” Kixt医生难以置信地问道。\n\n你脸上的困惑显而易见：“难道我应该认识我们在战场上遇到的每一个人吗？”\n\n医生笑了：“你那位神秘病人不是别人，正是幽灵熊氏族前任副可汗Burt O'Nias。所以，是的，出于对他声望的尊重，我……我< i>会</i>尊重他的信仰，并按照他的氏族成员对他的称呼来称呼他。当然，不包括他的头衔。他说自己现在已经不是副可汗了，所以我们只要叫他<i>Burt O'Nias</i>就行。\n至于载具测试，他是幽灵熊氏族的<i>真生</i>战士，因此只有那些在争位试炼中未能获得军衔和机甲的人，才会考虑驾驶载具。”\n\n你看着躺在医疗床上的男人，脸上渐渐浮现出灿烂的笑容：“医生，谢谢你给我上历史课。如果我们能说服他留下来，他很可能会成为公司的重要资产。”\n\n你回到病床旁：“如果我知道这里有您这样身份尊贵的人，我早就会把您安排到我的私人医疗套房了，Burt O'Nias。不过，我想借此机会邀请您加入{COMPANY.CompanyName}工作。”\n\nBurt O'Nias用一双仿佛见识过、听过世间一切的机甲战士之眼看着你，然后对你微笑：“非常感谢，指挥官{COMMANDER.FirstName} {COMMANDER.LastName}。我很感激你的慷慨，但我不希望被特殊照顾。我在那场使我负伤的战斗中失去了自己的机甲，而你的救命之恩让我欠你一份人情。我不想显得忘恩负义，但如果你没有一台重型机甲给我，那么我只能拒绝你的提议。你有一台值得上战场的重型机甲，quiaff？”
+no***imeanneg*,不……我是说没有.
+offermechchoice,提供机甲选择
+bepatient,耐心等待
+youtryveryhardtonotfeelintimidatedbythepowerfulmanrecoveringinthemedicalbedinfrontofyou*yousteelyouresolvebeforeanswering^iusuallyassignamechtoapilotfortheparticularbattleathandandiftheyshowpromise^thenthatpilotwilltypicallyenduppilotingitagainonfuturemissions*ihavetoadmit^imyselfamunsureofwhatmechyouwouldfindhonourableenoughtopilotintobattle*withthatinmind^onceyouareonyourfeetandmovingabout^wewillgotothemechbayandseeifthereareanymechsthatyoufindacceptableandproceedfromthere*newlinenewlineburtoniaslooksatyouwithoutblinkingforwhatseemslikeaneternitywhenasmilespreadsacrosshisface^bargainedwellanddone^commander{commander*firstname}{commander*lastname}!newlinenewlineburtst*burtoniasisnowinthebarracks,你努力不让自己因面前这位躺在医疗床上养伤的强大男人而感到畏惧。在回答之前，你坚定了自己的决心，“通常，我会根据当前战斗的具体情况为机甲战士分配一台机甲，如果他们表现出潜力，那么这名机甲战士通常会在未来的任务中再次驾驶这台机甲。我必须承认，就连我自己也不确定什么样的机甲才足够符合你的荣誉标准，值得你驾驶它投入战斗。考虑到这一点，等你能够下床自由活动后，我们就去机甲库看看有没有你能接受的机甲，然后再从那里开始安排。”\n\nBurt O'Nias一言不发地看着你，仿佛过了永恒般漫长的一段时间，随后脸上浮现出笑容，“谈得很好，做得漂亮，指挥官{COMMANDER.Firstname} {COMMANDER.LastName}！”\n\n<color=#FFA500>Burt·“St. Burt”·O'Nias</color>现在已进入营房
+ummmaybe?,嗯……也许?
+yes***imeanaff***,是的……我是说Aff……
+youtryveryhardtonotfeelintimidatedbythepowerfulmanrecoveringinthemedicalbedinfrontofyou*yousteelyouresolvebeforeanswering^iusuallyassignamechtoapilotfortheparticularbattleathandandiftheyshowpromise^thenthatpilotwilltypicallyenduppilotingitagainonfuturemissions*ihavetoadmit^imyselfandunsureofwhatmechyouwouldfindhonourableenoughtopilotintobattle*butthereisatleastoneheavymechinourcompany*withthatinmind^onceyouareonyourfeetandmovingabout^wewillgotothemechbayandseeifitisacceptableandproceedfromthere*newlinenewlineburtoniaslooksatyouwithoutblinkingforwhatseemslikeaneternitywhenasmilespreadsacrosshisface^bargainedwellanddone^commander{commander*firstname}{commander*lastname}!newlinenewlineburtst*burtoniasisnowinthebarracks,你努力不让自己因面前这位躺在医疗床上养伤的强大男人而感到畏惧。在回答之前，你坚定了自己的决心，“通常，我会根据当前战斗的具体情况为机甲战士分配一台机甲，如果他们表现出潜力，那么这名机甲战士通常会在未来的任务中再次驾驶这台机甲。我必须承认，就连我自己也不确定什么样的机甲才足够符合你的荣誉标准，值得你驾驶它投入战斗。不过，我们的连队里至少有一台重型机甲。考虑到这一点，等你能够下床自由活动后，我们就去机甲库看看它是否符合你的要求，然后再从那里开始安排。”\n\nBurt O'Nias一言不发地看着你，仿佛过了永恒般漫长的一段时间，随后脸上浮现出笑容，“谈得很好，做得漂亮，指挥官{COMMANDER.Firstname} {COMMANDER.LastName}！”\n\n<color=#FFA500>Burt·“St. Burt”·O'Nias</color>现在已进入营房
+yourerelaxinginyourofficewhenthecommpanelchimes^yes?newlinenewlinecommander^drrichardkixtinstructedmetoletyouknowthatthemysterypatientisnolongeramystery*newlinenewlineexcellentnews!thankyou^letdrkixtknowimonmyway*youstandupandheadoutthedoortowardsthemedbays*newlinenewlineyouarrivetoseedrkixtandanumberofmedtechsbusyaroundthepatient*youmoveforwardtofinallygetalookatwhoyourescuedwiththeirbandagesoff^greetings***newlinenewlinethepatientsmiles^youmaycallmesally^sallywatson*ioweyouagreatdealapparently^forgettingmeheretohealandrecover*drkixtsaysiwouldhavediedifyouhadnotrescuedme*newlinenewlineyousmile^anyoneelsewouldhavedonethesamegiventhesituation*doyouknowwhathappened?oranyotherdetails?whereyouarefrom?howdid***newlinenewlinedrkixtputsahandonyourshoulder^commander^ifyouplease^mswatsonneedsherrestandshehasnotfullyrecoveredallofhermemories*maywespeakinprivate?newlinenewlineyounod^ofcoursedr*youturnbacktothepatient^sally^continuetogetbetterandwellworkoutthedetailslater^ok?newlinenewlinesallynodsbackatyouasyouturnandmoveintothecorridorwithdrkixt*yougrinwidelyasyousay^ehh^whatsupdoc?newlinenewlinedrkixt^obviouslynotahumorousperson^grimaces^thencontinues^wellcommander^asisaidinthere^mswatsonistechnicallyreadyforactivedutynow*shehaspassedsimulatortestsasamechwarrior^butfailedthevehiculartests*newlinenewlineexplaintechnicallyreadyinthiscontextdoc^youstate*newlinenewlinebasically^shehasbeenthroughalot^bothmentallyandphysically*whileshehaspassedallofthetestswevegivenher^thescoresarentamazing*shehassufferedseverememorylossandalsoshowssymptomsofptsdthatwillmostlikelymanifestitselfincombatasaneedordesiretoavoidasmuchincomingfireaspossible^tothepointthatifshegetsinanuntenablesituationsuchasbeingknockeddown^shewilllikelytochoosetoejectfromthemech*,你正在办公室里休息，这时通讯面板响了起来，“什么事？”\n\n“指挥官，Richard Kixt医生让我通知您，那个神秘病人已经不再是个谜了。”\n\n“好消息！谢谢你，告诉Kixt医生我马上过去。”你站起身，走出房门，前往医疗舱。\n\n你抵达后，看到Kixt医生和几名医疗技术员正围在病人身边忙碌。你走上前，终于可以看看自己救回来的人摘下绷带后的模样，“你好……”\n\n病人微笑着说道，“你可以叫我<color=#FFA500><i>Sally，Sally Watson</i></color>。看来我欠你很多，因为是你把我带到这里接受治疗并恢复。Kixt医生说，如果不是你救了我，我本来会死。”\n\n你微笑道，“换作其他人，在那种情况下也会做同样的事。你知道发生了什么吗？或者还记得其他细节吗？你来自哪里？究竟是怎么……”\n\nKixt医生把手搭在你的肩膀上，“指挥官，如果可以的话，Watson女士需要休息，而且她的记忆还没有完全恢复。我们能私下谈谈吗？”\n\n你点点头，“当然，医生。”你转身看向病人，“Sally，继续好好恢复，剩下的事情我们以后再慢慢弄清楚，好吗？”\n\nSally向你点了点头，你转身与Kixt医生一起走进走廊。你咧嘴一笑，说道，“呃，怎么了，医生？”\n\nKixt医生显然不是个幽默的人，他皱了皱眉，然后继续说道，“那么，指挥官，正如我刚才所说，Watson女士从技术上来说已经可以执行现役任务了。她已经通过了机甲战士模拟测试，但载具模拟测试没有通过。”\n\n“医生，在这个情况下，<i>从技术上来说已经可以执行任务</i>是什么意思？” 你问道。\n\n“基本上，她经历了很多事情，无论是精神上还是身体上。虽然她通过了我们安排的所有测试，但成绩并不算出色。她遭受了严重的记忆丧失，同时还表现出创伤后应激障碍的症状，这很可能会在战斗中表现为尽可能躲避来袭火力的需求或倾向。如果她陷入无法维持的局面，例如机甲被击倒，她很可能会选择从机甲中弹射逃生。”
+letsallywatsongo,让Sally Watson离开
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwheresallywatsonisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinesallylooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinesallyexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢100^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mswatson*,你点点头，消化着这番信息，“谢谢你，医生。”\n\n你回到正在恢复中的Sally Watson身边，“医生已经向我说明了你的情况，他说你的身体状况已经足以让你出院了。”\n\nSally看着你，“是的，指挥官。我已经准备好重新驾驶机甲了。我这条命是你救的，我听从你的指挥。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意，“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nSally惊呼道，“不！求你了！你不能就这样把我丢在某个陌生的星系里，让我一无所有！”\n\n你轻轻摆了摆手，“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经为你安排好了前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]的交通工具。我们还会给你100000星币，让你在找到当地工作之前能够维持生活。祝你一切顺利，Watson女士。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwheresallywatsonisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinesallylooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinesallyexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢125^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mswatson*,你点点头，消化着这番信息，“谢谢你，医生。”\n\n你回到正在恢复中的Sally Watson身边，“医生已经向我说明了你的情况，他说你的身体状况已经足以让你出院了。”\n\nSally看着你，“是的，指挥官。我已经准备好重新驾驶机甲了。我这条命是你救的，我听从你的指挥。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意，“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nSally惊呼道，“不！求你了！你不能就这样把我丢在某个陌生的星系里，让我一无所有！”\n\n你轻轻摆了摆手，“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经为你安排好了前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]的交通工具。我们还会给你125000星币，让你在找到当地工作之前能够维持生活。祝你一切顺利，Watson女士。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwheresallywatsonisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinesallylooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinesallyexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢150^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mswatson*,你点点头，消化着这番信息，“谢谢你，医生。”\n\n你回到正在恢复中的Sally Watson身边，“医生已经向我说明了你的情况，他说你的身体状况已经足以让你出院了。”\n\nSally看着你，“是的，指挥官。我已经准备好重新驾驶机甲了。我这条命是你救的，我听从你的指挥。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意，“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nSally惊呼道，“不！求你了！你不能就这样把我丢在某个陌生的星系里，让我一无所有！”\n\n你轻轻摆了摆手，“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经为你安排好了前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]的交通工具。我们还会给你150000星币，让你在找到当地工作之前能够维持生活。祝你一切顺利，Watson女士。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwheresallywatsonisrecovering^so^thedochasupdatedmeonyourconditionandsaysyouarehealthyenoughtobedischargedfrommedbay*newlinenewlinesallylooksatyou^yes^commander*imreadytogetbackintoamech*ioweyoumylife*imyourstocommand*newlinenewlineyoufeelbadaboutwhatyousaynext^butbusinessisbusiness^iappreciateyourenthusiasm^butunfortunately^wedonotneedanewrecruitatthistime*newlinenewlinesallyexclaims^no!please!youcantjustabandonmeonsomerandomstarsystemwithnothingtomyname!newlinenewlineyoupattheairsoftly^iknowyoulosteverything^sowewontjustabandonyou*wehavearrangedtransportforyoudownto[[tgt_system^{tgt_system*name}*wewillalsogiveyou¢250^000tokeepyouafloatuntilyoucanfindlocalwork*wewishyouthebest^mswatson*,你点点头，消化着这番信息，“谢谢你，医生。”\n\n你回到正在恢复中的Sally Watson身边，“医生已经向我说明了你的情况，他说你的身体状况已经足以让你出院了。”\n\nSally看着你，“是的，指挥官。我已经准备好重新驾驶机甲了。我这条命是你救的，我听从你的指挥。”\n\n你对接下来要说的话感到有些过意不去，但生意就是生意，“我很欣赏你的热情，但很遗憾，我们目前不需要新兵。”\n\nSally惊呼道，“不！求你了！你不能就这样把我丢在某个陌生的星系里，让我一无所有！”\n\n你轻轻摆了摆手，“我知道你已经失去了一切，所以我们不会就这样抛下你。我们已经为你安排好了前往[[TGT_SYSTEM  {TGT_SYSTEM.Name}]]的交通工具。我们还会给你250000星币，让你在找到当地工作之前能够维持生活。祝你一切顺利，Watson女士。”
+younodasyouprocessthisbitofinformation^thanksdoc*newlinenewlineyoumovebackovertothebedwheresallywatsonisrecovering^so^thedoctellsmeyouvepassedyoursimulatortestingandcanstillqualifyasamechwarrior*soiguessthebigquestionis^doyouwanttoworkforus?newlinenewlinesallylooksbackatyou^thegratitudeandreliefplainlyevidentonherface^yes^byallmeanscommander*yousavedmylifeandioweyouadebticannotpossiblyeverrepay*newlinenewlineyousmile^justgetyourselfcombatreadyandhelpuscompletesuccessfulcontracts*newlinenewlinesallywattswatsonisnowinthebarracks,你点点头，消化着这番信息，“谢谢你，医生。”\n\n你回到正在恢复中的Sally Watson身边，“医生告诉我，你已经通过了模拟器测试，仍然有资格成为一名机甲战士。所以我想问的关键问题是，你愿意为我们工作吗？”\n\nSally回望着你，脸上明显流露出感激与如释重负的神情，“当然愿意，指挥官。你救了我的命，我欠你的恩情，这辈子恐怕都无法偿还。”\n\n你微笑道，“让自己做好战斗准备，帮助我们顺利完成合约任务就行。”\n\n<color=#FFA500>Sally·“Watts”·Watson</color>现在已进入营房
+handheldplasmalance:increasedpunchdamage,手持式等离子长矛: 提高拳击伤害
+cultivator,耕耘器
+morriganc3:c3isensorsbonus,Morrigan C3: C3i传感器加成
+morriganc3:c3ivisionbonus,Morrigan C3: C3i视野加成
+morriganc3:c3isensorcheckbonus,Morrigan C3: C3i传感器检定加成
+morriganc3:c3slavesensorsbonus,Morrigan C3: C3从属单元传感器加成
+morriganc3:c3slavevisionbonus,Morrigan C3: C3从属单元视野加成
+morriganc3:c3slavesensorcheckbonus,Morrigan C3: C3从属单元传感器检定加成
+morriganc3:c3boostedslaveunjambonus,Morrigan C3: C3增强从属单元解除卡壳加成
+morriganc3:c3iprobebonus,Morrigan C3: C3i探头加成
+morriganc3:c3slaveprobebonus,Morrigan C3: C3从属单元探头加成
+morriganc3:increasedsensorsignature,Morrigan C3: 传感器特征增加
+morriganc3:c3inetwork,Morrigan C3: C3i网络
+morriganc3:visionsharing,Morrigan C3: 视野共享
+youwannagetrichandfamous^dontyou?youhavetodosomefightinginthearena*,你想发财成名  对吧? 那就得去竞技场打一场.
+youdidanexcellentjoboutthere^gladiator*iseeabrightfutureaheadofyou*continuedoingwhatyoudo^andgoodthingswillhappen*,你在场上的表现非常出色  角斗士. 我看到了你光明的未来. 继续保持你的表现  好事自然会随之而来.
+youdidnotsucceedthistime^butyoudidyourbest^andthisisimportant*ittakesalotofgrittobecomearealgladiator*,这次你没有成功  但你已经尽了全力  而这才是最重要的. 成为真正的角斗士需要极大的毅力.
+youhavedisappointedme*probablyyouarenotgoodenoughforsolaris*butthatsok*noteveryonecanbecomearealgladiator*,你让我失望了. 也许你并不适合索拉里斯. 不过没关系  不是每个人都能成为真正的角斗士.
+handheld*leftarm,左臂手持
+handheld*rightarm,右臂手持
+hand*leftarm,左臂手部
+hand*rightarm,右臂手部
+{0}additionalbasemeleedamage*,{0} 额外近战基础伤害.
+{0}additionalmeleeheatdamage*,{0} 额外近战热量伤害.
+avionicscantbeactivatedwhilejumping,跳跃时无法启用航空电子设备
+cantdone,无法完成
+unitcanmove^thusshouldmove,单位可以移动  因此应该移动.
+hammerhands,锤手
+hammerhandshmh-5d,锤手HMH-5D
+hammerhandshmh-5m,锤手HMH-5M
+hammerhandshmh-5m2,锤手HMH-5M2
+hammerhandshmh-6d,锤手HMH-6D
+hammerhandshmh-6e,锤手HMH-6E
+hammerhandshmh-rr,锤手HMH-RR
+urbanmechum-1ul,城市机甲UM-1UL
+urbanmechum-cr,城市机甲UM-CR
+urbanmechum-mm,城市机甲UM-MM
+urbanmechum-r10,城市机甲UM-R10
+urbanmechum-r20,城市机甲UM-R20
+urbanmechum-r25,城市机甲UM-R25
+urbanmechum-r26,城市机甲UM-R26
+urbanmechum-r27,城市机甲UM-R27
+urbanmechum-r5,城市机甲UM-R5
+urbanmechum-r59,城市机甲UM-R59
+urbanmechum-r6,城市机甲UM-R6
+urbanmechum-r60h,城市机甲UM-R60H
+urbanmechum-r60lrm,城市机甲UM-R60LRM
+urbanmechum-r60lrm-en,城市机甲UM-R60LRM-EN
+urbanmechum-r60t,城市机甲UM-R60T
+urbanmechum-r62,城市机甲UM-R62
+urbanmechum-r666,城市机甲UM-R666
+urbanmechum-r68,城市机甲UM-R68
+urbanmechum-r69,城市机甲UM-R69
+urbanmechum-r7,城市机甲UM-R7
+urbanmechum-r70,城市机甲UM-R70
+urbanmechum-r71,城市机甲UM-R71
+urbanmechum-r80,城市机甲UM-R80
+urbanmechum-r81,城市机甲UM-R81
+urbanmechum-r8q-b,城市机甲UM-R8Q-B
+urbanmechum-r90,城市机甲UM-R90
+urbanmechum-r93,城市机甲UM-R93
+urbanmechum-r96,城市机甲UM-R96
+urbanmechum-rff1,城市机甲UM-RFF1
+urbanmechum-rhw,城市机甲UM-RHW
+urbanmechum-rk9a1,城市机甲UM-RK9A1
+urbanmechum-rlg,城市机甲UM-RLG
+urbanmechum-r100,城市机甲UM-R100
+urbanmechum-r1000,城市机甲UM-R1000
+urbanmechum-r1005,城市机甲UM-R1005
+urbanmechum-r1010,城市机甲UM-R1010
+urbanmechum-rcr,城市机甲UM-RCR
+urbanmechum-risc,城市机甲UM-RISC
+urbanmechum-risc-ii,城市机甲UM-RISC-II
+urbanmechum-risc-iii,城市机甲UM-RISC-III
+urbanmechum-risc-iv,城市机甲UM-RISC-IV
+urbanmechum-p,城市机甲UM-P
+urbanmechum-sc,城市机甲UM-SC
+urbanmechum-snk,城市机甲UM-SNK
+urbanmechum-tu,城市机甲UM-TU
+urbanmechum-wb,城市机甲UM-WB
+urbanmechiic2,城市机甲IIC 2
+urbanmechiic2g,城市机甲IIC 2G
+urbanmechiic3x,城市机甲IIC 3X
+urbanmechiicz,城市机甲IIC Z
+urbanmechlamum-lam,城市机甲LAM UM-LAM
+urbanmechlamum-r60-lam,城市机甲LAM UM-R60-LAM
+urbanmechlamum-r60-lam-ii,城市机甲LAM UM-R60-LAM-II
+urbanmechum-r63-cfcrossfire,城市机甲UM-R63-CF‘穿越火线’
+cattlemasterctl-3r2,畜牧大师CTL-3R2
+cattlemasterctl-x,畜牧大师CTL-X
+chameleoncln-7vq,变色龙CLN-7VQ
+chameleoncln-8v,变色龙CLN-8V
+chameleoncln-9v,变色龙CLN-9V
+firebee,火蜂
+firebeefrb-3e,火蜂FRB-3E
+firebeefrb-3er,火蜂FRB-3ER
+firebeefrb-p,火蜂FRB-P
+firebeefrb-s7,火蜂FRB-S7
+firebeewi-wam,火蜂WI-WAM
+sniper&lightvehiclehunter,狙击手 & 轻型载具猎手
+garrisonscout,驻军侦察兵
+tableflipper,掀桌者
+volatilefiresupport,易爆火力支援

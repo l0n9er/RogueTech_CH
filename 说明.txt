@@ -8,11 +8,23 @@
 RogueTech 模组（含 BATTLETECH 本体）的简体中文补丁。
 术语以官方中文表与项目术语表（terms-13908.json）为准。
 
-  · 翻译总表 strings_zh-CN.csv：61,339 行 / 60,888 键
+  · 翻译总表 strings_zh-CN.csv：61,788 行 / 61,415 键
   · 机甲、战车、战甲的名称与描述（Details / YangsThoughts / StockRole）
   · MechAffinity 亲和面板（名称与描述）
   · 各模组的本地化表、装备分类显示名、AI 能力与特征说明
-  · MechAffinity.dll 内的界面标签
+  · 25 个汉化 DLL 的界面文字（Assembly-CSharp / MechAffinity / CustomUnits 等）
+
+【关于汉化 DLL 与致谢】
+
+本补丁附带的汉化 DLL 均出自月光石头的《BATTLETECH 汉化工具》。这些 DLL
+通过反编译修改硬编码字符串实现界面汉化，是本项目（仅做文本表与数据文件
+层面的汉化）无法自行完成的部分。
+
+此外，本补丁还收录了该工具汉化包中的约 450 条译文，包括 LAM、Narc、
+Streak MRM、QS 弹药、布雷克圣言会对话与安杜瑞恩公国合约文本等。
+收录文本时仅统一了排版风格，译文内容保持原样。
+
+特此向月光石头的汉化工作致谢。
 
 
 【安装】
