@@ -1,6 +1,6 @@
 # BATTLETECH / RogueTech 简体中文补丁
 
-给 **BATTLETECH**（含全部 DLC）与 **RogueTech** 大型模组包使用的简体中文汉化补丁。
+给 **BATTLETECH**（含全部 DLC）与 **RogueTech** 大型模组包使用的简体中文汉化补丁。目前我仅兼容steam版本
 
 面向已经装好 RogueTech 的玩家：解压、双击 `安装.bat`、重启游戏即可。
 
