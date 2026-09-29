@@ -65,8 +65,11 @@ Say (" 备份目录: backup\" + $stamp)
 function BackupAndCopy($src, $dst, $label) {
     if (-not [IO.File]::Exists($src)) { Warn ("包内缺少文件，已跳过: " + $label); return $false }
     if ([IO.File]::Exists($dst)) {
+        # 备份保留原目录结构(相对游戏根), 一键还原时直接按相对路径覆盖回去
         $rel = $dst.Substring($gameRoot.Length).TrimStart('\')
-        $bak = Join-Path $backupDir ($rel -replace '[\\/]', '_')
+        $bak = Join-Path $backupDir $rel
+        $bakParent = Split-Path $bak -Parent
+        if (-not [IO.Directory]::Exists($bakParent)) { [void][IO.Directory]::CreateDirectory($bakParent) }
         [IO.File]::Copy($dst, $bak, $true)
     }
     $dir = Split-Path $dst -Parent
@@ -156,7 +159,11 @@ if ($zhs.Count -eq 0) { Ok "无遗留备份" }
 else {
     foreach ($z in $zhs) {
         $rel = $z.FullName.Substring($gameRoot.Length).TrimStart("\")
-        [IO.File]::Move($z.FullName, (Join-Path $backupDir ($rel -replace "[\\/]", "_")))
+        # 保留目录结构, 放到 backup\<时间戳>\zhbak\<相对路径> 下, 便于追溯
+        $bak = Join-Path $backupDir ("zhbak\" + $rel)
+        $bakParent = Split-Path $bak -Parent
+        if (-not [IO.Directory]::Exists($bakParent)) { [void][IO.Directory]::CreateDirectory($bakParent) }
+        [IO.File]::Move($z.FullName, $bak)
     }
     Ok ("已移出 " + $zhs.Count + " 个文件")
 }

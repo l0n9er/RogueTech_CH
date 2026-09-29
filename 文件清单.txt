@@ -30,10 +30,12 @@ Mods\                                已汉化的模组数据（安装脚本会�
   Mods\Core\TisButAScratch\TisButAScratch.dll
   Mods\WarTechIIC\WarTechIIC.dll
 
-【安装】
+【安装与还原】
 安装.bat                             一键安装（双击即可）
+还原.bat                             一键还原（双击即可，用最新备份按目录结构覆盖回游戏）
 工具\安装.ps1                        安装脚本：自动找游戏目录、先备份再覆盖、
-                                     游戏在运行则拒绝执行，共 9 个步骤
+                                     备份保留原目录结构，游戏在运行则拒绝执行，共 9 个步骤
+工具\还原.ps1                        还原脚本：把 backup\<时间戳>\ 按相对路径覆盖回游戏
 
 【工具】（正常无需手动运行，安装脚本会自动调用）
 工具\fold-apply.ps1                  数据字段汉化（Details / YangsThoughts / StockRole）
