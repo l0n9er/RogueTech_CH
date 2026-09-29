@@ -54,6 +54,11 @@
         安杜瑞恩公国合约文本 等。
       收录文本时仅统一了排版（标点风格、标签后空格），译文内容保持原样。
 
+      同时收录该工具提供的中文字形字体与配套资源：
+        BattleTech_Data/StreamingAssets/font                      中文字形（Unity 资源包）
+        BattleTech_Data/StreamingAssets/data/VersionManifest.csv  资源清单
+        Mods/Core/CodeWords/mod_localized_text.json               行动代号词表（中译）
+
       上述内容的版权归原作者月光石头所有。
 
 这些文件的版权与许可条款以其原始发布方为准。

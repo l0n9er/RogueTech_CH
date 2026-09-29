@@ -6,8 +6,14 @@ strings_zh-CN.csv                    翻译总表：61,788 行 / 61,415 键
 BattleTech_Data\Managed\*.dll        游戏主程序集（2 个，界面文字汉化）
 Mods\                                已汉化的模组数据（安装脚本会全部写入游戏）
   Core\MechAffinity\AffinityDefs\*.json    224 个亲和数据（levelName / decription）
-  Core\*\Localization*.json                各模组本地化表（CULTURE_ZH_CN 字段）
+  Core\*\Localization*.json                各模组本地化表（CULTURE_ZH_CN 字段，39 个）
   Core\*\categories\Categories_*.json      装备分类显示名
+  Core\CodeWords\mod_localized_text.json   行动代号词表（阿尔法/布拉沃…）
+
+【汉化必需资源】（游戏原版没有，缺了中文会显示异常）
+BattleTech_Data\StreamingAssets\font                中文字形字体（Unity 资源包，
+                                                    17 MB，缺了中文会显示成方框）
+BattleTech_Data\StreamingAssets\data\VersionManifest.csv  游戏资源清单（2.2 MB）
 
 【汉化 DLL】（共 25 个，出自月光石头的《BATTLETECH 汉化工具》）
   BattleTech_Data\Managed\Assembly-CSharp.dll              游戏主程序集

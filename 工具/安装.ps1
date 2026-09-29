@@ -161,6 +161,13 @@ $dllList = @(
     'Mods\Core\TisButAScratch\TisButAScratch.dll',
     'Mods\WarTechIIC\WarTechIIC.dll'
 )
+# 非 DLL 的汉化必需资源（不在 Mods\ 下，第 3 步覆盖不到）：
+#   font                  —— Unity 资源包，中文字形字体，缺了中文会显示成方框
+#   VersionManifest.csv   —— 游戏资源清单，登记资源加载
+$assetList = @(
+    'BattleTech_Data\StreamingAssets\font',
+    'BattleTech_Data\StreamingAssets\data\VersionManifest.csv'
+)
 $dllCnt = 0
 $dllSkip = 0
 foreach ($rel in $dllList) {
@@ -170,6 +177,14 @@ foreach ($rel in $dllList) {
 }
 if ($dllSkip -gt 0) { Warn ("有 " + $dllSkip + " 个 DLL 包内缺失，已跳过") }
 Ok ("已写入 " + $dllCnt + " 个 DLL")
+
+$assetCnt = 0
+foreach ($rel in $assetList) {
+    $s = Join-Path $packRoot $rel
+    $d = Join-Path $gameRoot $rel
+    if (BackupAndCopy $s $d $rel) { $assetCnt++ } else { Warn ("包内缺少资源，已跳过: " + $rel) }
+}
+Ok ("已写入 " + $assetCnt + " 个汉化资源（字体 / 资源清单）")
 
 # ---------- 5) 清理遗留备份 ----------
 # MechAffinity 会把自己目录下的所有文件都当作定义加载，.zhbak 会导致

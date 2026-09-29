@@ -99,7 +99,9 @@ LICENSE 与 README.md 的"许可"一节：
 
   · BATTLETECH 游戏本体与 DLC 文本 —— Harebrained Schemes / Paradox
   · RogueTech 模组包及各子模组数据 —— RogueTech 开发团队及子模组作者
-  · 月光石头《BATTLETECH 汉化工具》的 25 个汉化 DLL 及约 450 条译文
+  · 月光石头《BATTLETECH 汉化工具》的 25 个汉化 DLL、中文字体
+    （StreamingAssets\font）、VersionManifest.csv、行动代号词表
+    （CodeWords\mod_localized_text.json）及约 450 条译文
 
 
 【工具说明】
