@@ -1,0 +1,97 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventInheritor",
+    "Name": "旧日重现",
+    "Details": "舰桥上的气氛庄重肃穆。你和达里乌斯看着闪烁的全息影像里一位发言人面无表情地宣读你叔祖父的死讯，只给出遗产程序所要求的最低限度悼词。\n\n录音结束、影像熄灭后，杨走进房间。“呃，嘿，老板，”他开口道，“你忙着处理那些文书的时候，苏米尔找到了那些坐标所指的位置。她开着豹式出去了一趟，拖回来一台机甲。要我说，这就是那条讯息里所称的‘他最心爱的小宝贝’。”\n\n你挑起了眉毛，等着下文。\n\n“老实说，”杨继续说，“我瞄了一眼——那东西该进博物馆。”",
+    "Icon": "uixTxrSpot_IncomingTransimission.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "Check out the \"little treasure\".",
+        "Details": "继续"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "你和杨一路无言地走到机库。到了之后，映入眼帘的是一台莫名眼熟的战斗机甲。眼熟，却又想不起来为什么。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_background_inheritor",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

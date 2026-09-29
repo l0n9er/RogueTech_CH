@@ -1,0 +1,97 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventInfantry",
+    "Name": "一切按部就班",
+    "Details": "你正凝视窗外漆黑的虚空，杨清了清嗓子。\n\n“嘿，老板。那箱战斗装甲的东西刚到。我打算撬开它清点一下。想着你应该想知道。”",
+    "Icon": "uixTxrSpot_YangTalking.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "看看这些新玩具.",
+        "Details": "继续"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "你跟着杨下到货舱，一路与匆匆朝反方向赶去干活的机甲技师们擦肩而过。\n\n“你知道，老板，”你拐过弯角时杨开口道，“我一直想不明白，一个步兵为什么会想带着一群机甲兵。你这几年不是一直在躲着别被他们踩着吗？”\n\n这个问题出乎意料，你眨了眨眼，花了一点时间琢磨。“我大概只是想翻个身。现在轮到我在上面，他们得跟着我的调子跳舞。”\n\n杨轻轻笑了。“这我服气，老板。我服气。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_background_BA",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

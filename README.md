@@ -220,7 +220,7 @@ RtCache\                          启动器缓存副本
 
 **请在使用前仔细阅读。**
 
-1. **非官方作品。** 本补丁是玩家自制的非商业汉化项目，与
+1. **非官方作品。** 本补丁是玩家自制的免费汉化项目，与
    Harebrained Schemes、Paradox Interactive、Steam 及 RogueTech 开发团队
    **没有任何隶属或授权关系**。
 
@@ -296,6 +296,21 @@ RtCache\                          启动器缓存副本
 
 ## 许可
 
-本补丁的翻译文本与本项目自制脚本采用 CC0 1.0 Universal（公有领域贡献）许可，在法律允许的最大范围内放弃一切著作权及相关权利。
+**本补丁的翻译文本与本项目自制脚本**（`strings_zh-CN.csv` 中的中文译文、
+`工具/` 下的脚本、安装/还原脚本、文档）采用 **CC0 1.0 Universal**
+（Creative Commons Zero，公有领域贡献）许可，在法律允许的最大范围内
+放弃一切著作权及相关权利 —— 可自由复制、修改、分发，**包括商业用途**，
+无需署名。
 
-补丁内包含的第三方模组文件不适用上述许可，其权利归各自原作者。
+完整说明见 [LICENSE](LICENSE)，协议原文：
+https://creativecommons.org/publicdomain/zero/1.0/legalcode.zh-Hans
+
+补丁内包含的第三方内容**不适用**上述许可，其权利归各自原作者：
+
+- BATTLETECH 游戏本体与 DLC 的原始文本 —— © Harebrained Schemes / Paradox Interactive
+- RogueTech 模组包及各子模组数据 —— © RogueTech 开发团队及各子模组作者
+- 月光石头《BATTLETECH 汉化工具》的 25 个汉化 DLL 及约 450 条译文 —— © 月光石头
+- 其余第三方模组文件（`MechAffinity.dll` 界面标签替换、各模组 `Localization.json`、
+  `terms-13908.json` 术语表等）—— 版权归各自原作者
+
+这些文件的权利与许可以其原始发布方为准。如需商业使用，请自行取得权利人许可。

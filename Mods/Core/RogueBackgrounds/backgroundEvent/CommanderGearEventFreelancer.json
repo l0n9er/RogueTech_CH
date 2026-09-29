@@ -1,0 +1,97 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventFreelancer",
+    "Name": "完好如新！",
+    "Details": "你正准备回房休息，杨在舱室外的走廊里拦住了你。他看起来上气不接下气，身上覆着一层薄薄的机油和汗水。\n\n“嘿，老板，”他开口，随手在工装裤上擦着手，“我们最后几项检查都做完了。你那台 [[DM.BaseDescriptionDefs[LoreHunchback],驼背]] 伤得不轻，不过现在擦得干干净净、状态十足。”\n\n看到你脸上的疲惫一扫而空，杨用一只油腻的手拍在你肩上。“这才对嘛！来看看她！”",
+    "Icon": "uixTxrSpot_YangTalking.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "去机甲库！",
+        "Details": "继续"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "你跟着杨走向机甲库，他喋喋不休地念叨着所有用来让你的机甲恢复战斗状态的高端技术手段和工序。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_background_freelancer",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

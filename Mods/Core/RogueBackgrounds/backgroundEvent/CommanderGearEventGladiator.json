@@ -1,0 +1,283 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventGladiator",
+    "Name": "粉丝的礼物",
+    "Details": "“嘿，老板，你要的那箱索拉里斯旧装备送上来了，”杨说着走上舰桥。他周身萦绕着一种忐忑不安的气氛。\n\n“好吧，”你说，脸上带着坏笑，“说吧。”\n\n杨心虚地张望了一下，然后清了清嗓子开口。“你当年当角斗士时用的呼号不一样，对吧？是什么来着？我可能看过你几场比赛。”",
+    "Icon": "uixTxrSpot_YangTalking.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "You were \"Dragonforce\"! You were known for using <b>handheld flamers</b> and <b>industrial TSM</b>.",
+        "Details": "把玩具打开看看。"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "当你走向货舱时，你又向杨多透露了一些自己的过往，包括你的呼号以及你当年主要的对手是谁。\n\n“那是你？”他有些困惑地问道。“好吧，我能理解你为什么会离开了。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_reference_gladiator_flamers",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_1",
+        "Name": "You were \"Slayer\"! Your signatures were <b>large melee weapons</b>, made possible by use of <b>TSM</b>.",
+        "Details": "把玩具打开看看。"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_1_0",
+            "Name": "CommanderGearLoot",
+            "Details": "当你走向货舱时，你又向杨多透露了一些自己的过往，包括你的呼号以及你当年主要的对手是谁。\n\n“那是你？”他有些困惑地问道。“好吧，我能理解你为什么会离开了。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_reference_gladiator_melee",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_2",
+        "Name": "You were \"Iron Maiden\"! Your 'Mechs were adorned with <b>spiked armor</b> and fitted with <b>MASC</b>.",
+        "Details": "把玩具打开看看。"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_2_0",
+            "Name": "CommanderGearLoot",
+            "Details": "当你走向货舱时，你又向杨多透露了一些自己的过往，包括你的呼号以及你当年主要的对手是谁。\n\n“那是你？”他有些困惑地问道。“好吧，我能理解你为什么会离开了。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_reference_gladiator_spiked",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_3",
+        "Name": "You were \"Megadeth\"! Your 'Mech carried <b>Thunderbolt missiles</b>.",
+        "Details": "把玩具打开看看。"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_3_0",
+            "Name": "CommanderGearLoot",
+            "Details": "当你走向货舱时，你又向杨多透露了一些自己的过往，包括你的呼号以及你当年主要的对手是谁。\n\n“那是你？”他有些困惑地问道。“好吧，我能理解你为什么会离开了。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_reference_gladiator_TBM",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

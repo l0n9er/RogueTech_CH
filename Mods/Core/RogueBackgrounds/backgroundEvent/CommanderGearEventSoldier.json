@@ -1,0 +1,317 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventSoldier",
+    "Name": "半吊子军需官",
+    "Details": "你带着杨和苏米尔来到死信箱地点。两人看起来都有些紧张，与你相对淡定的样子形成鲜明对比。\n\n“这种死信箱总让我不舒服，”杨抱怨道，脑袋转个不停。\n\n“过一阵你就习惯了，”苏米尔说，“尤其是我被派去取货的次数。”\n\n“喂，我可不是你，你没注意到吗，”杨回嘴。\n\n“你俩闭嘴，”你插话道。\n\n一小堆箱子整整齐齐地捆在指定的准确位置，顶上有个定位信标缓缓闪烁。\n\n尽管早已远离了陆战队的日子，你和军需官交朋友这件事确实值回票价。这已经是第三批被“放错地方”的货了，你当然不打算现在开始抱怨。\n\n现在只剩一个问题——这次你要的又是什么好货？",
+    "Icon": "uixTxrSpot_Crates.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "两门短管 PPC，附双重散热器.",
+        "Details": "[能量武器]"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [
+              "pilot_military"
+            ],
+            "tagSetSourceFile": "Tags/PilotTags"
+          },
+          "ExclusionTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "在决定把箱子搬上豹式运回家之前，你觉得先验一下货总没坏处。\n\n你走到垛顶那只箱子前，把人家给的密码敲进键盘。随着一声令人满意的轻响，锁扣松开，箱盖弹起。\n\n里面的东西包装得整整齐齐——比大多数军用装备得到的照料明显要细致得多——是一对战斗机甲用的 [[DM.BaseDescriptionDefs[LoreSNPPC],短管 PPC]]。检查另一只箱子时，你发现了更令人心动的东西——星际联盟时代的 [[DM.BaseDescriptionDefs[LoreDHS],双散热器]]！\n\n“不错，”你自言自语，把箱子重新扣好。“好了，把这些全部搬上豹式，然后离开这里。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Stats": [
+                {
+                  "typeString": "System.Int32",
+                  "name": "Item.WeaponDef.Weapon_PPC_Snubnose",
+                  "value": "2",
+                  "set": false
+                },
+                {
+                  "typeString": "System.Int32",
+                  "name": "Item.HeatSinkDef.Gear_HeatSinkKit_Double",
+                  "value": "1",
+                  "set": false
+                },
+                {
+                  "typeString": "System.Int32",
+                  "name": "Item.HeatSinkDef.Gear_HeatSink_Double",
+                  "value": "4",
+                  "set": false
+                }
+              ],
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_starter_soldier",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_1",
+        "Name": "一门超级 AC/5，附弹药.",
+        "Details": "[实弹武器]"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [
+              "pilot_military"
+            ],
+            "tagSetSourceFile": "Tags/PilotTags"
+          },
+          "ExclusionTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_1_0",
+            "Name": "CommanderGearLoot",
+            "Details": "在决定把箱子搬上豹式运回家之前，你觉得先验一下货总没坏处。\n\n你走到垛顶那只箱子前，把人家给的密码敲进键盘。随着一声令人满意的轻响，锁扣松开，箱盖弹起。\n\n里面的东西包装得整整齐齐——比大多数军用装备得到的照料明显要细致得多——是一门星际联盟时代的 [[DM.BaseDescriptionDefs[LoreUAC],超级 AC/5]]。在随附的一只箱子里，你找到了这门武器的弹药。\n\n“不错，”你自言自语，把箱子重新扣好。“好了，把这些全部搬上豹式，然后离开这里。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Stats": [
+                {
+                  "typeString": "System.Int32",
+                  "name": "Item.WeaponDef.Weapon_Autocannon_UAC_5",
+                  "value": "1",
+                  "set": false
+                },
+                {
+                  "typeString": "System.Int32",
+                  "name": "Item.AmmunitionBoxDef.Ammo_AmmunitionBox_UAC_5",
+                  "value": "2",
+                  "set": false
+                }
+              ],
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_starter_soldier",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_2",
+        "Name": "两具 LRM-15 发射器与阿尔忒弥斯 IV 火控，附弹药.",
+        "Details": "[导弹武器]"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [
+              "pilot_military"
+            ],
+            "tagSetSourceFile": "Tags/PilotTags"
+          },
+          "ExclusionTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_2_0",
+            "Name": "CommanderGearLoot",
+            "Details": "在决定把箱子搬上豹式运回家之前，你觉得先验一下货总没坏处。\n\n你走到垛顶那只箱子前，把人家给的密码敲进键盘。随着一声令人满意的轻响，锁扣松开，箱盖弹起。\n\n里面的东西包装得整整齐齐——比大多数军用装备得到的照料明显要细致得多——是一具 [[DM.BaseDescriptionDefs[LoreLRM],LRM-15]] 发射器和配套的 [[DM.BaseDescriptionDefs[LoreArtemisIV],阿尔忒弥斯 IV 火控系统]]。旁边放着第二只一模一样的箱子。在随附的一只较小的箱子里，你找到了这些武器的弹药。\n\n“不错，”你自言自语，把箱子重新扣好。“好了，把这些全部搬上豹式，然后离开这里。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Stats": [
+                {
+                  "typeString": "System.Int32",
+                  "name": "Item.WeaponDef.Weapon_LRM_15",
+                  "value": "2",
+                  "set": false
+                },
+                {
+                  "typeString": "System.Int32",
+                  "name": "Item.UpgradeDef.Gear_Attachment_ArtemisIV",
+                  "value": "2",
+                  "set": false
+                },
+                {
+                  "typeString": "System.Int32",
+                  "name": "Item.AmmunitionBoxDef.Ammo_AmmunitionBox_LRM_Artemis",
+                  "value": "2",
+                  "set": false
+                }
+              ],
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_starter_soldier",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

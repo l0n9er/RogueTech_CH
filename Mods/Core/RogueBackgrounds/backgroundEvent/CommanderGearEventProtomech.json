@@ -1,0 +1,97 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventProtomech",
+    "Name": "氏族的一小步，佣兵的一大步",
+    "Details": "自从得知那座设施出了事故，你就一直心神不宁。那个地方和那套严苛的测试流程，在你的噩梦里占有特殊的位置。你站在观察舱的窗前凝视着漆黑太空，听到身后的舱门打开，你不禁一颤。\n\n“哎呀，抱歉，老板，”杨的声音传来。门在他身后轻轻嘶的一声合上，把你们两人留在近乎彻底的寂静里。至少在他再次开口之前是这样。“我们刚带着豹式回来。情况跟轨道扫描说的一模一样——那座设施彻底完了。”\n\n有那么一瞬间，你不知道自己该是什么感觉。那些墙里发生过的事，对你来说是一段影响深远的经历。\n\n“不过，”杨接着说，“我们确实找到了点东西——几台彻底散架的 [[DM.BaseDescriptionDefs[ConceptProtoMech],原型机甲]]。希望你不介意，我们把它们带回来了，我已经让兄弟们试着修一修，看看能不能凑出一整支小队来。",
+    "Icon": "uixTxrSpot_ArgoParked.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "坚持到底.",
+        "Details": ""
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "“谢谢你提醒，杨，”你说。这感觉并不好受，但你多少对这些机器生出几分共情。从某种角度说，它们和你一样被人抛弃了。“准备好了就告诉我。”\n\n杨点点头，转身要走。他停下脚步，在你肩上拍了一下。“会的，老板，”他说，“会的。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_background_protomech",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

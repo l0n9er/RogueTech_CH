@@ -1,0 +1,175 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventMerchant",
+    "Name": "你不会去下载全息影片的",
+    "Details": "“不行，”达里乌斯态度坚决。他抱着双臂、下颌紧绷，隔着指挥中心的全息显示屏直直盯着你。\n\n“哦，别这样！”你抗议道。“风险是很<i>小</i>，没错，但回报绝对值得！”\n\n你和达里乌斯已经来回争了十五分钟。你坚信自己能在船员们发现之前，把这批跑偏了的 <i>[[DM.BaseDescriptionDefs[LoreHolovidMercenaries],雇佣兵！]]</i> 剧集脱手。达里乌斯则不这么认为。\n\n“杨要是听说了，肯定会闹翻天。你知道的，”达里乌斯重申。“你这是在玩火。”\n\n“那又怎样？三<i>百万</i>，达里乌斯。”\n\n最终，他叹了口气，摊开双手。“行吧，随你去，但要是这事回头咬我们一口，别来找我抱怨。”",
+    "Icon": "uixTxrSpot_Darius.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "在本地网络上找买家.",
+        "Details": ""
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "Option 1",
+            "Details": "你以离谱的价格发布那套全息剧集，才过了整整两个小时就有人上钩了。看来这个星系里娱乐实在难得，又或者你碰上了一个非常执着的收藏家。\n\n你以极其保密的方式安排了一次死信箱交接，确保船上没人知道这笔交易，然后顺利收钱。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "Company",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Stats": [
+                {
+                  "typeString": "System.Int32",
+                  "name": "Funds",
+                  "value": "3000000",
+                  "set": false
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_1",
+        "Name": "顺手搞点影片盗版，就当犒劳.",
+        "Details": "[指挥官: 不诚实]"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [
+              "pilot_dishonest"
+            ],
+            "tagSetSourceFile": "Tags/PilotTags"
+          },
+          "ExclusionTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_1_0",
+            "Name": "Option 1",
+            "Details": "你浏览各种商业网络时，突然灵光一现。为什么只卖<i>一份</i>全息剧集呢？哦吼吼，真是坏得有趣啊，{COMMANDER.FirstName}。一部主要由[[DM.BaseDescriptionDefs[LorePeriphery],外围]]乡下人追捧的剧集，肯定没什么反盗版系统吧。\n\n你捧着套装盒冲进工程部。你向她解释这套方案时，法拉看起来一点也不觉得有趣。她的眉毛再往下压一点就要碰到下巴了。她不情不愿地从你手里接过了全息影像。\n\n“我弄好了会告诉你，大概吧，指挥官，”她带着一副认输的神情说。\n\n几个小时后，你已经用盗版拷贝淹没了当地市场：<i>[[DM.BaseDescriptionDefs[LoreHolovidMercenaries],雇佣兵！]]</i>\n\n这肯定不会惹出什么麻烦吧。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "Company",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Stats": [
+                {
+                  "typeString": "System.Int32",
+                  "name": "Funds",
+                  "value": "3000000",
+                  "set": false
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventCorsair",
+    "Name": "水手，那边有机甲",
+    "Details": "你上一次劫掠结束已经是几个小时前，但你连战利品的一小部分都还没理清。你站在<i>阿尔戈</i>号机甲库的另一头，一边往数据板里敲记录，一边看着所有人手把武器、炮弹和成片的战斗机甲装甲从对手机甲的残骸上卸下来。\n\n“嘿，老板，”杨的声音传来。\n\n你从数据板上抬起头，看到他走过来，用腰间的抹布擦着油腻的手。\n\n“这些机甲里有一台状态相当不错。我们可以让她重新跑起来，而不用把她拆成战利品。”",
+    "Icon": "uixTxrSpot_YangTalking.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "就这么办.",
+        "Details": "把玩具打开看看。"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "你点头同意。“听起来不错。让我们看看老 Bobbert 到底拿什么招呼我们。”\n\n让那台机甲准备好又花了几个小时，杨一边扔出报废的部件，一边抱怨手艺“不够讲究”。当他把自己的设计像老鼠窝一样塞满整个底盘时，这份讽刺显然没被他察觉。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_background_corsair",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

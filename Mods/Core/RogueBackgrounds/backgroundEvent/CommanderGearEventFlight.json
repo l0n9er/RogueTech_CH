@@ -1,0 +1,219 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventFlight",
+    "Name": "继续飞",
+    "Details": "你赶到机甲库，看到杨在舱壁边使劲戳着数据板。你走近时，他抬头看了你一眼，简短地挥了下手。\n\n“嘿，老板。她已经卸完货了，”他说，朝机甲库里指了指。“有几处磕碰刮痕，但我想 Carrick 说话算话。没缺什么要紧的东西。你要不要自己看看？”\n\n你简短地点了下头，从杨身边快步走进机库。苏米尔在里面闲站着，当你揭开那台得意购来的机甲时，她瞪大了眼睛：",
+    "Icon": "uixTxrSpot_YangTalking.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "你偷了台陆空两用机甲??",
+        "Details": "[能驾驶机甲]"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [
+              "can_pilot_generic_mech"
+            ],
+            "tagSetSourceFile": ""
+          },
+          "ExclusionTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "里面如约躺着那架把你带到这里的飞船。你把手放在光滑的装甲板上，嘴角浮起一丝微笑。“我向你保证，这完全合法。严格来说。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_background_lam",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            },
+            {
+              "Scope": "Commander",
+              "AddedTags": {
+                "items": [
+                  "can_pilot_landairmech"
+                ],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_1",
+        "Name": "你偷了架 VTOL??",
+        "Details": "[能驾驶车辆]"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [
+              "can_pilot_generic_vehicle"
+            ],
+            "tagSetSourceFile": ""
+          },
+          "ExclusionTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "里面如约躺着那架把你带到这里的飞船。你把手放在光滑的装甲板上，嘴角浮起一丝微笑。“我向你保证，这完全合法。严格来说。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_background_vtol",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            },
+            {
+              "Scope": "Commander",
+              "AddedTags": {
+                "items": [
+                  "can_pilot_generic_vehicle",
+                  "pilot_vehicle_crew",
+                  "can_pilot_vtol"
+                ],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

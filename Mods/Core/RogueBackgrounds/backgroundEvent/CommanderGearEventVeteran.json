@@ -1,0 +1,97 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventVeteran",
+    "Name": "重返战场",
+    "Details": "你已经好几年没有这么想重新坐进驾驶舱了。你以为 [[DM.BaseDescriptionDefs[LoreDAMOCLES],达摩克利斯行动]] 带来的刺激足够用一辈子，可你还是发现自己再一次渴望着爬进驾驶座。你在机甲库外来回踱步，两侧是映出漆黑太空的装甲舷窗，这时杨的声音引起了你的注意。\n\n“嘿，老板。她已经从[[DM.BaseDescriptionDefs[LoreColdStorage],封存]]中出来了，”他告诉你，“随时可以上场。”\n\n你的脚步戛然而止，脸上浮起一丝笑意。杨似乎也注意到了，因为他自己也笑了起来。\n\n“怎么样？”他问，“你就打算站在这儿傻笑，还是过来看看她？”",
+    "Icon": "uixTxrSpot_YangTalking.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "与你的老友重逢.",
+        "Details": "把玩具打开看看。"
+      },
+      "RequirementList": [],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "机甲库和你记忆中一样闷热嘈杂，一如既往。然而，你的心神只凝聚在一件事上：你的机甲。你步履轻快地走过忙碌的机甲技师们，敏捷地绕过四处流淌的冷却液和飞溅的火花，直到终于望见了她——你的丛林猎手。她看起来，一如你离开那天般英姿飒爽。\n\n“希望她没介意在扫帚间里待那么久。”你说道。\n\n杨耸耸肩。“呃。她迟早总得出来透透气。”"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "System_ShowRewards",
+                  "value": "itemcollection_background_veteran",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "Description": {
+    "Id": "CommanderGearEventOfficer",
+    "Name": "征用指挥车",
+    "Details": "你切断与最后一位客户的通讯时，杨冲进了指挥中心。他看起来气喘吁吁，\r\n\r\n“出问题了，老板，”他说，靠在一旁的控制台上喘气。\r\n\r\n\r\n\r\n“继续说，”你挑了挑眉。\r\n\r\n\r\n\r\n他接着解释了这件麻烦事——是的，你以前的指挥车辆还在，但地面上已经乱成一团。档案丢了又找到，抄错了，又丢了，再从副本上抄，如此反复。\r\n\r\n“所以说，简单来说，”杨总结道，“他们那里有一架 [[DM.MechDefs[vehicledef_AWACS],AWACS 指挥 VTOL]] 和一辆 [[DM.MechDefs[vehicledef_MOBILEHQ_C3M],C3 Mobile HQ 卡车]]，但他们不知道到底哪一件才真正属于你。在我看来，我们随便挑一件就行，他们根本分不出来！",
+    "Icon": "uixTxrSpot_YangTalking.png"
+  },
+  "Scope": "Company",
+  "Weight": 1,
+  "Requirements": {
+    "Scope": "Company",
+    "RequirementTags": {
+      "items": [
+        "DONOTFIRE"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "AdditionalRequirements": [],
+  "AdditionalObjects": [],
+  "Options": [
+    {
+      "Description": {
+        "Id": "outcome_0",
+        "Name": "拿下这架预警机.",
+        "Details": "把玩具打开看看。"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          },
+          "ExclusionTags": {
+            "items": [
+              "commander_ancestry_trueborn"
+            ],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_0_0",
+            "Name": "CommanderGearLoot",
+            "Details": "“我可不会对着送到嘴边的 VTOL 挑三拣四，”你说。“叫上苏米尔，把 [[DM.MechDefs[vehicledef_AWACS],AWACS]] 装上豹式，运回阿尔戈号。”\r\n\r\n\r\n\r\n杨点点头，快步走出房间，往机甲库去。\r\n\r\n 你等着。\r\n\r\n几秒钟后，他又从原路走了回来，从另一扇门出去，朝舰桥方向去了。他看到你注意到了这次失误，脸上死灰，但什么也没说，这回总算朝<i>正确的</i>方向去找苏米尔了。\r\n\r\n大约一小时后，你发现自己骄傲地拥有了一架 AWACS 指挥 VTOL。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "Company",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "Mech_AddRoster",
+                  "value": "vehicledef_AWACS",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            },
+            {
+              "Scope": "Commander",
+              "AddedTags": {
+                "items": [
+                  "can_pilot_generic_vehicle",
+                  "can_pilot_vtol"
+                ],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_1",
+        "Name": "拿下这台机动指挥车.",
+        "Details": "把玩具打开看看。"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          },
+          "ExclusionTags": {
+            "items": [
+              "commander_ancestry_trueborn"
+            ],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_1_0",
+            "Name": "CommanderGearLoot",
+            "Details": "“我可不会对着送到嘴边的 [[DM.MechDefs[vehicledef_MOBILEHQ_C3M],Mobile HQ]] 挑三拣四，”你说。“叫上苏米尔，把它装上豹式，运回阿尔戈号。”\r\n\r\n\r\n\r\n杨点点头，快步走出房间，往机甲库去。\r\n\r\n你等着。\r\n\r\n几秒钟后，他又从原路走了回来，从另一扇门出去，朝舰桥方向去了。他看到你注意到了这次失误，脸上死灰，但什么也没说，这回总算朝<i>正确的</i>方向去找苏米尔了。\r\n\r\n 大约一小时后，你发现自己骄傲地拥有了一辆 Mobile HQ。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "Company",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "Mech_AddRoster",
+                  "value": "vehicledef_MOBILEHQ_C3M",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            },
+            {
+              "Scope": "Commander",
+              "AddedTags": {
+                "items": [
+                  "can_pilot_generic_vehicle"
+                ],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_2",
+        "Name": "I am Trueborn, I will not pilot this",
+        "Details": "拿走 AWACS"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [
+              "commander_ancestry_trueborn"
+            ],
+            "tagSetSourceFile": ""
+          },
+          "ExclusionTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_2_0",
+            "Name": "CommanderGearLoot",
+            "Details": "“档案并没有丢失，根本就不存在任何证明这架 VTOL 属于我的记录。我是氏族的真血战士，绝不会让人看见我驾驶那种东西。不过，我可不会对着送到嘴边的 VTOL 挑三拣四，”你说。“叫上苏米尔，把 [[DM.MechDefs[vehicledef_AWACS],AWACS]] 装上豹式，运回阿尔戈号。”\r\n\r\n杨点点头，快步走出房间，往机甲库去。\r\n\r\n 你等着。\r\n\r\n几秒钟后，他又从原路走了回来，从另一扇门出去，朝舰桥方向去了。他看到你注意到了这次失误，脸上死灰，但什么也没说，这回总算朝<i>正确的</i>方向去找苏米尔了。\r\n\r\n大约一小时后，你发现自己的公司骄傲地拥有了一架 AWACS 指挥 VTOL。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "Company",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "Mech_AddRoster",
+                  "value": "vehicledef_AWACS",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            },
+            {
+              "Scope": "Commander",
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [
+                  "can_pilot_generic_vehicle",
+                  "can_pilot_vtol"
+                ],
+                "tagSetSourceFile": ""
+              },
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    },
+    {
+      "Description": {
+        "Id": "outcome_3",
+        "Name": "I am Trueborn, I will not pilot this",
+        "Details": "拿走移动指挥部。"
+      },
+      "RequirementList": [
+        {
+          "Scope": "Commander",
+          "RequirementTags": {
+            "items": [
+              "commander_ancestry_trueborn"
+            ],
+            "tagSetSourceFile": ""
+          },
+          "ExclusionTags": {
+            "items": [],
+            "tagSetSourceFile": ""
+          }
+        }
+      ],
+      "ResultSets": [
+        {
+          "Description": {
+            "Id": "outcome_3_0",
+            "Name": "CommanderGearLoot",
+            "Details": "“档案并没有丢失，根本就不存在任何证明这辆 MOBILE HQ 属于我的记录。我是氏族的真血战士，绝不会让人看见我驾驶那种东西。不过，我可不会对着送到嘴边的 MOBILE HQ 挑三拣四，”你说。“叫上苏米尔，把 [[DM.MechDefs[vehicledef_MOBILEHQ_C3M],Mobile HQ]] 装上豹式，运回阿尔戈号。”\r\n\r\n杨点点头，快步走出房间，往机甲库去。\r\n\r\n 你等着。\r\n\r\n几秒钟后，他又从原路走了回来，从另一扇门出去，朝舰桥方向去了。他看到你注意到了这次失误，脸上死灰，但什么也没说，这回总算朝<i>正确的</i>方向去找苏米尔了。\r\n\r\n大约一小时后，你发现自己的公司骄傲地拥有了一辆 Mobile HQ。"
+          },
+          "Weight": 100,
+          "Results": [
+            {
+              "Scope": "Company",
+              "Requirements": {
+                "Scope": "Company",
+                "RequirementTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                },
+                "ExclusionTags": {
+                  "items": [],
+                  "tagSetSourceFile": ""
+                }
+              },
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "Actions": [
+                {
+                  "Type": "Mech_AddRoster",
+                  "value": "vehicledef_MOBILEHQ_C3M",
+                  "additionalValues": null
+                }
+              ],
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            },
+            {
+              "Scope": "Commander",
+              "AddedTags": {
+                "items": [],
+                "tagSetSourceFile": ""
+              },
+              "RemovedTags": {
+                "items": [
+                  "can_pilot_generic_vehicle",
+                  "can_pilot_vtol"
+                ],
+                "tagSetSourceFile": ""
+              },
+              "TemporaryResult": false,
+              "ResultDuration": 0
+            }
+          ]
+        }
+      ],
+      "Requirements": {
+        "Scope": "Company",
+        "RequirementTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        },
+        "ExclusionTags": {
+          "items": [],
+          "tagSetSourceFile": ""
+        }
+      }
+    }
+  ],
+  "PublishState": "UNPUBLISHED",
+  "ValidationState": "UNTESTED",
+  "EventType": "UNSELECTABLE",
+  "OneTimeEvent": false,
+  "Tags": {
+    "items": [],
+    "tagSetSourceFile": "tags/EventTags"
+  }
+}

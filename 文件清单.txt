@@ -46,6 +46,8 @@ Mods\                                已汉化的模组数据（安装脚本会�
 工具\apply-norm.ps1                  术语归一化与格式修复
 工具\norm-csv.ps1                    规范化翻译总表的标点格式
 工具\qa-check.ps1                    汉化质量自检
+工具\fix-interp-punct.ps1            修复插值占位符 [[...]] 内的中文标点
+                                     （占位符内的全角逗号会让游戏显示"错误"）
 工具\check-registry.ps1              注册表标识符校验（防止单位类型等内部
                                      标识符被汉化；发现中文会自动还原）
 工具\affinity-zh.tsv                 亲和名称中英对照
@@ -55,6 +57,13 @@ Mods\                                已汉化的模组数据（安装脚本会�
 可选-模组形式\CustomLocalization-ZH-CN\   把翻译总表做成 ModTek 模组
                                           （复制到 <游戏目录>\Mods\Options\Localization\）
 RtCache\                             与 RogueTech 启动器缓存目录对应的副本
+
+【文档与许可】
+LICENSE                              许可说明：自制部分为 CC0 1.0（公有领域贡献），
+                                     第三方内容权利归各自原作者，附 CC0 官方英文全文
+README.md                            项目说明、安装步骤、免责声明、致谢与许可
+说明.txt                             包内速览说明（含许可摘要）
+文件清单.txt                         本文件
 
 【备份】（不打包进 zip）
 backup\                              覆盖前的原文件备份，按时间戳分目录
