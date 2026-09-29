@@ -38,6 +38,7 @@ Streak MRM、QS 弹药、布雷克圣言会对话与安杜瑞恩公国合约文�
        若自动识别失败，可用参数手动指定：
          powershell -File "工具\安装.ps1" -gameRoot "D:\Steam\steamapps\common\BATTLETECH"
      · 覆盖前把原文件备份到 backup\<时间戳>\（保留原目录结构，方便还原）
+     · 写入各模组的本地化表 Localization.json（CULTURE_ZH_CN 译文）等数据文件
      · 检测到游戏仍在运行会直接报错退出，不会写坏文件
 
 3. 重新启动游戏

@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/9] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/10] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -108,10 +108,32 @@ if ([IO.Directory]::Exists($affSrc)) {
     Ok ("" + $cnt + " 个文件")
 } else { Warn "包内缺少亲和数据目录，已跳过" }
 
-# ---------- 3) 汉化 DLL ----------
+# ---------- 3) 本地化表与其余模组数据 ----------
+# 包内 Mods\ 下还有各模组的 Localization.json（CULTURE_ZH_CN 译文）与
+# CustomLocalization 的 mod.json 等数据文件。这些译文只存在于包内 ——
+# 安装脚本的词典（dict-all.tsv）不带它们：fold-apply 只处理
+# Details/YangsThoughts/StockRole 三种字段，且显式排除 Localization 目录。
+# 若不复制，界面里的一大批装备、技能、背景说明仍会是英文。
+# DLL 由下一步按固定清单处理，这里跳过 *.dll 避免重复写入。
+Step 3 "写入模组本地化表与数据文件"
+$dataSrc = Join-Path $packRoot "Mods"
+$dataCnt = 0
+$dataSkip = 0
+if ([IO.Directory]::Exists($dataSrc)) {
+    foreach ($f in [IO.Directory]::GetFiles($dataSrc, "*", [IO.SearchOption]::AllDirectories)) {
+        $rel = $f.Substring($dataSrc.Length).TrimStart('\')
+        if ($rel -like "*.dll") { continue }
+        $dst = Join-Path $gameRoot ("Mods\" + $rel)
+        if (BackupAndCopy $f $dst $rel) { $dataCnt++ } else { $dataSkip++ }
+    }
+    if ($dataSkip -gt 0) { Warn ("有 " + $dataSkip + " 个数据文件写入失败，已跳过") }
+    Ok ("" + $dataCnt + " 个文件")
+} else { Warn "包内缺少 Mods 目录，已跳过" }
+
+# ---------- 4) 汉化 DLL ----------
 # 这些 DLL 出自月光石头的《BATTLETECH 汉化工具》，通过反编译修改硬编码
 # 字符串实现界面汉化。包内按原始相对路径存放，逐个体替换。
-Step 3 "写入汉化 DLL（界面文字）"
+Step 4 "写入汉化 DLL（界面文字）"
 $dllList = @(
     'BattleTech_Data\Managed\Assembly-CSharp.dll',
     'BattleTech_Data\Managed\battletech_core.dll',
@@ -149,10 +171,10 @@ foreach ($rel in $dllList) {
 if ($dllSkip -gt 0) { Warn ("有 " + $dllSkip + " 个 DLL 包内缺失，已跳过") }
 Ok ("已写入 " + $dllCnt + " 个 DLL")
 
-# ---------- 4) 清理遗留备份 ----------
+# ---------- 5) 清理遗留备份 ----------
 # MechAffinity 会把自己目录下的所有文件都当作定义加载，.zhbak 会导致
 # 定义重复、键冲突，进而读档失败，必须移出游戏目录。
-Step 4 "清理遗留的 .zhbak 备份"
+Step 5 "清理遗留的 .zhbak 备份"
 $zhs = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
          Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs.Count -eq 0) { Ok "无遗留备份" }
@@ -168,36 +190,36 @@ else {
     Ok ("已移出 " + $zhs.Count + " 个文件")
 }
 
-# ---------- 5) 数据字段汉化 ----------
-Step 5 "汉化数据字段（Details / YangsThoughts / StockRole）"
+# ---------- 6) 数据字段汉化 ----------
+Step 6 "汉化数据字段（Details / YangsThoughts / StockRole）"
 RunTool 'fold-apply.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-pairs', (Join-Path $PSScriptRoot 'dict-all.tsv'),
                            '-csv', (Join-Path $packRoot 'strings_zh-CN.csv'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-defs'))
 Ok "完成"
 
-# ---------- 6) 装备分类显示名 ----------
-Step 6 "汉化装备分类显示名"
+# ---------- 7) 装备分类显示名 ----------
+Step 7 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
-# ---------- 7) 控制字符与标点空格 ----------
-Step 7 "清理控制字符、标点空格与插值占位符"
+# ---------- 8) 控制字符与标点空格 ----------
+Step 8 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
 RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
-# ---------- 8) 术语归一化与格式修复 ----------
-Step 8 "术语归一化与格式修复"
+# ---------- 9) 术语归一化与格式修复 ----------
+Step 9 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
-# ---------- 9) 校验 ----------
-Step 9 "校验"
+# ---------- 10) 校验 ----------
+Step 10 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }
