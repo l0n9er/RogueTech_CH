@@ -196,6 +196,14 @@ else { Ok "Mods 下无遗留备份文件" }
 $csvLine = ([IO.File]::ReadAllText($csvDst, [Text.Encoding]::UTF8) -split "`r`n").Count
 Ok ("翻译总表: " + $csvLine + " 行")
 
+# 注册表标识符校验: 单位类型名(UnitTypes_*.json 的 Name)是内部标识符, 绝不能被汉化
+# 一旦被译成中文(如 Quad -> 四足), 四足机甲的槽位限制会失效, 报
+# "过量 足部驱动器: 该单位在 左臂 中最多只能安装 0 个 / QuadIncompatible 无法与 四足机甲 搭配使用"
+RunTool 'check-registry.ps1' @('-mods', (Join-Path $gameRoot 'Mods'))
+if ($LASTEXITCODE -ne 0) {
+    Warn "检测到标识符被汉化, 安装脚本已自动还原, 请查看 backup\registry-check.txt"
+} else { Ok "注册表标识符正常" }
+
 Say ""
 Say "================================================"
 Say " 安装完成，请重新启动游戏。"

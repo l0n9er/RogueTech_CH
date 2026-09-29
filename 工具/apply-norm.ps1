@@ -102,7 +102,7 @@ function Fix-Text([string]$text, [string]$src) {
 $fldList = @('Details','YangsThoughts','StockRole','levelName','decription','DisplayName','ErrorMessage','title','description','Text','CULTURE_ZH_CN','UIName','Name','Original','Commentary')
 $flds = [string]::Join('|', $fldList)
 $fieldRx = [regex]('"(' + $flds + ')"\s*:\s*"((?:[^"' + $BS + $BS + ']|' + $BS + $BS + '.)*)"')
-$excl = @($BS + '.modtek' + $BS, 'ModSaves')
+$excl = @($BS + '.modtek' + $BS, 'ModSaves', $BS + 'unitTypes' + $BS)
 $files = Get-ChildItem $mods -Recurse -File -Filter '*.json' | Where-Object {
     $p = $_.FullName; $bad = $false
     foreach ($e in $excl) { if ($p -like ('*' + $e + '*')) { $bad = $true } }
