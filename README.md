@@ -277,7 +277,7 @@ RtCache\                          启动器缓存副本
 
 ### 其他
 
-- 术语基准来自 BATTLETECH 官方中文术语表（terms-13908.json）
+- 术语基准来自 BATTLETECH TEP大佬提供的术语表（terms-13908.json）
 - 感谢 RogueTech 开发团队及各子模组作者
 
 ---
