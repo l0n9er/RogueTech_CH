@@ -39,6 +39,8 @@ Streak MRM、QS 弹药、布雷克圣言会对话与安杜瑞恩公国合约文�
          powershell -File "工具\安装.ps1" -gameRoot "D:\Steam\steamapps\common\BATTLETECH"
      · 覆盖前把原文件备份到 backup\<时间戳>\（保留原目录结构，方便还原）
      · 写入各模组的本地化表 Localization.json（CULTURE_ZH_CN 译文）等数据文件
+     · 自动禁用 RogueTech 启动器的文件校验（SafeLaunchDisabled=true）
+       否则启动器会把汉化文件判为"篡改"，用英文原版覆盖回去
      · 检测到游戏仍在运行会直接报错退出，不会写坏文件
 
 3. 重新启动游戏
@@ -53,6 +55,15 @@ Streak MRM、QS 弹药、布雷克圣言会对话与安杜瑞恩公国合约文�
 · 回滚：双击 还原.bat，会用最新一份备份按原目录结构覆盖回游戏
   （备份在 backup\<时间戳>\ 下，保留相对游戏目录的路径结构）
 · 安装脚本可重复执行，不会重复写入或破坏内容
+
+· 关于启动器的文件校验
+  RogueTech 启动器（RogueLauncher.exe）启动游戏前会校验模组文件哈希，
+  把汉化过的文件判为"篡改"并用英文原版覆盖，导致汉化失效。
+  安装脚本会自动把启动器配置 RtLauncherSettings.xml 中的
+  SafeLaunchDisabled 改为 true 来跳过这项校验。
+  若之后手动重装或重置过启动器，配置可能被改回 false —— 重跑
+  安装.bat，或单独运行：
+    powershell -File "工具\fix-launcher-safe.ps1"
 
 
 【已知未汉化的部分】

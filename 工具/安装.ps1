@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/10] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/11] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -205,36 +205,44 @@ else {
     Ok ("已移出 " + $zhs.Count + " 个文件")
 }
 
-# ---------- 6) 数据字段汉化 ----------
-Step 6 "汉化数据字段（Details / YangsThoughts / StockRole）"
+# ---------- 6) 禁用启动器安全检查 ----------
+# RogueLauncher 启动游戏前会做哈希校验，把汉化过的文件判为 "file tamper
+# detected" 并用缓存里的英文原版覆盖回 Mods（实测一次启动 7400+ 条），
+# 汉化因此大面积失效。把 SafeLaunchDisabled 设为 true 可跳过该覆盖。
+Step 6 "禁用 RogueTech 启动器的文件校验（防止汉化被覆盖）"
+RunTool 'fix-launcher-safe.ps1' @('-backupRoot', $backupDir)
+Ok "完成"
+
+# ---------- 7) 数据字段汉化 ----------
+Step 7 "汉化数据字段（Details / YangsThoughts / StockRole）"
 RunTool 'fold-apply.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-pairs', (Join-Path $PSScriptRoot 'dict-all.tsv'),
                            '-csv', (Join-Path $packRoot 'strings_zh-CN.csv'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-defs'))
 Ok "完成"
 
-# ---------- 7) 装备分类显示名 ----------
-Step 7 "汉化装备分类显示名"
+# ---------- 8) 装备分类显示名 ----------
+Step 8 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
-# ---------- 8) 控制字符与标点空格 ----------
-Step 8 "清理控制字符、标点空格与插值占位符"
+# ---------- 9) 控制字符与标点空格 ----------
+Step 9 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
 RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
-# ---------- 9) 术语归一化与格式修复 ----------
-Step 9 "术语归一化与格式修复"
+# ---------- 10) 术语归一化与格式修复 ----------
+Step 10 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
-# ---------- 10) 校验 ----------
-Step 10 "校验"
+# ---------- 11) 校验 ----------
+Step 11 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }

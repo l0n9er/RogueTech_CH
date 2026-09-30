@@ -40,8 +40,8 @@ BattleTech_Data\StreamingAssets\data\VersionManifest.csv  游戏资源清单（2
 安装.bat                             一键安装（双击即可）
 还原.bat                             一键还原（双击即可，用最新备份按目录结构覆盖回游戏）
 工具\安装.ps1                        安装脚本：自动找游戏目录、先备份再覆盖、
-                                     备份保留原目录结构，游戏在运行则拒绝执行，共 10 个步骤
-                                     含写入模组本地化表与数据文件（Localization.json 等 52 个）
+                                     备份保留原目录结构，游戏在运行则拒绝执行，共 11 个步骤
+                                     含写入模组本地化表与数据文件、禁用启动器文件校验
 工具\还原.ps1                        还原脚本：把 backup\<时间戳>\ 按相对路径覆盖回游戏
 
 【工具】（正常无需手动运行，安装脚本会自动调用）
@@ -55,6 +55,9 @@ BattleTech_Data\StreamingAssets\data\VersionManifest.csv  游戏资源清单（2
 工具\qa-check.ps1                    汉化质量自检
 工具\fix-interp-punct.ps1            修复插值占位符 [[...]] 内的中文标点
                                      （占位符内的全角逗号会让游戏显示"错误"）
+工具\fix-launcher-safe.ps1           禁用 RogueTech 启动器的文件哈希校验
+                                     （SafeLaunchDisabled=true，否则启动器会把
+                                     汉化判为篡改并用英文原版覆盖）
 工具\check-registry.ps1              注册表标识符校验（防止单位类型等内部
                                      标识符被汉化；发现中文会自动还原）
 工具\affinity-zh.tsv                 亲和名称中英对照
