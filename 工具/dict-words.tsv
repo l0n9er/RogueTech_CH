@@ -589,3 +589,54 @@ We will come get you Stat!	我们马上来接你！
 We will head back to the Argos, Try not to be kidnaped in the meantime.	我们先回阿尔戈斯号，这期间尽量别被绑架。
 Were glad to be of assistance.	很高兴能帮上忙。
 You're coming up on the local government facility, Commander.	你正在接近当地政府设施，指挥官。
+ ...Confirmed. Ms. Bosh is visiting her friend up in the next town. I'm forwarding the coordinates to you now.	……确认。博什女士正在邻镇拜访朋友。我现在把坐标发给你。
+ Turrets. Remember they can spot you from a very long way off, Commander.	炮塔。记住它们能在很远处发现你，指挥官。
+(Additional Dropped Forces Enemy Ally Primary). Inbound hostile DropShip detected, drop zone marked.	（敌方盟军空降增援·主要）。检测到敌方运输舰接近，空降区已标记。
+(Additional Dropped Forces Enemy Ally Secondary) . Inbound hostile DropShip detected, drop zone marked.	（敌方盟军空降增援·次要）。检测到敌方运输舰接近，空降区已标记。
+(Additional Target Forces 2 Secondary). Inbound hostile DropShip detected, drop zone marked.	（目标增援 2·次要）。检测到敌方运输舰接近，空降区已标记。
+(Additional Target Forces Primary). Inbound hostile DropShip detected, drop zone marked.	（目标增援·主要）。检测到敌方运输舰接近，空降区已标记。
+(Additional Target Forces Secondary). Inbound hostile DropShip detected, drop zone marked.	（目标增援·次要）。检测到敌方运输舰接近，空降区已标记。
+(Hostile to All Secondary). In bound hostile DropShip detected, drop zone marked.	（对所有势力敌对·次要）。检测到敌方运输舰接近，空降区已标记。
+(Hostile to All Secondary). Inbound hostile DropShip detected, drop zone marked.	（对所有势力敌对·次要）。检测到敌方运输舰接近，空降区已标记。
+*** DETECTED INCOMING FORCES OF UNKNOWN ORIGIN ****  ...  *** RED ALERT STATUS ***	*** 侦测到来源不明的来袭部队 ****  ……  *** 红色警戒状态 ***
+*** DETECTED OCCUPYING FORCE *** ... *** VIRUS DETECTED ON OCCUPYING UNITS *** .... *** ACTIVATING DEVICE NETWORK ***	*** 侦测到占领部队 *** …… *** 占领单位上发现病毒 *** …… *** 正在激活装置网络 ***
+*** DETECTED UNKNOWN FORCE *** ... *** VIRUS BREACH DETECTED *** .... *** ACTIVATING DEVICE NETWORK ***	*** 侦测到不明部队 *** …… *** 检测到病毒入侵 *** …… *** 正在激活装置网络 ***
+*** DETECTED UNKNOWN FORCE *** ... *** VIRUS DETECTED *** .... *** ACTIVATING DEVICE NETWORK ***	*** 侦测到不明部队 *** …… *** 检测到病毒 *** …… *** 正在激活装置网络 ***
+**You hear faintly from the distance** Where did the Commander go? Quick! Dispatch medical teams to find him.	**你隐约听到远处传来** 指挥官去哪儿了？快！派医疗队去找他。
+*Growls* Those turrets aren't going to save you.	*低吼* 那些炮塔救不了你。
+*STATIC* -ook on the bright side kid, you get to keep all the money. *COUGH* Until next time.	*电流声* ……往好处想，孩子，钱你可以全留着。*咳嗽* 下次再会。
+-zzzt-  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> reporting!  I'm way off target...	-嗞-  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 报到！我严重偏离目标……
+... In that case, Commander, we're weapons-hot. Keep that VIP alive.	……既然如此，指挥官，我们武器已就绪。让那位贵宾活着。
+... and an allied {TEAM_EMP_ALLY.FactionDef.Demonym} lance. In theory, they're the ones doing all the work. In practice... assume the worst.	……外加一支友方 {TEAM_EMP_ALLY.FactionDef.Demonym} 小队。理论上活都是他们干。实际上……做好最坏的打算。
+... and extract safely. Keep the 'Mech carrying the artist in one piece!	……并安全撤离。别让载着那位艺术家的机甲散架！
+... and extract safely. Keep the Mech carrying the VIP in one piece!	……并安全撤离。别让载着贵宾的机甲散架！
+...<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> down...far off the dropgrid...  I'll regroup ASAP.	……<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 着陆……远离空投网格……我会尽快归队。
+...<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> here.  Damn it --- I got thrown WAY off.  Navigating terrain now.	……<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 在此。该死的——我被抛得老远。正在地形导航。
+...Ha! That's what you think. Time to go, boys!	……哈！你就这么想吧。该走了，弟兄们！
+...I'll be on station, Commander; meet me here when you're ready to leave.	……我会就位，指挥官；你准备离开时来这里找我。
+...That's it? No reinforcements?	……就这样？没有增援？
+...and the civilians get clean water tomorrow.	……明天民众就能喝上干净的水。
+...so let's scout out the target area. When we've found the convoy, we stop it from reaching its destination.	……所以我们去侦察目标区域。找到车队后，就阻止它抵达目的地。
+...status nominal, but are way off-course.  I repeat, we are the farthest from the objective.  Adjusting route.	……状态正常，但严重偏离航向。重复，我们离目标最远。正在调整路线。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> copies.  We'll be digging in around Alpha and have firing solutions plotted across the opssible approaches.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> 收到。我们将在 Alpha 周边构筑阵地，并已标定所有可能接近路线的射击诸元。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> here, copy.  We're on station near facility designated Alpha and establishing defensive firing positions around the plant.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> 在此，收到。我们已就位于代号 Alpha 的设施附近，正在厂区周边建立防御射击阵位。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.UnitName}</b></color> is operational.  We're on the target grid.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.UnitName}</b></color> 已投入作战。我们已进入目标网格。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> here.  You're not gonna like this --- I'm way off course.  Drop thrusters misfired.  I've got a lot of ground to cover.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 在此。你不会想听这个——我严重偏离航向。空投推进器失火。我得赶很远的路。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> ready at Bravo.  Attack vectors are quiet for now, but we'll keep our sensors hot.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 已在 Bravo 就绪。攻击方向暂时平静，但我们会保持传感器全开。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color>, and the rest are ready.  If the {TEAM_TAR.FactionDef.Demonym}s think we're splitting our attention, they're in for a surprise.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 及其他人都已就绪。如果 {TEAM_TAR.FactionDef.Demonym} 以为我们在分散注意力，他们会大吃一惊。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color>, reporting and in position at Bravo terminal.  We'll hold the line here.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 报到，已在 Bravo 终端就位。我们会守住这条线。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> checking in. I'm halfway out but I can regroup.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> 报到。我偏出一半路程，但能归队。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> here, I'm between you and...wherever <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> ended up.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> 在此，我在你和……<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 落脚的地方之间。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> reporting --- came down off-target.  I've got both of you on my sensors, but I'm not close enough to support immediately.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> 报到——降落偏离目标。传感器上能看到你们俩，但距离不足以立即支援。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> reporting.  We are in the field, but not where we planned.  Rough estimate puts us midway to objective.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> 报到。我们已落地，但不在预定位置。粗略估计在通往目标的半途。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> down --- close enough to you.  Took minor armor scuffs, still combat capable.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> 着陆——离你很近。装甲有些擦伤，仍可作战。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> down; close to your position, <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color>.  Minor dings but very much combat-capable.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> 着陆；位置靠近你，<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color>。有些轻微磕碰，但完全可作战。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> here.  Systems green.  I'm near the LZ.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> 在此。系统正常。我在着陆区附近。
+Additional {TEAM_TAR.FactionDef.Demonym} raiders detected approaching Alpha from a secondary vector. {MC.PlayerLances.TeamPilot_Random_2}, you've got company.	侦测到更多 {TEAM_TAR.FactionDef.Demonym} 袭扰者从次要方向逼近 Alpha。{MC.PlayerLances.TeamPilot_Random_2}，你有伴了。
+Contact!  Enemy lance entering Alpha's perimeter.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.UnitName}</color>, weapons free.	接触！敌军小队进入 Alpha 外围。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.UnitName}</color>，自由开火。
+Contact!  Raider lance emerging near Alpha Terminal.  {MC.PlayerLances.TeamPilot_Position_1.DisplayName}, intercept immediately.	接触！袭扰小队出现在 Alpha 终端附近。{MC.PlayerLances.TeamPilot_Position_1.DisplayName}，立即拦截。
+Control, this is <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color>, I'm on the ground near the facility perimeter.  Systems green.\n\r\nAnyone else intact?	控制中心，这里是 <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color>，我已降落于设施外围附近。系统正常。\n\r\n还有谁完好？
+Copy, Darius.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> down.  Systems green.  I've got visual on the facility, still intact.	收到，达吕斯。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> 着陆。系统正常。我已目视确认设施，仍然完好。
+Follow your instincts, {MC.PlayerLances.TeamPilot_Random_1.DisplayName}.  Keep the pressure on, stay alert on our rear, and don't overextend.	跟着直觉走，{MC.PlayerLances.TeamPilot_Random_1.DisplayName}。保持压力，留意后方，别过度推进。
+I don't see any movement down here Darius... {MC.PlayerLances.TeamPilot_Random_1.DisplayName} send the ping. Everyone else, on your guard.	我在这下面没看到任何动静，达吕斯……{MC.PlayerLances.TeamPilot_Random_1.DisplayName} 发个脉冲。其他人保持警戒。
+My <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.UnitName}</b></color>'s standing by.  We'll hold Bravo relay control.	我的 <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.UnitName}</b></color> 已待命。我们会守住 Bravo 中继控制点。
