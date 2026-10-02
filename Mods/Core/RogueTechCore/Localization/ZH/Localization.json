@@ -99223,4 +99223,19 @@
         "CULTURE_ZH_CN": "武器受损: 降低稳定性伤害I"
       }
     }
-]
+    ,{
+      "Name": "RogueTech_Core.BonusDescriptions_Weapons.IsPepperbox.Short",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Pepperbox",
+        "CULTURE_ZH_CN": "胡椒盒"
+      }
+    },
+    {
+      "Name": "RogueTech_Core.BonusDescriptions_Weapons.IsPepperbox.Long",
+      "Commentary": "RT-ZH-ADD",
+      "Localization": {
+        "CULTURE_EN_US": "Pepperbox",
+        "CULTURE_ZH_CN": "胡椒盒"
+      }
+    }]
