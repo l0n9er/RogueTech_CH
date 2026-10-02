@@ -321,3 +321,66 @@ Once we've secured our pilot, the Leopard will extract us at this LZ.	一旦接�
 Maybe you should try again later. Much, much later!	也许你该晚点再试。晚很多、很多！
 Ladies and Gentlemen welcome to Solaris Medium Tank League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 中型战车联赛！战斗开始！
 Ladies and Gentlemen welcome to Solaris Medium League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 中量级联赛！战斗开始！
+Mercenary Commander, we've received word of the assault on your position. Reinforcements are incoming, they are about halfway there.	佣兵指挥官，我们收到了你方阵地遇袭的消息。增援正在赶来，大约已过半程。
+Hark {COMMANDER.Name} here are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys are here too. Don't that beat it all. This is the primary version.	听好，{COMMANDER.Name}，这里还有 {TEAM_TAR_ALLY.FactionDef.Demonym} 的敌人。真是活见鬼。（主要版本）
+Hark {COMMANDER.Name} here are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys  are here too. Don't that beat it all. This is the secondary version.	听好，{COMMANDER.Name}，这里还有 {TEAM_TAR_ALLY.FactionDef.Demonym} 的敌人。真是活见鬼。（次要版本）
+Greetings, Commander. Understand that this facility is as important to the {TEAM_TAR_ALLY.FactionDef.Name} as it is to our {TEAM_TAR.FactionDef.Name}.	你好，指挥官。要知道，这座设施对 {TEAM_TAR_ALLY.FactionDef.Name} 的重要性不亚于对我们的 {TEAM_TAR.FactionDef.Name}。
+Looks like we have some unexpected support from {TEAM_EMP_ALLY.FactionDef.Demonym} forces.	看来有 {TEAM_EMP_ALLY.FactionDef.Demonym} 部队意外来支援我们。
+The {TEAM_EMP.FactionDef.Name} has provided some of their own forces to support us.	{TEAM_EMP.FactionDef.Name} 派出了一些自己的部队来支援我们。
+Ladies and Gentlemen welcome to Solaris Heavy Tank League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 重型战车联赛！战斗开始！
+Ladies and Gentlemen welcome to Solaris Heavy League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 重量级联赛！战斗开始！
+Ladies and Gentlemen welcome to Solaris Assault Tank League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 突击战车联赛！战斗开始！
+Ladies and Gentlemen welcome to Solaris Assault League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 突击级联赛！战斗开始！
+Keep us updated, Meyer.	随时通报，迈耶。
+Keep the pressure on to prevent them a chance to place those beacons!	保持压力，别给他们放置信标的机会！
+Keep sharp, Commander.  Watch your corners and don't get surrounded.  Good luck, Commander.	保持警觉，指挥官。注意各个角落，别被包围。祝好运，指挥官。
+It's 1/64, not the most vigorous opponents usually, but stay focused. Good luck!	这是一百二十八强赛，对手通常不算强悍，但仍要保持专注。祝好运！
+Is he for real?	他是认真的吗？
+I'm pulling the plug, Commander. No way to salvage this mess.	我要中止行动，指挥官。这烂摊子没法收拾了。
+I'm on station. Head for this LZ and I'll get you out of there.	我已就位。前往这个着陆区，我带你出去。
+I have a team of engineers that can manually restart the turrets, but that can only be done in person at turret control.	我有一队工程师可以手动重启炮塔，但必须亲自到炮塔控制室操作。
+Holy cow what a surprise it's a {TEAM_TAR_ALLY.FactionDef.Demonym} lance! A surprise indeed. This is the Secondary Objective version.	我的天，真是"惊喜"，是 {TEAM_TAR_ALLY.FactionDef.Demonym} 小队！确实够惊喜的。（次要目标版本）
+Hey, Darius—I'm seeing new heat signatures on the field. Second enemy lance is unbound?	喂，达吕斯——战场上出现新的热信号。第二支敌军小队解绑了？
+Good shooting, but don't celebrate yet.	枪法不错，但先别庆祝。
+Get to it, Commander.	动手吧，指挥官。
+Get them to safety, keep them intact, and get out of there when it's done.	把他们送到安全地带，保证完好无损，完事后就撤出去。
+Get ready for more company, Commander! We've got inbound Drop Pods, repeat... Drop Pods are on the way!	准备好迎接更多"客人"，指挥官！空投舱来袭，重复……空投舱正在路上！
+Copy that Lance Leader.	收到，小队长。
+Convoy 04's out of the danger zone	四号车队已脱离危险区
+Convoy 03 is away	三号车队已出发
+Convoy 02 whisked away	二号车队已撤离
+Convoy 01 has evacuated	一号车队已撤离
+<i>Shit!</i> Boss, they just fired a PPC off the Leopard's bow. I'm going nap-of-the-earth to try to shake them.	<i>该死！</i>头儿，他们刚朝豹式舰首开了一炮 PPC。我要贴地飞行甩掉他们。
+A friendly structure is taking damage, Commander. We may need to allocate more resources to protecting Militia HQ.	友方建筑正在受损，指挥官。我们可能需要调配更多资源保护民兵指挥部。
+A new lance of enemy reinforcements has arrived.	又一支敌军增援小队抵达了。
+A terrible shame, Commander. Your MechWarriors have been eliminated, their BattleMechs torn to scrap. I'm afraid that your time in the Tournament has come to an end.	太遗憾了，指挥官。你的机甲战士已被消灭，机甲被撕成碎片。恐怕你在锦标赛中的征程到此为止了。
+A terrible shame, Commander. Your MechWarriors have been eliminated. Your time in this contest is over.	太遗憾了，指挥官。你的机甲战士已被消灭。你在这场角逐中的征程结束了。
+A thing of beauty, XO. He's got about 80 percent of a Galileo Instruments Achilles up on blocks in there. It's an absolute monster of a DropShip, more than twice as big as ours.	真是件杰作，副官。他那儿架着一艘完成度约八成的伽利略仪器公司阿喀琉斯。那是艘不折不扣的巨兽级运输舰，比我们的大一倍还多。
+Acknowledged, Cheval. We'll try to send help your way.	收到，谢瓦尔。我们会想办法派人支援你。
+Acknowledged, Meyer. Commander, I'm guessing the attack on the logistical base is already underway. We need to get down there and intercept their vanguard.	收到，迈耶。指挥官，我猜对后勤基地的攻击已经开始了。我们得下去拦截他们的先头部队。
+Acknowledged. Commander, they'll stay near the base and intercept any hostiles that make it past your lance.	收到。指挥官，他们会留在基地附近，拦截任何突破你小队的敌人。
+Acknowledged. Meyer, how long have we got before the bad guys respond?	收到。迈耶，敌人反应过来之前我们还有多久？
+Acknowledged. Meyer, how much time have we got before the military base responds?	收到。迈耶，军事基地作出反应之前我们还有多少时间？
+Additionally, our communications are being disrupted by a ground installation. We can relay messages through the Leopard, but only over short distances.	此外，我们的通讯正受到一处地面设施的干扰。我们可以通过豹式中继消息，但仅限短距离。
+Affirmative, Carlyle. Commander, I've identified a good vantage point where you can get eyes on the facility. That should tell us what we're dealing with.	收到，卡莱尔。指挥官，我找到了一处视野良好的观察点，你可以在那里看清那座设施。这样就能知道我们面对的是什么。
+Affirmative, XO. Let's get out of here, boss.	收到，副官。我们撤吧，头儿。
+Affirmative. Let's get out of here. Drinks are on me.	收到。我们撤吧。酒算我的。
+All right, Commander; we're already behind the competition here, so we'll need to move fast.	好的，指挥官；我们在这场比赛里已经落后了，所以得快马加鞭。
+Always a pleasure to do work for the MIIO. Speaking of which, I believe that you owe us a substantial amount of money.	为军事情报局效劳一向是我的荣幸。说到这个，我想你们还欠我们一大笔钱。
+Ana Maria Centrella sends her regards, Commander {COMMANDER.LastName}. Looks like you could use a hand out here.	安娜·玛丽亚·琴特雷拉向你问好，指挥官 {COMMANDER.LastName}。看来你在这儿需要帮手。
+And Dobrescu's buried in the rubble. Brilliant work, Commander.	多布雷库斯被埋在废墟里了。干得漂亮，指挥官。
+And I'll be taking them. I'd advise you all to stand down, but I know that you won't listen, so I think I'll just shoot you instead.	而我会把它们都收下。我建议你们全都放下武器，但我知道你们不会听，所以我想我还是直接开枪好了。
+And I'm his brother, Jake!	而我是他的兄弟，杰克！
+And I'm on my way to pick you up. Get moving! I'll meet you at the LZ.	我正在赶来接你。动作快点！我们在着陆区碰头。
+And so, the table is set. At one end, Commander {COMMANDER.LastName}'s battle-hardened mercenaries. At the other, a throng of deadly lone wolves, each bound to the other only by their hunger for glory and blood.	就这样，局面已定。一端是 {COMMANDER.LastName} 指挥官身经百战的佣兵，另一端是一群致命的独狼，他们之间唯一的纽带就是对荣耀与鲜血的渴望。
+And you're much better than your buddy Cheval led us to believe.	你比你的伙伴谢瓦尔说的要强得多。
+Another DEST lance just deployed, Commander. Getting hot down there.	又一支 DEST 小队部署了，指挥官。下面越来越热了。
+Another enemy DropShip inbound to you, Commander. I'm marking its LZ.	又一艘敌方运输舰正朝你飞来，指挥官。我标出它的着陆区。
+Another enemy lance in the AO, Commander.	作战区域内又出现一支敌军小队，指挥官。
+Another member of Bravo Lance just went down! Looks like they managed to eject, but we can't risk this happening again!	Bravo 小队又有一名成员倒下了！看起来他们成功弹射了，但我们不能再冒这个险！
+Appreciate it, Jailbird. Call out if you need our help.	谢了，囚鸟。需要帮忙就喊一声。
+Appreciate the warning, but we aren't going anywhere.	多谢提醒，但我们哪儿也不去。
+Argo, our facility is taking fire over here. We need you to draw that fire off, or we're dead!	阿尔戈号，我们这边设施正在挨打。需要你们把火力引开，否则我们就完了！
+Argo, our forces are ready to assist in defending the base.	阿尔戈号，我们的部队已准备好协助防守基地。
+Argo, we're falling back to our base to hold off the attackers. Good luck out there.	阿尔戈号，我们正撤回基地抵挡进攻者。祝你们在外好运。
+Argo, we're under heavy-- [static]-- hold out-- [static]	阿尔戈号，我们正遭受猛烈——[电流声]——撑住——[电流声]
