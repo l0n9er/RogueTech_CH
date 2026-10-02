@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/13] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/14] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -238,13 +238,31 @@ RunTool 'apply-words.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                             '-backupRoot', (Join-Path $packRoot 'backup\Mods-words'))
 Ok "完成"
 
+# ---------- 9b) 任务标题/描述/物品界面名 ----------
+# 这些字段同样不查 CSV(或查询优先级低), 一并就地补译
+Step 10 "补译任务标题、目标描述与物品界面名"
+foreach ($pair in @(
+    @{ f = 'title';       d = 'dict-title.tsv' },
+    @{ f = 'description'; d = 'dict-desc.tsv' },
+    @{ f = 'UIName';      d = 'dict-uiname.tsv' }
+)) {
+    $dict = Join-Path $PSScriptRoot $pair.d
+    if ([IO.File]::Exists($dict)) {
+        RunTool 'apply-fields.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                     '-pairs', $dict,
+                                     '-fields', $pair.f,
+                                     '-backupRoot', (Join-Path $packRoot 'backup\Mods-fields'))
+    }
+}
+Ok "完成"
+
 # ---------- 9) 装备分类显示名 ----------
-Step 10 "汉化装备分类显示名"
+Step 11 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
 # ---------- 10) 控制字符与标点空格 ----------
-Step 11 "清理控制字符、标点空格与插值占位符"
+Step 12 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
@@ -252,14 +270,14 @@ RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 11) 术语归一化与格式修复 ----------
-Step 12 "术语归一化与格式修复"
+Step 13 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 12) 校验 ----------
-Step 13 "校验"
+Step 14 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }

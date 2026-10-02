@@ -229,3 +229,37 @@ NOT USED IN THIS FLASHPOINT.	此闪点任务未使用。
 Looks like the other mercs have joined in the fight!	看来其他佣兵也加入战斗了！
 Ladies and Gentlemen welcome to Solaris Medium League battle! Let the fight begin!	女士们先生们，欢迎来到 Solaris 中量级联赛对决！战斗开始！
 Ladies and Gentlemen welcome to Solaris Light League battle! Let the fight begin!	女士们先生们，欢迎来到 Solaris 轻量级联赛对决！战斗开始！
+Ladies and Gentlemen welcome to Solaris Heavy League battle! Let the fight begin!	女士们先生们，欢迎来到 Solaris 重量级联赛对决！战斗开始！
+Ladies and Gentlemen welcome to Solaris Assault League battle! Let the fight begin!	女士们先生们，欢迎来到 Solaris 突击级联赛对决！战斗开始！
+I'm on station to pick you up here whenever you're ready, boss.	我已就位，你准备好了随时来这里接你，头儿。
+I mean a four for one deal! Who could pass that up?!?	四换一的买卖！谁会错过？！？
+I don't have any way to know where they will land, but you can bet they will be close to the base.	我无法预知他们会降落在哪，但可以肯定离基地不远。
+I also have a guest announcer, claims he's a huge fan. Everyone, welcome Darius.	我还请来一位客座解说，自称是超级粉丝。各位，欢迎达吕斯。
+Hey, Darius I'm seeing new heat signatures on the field. Second enemy lance is unbound?	喂，达吕斯，战场上出现新的热信号。第二支敌军小队解绑了？
+Heads up, Commander. I see Drop Pods inbound.	当心，指挥官。我看到空投舱来袭。
+Heads up Commander, it's a hostile {TEAM_TAR_ALLY.FactionDef.Demonym} lance!  	当心，指挥官，是敌方 {TEAM_TAR_ALLY.FactionDef.Demonym} 小队！
+Heads up Commander, it's a hostile {TEAM_TAR_ALLY.FactionDef.Demonym} lance!	当心，指挥官，是敌方 {TEAM_TAR_ALLY.FactionDef.Demonym} 小队！
+Escorts are down, Commander. Good work. Let's wrap this up.	护卫已清除，指挥官。干得好。收尾吧。
+Commander, we've got a lance of enemy forces moving towards the {TEAM_EMP.FactionDef.Demonym} base.	指挥官，有一支敌军小队正朝 {TEAM_EMP.FactionDef.Demonym} 基地移动。
+Commander, we've completed all the primary objectives and you're clear to extract.	指挥官，主要目标已全部完成，你可以撤离了。
+Commander, long range sensors are picking up an enemy bogey. They'll be landing any minute.	指挥官，远程传感器捕捉到一个敌方目标。他们随时会降落。
+Bkt_KillConfirmed: The garrison is destroyed. Good work.	Bucket_击杀确认：守军已被消灭。干得好。
+As long as you're still in the AO, Commander, you'll need to keep the {TEAM_EMP.FactionDef.Demonym} base secure.	只要你还在作战区域内，指挥官，就得确保 {TEAM_EMP.FactionDef.Demonym} 基地的安全。
+Amazing, I thought the Commander had it in them!	精彩，我就知道指挥官有这个本事！
+A milk run, just as we expected. Good work, Commander.	如我们预料的轻松任务。干得好，指挥官。
+What a day for a classic Brawl!	经典混战的好日子！
+What a damn disaster. Let's debrief back in orbit.	真是一场灾难。回轨道上再做简报。
+The base is ours, Commander. Well done.	基地是我们的了，指挥官。干得漂亮。
+The AO is clear, we're still standing, and we've got you to thank for it. Would you mind covering us while we make our way to the evac point?	作战区域已肃清，我们还活着，这多亏了你。我们前往撤离点时，能麻烦你掩护一下吗？
+That's the round start signal! Good Luck!	回合开始的信号！祝好运！
+That's it, game over.	就这样，游戏结束。
+Recon has spotted additional bogies coming your way.	侦察发现更多目标正朝你方移动。
+Our bird is away, and we're clear of the AO. We owe you our lives, Commander.	我们的飞船已离开，我们撤出了作战区域。我们欠你一条命，指挥官。
+Ok, that was unfortunate. Let's prepare for the next round.	好吧，真不走运。准备下一回合。
+Let's hope their aim is better than their looks.	但愿他们的枪法比长相强。
+It's part of the hardened bunker, and we can't disable it until the orbital strike completes. So, I suggest moving quickly.	它是加固掩体的一部分，轨道打击完成前无法使其失效。所以我建议动作快点。
+INCOMING MESSAGE.	收到消息。
+Holy cow what a surprise it's a {TEAM_TAR_ALLY.FactionDef.Demonym} lance! A surprise indeed. This is the Primary Objective version.	我的天，真是"惊喜"，是 {TEAM_TAR_ALLY.FactionDef.Demonym} 小队！确实够惊喜的。（主要目标版本）
+Good hunting, Commander.	狩猎愉快，指挥官。
+Get them to safety, keep them intact, and get out there when it's done.	把他们送到安全地带，保证完好无损，完事后就撤出去。
+Game Over. Good shooting.	游戏结束。枪法不错。
