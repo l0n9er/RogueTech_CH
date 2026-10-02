@@ -45,7 +45,6 @@ Heads up Commander, its a hostile {TEAM_TAR_ALLY.FactionDef.Demonym} lance!	当�
 [GENERIC VO] The asset has been recovered, Commander. Good work.	[通用语音] 目标已回收，指挥官。干得好。
 You've reached the extraction point for the objective vehicles. Hold there are keep them safe until we can get them out.	你们已到达目标车辆的撤离点。守住那里，保护好它们，等我们接应。
 Ok, that was unfortunate. Let's try next season.	好吧，真不走运。下个赛季再试。
-Heads up Commander, its a hostile {TEAM_TAR_ALLY.FactionDef.Demonym} lance!	当心，指挥官，是敌方 {TEAM_TAR_ALLY.FactionDef.Demonym} 小队！
 Commander, a target building has been demolished. Ensure the integrity of the remaining buildings.	指挥官，一座目标建筑已被摧毁。请确保其余建筑完好。
 Mercenary Commander, we've received word of the assault on your position. Reinforcements are incoming, they are about halfway there. Maintain position and you'll be relieved shortly.	佣兵指挥官，我们收到了你方阵地遇袭的消息。增援正在赶来，大约已过半程。坚守阵地，很快就会解围。
 Commander, the friendly {TEAM_EMP.FactionDef.Demonym} has been destroyed.	指挥官，友方 {TEAM_EMP.FactionDef.Demonym} 已被消灭。
@@ -85,7 +84,6 @@ Our Employer has kindly added this group to the contract. If we want to get paid
 Commander, on this outing we have some additional support from our employer.	指挥官，这次行动我们得到了雇主的一些额外支援。
 Commander, {TEAM_TAR.FactionDef.Demonym} reinforcements are inbound to this location.	指挥官，{TEAM_TAR.FactionDef.Demonym} 的增援正赶往此地。
 Commander, I'm seeing hostile {TEAM_TAR_ALLY.FactionDef.Demonym} units in the area. Our target brought in allies for backup.	指挥官，我在这片区域发现了敌方 {TEAM_TAR_ALLY.FactionDef.Demonym} 单位。我们的目标叫来了帮手。
-Another {TEAM_EMP.FactionDef.Demonym} lance has dropped in Commander!	指挥官，又有一支 {TEAM_EMP.FactionDef.Demonym} 小队降落了！
 The {TEAM_EMP.FactionDef.Demonym} has been destroyed.	{TEAM_EMP.FactionDef.Demonym} 已被消灭。
 The convoy is finished, now get what mechs you have to the extraction point and we'll pull you out. Move quickly.	车队完了，把你剩下的机甲带到撤离点，我们接你出来。动作快。
 N/A	无
@@ -112,7 +110,6 @@ Once you have secured the Flag, you need to get to the extraction zone.	夺取�
 Hold this location until the Flag is captured.	守住此地，直到夺取战旗。
 Commander, the Flag location is straight ahead.	指挥官，战旗就在正前方。
 Commander, I've got inbound sensor contacts. Expect enemy reinforcements to drop in at any moment.	指挥官，传感器捕捉到来袭目标。敌军增援随时可能空降。
-Another {TEAM_TAR.FactionDef.Demonym} lance has dropped in Commander!	指挥官，又有一支 {TEAM_TAR.FactionDef.Demonym} 小队降落了！
 All our objectives are complete, cover our withdrawal, Commander.	所有目标已完成，指挥官，掩护我们撤退。
 A lance of hostile {TEAM_TAR.FactionDef.Demonym} has landed nearby.	一支敌方 {TEAM_TAR.FactionDef.Demonym} 小队已在附近降落。
 We're holding here for our own reinforcements. Get to your evac point and go! We'll cover you.	我们在此等自己的增援。你们赶往撤离点走吧！我们掩护。
@@ -185,7 +182,6 @@ Sensors are showing enemy movement beyond our intitial count. Be advised you mig
 Our employer wants us to kill these guys. This mission isn't ending until they die.	雇主想让我们干掉这帮人。他们不死，任务就不算完。
 Commander, a word of warning, we have reports this base may have gun emplacements for point defense.	指挥官，提醒一句，有报告称该基地可能设有定点防御炮位。
 [GENERIC VO] Area is not clear, Commander. Eliminate the hostiles before continuing to the next objective.	[通用语音] 区域尚未肃清，指挥官。先消灭敌人再前往下一个目标。
-Mercenary Commander, we've received word of the assault on your position. Reinforcements are incoming, they are about halfway there. Maintain position and you'll be relieved shortly.	佣兵指挥官，我们收到了你方阵地遇袭的消息。增援正在赶来，大约已过半程。坚守阵地，很快就会解围。
 PLACHEHOLDER (Hostile to All Secondary). In bound hostile Dropship detected, drop zone marked.	占位符（对所有势力敌对·次要）。检测到敌方空投艇接近，空降区已标记。
 PLACHEHOLDER (Additional Target Forces Secondary). In bound hostile Dropship detected, drop zone marked.	占位符（目标增援·次要）。检测到敌方空投艇接近，空降区已标记。
 PLACHEHOLDER (Additional Target Forces Primary). In bound hostile Dropship detected, drop zone marked.	占位符（目标增援·主要）。检测到敌方空投艇接近，空降区已标记。
@@ -322,10 +318,6 @@ Maybe you should try again later. Much, much later!	也许你该晚点再试。�
 Ladies and Gentlemen welcome to Solaris Medium Tank League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 中型战车联赛！战斗开始！
 Ladies and Gentlemen welcome to Solaris Medium League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 中量级联赛！战斗开始！
 Mercenary Commander, we've received word of the assault on your position. Reinforcements are incoming, they are about halfway there.	佣兵指挥官，我们收到了你方阵地遇袭的消息。增援正在赶来，大约已过半程。
-Hark {COMMANDER.Name} here are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys are here too. Don't that beat it all. This is the primary version.	听好，{COMMANDER.Name}，这里还有 {TEAM_TAR_ALLY.FactionDef.Demonym} 的敌人。真是活见鬼。（主要版本）
-Hark {COMMANDER.Name} here are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys  are here too. Don't that beat it all. This is the secondary version.	听好，{COMMANDER.Name}，这里还有 {TEAM_TAR_ALLY.FactionDef.Demonym} 的敌人。真是活见鬼。（次要版本）
-Greetings, Commander. Understand that this facility is as important to the {TEAM_TAR_ALLY.FactionDef.Name} as it is to our {TEAM_TAR.FactionDef.Name}.	你好，指挥官。要知道，这座设施对 {TEAM_TAR_ALLY.FactionDef.Name} 的重要性不亚于对我们的 {TEAM_TAR.FactionDef.Name}。
-Looks like we have some unexpected support from {TEAM_EMP_ALLY.FactionDef.Demonym} forces.	看来有 {TEAM_EMP_ALLY.FactionDef.Demonym} 部队意外来支援我们。
 The {TEAM_EMP.FactionDef.Name} has provided some of their own forces to support us.	{TEAM_EMP.FactionDef.Name} 派出了一些自己的部队来支援我们。
 Ladies and Gentlemen welcome to Solaris Heavy Tank League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 重型战车联赛！战斗开始！
 Ladies and Gentlemen welcome to Solaris Heavy League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 重量级联赛！战斗开始！
@@ -516,7 +508,6 @@ Thank you, Oliveira. I'll do my best to hold the HQ until you get here.	谢谢�
 Thanks for the assist, Argo. We can take things from here.	多谢支援，阿尔戈号。接下来交给我们。
 Thanks for the assist, Argo. We've got it from here.	多谢支援，阿尔戈号。这里交给我们了。
 Thanks for the assist, Commander. It's time for us to clear out.	多谢支援，指挥官。我们该撤了。
-Thanks for the assist, we're clear.	多谢支援，我们安全了。
 Thanks for the assistance, Commander. We're lifting off.	多谢协助，指挥官。我们起飞了。
 Thanks for the heads-up. We'll see you again when we regroup at Militia HQ. Oliveira out.	多谢提醒。等我们在民兵指挥部重新集结时再见。奥利维拉通话结束。
 Thanks for the pep talk, Lady Suiko. We can handle it from here.	多谢鼓励，隋子夫人。这里交给我们。
@@ -1039,7 +1030,6 @@ I don't know if I believe him, Boss. What's gonna stop this guy from turning aro
 I don't know what was more disappointing, the Quad, or your performance.	我不知道哪个更让人失望，那台四足机甲，还是你的表现。
 I don't know what went wrong, Commander, but we need to evac.	我不知道哪里出了问题，指挥官，但我们得撤离。
 I don't know who you are or who sent you, mercenary. But in the name of House Bisset and House Davion, you will abandon this factory or you will be destroyed.	我不知道你是谁、谁派你来的，佣兵。但以比塞特家族和达维昂家族的名义，你要么放弃这座工厂，要么被消灭。
-I don't know who you assholes are, but if you're here on Cunningham's dime, I'd recommend giving my lance a wide berth.	我不知道你们这帮混蛋是谁，但如果是坎宁安出钱雇你们来的，我建议离我的小队远点。
 I don't know who you people are, but you have us outgunned. I've been authorized to surrender to you.	我不知道你们是谁，但你们的火力压过我们。我已获授权向你们投降。
 I don't know who you think you are, Mercenary! But I am taking back what is mine	我不知道你自以为是谁，佣兵！但我要夺回属于我的东西
 I don't know who you think you are, Mercenary! But I am taking back what is mine!	我不知道你自以为是谁，佣兵！但我要夺回属于我的东西！
@@ -1120,7 +1110,6 @@ I'm not sure. We didn't receive any intel on that. It could be anything from loc
 I'm on that. Commander, destroy some of their 'Mechs to reduce the enemy flak a little.	这事交给我。指挥官，摧毁他们一些机甲，削弱点敌方防空火力。
 I've got the convoy leader on comms, Commander. They're ready to move out. Keep up with them and keep them safe.	我已接通车队队长，指挥官。他们准备出发了。跟上他们，保证他们的安全。
 I've highlighted several optional objectives for you on this mission, Commander.	指挥官，我在这次任务中为你标出了几个可选目标。
-I've looked them up. It's another paramilitary security team, and they're not the bargain-basement kind.	我查过他们了。又一支准军事安保队，而且不是便宜货色。
 I've marked Graf Stieglitz-Bradford's rendezvous point on your map, Commander.	指挥官，我已在地图上标出斯蒂格利茨-布拉德福德伯爵的会合点。
 I've marked the three regions where you'll need to place the targeting beacons.	我已标出你需要布设目标指示信标的三个区域。
 If I split, you'll do what exactly, Modge? Cry? Go ahead, see where it gets you.	我要是走了，你又能怎样，莫奇？哭吗？尽管试，看看有什么用。
@@ -1152,11 +1141,9 @@ If you want to put an asterisk by our victory, be my guest! I, for one, intend t
 If you're finished with this little diversion, you still have a job to do.	这场小插曲要是玩够了，你还有活要干。
 If you're seeing this, turn off this optional chunk!	如果你看到这段，说明该关掉这个可选区块！
 If, by some miracle, you manage to survive what's coming, feel free to drop me a line.	万一你奇迹般地从接下来的一切中活下来，尽管给我捎个信。
-Imagine me rolling my eyes dramatically. At any rate, my people tell me there are at least two lances of enemy 'Mechs on the surface, advancing toward your position.	你就想象我在夸张地翻白眼吧。总之，我的人告诉我，地表至少有两支敌军机甲小队正朝你的位置推进。
 Impressive work, Commander… this should make evacuating the Volkovites a lot easier.	干得漂亮，指挥官……这应该能让沃尔科维特人的撤离轻松不少。
 Impressive, the words used to describe you were correct. We will discuss the next move shortly.	厉害，关于你的评价果然不虚。我们很快讨论下一步。
 In that case, you've got your fight. En garde, Rhee. Show me what you've learned.	既然如此，你要的战斗来了。准备，李。让我看看你学到了什么。
-Indeed they will, Gigante. Indeed they will. Contestants, I call upon you to <i>destroy</i> your rivals!	确实会，吉甘特。确实会。各位选手，我号召你们<i>摧毁</i>你们的对手！
 Indeed. Ironwood Productions uses this facility to mass-produce Holovid entertainment for combat enthusiasts across the Inner Sphere.	确实。铁木制片公司利用这座设施，为内天体各地的战斗爱好者大批量制作全息娱乐作品。
 Indeed. One of these days I'll have to take the field against you personally.	确实。总有一天我得亲自上场跟你较量一番。
 I'll be recording this fight for broadcast, so try to put on a good show.	我会把这场战斗录下来播出，所以尽量演场好戏。
@@ -1208,7 +1195,6 @@ Kill him and get out, I really don't care what you do with his friends.	杀了�
 Kill them all and bring their still beating hearts to me!	把他们全杀了，把他们还在跳动的心脏带给我！
 Killing my Jackals wasn't enough for you, huh? You think that you can put Whistler in the ground?	杀了我的豺狼还不够，是吧？你以为你能把哨声埋进土里？
 Kilo 1-3 just got smoked! Suffering losses over here, Commander! We're still in the fight, but down one.	Kilo 1-3 被打爆了！这边损失惨重，指挥官！我们还能打，但少了一台。
-Lady Marina teamed you up with Cheval? Wonderful.	玛丽娜女士把你和谢瓦尔编到一组了？太好了。
 Lance down, Commander. I'm pulling us out.	小队全灭，指挥官。我带队撤出。
 Landing close to the base, get them.	在基地附近降落，抓住他们。
 Let me know if you need an Agent, Commander.	需要特工就告诉我，指挥官。
@@ -1358,7 +1344,6 @@ Once the convoy is handled, move to the extraction LZ here. The Leopard will rem
 Once the facility is destroyed, move to the evacuation point. I await reports of your success, Commander.	设施摧毁后，前往撤离点。我等待你成功的报告，指挥官。
 Once the target is down, make your way to the designated evacuation area.	目标倒下后，前往指定撤离区。
 Once the vehicles are all destroyed, I'll instruct a Leopard we have on station to pick you up.	车辆全部摧毁后，我会通知我们驻守的一架豹式去接你。
-Once they land, they'll engage everyone -- friendly and hostile -- and generally stir up trouble.	他们一落地就会攻击所有单位——友军和敌军——总之把水搅浑。
 Orbital Emplacements are charging.	轨道炮台正在充能。
 Orbital Emplacements charging for Bombardment.	轨道炮台正在为轰炸充能。
 Orchid Zhao is down, her brother is on the run, and the Flak Jackals are as good as disbanded. That LosTech is ours, Commander.	奥奇德·赵已倒下，她哥哥在逃，高射豺狼团基本散伙了。那批失落科技是我们的了，指挥官。
@@ -1495,7 +1480,6 @@ That base is supposed to be abandoned and empty, but I don't trust that and neit
 That base won't be imprisoning any more innocent nekos any time soon. Well done, Commander.	那座基地短期内再也关不了无辜的妮可了。干得好，指挥官。
 That base won't be supplying any Capellan forces any time soon. Well done, Commander.	那座基地短期内再也无法为卡佩兰部队补给。干得好，指挥官。
 That could also explain the satellite failures. Okay, people, don't answer any calls from outside our secure comms.	这也能解释卫星故障。好了各位，别接任何来自我们加密通讯之外的呼叫。
-That could complicate matters. The last thing we need is a Davion reinforcement lance swooping down on us before we can make the handoff.	这会让事情变复杂。最不该的就是在交接前被一支达维昂增援小队扑上来。
 That doesn't even give me enough time to fly you back for repairs. This is a problem, XO.	这时间都不够我送你们回去修理。这是个问题，副官。
 That implies, of course, that they're also right about the reinforcements. Expect additional enemies, Commander.	当然，这也意味着他们对增援的判断同样正确。准备面对更多敌人，指挥官。
 That is a complete success, Commander.	圆满成功，指挥官。
@@ -2081,19 +2065,12 @@ You've done it, Commander—you've driven them off! And you've saved all of our 
 You've done well, Commander. There's a small army of Federation freight captains out there who'll sleep a whole a lot easier tonight.	你干得很好，指挥官。联邦有一大票货运船长今晚能睡个安稳觉了。
 You've given us ample opportunity to see what kind of man you are, Lees.	你给了我们充分的机会看清你是什么样的人，利斯。
 You've got a hell of a combat lance, {COMMANDER.LastName}. You really do. Pity you're using it to fight for a tyrant.	你有一支了不起的战斗小队，{COMMANDER.LastName}。真的。可惜你用它为一个暴君卖命。
-You've got that right, Professor. I'm Basilisk Jackson, and I'm the meanest MechJock on this or any other planet!	你说对了，教授。我是巴兹利斯克·杰克逊，这颗星球乃至任何星球上最凶悍的机甲手！
-You've sent them <i>here</i>, to the Red Roost? My poor, deluded sister.	你把它们送到<i>这儿</i>来了，红巢？我那可怜的、被蒙蔽的妹妹。
 You've soaked up a lot of fire that would've gone into us, Carnby. Get your people out while you can.	你替我们挡下了大量本该打在我们身上的火力，康比。趁还能走，带你的人撤吧。
-Your Davion masters aren't going to like this, scum.	你的达维昂主子不会喜欢这个，渣滓。
 Your MechWarriors lie dead at my feet, just as I promised! Now take the rest of your pathetic company and go.	你的机甲战士们正如我承诺的那样，躺在我脚边死了！带着你剩下那点可怜的连队滚吧。
-Your attention please! We have a latecomer en route to join our Tournament.	各位请注意！有一位迟来者正赶来参加我们的锦标赛。
-Your attention, please: this is Commander Mitchell Pearle of the Joppan Light Cavalry.	各位请注意：我是乔潘轻骑兵的米切尔·珀尔指挥官。
 Your company has outdone itself, Commander. I couldn't be happier with your performance.	你的连队表现超乎寻常，指挥官。我对你的表现再满意不过了。
 Your day of reckoning is close at hand, Lees. For Abraham Kobayashi, and the hundreds of others you murdered on Shaul Khala.	你的清算之日近在眼前，利斯。为了亚伯拉罕·小林，以及你在绍尔·卡拉杀害的数百人。
 Your hired guns have failed, Singh! Take them and leave this place.	你雇的枪手失手了，辛格！带着他们滚出这里。
 Your hirelings performed well, Shugo Yamaguchi. Now come for me. Let's put your mercenaries to the test.	你的雇佣兵表现不错，山口守。现在来找我吧。让我们考考你的佣兵。
-Your main objective is the defense of the facility's primary refinery.	你的主要目标是保护设施的主炼油厂。
-Your mercenary fought well, Lady Arano. But know that this has only just begun.	你的佣兵打得不错，阿拉诺女士。但要知道，这才刚刚开始。
 A lovely world, this Pilpala. It seems a shame to bring war to such a beautiful place.	这颗皮尔帕拉真是颗美丽的星球。把战争带到这么美的地方，实在可惜。
 A miserable performance, Commander. But fear not, the needs of House Kurita will be satisfied.	表现糟糕，指挥官。但别担心，栗田家族的需求自会得到满足。
 A performance as pathetic as it was disappointing.	表现既可怜又令人失望。
@@ -2164,8 +2141,6 @@ As long as that facility is still standing, they're going to keep trying to defe
 As long as they think they have a chance, they'll keep landing more 'Mechs.	只要他们觉得还有机会，就会不断投送更多机甲。
 As we speak, the Agressors have several waves of APCs—complete with BattleMech escorts—en route to the spaceport's Command Center.	就在我们说话这当口，侵略者正派数波装甲运兵车——配有机甲护卫——前往太空港指挥中心。
 Attention, Force Commander Singh—our {COMPANY.CompanyName} lance is down! We're going to have to scrub the mission. Gwydion Actual out.	注意，辛格部队指挥官——我们的 {COMPANY.CompanyName} 小队全灭了！我们只能中止任务。格威迪恩实机通话结束。
-Best of luck with that, pal—I'll be long gone before you get here.	祝你好运吧，朋友——等你赶到我早走远了。
-Better move fast. I just intercepted a communication aimed at Notker Baumann's JumpShip.	最好动作快点。我刚截获了一条发给诺特克·鲍曼跃迁舰的通讯。
 Blessed silence.	难得的清静。
 Both groups of unidentified hostiles are moving into comms range now, Commander.	两批不明敌人都进入通讯范围了，指挥官。
 Bring down the Control Center and the rest will be easy Commander.	打掉控制中心，剩下的就轻松了，指挥官。
@@ -2240,9 +2215,7 @@ Dhawan wanted to provoke me in to attacking House Steiner—an entity that he vi
 Dhawan's attacks on my family, and on my colleagues' families? Random violence.	达万对我家族和我同僚家族的袭击？不过是随机的暴力。
 Did I not make myself clear? Poverty is a small price to pay to retain our honor.	我说得还不够清楚吗？为了保住荣誉，贫穷是小小的代价。
 Enemy units can disrupt the targeting of the beacons.	敌方单位能干扰信标的标定。
-Even if he doesn't, the hit to <i>our</i> reputation will be enormous.	就算他不这么做，对<i>我们</i>声誉的打击也会非常巨大。
 Everyone is aboard, let's get out of here. The 'Queen' has found a way into the Fortress.	所有人都登船了，我们走吧。"女王"已找到进入堡垒的办法。
-Excellent work, Commander! Most excellent work indeed. The munitions factory is yours, and our trap has been set.	干得漂亮，指挥官！真是漂亮极了。弹药厂归你了，我们的陷阱也已布好。
 Excellent work, Commander. A bit more action than advertised, but that's why they pay us the big C-Bills.	干得漂亮，指挥官。动静比预告的多了点，但这就是他们付大钱的原因。
 Excellent work, Commander. That should send the appropriate message.	干得漂亮，指挥官。这应该能传递出恰当的信号。
 Excellent work, Commander. The medical convoy safely reached extraction.	干得漂亮，指挥官。医疗车队已安全抵达撤离点。
@@ -2326,12 +2299,9 @@ I could crack the obvious joke about that, but it's just too easy.	我本可以�
 I could kill you right now, if I had a mind to. Now go away and sing songs about me!	我要是想，现在就能杀了你。现在滚开，去给我唱赞歌吧！
 I curse you for this, Marina Liao—now and forever, I curse you and the Chancellor both.	我为此诅咒你，玛丽娜·廖——从今往后，永永远远，我诅咒你和议长。
 I don't doubt it. This prototype is the most valuable asset on Fagerholm.	我不怀疑。这台原型机是法格霍尔姆最宝贵的资产。
-I don't know who you are or who sent you, mercenary. But in the name of House Bisset and House Davion, you will abandon this factory or you will be destroyed.	我不知道你是谁、谁派你来的，佣兵。但以比塞特家族和达维昂家族的名义，你要么放弃这座工厂，要么被消灭。
-I don't like your tone, Mr. Virtanen.	我不喜欢你的语气，维尔塔宁先生。
 I have marked the three regions where you will need to place the targeting beacons.	我已标出你需要布设目标指示信标的三个区域。
 I haven't forgotten our arrangement, Mr. Oliveira.	我没忘记我们的约定，奥利维拉先生。
 I haven't tapped out yet, Horvat! You'll never hear me yield!	我还没认输，霍瓦特！你永远不会听到我投降！
-I hear you just handed my friends a regulation ass-kicking.	听说你把我那帮朋友好好教训了一顿。
 I honestly do not understand how it can be this difficult to kill One. Single. Person.	我真不明白，杀<i>一个</i>人怎么会这么难。
 I just got word that Garrilac wasn't in it. Sumire's got him on tight beam…	我刚得到消息，加里拉克不在那里。苏米尔正与他定向联络……
 I know what we agreed. That doesn't mean I have to like it.	我知道我们约定好了。这不代表我就得乐意。
@@ -2347,11 +2317,7 @@ I smell fear. This will be a good day.	我闻到恐惧的味道。今天会是�
 I suggest that you strike back at them with this. Meet the HTC-3F Hatchetman.	我建议你用这个反击他们。来认识 HTC-3F 斧手。
 I suggest that you vacate the AO immediately, Commander.	我建议你立刻撤出作战区域，指挥官。
 I'll be the first to admit, I was worried when you went off-mission earlier, but these results speak for themselves.	我第一个承认，你之前擅自离队时我很担心，但这些结果说明了一切。
-I'm getting a new sensor contact, XO. Looks like Lady Cunningham's DropShip.	我收到一个新的传感器接触，副官。看起来是坎宁安女士的运输舰。
 I'm here, Meyer. And I'm ready to make you regret ever setting foot on Primus.	我在这儿，迈耶。我已经准备好让你后悔踏上普里默斯。
-I'm landing a team of APC transports at your location, Commander.	我在你的位置降落一队装甲运兵车，指挥官。
-I'm landing a team of technicians at your location, Commander.	我在你的位置降落一队技术人员，指挥官。
-I'm on that. Commander, destroy some of their 'Mechs to reduce the enemy flak a little.	这事交给我。指挥官，摧毁他们一些机甲，削弱点敌方防空火力。
 I'm picking up <i>another</i> inbound DropShip, Commander. Keep your eyes open.	我又探测到<i>另一艘</i>来袭运输舰，指挥官。睁大眼睛。
 I'm picking up a lot of enemy movement on my sensors, Commander. They seem agitated that we rescued Max.	传感器上探测到大量敌军调动，指挥官。我们救出马克斯，他们似乎很焦躁。
 I'm picking up another Agressor transport, Commander. Destroy it.	我又探测到一艘侵略者运输舰，指挥官。摧毁它。
@@ -2383,13 +2349,10 @@ I've got eyes on the base, Commander. Take it, and we'll get this show on the ro
 I've got eyes on the security complex, Commander. Take it, and we'll get this show on the road.	我盯上安保建筑群了，指挥官。拿下它，我们就能开工。
 I've got more bad guys on radar, Commander. Keep 'em off of me, yeah?	雷达上又出现更多敌人，指挥官。别让他们靠近我，行吗？
 I've marked Graf Stieglitz-Bradford's rendezvous point on your map, Commander. Convoy leader, do you copy?	指挥官，我已在地图上标出斯蒂格利茨-布拉德福德伯爵的会合点。车队队长，收到了吗？
-I've marked the three regions where you'll need to place the targeting beacons.	我已标出你需要布设目标指示信标的三个区域。
 It doesn't matter, Meyer—we need to take our haul and go.	没关系，迈耶——我们得带着战利品走了。
-It is done. My brother is dead, entombed in the rubble of his own sanctuary.	结束了。我的兄弟死了，长眠于他自己圣所的废墟之下。
 It is time to test your skills Mercenary!	该考考你的本事了，佣兵！
 It is time to test your skills mercenary scum!	该考考你的本事了，佣兵渣滓！
 It isn't enough to destroy the enemy, Commander!	光消灭敌人还不够，指挥官！
-It isn't our job to break anything to them. All we need to do is get this crap to Louth Abbey and get paid.	把这事告诉他们可不是我们的活。我们只需把这堆破烂送到劳斯修道院然后拿钱。
 It looks like my faith in your company was misplaced, {COMMANDER.LastName}.	看来我对你连队的信任放错了地方，{COMMANDER.LastName}。
 It looks like the facility has fixed gun emplacements, Commander.	看来设施有固定炮位，指挥官。
 It looks like the facility has fixed gun emplacements.	看来设施有固定炮位。
@@ -2399,7 +2362,6 @@ It was just too much for you, I'll handle it myself.	对你来说太吃力了，
 It was more of a friendly warning.	那更像是个友善的提醒。
 It won't matter. Commander, you are authorized to engage the enemy.	那不重要。指挥官，你已获授权与敌交战。
 It wouldn't do to underestimate Razorback Company.	小看剃刀背连队可不行。
-It'll work. The Great Houses wouldn't all be fighting over this prototype if it were a dud.	会成功的。要是这台原型机是废品，各大豪门也不会争得头破血流。
 It's a hell of a machine, I've gotta say. That hatchet makes me feel downright tingly.	不得不说，这真是台好机器。那把斧头让我浑身发麻。
 It's a rare gift we Nyans have, and while we're able to perform without our gear...	这是我们"喵安"族稀有的天赋，虽然我们没有装备也能作战……
 It's about time we find out what 'the Queen' is after.	是时候弄清"女王"想要什么了。
@@ -2415,13 +2377,7 @@ It's off to the Rookie League with you.	你该回新秀联赛去了。
 It's too late, Commander. The barracks has been overrun.	太迟了，指挥官。兵营已被攻陷。
 It's unfortunate that we could not survey the area before deployment, but I'm told that you'll be able to observe the convoy's route from this position.	很遗憾部署前我们没能勘察该区域，但据说从这个位置能观察车队的路线。
 It's unfortunate that we were not able to survey the area before deployment, but we believe they're located here.	很遗憾部署前我们没能勘察该区域，但我们相信他们就在这里。
-Just finished! Come pick us up, and we'll get the hell out of here!	刚完工！来接我们，我们赶紧离开这鬼地方！
-Just wait until you've seen it in action.	等看到它实战你就知道了。
 Keep your eyes open when you engage. The Galedon Regulars have been fighting since the time of the Star League—they're experienced and dangerous.	交战时睁大眼睛。加尔迪恩正规军自星际联盟时代起就在作战——他们经验丰富且危险。
-Keeping your distance, Commander? Good choice.	保持距离，指挥官？明智之选。
-Kell is a fool to challenge me. Don't screw up.	凯尔挑战我，真是愚蠢。别搞砸了。
-Key structures for are marked for complete ruination.	关键建筑已标出，需彻底摧毁。
-Lady Marina teamed you up with Cheval? Wonderful.	玛丽娜女士把你和谢瓦尔编到一组了？太好了。
 Let's get to work and smash these bastards	我们动手吧，把这帮混蛋砸烂
 Let's hope that is the end of it, Commander.	但愿这就结束了，指挥官。
 Let's hope we didn't blow up our bonus. Well done, Commander. Sumire will pick you up there.	但愿我们没把奖金炸飞。干得好，指挥官。苏米尔会在那儿接你。
@@ -2440,15 +2396,11 @@ Lets not give the Corsair any easy targets.	别给海盗留下轻松的目标。
 Looks like they have sent reinforcements.	看来他们派来了增援。
 Looks like they were able to get away Commander... this is truly dreadful, how could we let this happen?!	看来他们跑掉了，指挥官……这太糟了，我们怎么会让这种事发生？！
 Looks like two Wolf lances are inbound.	看来两支狼氏族小队正在赶来。
-Luckily for both of us, this has nothing to do with your decision to waste time capturing this facility.	我们俩都走运，这跟你决定浪费时间攻占这座设施毫无关系。
 May as well get to it, Commander. Give 'em hell. When you're done, we'll recover their combat computers for Dr. Murad.	还是动手吧，指挥官。让他们好看。完事后我们回收他们的作战计算机给穆拉德博士。
 Men Lojowen is <i>my</i> island, Binton.	洛乔文峰是<i>我的</i>岛，宾顿。
 Mercenary Commander: this is the Draconis Internal Security Force. We are interdicting this world in pursuit of our quarry.	佣兵指挥官：这里是德拉科尼斯内部安全部队。我们为追捕目标正封锁这颗星球。
-Mercenary force, be advised that a patrol lance was dispatched two hours ago, and it should be returning soon.	佣兵部队，提醒你们，一支巡逻小队两小时前已派出，应该快回来了。
 Mercenary force: this is <i>Chu-i</i> Allison Tetsuhara. You are trespassing on a joint Draconian-Capellan facility.	佣兵部队：这里是<i>中尉</i>艾莉森·铁原。你们正非法闯入德拉科尼斯-卡佩兰联合设施。
-Mercenary pig. You believe in <i>nothing</i>, and I will <i>reduce you</i> to nothing.	佣兵猪猡。你<i>什么都不信</i>，我就把你<i>化为乌有</i>。
 Might wanna hold off on that gloating, Yang—we've got a problem.	先别得意，杨——我们有麻烦了。
-Mission accomplished, Commander. But it's always a shame to see so much destruction.	任务完成，指挥官。但看到这么多破坏总是令人遗憾。
 Mission accomplished. The fire support vehicles have been neutralized.	任务完成。火力支援车辆已被清除。
 Mission accomplished. The target is dead. Well done, Commander.	任务完成。目标已死。干得好，指挥官。
 Mission accomplished. The terrorist is dead.	任务完成。恐怖分子已死。
@@ -2554,10 +2506,8 @@ Running away, are we? Through <i>our</i> territory?	要跑了，是吗？穿过<
 SUFFERING? <i>I'LL SHOW YOU SUFFERING!</i> Get ready for a taste of the BIG! STEEL! CLAW!	痛苦？<i>我让你见识什么叫痛苦！</i>准备好尝尝钢铁巨爪的滋味！
 SUFFERING? <i>I'LL SHOW YOU SUFFERING!</i> Now COME AT ME!	痛苦？<i>我让你见识什么叫痛苦！</i>尽管冲我来！
 Sapper Alpha reporting in. I am halfway to my destination and moving at full throttle.	Alpha 工兵报告。我已过半程，正全速推进。
-Save your excuses and remove yourselves from my sight.	省下你的借口，从我眼前消失。
 Shepherd Three is heading for Pad Bravo. You'll need to keep the enemy's eyes on you, and <i>away</i> from the docking pads.	牧羊人三号正前往 Bravo 停机坪。你需要把敌人的注意力引向你，<i>远离</i>停机坪。
 Shugo Yamaguchi. The drunk. I can't tell you how happy I am to see you here, in the flesh.	山口守。那个酒鬼。我无法形容亲眼见到你在这儿有多高兴。
-Shut up and fight, you murderous swine.	闭嘴开打，你这杀人猪猡。
 So be it, mercenary. Now get to work.	那就这样，佣兵。现在干活吧。
 So it was just an ordinary data store? Oh well; we get paid either way. Let's dust off and collect our pay.	所以只是个普通的数据存储器？算了；反正我们都拿钱。起飞领钱去吧。
 So much for keeping in touch with our client.	跟客户保持联系这事算是黄了。
@@ -2592,8 +2542,588 @@ That's good, Commander—we've got eyes on Hironaka's safe house.	很好，指�
 That's got it, primary target damaged. Keep the pressure on those.	打中了，主要目标受损。继续保持压制。
 That's half of their fighting force.	他们一半的战力没了。
 That's it, 'Mech recovering our Secondary Target is scrapped. S&R will look for what's left. That objective is failed. Focus on the Primary.	就这样，负责回收次要目标的那台机甲已报废。搜救队会去找残骸。该目标失败。专心处理主要目标。
-That's it, Boss! The armory is ours. If you'll excuse me, I'm gonna go take a look at that Raven.	成了，头儿！军械库是我们的了。恕我失陪，我要去看看那台渡鸦。
 That's it, Commander {COMMANDER.LastName}—our payload has been secured.	成了，{COMMANDER.LastName} 指挥官——我们的载荷已安全。
 That's it, Commander. Just hold position there for a moment, and we'll be good to go.	成了，指挥官。在那儿稍等片刻，我们就可以出发了。
 That's it, Commander. We have to scrub the mission. Unfortunate.	成了，指挥官。我们只能取消任务。真不走运。
 That's it, Commander. We're pulling out—this job is over.	成了，指挥官。我们撤了——这活结束了。
+ {MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}Ms Bosh, we're here for your dog as per your reque...	{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}博什女士，我们按你的要求来领你的狗了……
+[GENERIC VO] The Mercs have been recovered, Commander. Good work.	[通用语音] 雇佣兵已被接回，指挥官。干得好。
+[GENERIC VO] The Stragglers have been recovered, Commander.	[通用语音] 掉队者已被接回，指挥官。
+"Decisive."  That's one way to say <i>turned them to slag</i>.	"果断。" 这倒是形容<i>把他们化成熔渣</i>的一种说法。
+"Hey Meyer, it's me, THE PROFESSIONAL, and I'm still alive! Ahahahahaha!"	"嘿，迈耶，是我，职业高手，我还活着！啊哈哈哈！"
+\t<color=#99ebff><i><b>...A MINUTE AGO...</b></i></color>\n\r\n\r\n<i>Alarm warning sounds</i>\n\r\nWarning: Environmental instability detected.  Descent vectors deviating.	\t<color=#99ebff><i><b>……一分钟前……</b></i></color>\n\r\n\r\n<i>警报声响起</i>\n\r\n警告：检测到环境不稳定。下降矢量偏离。
+\t<color=#99ebff><i><b>...PRESENT...</b></i></color>\n\r\n\r\n<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> down at LZ Alpha, systems green.  Sound off!	\t<color=#99ebff><i><b>……现在……</b></i></color>\n\r\n\r\n<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> 已在阿尔法着陆点降落，系统正常。报数！
+\t<color=#99ebff><i><b>A FEW MINUTES AGO...</b></i></color>\n\r\n\r\nLooks like {TEAM_EMP.FactionDef.ShortName}'s intel was right.  We're picking up {TEAM_TAR.FactionDef.Demonym} comm chatter from this area.  Guessing they're the ones backing these raiders.\n\r\nThis could get ugly. Commander, priority one is to keep them away from the base.  We've set your drop point coordinates, Oliveira out.	\t<color=#99ebff><i><b>几分钟前……</b></i></color>\n\r\n\r\n看来 {TEAM_EMP.FactionDef.ShortName} 的情报没错。我们在这个区域截获了 {TEAM_TAR.FactionDef.Demonym} 的通讯。我猜就是他们在支持这些掠夺者。\n\r\n情况可能会变得很难看。指挥官，首要任务是别让他们靠近基地。我们已设定你的投放点坐标，奥利维拉通话结束。
+\t<color=#99ebff><i><b>Pre-deployment...</b></i></color>\n\r\n\r\n{COMPANY.CompanyName}, this is {TEAM_EMP.FactionDef.Demonym} Control.  You are cleared for hot drop.  {TEAM_TAR.FactionDef.Demonym} signatures inbound fast.\n\r\nBrace for atmospheric interference: trajectory deviation detected, correcting...	\t<color=#99ebff><i><b>部署前……</b></i></color>\n\r\n\r\n{COMPANY.CompanyName}，这里是 {TEAM_EMP.FactionDef.Demonym} 控制中心。允许热降。{TEAM_TAR.FactionDef.Demonym} 信号正快速逼近。\n\r\n做好应对大气干扰的准备：检测到轨迹偏离，正在修正……
+{{MC.If.Encounter.HasNoTag.dialogue_brave_tagged} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_brave}}{MC.Modification.AddTo.EncounterTags.dialogue_brave_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}Whatever they bring, we'll face it without flinching!  My {MC.PlayerLances.TeamPilot_Random_Brave.UnitName} fights to the last!	{{MC.If.Encounter.HasNoTag.dialogue_brave_tagged} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_brave}}{MC.Modification.AddTo.EncounterTags.dialogue_brave_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}无论他们带来什么，我们都会毫不退缩地迎战！我的 {MC.PlayerLances.TeamPilot_Random_Brave.UnitName} 会战到最后！
+{{MC.If.Encounter.HasNoTag.dialogue_coward_tagged} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_cautious}}{MC.Modification.AddTo.EncounterTags.dialogue_coward_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}Uh...y-yeah, sure...we'll try to hold out.  No promises, though.	{{MC.If.Encounter.HasNoTag.dialogue_coward_tagged} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_cautious}}{MC.Modification.AddTo.EncounterTags.dialogue_coward_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}呃……好、好吧……我们会尽量撑住。不过可不保证。
+{{MC.If.Encounter.HasNoTag.dialogue_crazy_tagged} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_unstable}}{MC.Modification.AddTo.EncounterTags.dialogue_crazy_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}{COMPANY.CompanyName} forever!  I want so many enemies coming at us they form a traffic jam!\n\r\nSEND THEM ALL!	{{MC.If.Encounter.HasNoTag.dialogue_crazy_tagged} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_unstable}}{MC.Modification.AddTo.EncounterTags.dialogue_crazy_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}{COMPANY.CompanyName} 万岁！我要敌人多得挤成交通堵塞！\n\r\n让他们全都来吧！
+{{MC.If.Encounter.HasNoTag.dialogue_show} AND {MC.If.Encounter.HasNoTag.dialogue_bookish}}{MC.Modification.AddTo.EncounterTags.dialogue_generic}I really hope someone's filming this.	{{MC.If.Encounter.HasNoTag.dialogue_show} AND {MC.If.Encounter.HasNoTag.dialogue_bookish}}{MC.Modification.AddTo.EncounterTags.dialogue_generic}真希望有人在拍下这一幕。
+{{MC.If.Encounter.HasNoTag.Intro_1} AND {MC.If.Encounter.HasNoTag.Intro_2}}{MC.Modification.AddTo.EncounterTags.Intro_3}We're {COMPANY.CompanyName}!  We'll power through and hold back every last thing they hurl at us!	{{MC.If.Encounter.HasNoTag.Intro_1} AND {MC.If.Encounter.HasNoTag.Intro_2}}{MC.Modification.AddTo.EncounterTags.Intro_3}我们是 {COMPANY.CompanyName}！我们会硬扛下来，挡住他们扔过来的每一样东西！
+{{MC.If.Encounter.HasNoTag.Intro_1} AND {MC.If.RandomPercentage.IsLessThan.50%}}{MC.Modification.AddTo.EncounterTags.Intro_2}We are {COMPANY.CompanyName}!  We endure, we fight, and we stop whatever they send at us!	{{MC.If.Encounter.HasNoTag.Intro_1} AND {MC.If.RandomPercentage.IsLessThan.50%}}{MC.Modification.AddTo.EncounterTags.Intro_2}我们是 {COMPANY.CompanyName}！我们坚持，我们战斗，我们挡住他们派来的一切！
+{{MC.If.Encounter.HasNoTag.lance_07_done} AND {MC.If.Encounter.HasTag.dialogue_coward_tagged}}{MC.Modification.AddTo.EncounterTags.lance_07_done}Fantastic, more hostiles.\n\r\nReally feels like they're teasing us every time we get close to the defense zone.	{{MC.If.Encounter.HasNoTag.lance_07_done} AND {MC.If.Encounter.HasTag.dialogue_coward_tagged}}{MC.Modification.AddTo.EncounterTags.lance_07_done}太好了，更多敌人。\n\r\n每次我们靠近防御区，他们都像是在逗我们玩。
+{{MC.If.Encounter.HasNoTag.lance_07_done} AND {MC.If.Encounter.HasTag.dialogue_crazy_tagged}}{MC.Modification.AddTo.EncounterTags.lance_07_done}More hostiles?  PERFECT!\n\r\nThey're teasing us?  I'll show them what happens when you play with me!	{{MC.If.Encounter.HasNoTag.lance_07_done} AND {MC.If.Encounter.HasTag.dialogue_crazy_tagged}}{MC.Modification.AddTo.EncounterTags.lance_07_done}更多敌人？完美！\n\r\n他们在逗我们玩？我会让他们知道跟我玩的后果！
+{{MC.If.Encounter.HasNoTag.lance_07_done} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.lance_07_done}Additional enemy units incoming.  Their pattern suggests they respond whenever we near the defense zone.	{{MC.If.Encounter.HasNoTag.lance_07_done} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.lance_07_done}更多敌方单位正在接近。他们的行动模式表明，我们一靠近防御区他们就会响应。
+{{MC.If.Encounter.HasNoTag.mc_recognised_strange_turrets} AND {MC.If.Encounter.HasTag.mc_solved_crime}}This is a setup! Henriette must have hired these guys.	{{MC.If.Encounter.HasNoTag.mc_recognised_strange_turrets} AND {MC.If.Encounter.HasTag.mc_solved_crime}}这是个圈套！一定是亨丽埃特雇的这帮人。
+{{MC.If.Encounter.HasNoTag.talk_charlie_done} AND {MC.If.Encounter.HasTag.dialogue_coward_tagged}}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}I'm just waiting for the timer to end so we can bail.	{{MC.If.Encounter.HasNoTag.talk_charlie_done} AND {MC.If.Encounter.HasTag.dialogue_coward_tagged}}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}我就等着倒计时结束，好赶紧撤。
+{{MC.If.Encounter.HasNoTag.talk_charlie_done} AND {MC.If.Encounter.HasTag.dialogue_crazy_tagged}}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}For <b>{COMPANY.CompanyName}</b>! For <b>{MC.PlayerLances.TeamPilot_Random_Crazy.UnitName}</b>! For <b>ME</b>! \n\r\nNO ONE STANDS IN OUR WAY!!!	{{MC.If.Encounter.HasNoTag.talk_charlie_done} AND {MC.If.Encounter.HasTag.dialogue_crazy_tagged}}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}为了 <b>{COMPANY.CompanyName}</b>！为了 <b>{MC.PlayerLances.TeamPilot_Random_Crazy.UnitName}</b>！为了<b>我自己</b>！\n\r\n没人能挡我们的路！！！
+{{MC.If.Encounter.HasNoTag.talk_charlie_done} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}For <b>{COMPANY.CompanyName}Let's get going, and remember to stay within our limits.	{{MC.If.Encounter.HasNoTag.talk_charlie_done} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}为了 <b>{COMPANY.CompanyName}，出发吧，记得别超出我们的极限。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}"Returning from cold"?  That's not terrorist talk.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}"从寒冷中归来"？这可不是恐怖分子会说的话。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>{TEAM_EMP.FactionDef.Demonym}Liason:</color>  {Company.CompanyName}, hold fire.  HOLD FIRE.\n\r\nComms channel monitoring are intercepting a transmission burst.  Stand by...	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>{TEAM_EMP.FactionDef.Demonym}联络官：</color>  {Company.CompanyName}，停火。停火。\n\r\n通讯监控截获到一段突发传输。请待命……
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>{TEAM_EMP.FactionDef.Demonym}Liason:</color>  Signal authenticity is...inconclusive.\n\r\nShadow the target, do not desttroy unless hostile action is confirmed.  The escorts and other hostiles in the AO are another matter.\n\r\nWe're escalating this to High Command.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>{TEAM_EMP.FactionDef.Demonym}联络官：</color>  信号真实性……尚无定论。\n\r\n跟踪目标，除非确认有敌对行动，否则不要摧毁。护航队和作战区域内的其他敌人另当别论。\n\r\n我们会把此事上报最高司令部。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Intel Liason Officer:</color>  Commander, abort engagement immediately.  Do not engage the target.\n\r\nThat "target" is one of ours --- deep cover operative embedded within hostile territory.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 情报联络官：</color>  指挥官，立即中止交战。不要与目标交战。\n\r\n那个"目标"是我们的人——潜伏在敌占区的深度卧底。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Intel Liason Officer:</color>  Compartmentalization.  Need-to-know.  Those who ordered the "hit" didn't need to know.\n\r\nThis agent's been in the dark for too long.  We believe they're coming in from the cold...DO NOT ENGAGE the target until we verify the credentials.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 情报联络官：</color>  隔离原则。按需知悉。下达"清除"命令的人不需要知道。\n\r\n这名特工在黑暗中待得太久了。我们相信他们正在"从寒冷中归来"……在我们核实身份之前，不要与目标交战。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>Target Officer:</color> This is <i><static noise></i> of {TEAM_TAR.FactionDef.Name}.  I am requesting asylum.  Repeat --- requesting asylum with {TEAM_EMP.FactionDef.Name} forces.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>目标军官：</color> 这里是 {TEAM_TAR.FactionDef.Name} 的 <i><静电噪音></i>。我请求政治庇护。重复——请求向 {TEAM_EMP.FactionDef.Name} 部队寻求庇护。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>Target:</color>  <i><static noise></i>...this is...{TEAM_TAR.FactionDef.Demonym} unit...requesting parley...repeat, requesting...	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>目标：</color>  <i><静电噪音></i>……这里是……{TEAM_TAR.FactionDef.Demonym} 单位……请求谈判……重复，请求……
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>Target:</color>  I am not your enemy.  I am attempting defection to {TEAM_EMP.FactionDef.Name}.  I carry tactical data...and prototype plans.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>目标：</color>  我不是你的敌人。我正试图叛逃到 {TEAM_EMP.FactionDef.Name}。我带着战术数据……还有原型机图纸。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>Terrorist:</color>  ...if this reaches {TEAM_EMP.FactionDef.ShortName} command, authentication code...returning from cold --- request immediate...	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}<color=#99ebff>恐怖分子：</color>  ……如果这条消息能传到 {TEAM_EMP.FactionDef.ShortName} 指挥部，认证代码……从寒冷中归来——请求立即……
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}All units, stand by.  Do not engage the primary target yet.\n\r\nWe are receiving corroborating signals...encrypted but consistent with defection protocols.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}全体单位，待命。暂时不要与主要目标交战。\n\r\n我们正收到佐证信号……加密，但与叛逃协议一致。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Can we get clarification?\n\r\nWe're in engagement range.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……能给个明确指示吗？\n\r\n我们已进入交战距离。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Commander, I've got partial comm chatter...encrypted, but it's not {TEAM_TAR.FactionDef.ShortName} standard.\n\r\nHere I'll patch it through.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……指挥官，我截获到部分通讯……加密的，但不是 {TEAM_TAR.FactionDef.ShortName} 的标准格式。\n\r\n我这就给你接过来。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Commander, this could be a trap.  {TEAM_TAR.FactionDef.Demonym} are known for deception operations.  Continue to engage escorts only.  Maintain distance from the target.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……指挥官，这可能是个陷阱。{TEAM_TAR.FactionDef.Demonym} 以欺骗行动著称。继续只与护航队交战。与目标保持距离。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Commander, we're getting broadcast from the target officer.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……指挥官，我们收到了目标军官的广播。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Commander, we're getting conf;icting comms from our employer.\n\r\nThey're reviewing their target designation and there is a possibility of misidentification.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……指挥官，我们从雇主那里收到相互矛盾的通讯。\n\r\n他们正在复核目标指定，存在误认的可能。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Darius, the target's movement is "off".  IFF also does not match a hostile blip.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……达里乌斯，目标的移动方式很"不对劲"。敌我识别信号也与敌方目标不符。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}If he is defecting, killing him could cost {TEAM_EMP.FactionDef.Demonym} a major intelligence asset.\n\r\nStand by.  Do NOT destroy the target until we verify.  Focus on escorts.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……如果他真要叛逃，杀了他可能让 {TEAM_EMP.FactionDef.Demonym} 损失一名重要的情报资产。\n\r\n待命。在我们核实之前，不要摧毁目标。集中对付护航队。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Roger, hope it gets sorted soon...	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……收到，希望能尽快解决……
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Signal suggests the insurgent is trying to make contact with {TEAM_EMP.FactionDef.Demonym} authorities.  Claims of intelligence on {TEAM_TAR.FactionDef.Name} operations in the sector.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……信号显示这名叛乱分子正试图联系 {TEAM_EMP.FactionDef.Demonym} 当局。声称掌握 {TEAM_TAR.FactionDef.Name} 在该星区的行动情报。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}So what's the call?  We're in engagement range.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……那到底怎么定？我们已在交战距离内。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Stand by --- receiving conflicting data. {TEAM_EMP.FactionDef.Demonym}'s says a possible mis-ID.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……待命——收到相互矛盾的数据。{TEAM_EMP.FactionDef.Demonym} 方面称可能是误识别。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Verification is ongoing.  DO NOT ENGAGE unless fired upon.\n\r\n...Repeat, hold fire pending confirmation	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……核实仍在进行。除非遭到攻击，否则不要交战。\n\r\n……重复，在确认前保持停火
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Verifying the target with our employer.\n\r\nHold fire.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……正在与雇主核实目标。\n\r\n保持停火。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}We have conflicting records suggesting the "propagandist" may be a deep-cover asset.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……我们掌握的记录相互矛盾，表明这名"宣传员"可能是深度卧底。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}We're in range.  Engage or hold?	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……我们已进入射程。交战还是待命？
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}We're receiving conflicting transmissions --- encrypted but partially cracked.  The target...may be attempting to defect.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……我们收到相互矛盾的传输——加密，但已部分破解。目标……可能正试图叛逃。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Yeah, that's not suspicious at all.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……是啊，一点都不可疑。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}Yeah...that doesn't sound like a fake.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……是啊……那听起来不像假的。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}You heard the man.  Don't fire at the target pending further instructions.  The other units, however, are another matter.	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……你听到他的话了。在收到进一步指示前，不要向目标开火。不过其他单位另当别论。
+{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}You're telling me you're hunting your own agent for months?	{{MC.If.Encounter.HasNoTag.TeamSwapped} AND {MC.If.Encounter.HasNoTag.KilledAllOpfor}}……你是说你们追捕自己的特工追了好几个月？
+{{MC.If.Encounter.HasTag.brave_02_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.brave_02_talk}{MC.Modification.AddTo.EncounterTags.tgtlance02_talk}Courage! Bravery! Everyone, steel yourselves!	{{MC.If.Encounter.HasTag.brave_02_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.brave_02_talk}{MC.Modification.AddTo.EncounterTags.tgtlance02_talk}勇气！无畏！各位，振作起来！
+{{MC.If.Encounter.HasTag.brave_08_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.brave_08_talk}{MC.Modification.AddTo.EncounterTags.tgtlance08_talk}A full company advancing?  Excellent.\n\r\nLet them try --- we'll hold the line, strike fast, and make sure they regret every step into our path.\n\r\nWe'll cut through them like a storm and show what {COMPANY.CompanyName} is made of!	{{MC.If.Encounter.HasTag.brave_08_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.brave_08_talk}{MC.Modification.AddTo.EncounterTags.tgtlance08_talk}整整一个连在推进？太好了。\n\r\n让他们来吧——我们会守住阵线，快速出击，让他们后悔踏进我们的地盘。\n\r\n我们会像风暴一样撕开他们，让他们见识 {COMPANY.CompanyName} 的成色！
+{{MC.If.Encounter.HasTag.brave_alpha_check} AND {MC.If.Encounter.HasTag.dialogue_brave_tagged}}{MC.Modification.AddTo.EncounterTags.brave_alpha_talk}Our time holding them off at Bravo Base should be enough.  Let;s push on to the next objective.	{{MC.If.Encounter.HasTag.brave_alpha_check} AND {MC.If.Encounter.HasTag.dialogue_brave_tagged}}{MC.Modification.AddTo.EncounterTags.brave_alpha_talk}我们在布拉沃基地拖延他们的时间应该够了。继续向下一个目标推进。
+{{MC.If.Encounter.HasTag.brave_success_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.brave_success_talk}{MC.Modification.AddTo.EncounterTags.success_talk_done}Thank you, everyone, for standing by me and my {MC.PlayerLances.TeamPilot_Random_Brave.UnitName}.	{{MC.If.Encounter.HasTag.brave_success_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.brave_success_talk}{MC.Modification.AddTo.EncounterTags.success_talk_done}谢谢各位，谢谢你们支持我和我的 {MC.PlayerLances.TeamPilot_Random_Brave.UnitName}。
+{{MC.If.Encounter.HasTag.coward_02_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.coward_02_talk}{MC.Modification.AddTo.EncounterTags.tgtlance02_talk}Hide! Duck! And for the love of everything --- don't draw attention!	{{MC.If.Encounter.HasTag.coward_02_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.coward_02_talk}{MC.Modification.AddTo.EncounterTags.tgtlance02_talk}躲起来！低头！看在老天的份上——别引人注意！
+{{MC.If.Encounter.HasTag.coward_04_talk} AND {MC.If.Encounter.HasTag.dialogue_brave_tagged}}Numbers don't scare us.  We'll face whatever comes.	{{MC.If.Encounter.HasTag.coward_04_talk} AND {MC.If.Encounter.HasTag.dialogue_brave_tagged}}数量吓不倒我们。来什么我们接什么。
+{{MC.If.Encounter.HasTag.coward_04_talk} AND {MC.If.Encounter.HasTag.dialogue_crazy_tagged}}How many?  HOPEFULLY ALL OF THEM!\n\r\nI want a full stampede to charge into!	{{MC.If.Encounter.HasTag.coward_04_talk} AND {MC.If.Encounter.HasTag.dialogue_crazy_tagged}}有多少？希望是全部！\n\r\n我就想有一大群冲过来让我打！
+{{MC.If.Encounter.HasTag.coward_04_talk} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}Whatever their remaining strength is, we'll manage it.  Stay disciplined and keep advancing.	{{MC.If.Encounter.HasTag.coward_04_talk} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}无论他们还剩多少力量，我们都应付得来。保持纪律，继续推进。
+{{MC.If.Encounter.HasTag.coward_08_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.coward_08_talk}{MC.Modification.AddTo.EncounterTags.tgtlance08_talk}Company-sized force heading our way?  Great...uh, everyone, stay low, stay quiet, and don't even think about engaging.\n\r\nLet's just wait this one out.	{{MC.If.Encounter.HasTag.coward_08_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.coward_08_talk}{MC.Modification.AddTo.EncounterTags.tgtlance08_talk}一个连规模的部队朝我们来了？太好了……呃，各位，压低身位，保持安静，想都别想交战。\n\r\n咱们就耗着，等他们过去。
+{{MC.If.Encounter.HasTag.coward_alpha_check} AND {MC.If.Encounter.HasTag.dialogue_coward_tagged}}{MC.Modification.AddTo.EncounterTags.coward_alpha_talk}This place gives me a bad feeling.  I say we head to the next spot.	{{MC.If.Encounter.HasTag.coward_alpha_check} AND {MC.If.Encounter.HasTag.dialogue_coward_tagged}}{MC.Modification.AddTo.EncounterTags.coward_alpha_talk}这地方让我有种不祥的预感。我建议去下一个地点。
+{{MC.If.Encounter.HasTag.coward_success_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.coward_success_talk}{MC.Modification.AddTo.EncounterTags.success_talk_done}I'd rather avoid repeating that whole ordeal in the near future.  Commander, if a similar contract comes up, perhaps there are some crucial admin tasks I could handle instead?	{{MC.If.Encounter.HasTag.coward_success_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.coward_success_talk}{MC.Modification.AddTo.EncounterTags.success_talk_done}我可不希望短期内再来一遍那种煎熬。指挥官，要是还有类似的任务，也许有些关键的文书工作可以交给我来做？
+{{MC.If.Encounter.HasTag.crazy_02_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.crazy_02_talk}{MC.Modification.AddTo.EncounterTags.tgtlance02_talk}Break them! Crush them! Leave only wreckage!	{{MC.If.Encounter.HasTag.crazy_02_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.crazy_02_talk}{MC.Modification.AddTo.EncounterTags.tgtlance02_talk}打碎他们！碾碎他们！只留下残骸！
+{{MC.If.Encounter.HasTag.crazy_05_talk} AND {MC.If.Encounter.HasNoTag.crazy_05_done}}Fantastic.  And here I can't tell if the real danger is them --- or {MC.PlayerLances.TeamPilot_Random_Crazy.DisplayName}'s enthusiasm.	{{MC.If.Encounter.HasTag.crazy_05_talk} AND {MC.If.Encounter.HasNoTag.crazy_05_done}}太好了。而我都分不清真正的危险是他们——还是 {MC.PlayerLances.TeamPilot_Random_Crazy.DisplayName} 的热情了。
+{{MC.If.Encounter.HasTag.crazy_05_talk} AND {MC.If.Encounter.HasTag.dialogue_coward_tagged}}{MC.Modification.AddTo.EncounterTags.crazy_05_done}Uh...at this point, I think I'm more afraid of {MC.PlayerLances.TeamPilot_Random_Crazy.DisplayName} than the entire enemy forces.	{{MC.If.Encounter.HasTag.crazy_05_talk} AND {MC.If.Encounter.HasTag.dialogue_coward_tagged}}{MC.Modification.AddTo.EncounterTags.crazy_05_done}呃……到了这一步，我觉得比起整支敌军，我更怕 {MC.PlayerLances.TeamPilot_Random_Crazy.DisplayName}。
+{{MC.If.Encounter.HasTag.crazy_08_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.crazy_08_talk}{MC.Modification.AddTo.EncounterTags.tgtlance08_talk}An entire company charging?  Good.\n\r\nI've been waiting for this.  Let's show them exactly why no one stands against {COMPANY.CompanyName}!\n\r\nMy trusty {MC.PlayerLances.castDef_TeamPilot_Random_Crazy.UnitName} --- CHARGE!!!	{{MC.If.Encounter.HasTag.crazy_08_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.crazy_08_talk}{MC.Modification.AddTo.EncounterTags.tgtlance08_talk}整整一个连在冲锋？好。\n\r\n我等这一刻很久了。让他们见识见识为什么没人能挡 {COMPANY.CompanyName} 的路！\n\r\n我忠实的 {MC.PlayerLances.castDef_TeamPilot_Random_Crazy.UnitName}——冲啊！！！
+{{MC.If.Encounter.HasTag.crazy_alpha_check} AND {MC.If.Encounter.HasTag.dialogue_crazy_tagged}}{MC.Modification.AddTo.EncounterTags.crazy_alpha_talk}I'm dying of boredom here.  Let's tear into the next area and see some real action!	{{MC.If.Encounter.HasTag.crazy_alpha_check} AND {MC.If.Encounter.HasTag.dialogue_crazy_tagged}}{MC.Modification.AddTo.EncounterTags.crazy_alpha_talk}我在这儿都快无聊死了。杀进下一个区域，来点真正的战斗！
+{{MC.If.Encounter.HasTag.dialogue_1} AND {MC.If.Encounter.HasNoTag.dialogue_2}}Big thanks to the {TEAM_EMP.FactionDef.Demonym} experts, really top-notch work.	{{MC.If.Encounter.HasTag.dialogue_1} AND {MC.If.Encounter.HasNoTag.dialogue_2}}多谢 {TEAM_EMP.FactionDef.Demonym} 的专家们，真是顶尖水准的工作。
+{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}C'mon {TEAM_EMP.FactionDef.Demonym}, time to shine --- don't let me carry the load alone!.	{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}上啊 {TEAM_EMP.FactionDef.Demonym}，该你们大显身手了——别让我一个人扛！
+{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}Enoufg chatter, {MC.PlayerLances.TeamPilot_Random_1.DisplayName}.  Get your {MC.PlayerLances.TeamPilot_Random_1.UnitName} and reinforce their defense, pronto!	{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}别废话了，{MC.PlayerLances.TeamPilot_Random_1.DisplayName}。带上你的 {MC.PlayerLances.TeamPilot_Random_1.UnitName} 去支援他们的防御，马上！
+{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}Just so you know, {MC.PlayerLances.TeamPilot_Random_1.DisplayName}, we're here.	{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}跟你说一声，{MC.PlayerLances.TeamPilot_Random_1.DisplayName}，我们到了。
+{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}Let them worry about that defense zone.	{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}让他们去操心那个防御区吧。
+{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}No good, if all the buildings fall, we won't get paid.	{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}不行，要是建筑全塌了，我们就拿不到钱了。
+{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}When have our wishes ever come true?\n\r\nNow stay sharp and be ready.	{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}我们的愿望什么时候成真过？\n\r\n现在打起精神，做好准备。
+{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}Yeah, I did that "thing" earlier.	{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}是啊，我早先干了那件"事"。
+{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}Yeah, I'm sure those {TEAM_EMP.FactionDef.Demonym} geniuses will have no trouble with the incoming bogies.	{{MC.If.Encounter.HasTag.dialogue_1} OR {MC.If.Encounter.HasTag.dialogue_2}}是啊，我相信那些 {TEAM_EMP.FactionDef.Demonym} 天才们应付起飞来的敌机肯定毫无问题。
+{{MC.If.Encounter.HasTag.dialogue_brave_tagged} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.brave_03_talk}Forward!\n\r\nWe strike fast and finish this quickly!	{{MC.If.Encounter.HasTag.dialogue_brave_tagged} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.brave_03_talk}前进！\n\r\n我们快速出击，速战速决！
+{{MC.If.Encounter.HasTag.dialogue_brave} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_gladiator}}{MC.Modification.AddTo.EncounterTags.dialogue_brave_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}Whatever they bring, we'll face it without flinching!  My {MC.PlayerLances.TeamPilot_Random_Brave.UnitName} fights to the last!	{{MC.If.Encounter.HasTag.dialogue_brave} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_gladiator}}{MC.Modification.AddTo.EncounterTags.dialogue_brave_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}无论他们带来什么，我们都会毫不退缩地迎战！我的 {MC.PlayerLances.TeamPilot_Random_Brave.UnitName} 会战到最后！
+{{MC.If.Encounter.HasTag.dialogue_concerned} AND {MC.If.PlayerLances.Speaker.HasNoTag.pilot_brave}}Shouldn't we move on to the next defense objective?	{{MC.If.Encounter.HasTag.dialogue_concerned} AND {MC.If.PlayerLances.Speaker.HasNoTag.pilot_brave}}我们是不是该去下一个防御目标了？
+{{MC.If.Encounter.HasTag.dialogue_concerned} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_brave}} After we handle the defense here, we're allowed to move on...aren't we?	{{MC.If.Encounter.HasTag.dialogue_concerned} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_brave}}我们处理完这里的防御之后，就可以继续推进了吧……对吧？
+{{MC.If.Encounter.HasTag.dialogue_coward_tagged} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.coward_04_talk}How many units does TGT still have?  Because they sure aren't slowing down.	{{MC.If.Encounter.HasTag.dialogue_coward_tagged} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.coward_04_talk}目标还有多少单位？因为他们可一点都没慢下来。
+{{MC.If.Encounter.HasTag.dialogue_coward} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_disgraced}}{MC.Modification.AddTo.EncounterTags.dialogue_coward_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}Uh...y-yeah, sure...we'll try to hold out.  No promises, though.	{{MC.If.Encounter.HasTag.dialogue_coward} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_disgraced}}{MC.Modification.AddTo.EncounterTags.dialogue_coward_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}呃……好、好吧……我们会尽量撑住。不过可不保证。
+{{MC.If.Encounter.HasTag.dialogue_crazy_tagged} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.crazy_05_talk}An entire company charging in?  Aww, they brought EVERYONE!\n\r\nLet's go say hello --- LOUDLY!	{{MC.If.Encounter.HasTag.dialogue_crazy_tagged} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.crazy_05_talk}整整一个连冲进来了？哎呀，他们把所有人都带来了！\n\r\n咱们去打个招呼——大声地！
+{{MC.If.Encounter.HasTag.dialogue_crazy} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_klutz}}{MC.Modification.AddTo.EncounterTags.dialogue_crazy_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}{COMPANY.CompanyName} forever!  I want so many enemies coming at us they form a traffic jam!\n\r\nSEND THEM ALL!	{{MC.If.Encounter.HasTag.dialogue_crazy} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_klutz}}{MC.Modification.AddTo.EncounterTags.dialogue_crazy_tagged}{MC.Modification.AddTo.EncounterTags.intro_done}万岁！我要敌人多得挤成交通堵塞！\n\r\n让他们全都来吧！
+{{MC.If.Encounter.HasTag.dialogue_enabled} AND {MC.If.Encounter.HasNoTag.dialogue_1}}{MC.Modification.AddTo.EncounterTags.dialogue_2}They'll defend the next zone, and as soon as we're done here, we'll push forward to back them up.	{{MC.If.Encounter.HasTag.dialogue_enabled} AND {MC.If.Encounter.HasNoTag.dialogue_1}}{MC.Modification.AddTo.EncounterTags.dialogue_2}他们会守住下一个区域，我们一处理完这里就推进过去支援他们。
+{{MC.If.Encounter.HasTag.dialogue_enabled} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_bookish}}{MC.Modification.AddTo.EncounterTags.dialogue_bookish}I'd prefer reading about this than actually being in the battle.	{{MC.If.Encounter.HasTag.dialogue_enabled} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_bookish}}{MC.Modification.AddTo.EncounterTags.dialogue_bookish}比起亲身参战，我更愿意读读关于这事的记载。
+{{MC.If.Encounter.HasTag.dialogue_enabled} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_gladiator}}{MC.Modification.AddTo.EncounterTags.dialogue_show}Time to show these actors how it's done in the real world.	{{MC.If.Encounter.HasTag.dialogue_enabled} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_gladiator}}{MC.Modification.AddTo.EncounterTags.dialogue_show}该让这些演员看看真实世界是怎么打的了。
+{{MC.If.Encounter.HasTag.dialogue_enabled} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_mechwarrior}}{MC.Modification.AddTo.EncounterTags.dialogue_show}Time to show these actors how it's done in the real world.	{{MC.If.Encounter.HasTag.dialogue_enabled} AND {MC.If.PlayerLances.Speaker.HasTag.pilot_mechwarrior}}{MC.Modification.AddTo.EncounterTags.dialogue_show}该让这些演员看看真实世界是怎么打的了。
+{{MC.If.Encounter.HasTag.dialogue_neutral_tagged} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.neutral_06_talk}Affirmative.  We'll advance and address the incoming hostiles.	{{MC.If.Encounter.HasTag.dialogue_neutral_tagged} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.neutral_06_talk}收到。我们会推进并应对来敌。
+{{MC.If.Encounter.HasTag.dialogue_tgtlance_08_enabled} AND {MC.If.Encounter.HasNoTag.tgtlance08_talk}}Keep engagements controlled and maintain formation.  Our objective is to delay them, not destroy them outright.	{{MC.If.Encounter.HasTag.dialogue_tgtlance_08_enabled} AND {MC.If.Encounter.HasNoTag.tgtlance08_talk}}保持交战可控，维持队形。我们的目标是拖延他们，而不是一举歼灭。
+{{MC.If.Encounter.HasTag.generic_success_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.generic_success_talk}{MC.Modification.AddTo.EncounterTags.success_talk_done}A battalion of {TEAM_TAR.FactionDef.Demonym}'s forces, and we lived to tell the tale...I'm still amazed.	{{MC.If.Encounter.HasTag.generic_success_chance} AND {MC.If.RandomPercentage.IsLessThanOrIs.99%}}{MC.Modification.AddTo.EncounterTags.generic_success_talk}{MC.Modification.AddTo.EncounterTags.success_talk_done}{TEAM_TAR.FactionDef.Demonym} 一个营的 {TEAM_TAR.FactionDef.Demonym} 兵力，我们居然活下来讲述这一切……我还是不敢相信。
+{{MC.If.Encounter.HasTag.neutral_02_check} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.neutral_02_talk}{MC.Modification.AddTo.EncounterTags.tgtlance02_talk}Okay, team.  Let's go take care of whatever's out there.	{{MC.If.Encounter.HasTag.neutral_02_check} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.neutral_02_talk}{MC.Modification.AddTo.EncounterTags.tgtlance02_talk}好了，各位。去把外面的东西收拾掉吧。
+{{MC.If.Encounter.HasTag.neutral_08_check} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.neutral_08_talk}{MC.Modification.AddTo.EncounterTags.tgtlance08_talk}Engage carefully and avoid pushing too far. Our priority is to slow them down, not commit to a full fight.	{{MC.If.Encounter.HasTag.neutral_08_check} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.neutral_08_talk}{MC.Modification.AddTo.EncounterTags.tgtlance08_talk}谨慎交战，别推进太深。我们的首要任务是拖慢他们，而不是打一场全面战斗。
+{{MC.If.Encounter.HasTag.neutral_alpha_check} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.neutral_alpha_talk}I think we've worn out our welcome here.  Time to move on.	{{MC.If.Encounter.HasTag.neutral_alpha_check} AND {MC.If.Encounter.HasTag.dialogue_neutral_tagged}}{MC.Modification.AddTo.EncounterTags.neutral_alpha_talk}我想我们在这里已经不受欢迎了。该走了。
+{COMPANY.CompanyName} has been carving a path towards the grand prize! Will this battler live up to expectations?! Get ready to find out in THREE, TWO, ONE! Start the match!!	{COMPANY.CompanyName} 一路杀向大奖！这位斗士能否不负众望？！准备揭晓——三、二、一！比赛开始！！
+{COMPANY.CompanyName}! We weren't expecting to see you - in one piece, anyway. What a sight for sore eyes. Welcome to the front lines!	{COMPANY.CompanyName}！我们没料到会见到你们——至少没想到是完整的你们。真是让人眼前一亮的景象。欢迎来到前线！
+{COMPANY.CompanyName}, be advised, new enemy reinforcements detected entering your AO.  Repeat, another opfor inbound.\n\r\nYou must continue to defend the facility at all costs.  Relief forces are still en route.	{COMPANY.CompanyName}，注意，检测到新的敌军增援进入你的作战区域。重复，又一批敌方单位逼近。\n\r\n你必须不惜一切代价继续守住设施。增援部队仍在途中。
+{COMPANY.CompanyName}, this is {TGT_SYSTEM.Name} Base Command.  Friendly {TEAM_TAR.FactionDef.Demonym} units have entered the AO.  You are relieved.	{COMPANY.CompanyName}，这里是 {TGT_SYSTEM.Name} 基地指挥部。友方 {TEAM_TAR.FactionDef.Demonym} 单位已进入作战区域。你们可以卸防了。
+{COMPANY.CompanyName}, this is {TGT_SYSTEM.Name} Base Command.  The base remains secure.\n\r\nYour payment is being processed.  Additionally...we will be reviewing the origin of these attackers.  This was no simple raid.	{COMPANY.CompanyName}，这里是 {TGT_SYSTEM.Name} 基地指挥部。基地安然无恙。\n\r\n你的报酬正在结算。另外……我们会追查这些袭击者的来路。这绝非一次简单的突袭。
+{MC.If.Commander.HasAnyTag.commander_youth_loner,background_career_pirate}Really, Commander. Must you be so crass?	{MC.If.Commander.HasAnyTag.commander_youth_loner,background_career_pirate}说真的，指挥官。你非得这么粗俗吗？
+{MC.If.Commander.HasNoTags.commander_career_gladiator,commander_career_merchantGuard}I've no clue but I'm sure we'll find out at that other settlement nearby. Let's head out.	{MC.If.Commander.HasNoTags.commander_career_gladiator,commander_career_merchantGuard}我也不知道，但我相信我们在附近那个定居点会弄明白的。出发吧。
+{MC.If.Commander.HasNoTags.commander_youth_loner,background_career_pirate}Pilots, you heard Ms. Bosh. Our job's not over yet. Let's recover and extract that dog.	{MC.If.Commander.HasNoTags.commander_youth_loner,background_career_pirate}飞行员们，你们听到博什女士的话了。我们的活儿还没完。去把那条狗找回来并撤离。
+{MC.If.Commander.HasTag.background_career_pirate}<color=#85DBF6FF>[Pirate Youth]</color> Pilots, you heard our esteemed cargo. Time to get her 'shit'.	{MC.If.Commander.HasTag.background_career_pirate}<color=#85DBF6FF>[海盗出身]</color> 飞行员们，你们听到我们尊贵货物的话了。是时候去取她的"东西"了。
+{MC.If.Commander.HasTag.commander_career_gladiator}{MC.Modification.AddTo.EncounterTags.mc_recognised_strange_turrets}<color=#85DBF6FF>[Gladiator Career]</color> ...the way those turrets came online. It reminds me of something I once saw in the arena. I'm not sure though. Let's check the next settlement.	{MC.If.Commander.HasTag.commander_career_gladiator}{MC.Modification.AddTo.EncounterTags.mc_recognised_strange_turrets}<color=#85DBF6FF>[角斗士生涯]</color> ……那些炮塔上线的方式。让我想起曾在竞技场见过的一幕。不过我也不确定。咱们去下一个定居点看看。
+{MC.If.Commander.HasTag.commander_career_merchantGuard}{MC.Modification.AddTo.EncounterTags.mc_recognised_strange_turrets}<color=#85DBF6FF>[Merchant Guard Career]</color> ...the way those turrets came online. It reminds me of a non-standard turret attack program I saw a merchant try and sell. No idea why that would be running here. Let's check the next settlement.	{MC.If.Commander.HasTag.commander_career_merchantGuard}{MC.Modification.AddTo.EncounterTags.mc_recognised_strange_turrets}<color=#85DBF6FF>[商队护卫生涯]</color> ……那些炮塔上线的方式。让我想起一个商人试图兜售的非标准炮塔攻击程序。不知道它怎么会在这儿运行。咱们去下一个定居点看看。
+{MC.If.Commander.HasTag.commander_youth_bankrupt}<color=#85DBF6FF>[Bankrupt Youth]</color> That Deusenberg... that's a costly loss. I wouldn't worry though - insurance will pay well I'm sure.	{MC.If.Commander.HasTag.commander_youth_bankrupt}<color=#85DBF6FF>[破产出身]</color> 那台杜森伯格……那可是一笔昂贵的损失。不过我不担心——保险肯定会赔得不错。
+{MC.If.Commander.HasTag.commander_youth_bankrupt}Yes... well... at least you know worth when you see it, Commander.	{MC.If.Commander.HasTag.commander_youth_bankrupt}是啊……好吧……至少你识货，指挥官。
+{MC.If.Commander.HasTag.commander_youth_loner}<color=#85DBF6FF>[Loner Youth]</color> Pilots, you heard our esteemed cargo. Time to get her 'shit'.	{MC.If.Commander.HasTag.commander_youth_loner}<color=#85DBF6FF>[独行出身]</color> 飞行员们，你们听到我们尊贵货物的话了。是时候去取她的"东西"了。
+{MC.If.Commander.HasTag.commander_youth_loner}<color=#85DBF6FF>[Loner Youth]</color> You 'royals' are all the same. Only caring about the expensive things you can buy.	{MC.If.Commander.HasTag.commander_youth_loner}<color=#85DBF6FF>[独行出身]</color> 你们这些"贵族"全都一个样。只在乎那些买得起的贵东西。
+{MC.If.Commander.HasTag.commander_youth_loner}How covetous of you, Commander. Those like you care not for things they cannot afford.	{MC.If.Commander.HasTag.commander_youth_loner}你可真贪心啊，指挥官。像你这样的人，凡是买不起的东西都瞧不上眼。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}...and another one, Commander.	{MC.If.Encounter.HasNoTag.dialogue_fancy}……又解决一个，指挥官。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}{TEAM_TAR.FactionDef.Demonym} forces en route to Charlie base!	{MC.If.Encounter.HasNoTag.dialogue_fancy}{TEAM_TAR.FactionDef.Demonym} 部队正前往查理基地！
+{MC.If.Encounter.HasNoTag.dialogue_fancy}Additional enemies closing in.	{MC.If.Encounter.HasNoTag.dialogue_fancy}更多敌人正在逼近。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}Additional enemies pushing into the perimeter --- prepare to engage.	{MC.If.Encounter.HasNoTag.dialogue_fancy}更多敌人正突入外围——准备交战。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}All systems online at the final base.  Hold your ground until help arrives, and get those turrets firing.	{MC.If.Encounter.HasNoTag.dialogue_fancy}最后一座基地所有系统上线。守住阵地直到援军抵达，让那些炮塔开火。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}Another wave of hostiles is incoming!	{MC.If.Encounter.HasNoTag.dialogue_fancy}又一批敌军来袭！
+{MC.If.Encounter.HasNoTag.dialogue_fancy}New wave of hostiles approaching Alpha Base.	{MC.If.Encounter.HasNoTag.dialogue_fancy}新一批敌军正逼近阿尔法基地。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}Our job is to give the main force time to return and counter-attack.  We'll hold a few bases that still have standing defenses.	{MC.If.Encounter.HasNoTag.dialogue_fancy}我们的任务是为主力部队争取回防反攻的时间。我们要守住几座尚有防御的基地。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}Proceed to Base Alpha. We'll hold position here until it's time to move to the next one.	{MC.If.Encounter.HasNoTag.dialogue_fancy}前往阿尔法基地。我们会在此驻守，直到该转移到下一处。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}The final push of enemies is coming!	{MC.If.Encounter.HasNoTag.dialogue_fancy}敌人的最后一波攻势来了！
+{MC.If.Encounter.HasNoTag.dialogue_fancy}We've come up short, though to be fair, any other commanders facing an enemy force this large would've ended up the same way	{MC.If.Encounter.HasNoTag.dialogue_fancy}我们功亏一篑，不过平心而论，任何其他指挥官面对如此庞大的敌军，结局也会一样。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}We've got good news, Commander.  Reinforcements are almost at the perimeter, and we've kept the enemy at bay just as needed.  Nice work.	{MC.If.Encounter.HasNoTag.dialogue_fancy}好消息，指挥官。增援几乎抵达外围，而我们恰好按需把敌人挡在了外面。干得好。
+{MC.If.Encounter.HasNoTag.dialogue_fancy}You've defeated every enemy they've thrown at you!  The reinforcements are already talking about what you've pulled off.	{MC.If.Encounter.HasNoTag.dialogue_fancy}你击败了他们派出的每一个敌人！增援部队已经在议论你的战绩了。
+{MC.If.Encounter.HasNoTag.intro_done}Roger.  We'll stay on task and handle whatever arrives next.	{MC.If.Encounter.HasNoTag.intro_done}收到。我们会继续按计划行事，应对接下来的任何情况。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}...<i><static noise></i> is compromised!  All {TEAM_TAR.FactionDef.Demonym} units --- execute loyalty purge!	{MC.If.Encounter.HasNoTag.KilledAllOpfor}……<i><静电噪音></i>已暴露！所有 {TEAM_TAR.FactionDef.Demonym} 单位——执行忠诚清洗！
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Intel Liason Officer:</color>   Commander, you have completed the objective.  Payment will be transferred.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 情报联络官：</color>  指挥官，你已完成目标。报酬将予以转账。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Intel Liason Officer:</color>  No promises.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 情报联络官：</color>  不作保证。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Enemy units remain active, disengage at your discretion, {COMPANY.CompanyName}.  Let the relieving forces have some fun.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 敌方单位仍在活动，{COMPANY.CompanyName}，你可自行决定脱离交战。让接防部队也活动活动。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Relieving forces have arrived.  Both facilities are online and still linked to the regional defense grid.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 接防部队已抵达。两座设施均在线，且仍与区域防御网格相连。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> Excellent defensive action, {COMPANY.CompanyName}.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 出色的防御行动，{COMPANY.CompanyName}。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> Relieving force have arrived.  The regional communications grid is secure.\n\r\nThe remaining enemy forces are disengaging or no longer relevant to mission success.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 接防部队已抵达。区域通讯网格安全。\n\r\n残余敌军已脱离接触。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>Defector:</color>  My former commanders would have executed me for what I've done.  I trust I made the correct choice.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>叛逃者：</color>  我以前的指挥官要是知道我做的事，会处决我的。我相信我做了正确的选择。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>Target/Principal:</color>  If I had, I'd already be dead.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>目标/委托人：</color>  要是我真做了，早就死了。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>Target/Principal:</color>  Took you long enough, mercenaries!	{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>目标/委托人：</color>  你们可算来了，雇佣兵！
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Agent onboard.  You're clear --- get out!\n\r\nBring a unit to the evac zone.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}特工已登船。你们可以走了——快撤！\n\r\n派一个单位到撤离区。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}As for you, {Company.CompanyName} --- mission parameters changed, and you adapted.  That's why we hire professionals.\n\r\nWe'll authorize the payments...	{MC.If.Encounter.HasNoTag.KilledAllOpfor}至于你，{Company.CompanyName}——任务参数变了，而你随机应变。这就是我们雇专业人士的原因。\n\r\n我们会批准付款……
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Asset onboard.  You're clear --- get out!\n\r\nBring a unit to the evac zone.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}资产已登船。你们可以走了——快撤！\n\r\n派一个单位到撤离区。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Both purification plants remain operational...and that's all that matters.  Civilians keep their water and the contract is fulfilled.\n\r\nWe're ordered to disengage and hand over to the relief force.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}两座净化厂仍在运转……这才是最重要的。平民保住了水源，合同也已履行。\n\r\n我们奉命脱离交战，移交给接防部队。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Commander, asset secured.  Mission accomplished.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}指挥官，资产已确保。任务完成。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Commander, you have a new objective: protect the target.\n\r\nEscort our defector to the evac zone.  Keep him alive at all costs.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}指挥官，你有了新目标：保护目标。\n\r\n护送我们的叛逃者到撤离区。不惜一切代价让他活着。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Contract complete, team.  Prepare for extraction.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}合同完成，各位。准备撤离。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Defector onboard.  You're clear --- get out!\n\r\nBring a unit to the evac zone.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}叛逃者已登船。你们可以走了——快撤！\n\r\n派一个单位到撤离区。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Enemy forces are now aware of the agent's exfiltration.  Expect interception attempts.\n\r\nExtraction Point has been designated...form a defensive perimeter and ensure the asset reaches the rally point intact.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}敌军已察觉特工正在撤离。预计会有拦截。\n\r\n撤离点已指定……结成防御圈，确保资产抵达集结点。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Funny how we went from execution squad to bodyguards real quick.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}有意思，我们这么快就从行刑队变成了保镖。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Funny way to treat your agents.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}对待自己的特工可真是种有趣的方式。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}If the data checks out, we'll gain a massive advantage in this sector.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}如果数据核实无误，我们将在这个星区获得巨大优势。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Mission accomplished.  Disengage and let the regulars clean up the rest.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}任务完成。脱离交战，让正规军去清理残局。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}New orders: <b>protect and escort the target</b>, now our principal, to the evac point.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}新命令：<b>保护并护送目标</b>，现在他是我们的委托人，前往撤离点。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Next time, give us the whole truth.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}下次，把全部真相告诉我们。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Next time, maybe they tell us who not to shoot first?	{MC.If.Encounter.HasNoTag.KilledAllOpfor}下次，也许先告诉我们哪些人不该打？
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Not bad for a "simple" assassination job.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}对"简单的"暗杀任务来说，干得不错。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Now that's done, Commander, move a unit to the rally point so we can dust-off and cmoplete the mission.\n\r\nWe don't want more surpirses.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}这就成了，指挥官，派一个单位到集结点，好让我们接你们撤离、完成任务。\n\r\n我们可不想要更多意外。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Our employer is ordering a disengagement.  The {TEAM_TAR.FactionDef.Demonym}s still have combat assets in the field, but they failed their objective.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}我们的雇主正下令脱离交战。{TEAM_TAR.FactionDef.Demonym} 在战场上仍有作战资产，但他们未能达成目标。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Outstanding work, team.\n\r\nBoth cargo terminals remain functional and loading operations are continuing despite enemy activity.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}干得漂亮，各位。\n\r\n两座货运站仍在运作，尽管有敌军活动，装卸作业仍在继续。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Outstanding work.  Both power stations remain operational and the civilian grid is stable.\n\r\nEnemy forces are still active in the area, but our obligation is fulfilled. Command is ordering a withdrawal.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}干得漂亮。两座发电站仍在运转，民用电网稳定。\n\r\n敌军在该地区依然活跃，但我们的义务已履行。指挥部正下令脱离交战。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Relief force has entered the operational area.  Outstanding work, Commander.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}接防部队已进入作战区域。干得漂亮，指挥官。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}So...we just saved the guy we were supposed to kill.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}所以……我们刚刚救下了本该杀掉的那个人。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Sometimes survival is the victory.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}有时候，活下去就是胜利。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Target secured!  Repeat, target secured!	{MC.If.Encounter.HasNoTag.KilledAllOpfor}目标已确保！重复，目标已确保！
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Team, agent is aboard!  Repeat --- package secured!	{MC.If.Encounter.HasNoTag.KilledAllOpfor}各位，特工已登船！重复——包裹已确保！
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}That depends.  Intelligence will want a long conversation with you.\n\r\nBut for now...you're under {TEAM_EMP.FactionDef.Name} protection.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}那得看情况。情报部门会想跟你好好谈谈。\n\r\n但眼下……你受 {TEAM_EMP.FactionDef.Name} 保护。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}That's it, Commander.  Bring a unit to the evac zone --- get out of there!	{MC.If.Encounter.HasNoTag.KilledAllOpfor}成了，指挥官。派一个单位到撤离区——赶紧撤出那里！
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}The defector's data core is intact.  Early scans suggest weapons calibration logs, armor schematics...and something else.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}叛逃者的数据核心完好。初步扫描显示有武器校准日志、装甲图纸……还有些别的东西。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}The ordnance plant remains operational, munitions depot remains intact, and {TEAM_EMP.FactionDef.Demonym} production continues.\n\r\nAlso {TEAM_EMP.FactionDef.Demonym} reinforcemnts are arriving.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}军械厂仍在运转，弹药库完好无损，{TEAM_EMP.FactionDef.Demonym} 的生产仍在继续。\n\r\n另外 {TEAM_EMP.FactionDef.Demonym} 的增援正在抵达。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}They threw everything they had and still couldn't break through.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}他们倾尽全力，还是没能突破。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}We have the asset!  Move your team up and exfiltrate, as well.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}我们拿到资产了！让你的队伍也上前，一并撤离。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}Welcome to politics.\n\r\nAnyway, your new orders are:  Protect the defector and, if possible, eliminate any or incoming {TEAM_TAR.FactionDef.ShortName} pursuers.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}欢迎来到政治。\n\r\n总之，你的新命令是：保护叛逃者，如有可能，消灭任何来袭的 {TEAM_TAR.FactionDef.ShortName} 追兵。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}What matters is that we get paid.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}重要的是我们能拿到钱。
+{MC.If.Encounter.HasNoTag.KilledAllOpfor}You could've warned us.	{MC.If.Encounter.HasNoTag.KilledAllOpfor}你本可以提醒我们一声。
+{MC.If.Encounter.HasNoTag.lance_07_done}More hostiles detected.  They seem to be appearing each time we approach the defense zone.	{MC.If.Encounter.HasNoTag.lance_07_done}检测到更多敌人。每次我们靠近防御区，他们似乎就会出现。
+{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}{TEAM_EMP.FactionDef.Demonym} settlement, Commander {MC.Commander.DisplayName} here. We've been sent to check in on Henriette Bosh.	{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}{TEAM_EMP.FactionDef.Demonym} 定居点，这里是 {MC.Commander.DisplayName} 指挥官。我们奉命来查看亨丽埃特·博什的情况。
+{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}<b>Commander!</b> Take these ruffians out this instant!	{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}<b>指挥官！</b> 立刻把这些流氓收拾掉！
+{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}<i>...and you will get nothing unless you do what I told you!</i>	{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}<i>……你要是不照我说的做，就什么都得不到！</i>
+{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}Commander! Halton radioed to let me know you were coming. I am completely fine. You may now leave.	{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}指挥官！霍尔顿用无线电通知我你要来。我完全没事。你现在可以走了。
+{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}Oh... no! Save me... and my dog, Commander!	{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}哦……不！救救我……还有我的狗，指挥官！
+{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}She's unavailable. Go away.	{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}她没空。滚开。
+{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}This is useless. Fine... we'll take what we want from here instead then. Boys, raise hell!	{MC.If.Encounter.HasNoTag.mc_met_bosh_in_phase1}这没用的。好吧……那我们就从这儿拿走我们想要的东西。弟兄们，闹起来！
+{MC.If.Encounter.HasNoTag.mc_solved_crime}Good work, Commander. Let's wrap this up and let Ms. Bosh get back to her life. We'll grab our pay and go.	{MC.If.Encounter.HasNoTag.mc_solved_crime}干得好，指挥官。咱们把这事收尾，让博什女士回归她的生活。我们领了钱就走。
+{MC.If.Encounter.HasNoTag.mc_solved_crime}Sounds like there's more going on here than we expected, Commander. No time to figure it out right now though.	{MC.If.Encounter.HasNoTag.mc_solved_crime}看来这里的情况比我们预想的要复杂，指挥官。不过现在没时间深究。
+{MC.If.Encounter.HasNoTag.talk_alpha_done}Alpha Base is online.  We'll defend this one next and leave Bravo Base to the {TEAM_TAR.FactionDef.Demonym}.	{MC.If.Encounter.HasNoTag.talk_alpha_done}阿尔法基地已上线。下一个我们守这里，把布拉沃基地留给 {TEAM_TAR.FactionDef.Demonym}。
+{MC.If.Encounter.HasNoTag.talk_charlie_done}Alright, let's move; just don't overextend.	{MC.If.Encounter.HasNoTag.talk_charlie_done}好，动身吧；只是别推进过头。
+{MC.If.Encounter.HasNoTag.TeamSwapped}"Acceptable"?  We just wiped a full {TEAM_TAR.FactionDef.Demonym} response force...aand bagged you a high-rangking defector.	{MC.If.Encounter.HasNoTag.TeamSwapped}"可以接受"？我们刚刚全歼了一支完整的 {TEAM_TAR.FactionDef.Demonym} 反应部队……还给你逮回一个高阶叛逃者。
+{MC.If.Encounter.HasNoTag.TeamSwapped}{Company.CompanyName}, confirmation received.  Target secured and all hostile units eliminated.\n\r\nBonus payment authorized.	{MC.If.Encounter.HasNoTag.TeamSwapped}{Company.CompanyName}，确认收到。目标已确保，所有敌方单位已消灭。\n\r\n奖金已批准支付。
+{MC.If.Encounter.HasNoTag.TeamSwapped}Clean sweep.  Doesn't get better than that..	{MC.If.Encounter.HasNoTag.TeamSwapped}干净利落的清场。没有比这更漂亮的结局了。
+{MC.If.Encounter.HasNoTag.TeamSwapped}Mission complete.  Target secured.  All hostiles neutralized. {Company.CompanyName} exfiltrating.	{MC.If.Encounter.HasNoTag.TeamSwapped}任务完成。目标已确保。所有敌人已肃清。{Company.CompanyName} 正在撤离。
+{MC.If.Encounter.HasNoTag.TeamSwapped}The target actually was an agent and will be debriefed by our employers.	{MC.If.Encounter.HasNoTag.TeamSwapped}那目标确实是一名特工，将由我们的雇主进行汇报问询。
+{MC.If.Encounter.HasNoTag.TeamSwapped}This outcome is...acceptable.	{MC.If.Encounter.HasNoTag.TeamSwapped}这个结果……可以接受。
+{MC.If.Encounter.HasTag.brave_03_talk}Understood {MC.PlayerLances.TeamPilot_Random_Brave.DisplayName}, but stay alert and keep cover.  We can't rush blindly	{MC.If.Encounter.HasTag.brave_03_talk}明白，{MC.PlayerLances.TeamPilot_Random_Brave.DisplayName}，但保持警惕、注意掩护。我们不能盲目冒进。
+{MC.If.Encounter.HasTag.brave_alpha_talk}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}Agreed, {MC.PlayerLances.TeamPilot_Random_Brave.DisplayName}.  Let's move to the next checkpoint.	{MC.If.Encounter.HasTag.brave_alpha_talk}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}同意，{MC.PlayerLances.TeamPilot_Random_Brave.DisplayName}。我们前往下一个检查点。
+{MC.If.Encounter.HasTag.brave_success_talk}Oh, you're so welcome, TeamPilot_Random_Brave., {MC.PlayerLances.TeamPilot_Random_Brave.DisplayName}.	{MC.If.Encounter.HasTag.brave_success_talk}哦，不用客气，{MC.PlayerLances.TeamPilot_Random_Brave.DisplayName}。
+{MC.If.Encounter.HasTag.coward_alpha_talk}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}Agreed, {MC.PlayerLances.TeamPilot_Random_Coward.DisplayName}.  Watch your six and let's move to the next checkpoint.	{MC.If.Encounter.HasTag.coward_alpha_talk}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}同意，{MC.PlayerLances.TeamPilot_Random_Coward.DisplayName}。注意你的六点方向，我们前往下一个检查点。
+{MC.If.Encounter.HasTag.coward_success_talk}Absolutely, I wouldn't want you reliving that ordeal, {MC.PlayerLances.TeamPilot_Random_Coward.DisplayName}.  Commander, there're critical behind-the-scenes tasks, like, the mechs aren't going to clean itself, after all.	{MC.If.Encounter.HasTag.coward_success_talk}当然，我可不想让你重温那场煎熬，{MC.PlayerLances.TeamPilot_Random_Coward.DisplayName}。指挥官，还有些关键的幕后工作要做，毕竟机甲可不会自己清洁。
+{MC.If.Encounter.HasTag.crazy_alpha_talk}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}Agreed, {MC.PlayerLances.eamPilot_Random_Crazy.DisplayName}.  Let's move to the next checkpoint.\n\r\nWatch your six!	{MC.If.Encounter.HasTag.crazy_alpha_talk}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}同意，{MC.PlayerLances.TeamPilot_Random_Crazy.DisplayName}。我们前往下一个检查点。\n\r\n注意你的六点方向！
+{MC.If.Encounter.HasTag.dialogue_1}They'd better prep their best stuff and bring the A-game, because showing up half-baked would just be awkward for everyone.	{MC.If.Encounter.HasTag.dialogue_1}他们最好把压箱底的家伙都备好、拿出最佳状态，因为要是准备不足就上场，大家都会很尴尬。
+{MC.If.Encounter.HasTag.dialogue_2}Here's hoping we get to stay right here and let them wrestle with {TEAM_TAR.FactionDef.Demonym}'s on their own.	{MC.If.Encounter.HasTag.dialogue_2}但愿我们就守在这儿，让他们自己去跟 {TEAM_TAR.FactionDef.Demonym} 较劲。
+{MC.If.Encounter.HasTag.dialogue_bookish}Here's hoping our deeds make it into the main text, not just the footnotes.	{MC.If.Encounter.HasTag.dialogue_bookish}但愿我们的业绩能写进正文，而不是只出现在脚注里。
+{MC.If.Encounter.HasTag.dialogue_bookish}I can't help noticing this follows the same pattern described in a 20th-century treatise...and that's concerning.	{MC.If.Encounter.HasTag.dialogue_bookish}我不禁注意到，这与一份 20 世纪文献中描述的规律如出一辙……这让人担忧。
+{MC.If.Encounter.HasTag.dialogue_bookish}No time for that, {MC.PlayerLances.TeamPilot_Random_Bookish.DisplayName}, let's get going...	{MC.If.Encounter.HasTag.dialogue_bookish}没时间管那个了，{MC.PlayerLances.TeamPilot_Random_Bookish.DisplayName}，我们出发……
+{MC.If.Encounter.HasTag.dialogue_bookish}Stay focused, {MC.PlayerLances.TeamPilot_Random_Bookish.DisplayName}!  Check your six...	{MC.If.Encounter.HasTag.dialogue_bookish}保持专注，{MC.PlayerLances.TeamPilot_Random_Bookish.DisplayName}！注意你的六点方向……
+{MC.If.Encounter.HasTag.dialogue_bookish}Uh… is this what the Spartans went through?	{MC.If.Encounter.HasTag.dialogue_bookish}呃……斯巴达人当年经历的就是这个吗？
+{MC.If.Encounter.HasTag.dialogue_brave_tagged}{MC.Modification.AddTo.EncounterTags.lance_07_done}Just as I predicted --- more hostiles approaching.\n\r\nThey never learn, do they?	{MC.If.Encounter.HasTag.dialogue_brave_tagged}{MC.Modification.AddTo.EncounterTags.lance_07_done}正如我所料——更多敌人逼近。\n\r\n他们就是学不乖，对吧？
+{MC.If.Encounter.HasTag.dialogue_brave_tagged}{MC.Modification.AddTo.EncounterTags.talk_charlie_done}For fame and fortune!	{MC.If.Encounter.HasTag.dialogue_brave_tagged}{MC.Modification.AddTo.EncounterTags.talk_charlie_done}为了名声与财富！
+{MC.If.Encounter.HasTag.dialogue_concerned}Gladly, Commander {COMMANDER.Callsign}.\n\r\nAlright, form up on me!	{MC.If.Encounter.HasTag.dialogue_concerned}乐意效劳，{COMMANDER.Callsign} 指挥官。\n\r\n好，向我靠拢！
+{MC.If.Encounter.HasTag.dialogue_concerned}I suggest we withdraw --- {TEAM_EMP.FactionDef.Demonym}'s radio chatter puts them right on the edge of our ops zone.	{MC.If.Encounter.HasTag.dialogue_concerned}我建议我们撤——{TEAM_EMP.FactionDef.Demonym} 的无线电通讯显示他们就在我们作战区边缘。
+{MC.If.Encounter.HasTag.dialogue_concerned}If you're ready, {MC.PlayerLances.TeamPilot_Random_Concerned.DisplayName}, please go ahead with your {MC.PlayerLances.TeamPilot_Random_Concerned.UnitName} and lead the formation to the assembly area.	{MC.If.Encounter.HasTag.dialogue_concerned}如果你准备好了，{MC.PlayerLances.TeamPilot_Random_Concerned.DisplayName}，请带上你的 {MC.PlayerLances.TeamPilot_Random_Concerned.UnitName} 带领编队前往集结点。
+{MC.If.Encounter.HasTag.dialogue_concerned}My {MC.PlayerLances.TeamPilot_Random_Heroic.UnitVariant} will protect you, {MC.PlayerLances.TeamPilot_Random_Concerned.DisplayName}, if able.	{MC.If.Encounter.HasTag.dialogue_concerned}如果可以，我的 {MC.PlayerLances.TeamPilot_Random_Heroic.UnitVariant} 会保护你，{MC.PlayerLances.TeamPilot_Random_Concerned.DisplayName}。
+{MC.If.Encounter.HasTag.dialogue_concerned}That's all and well, {MC.PlayerLances.TeamPilot_Random_Heroic.DisplayName}, just don't forget the overriding mission.\n\r\n{MC.PlayerLances.TeamPilot_Random_Concerned.DisplayName} and {MC.PlayerLances.TeamPilot_Random_Not_Concerned.DisplayName} get yourself in position.	{MC.If.Encounter.HasTag.dialogue_concerned}这都好说，{MC.PlayerLances.TeamPilot_Random_Heroic.DisplayName}，只是别忘了首要任务。\n\r\n{MC.PlayerLances.TeamPilot_Random_Concerned.DisplayName} 和 {MC.PlayerLances.TeamPilot_Random_Not_Concerned.DisplayName} 各就各位。
+{MC.If.Encounter.HasTag.dialogue_concerned}We'll even let your {MC.PlayerLances.TeamPilot_Random_Concerned.UnitName} head first out of the combat zone once reinforcements arrive, {MC.PlayerLances.TeamPilot_Random_Concerned.DisplayName}.	{MC.If.Encounter.HasTag.dialogue_concerned}增援一到，我们甚至会让你的 {MC.PlayerLances.TeamPilot_Random_Concerned.UnitName} 第一个离开战区，{MC.PlayerLances.TeamPilot_Random_Concerned.DisplayName}。
+{MC.If.Encounter.HasTag.dialogue_concerned}We'll move to the next objective as soon as we're instructed to do so.	{MC.If.Encounter.HasTag.dialogue_concerned}一旦接到指示，我们就立即前往下一个目标。
+{MC.If.Encounter.HasTag.dialogue_concerned}We're not moving until we get the word.  Stay sharp and stop second-guessing.	{MC.If.Encounter.HasTag.dialogue_concerned}没接到命令之前我们不动。打起精神，别再犹豫了。
+{MC.If.Encounter.HasTag.dialogue_enabled}{MC.If.RandomPercentage.IsLessThanOrIs.99%}{MC.Modification.AddTo.EncounterTags.dialogue_1}Negative, they're still prepping their mechs.	{MC.If.Encounter.HasTag.dialogue_enabled}{MC.If.RandomPercentage.IsLessThanOrIs.99%}{MC.Modification.AddTo.EncounterTags.dialogue_1}不行，他们还在整备机甲。
+{MC.If.Encounter.HasTag.dialogue_fancy}\n\r\n...and we've kept the enemy at bay just as needed.  Nice work.\n\r\nAre you ok, Commander?  You kinda spaced-out there a bit...	{MC.If.Encounter.HasTag.dialogue_fancy}\n\r\n……而我们恰好按需把敌人挡在了外面。干得好。\n\r\n你还好吗，指挥官？你刚才有点走神……
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>...and so the story goes, extendi...</color></i>\tXbnsfdyzzzHZY\n\r\nKZHsifdnZjf;P;s...	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>……故事就这样延续下去，绵延……</color></i>\tXbnsfdyzzzHZY\n\r\nKZHsifdnZjf;P;s……
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>A new host of foes bore down upon Base Alpha, and the warriors steeled themselves for the coming clash.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>一批新的敌人扑向阿尔法基地，战士们振作精神，迎接即将到来的交锋。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>Additional enemies surged against the perimeter, and the warriors stood firm, prepared to meet them in battle.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>更多敌人涌向外围，战士们屹立不动，准备与他们交战。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>And lo, another wave  surged forward...</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>看哪，又一批敌军涌来……</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>Each enemy sent forth had fallen beneath the {COMPANY.CompanyName}'s might, and the incoming host now spoke of said prowess, their whispers echoing the glory of their triumph.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>派出的每一个敌人都倒在 {COMPANY.CompanyName} 的威力之下，来犯之敌如今都在谈论这份威势，低语中回响着他们凯旋的荣光。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>Good tidings reached the Commander, for word came that reinforcements were but a step from the perimeter.  The defenders had held firm, keeping the enemy at bay as the hour of aid drew near.  Well done, they had fought with valor.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>好消息传到指挥官耳中，据说增援距外围仅一步之遥。守军坚守不退，在援军将至之时将敌人挡在外面。干得好，他们英勇作战。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>The enemy pressed anew, and the defenders made ready to meet them with courage undimmed.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>敌人再度进逼，守军重整旗鼓，以不减的勇气迎战。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>The enemy pressed forward, their numbers swelling upon the horizon.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>敌人向前推进，他们的数量在地平线上不断增多。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>The final surge of the enemy drew near, their strength pressing hard upon the will of the warriors.  But in the moments to come, reinforcements would ride to their aid, and with them, the power to turn the tide.</i></color>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>敌人的最后一波攻势逼近，其力量重重压在战士们的意志之上。但在接下来的时刻，增援将驰援而至，与他们一同带来扭转战局的力量。</i></color>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>The foe advanced toward Base Charlie, and the defenders readied their arms for the coming clash.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>敌人向查理基地推进，守军备好武器，迎接即将到来的交锋。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>The last stronghold thrummed with power. There they remained steadfast, calling forth the might of the turrets to strike the advancing foe, until help arrived.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>最后一座要塞轰鸣着力量。他们坚守在那里，唤起炮塔的威力打击来犯之敌，直到援军抵达。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>Though they had come up short, the Commander knew well that any leader facing such a vast host would have met the same fate.  No shame was there in their struggle; only valor in the face of overwhelming odds.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>尽管功亏一篑，指挥官深知，任何面对如此庞大军势的领袖都会有同样的结局。他们的奋战并无可耻之处，只有面对压倒性劣势时的英勇。</color></i>
+{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>To Base Alpha they journeyed, and there they remained, steadfast upon the ramparts, awaiting the command to move forth again.</color></i>	{MC.If.Encounter.HasTag.dialogue_fancy}<i><color=#99ebff>他们前往阿尔法基地，坚守在那里，屹立于城墙之上，等待再次出发的命令。</color></i>
+{MC.If.Encounter.HasTag.dialogue_generic}Hey {MC.PlayerLances.TeamPilot_Random_1.DisplayName}, do we have a say on how this is going to be edited afterwards?	{MC.If.Encounter.HasTag.dialogue_generic}嘿 {MC.PlayerLances.TeamPilot_Random_1.DisplayName}，事后剪辑成什么样，我们有发言权吗？
+{MC.If.Encounter.HasTag.dialogue_generic}I swear, if you blow the {MC.PlayerLances.TeamPilot_Random_Generic.UnitName}'s actuator, it's on you.	{MC.If.Encounter.HasTag.dialogue_generic}我发誓，要是你炸坏了 {MC.PlayerLances.TeamPilot_Random_Generic.UnitName} 的传动装置，责任算你的。
+{MC.If.Encounter.HasTag.dialogue_generic}If they put it up in holovids, I get to pick who'll portray me!	{MC.If.Encounter.HasTag.dialogue_generic}要是他们把它拍成全息影片，我得挑谁来演我！
+{MC.If.Encounter.HasTag.dialogue_generic}Let's see if they filmed me and my {MC.PlayerLances.TeamPilot_Random_Generic.UnitName} looking as awesome as we are.	{MC.If.Encounter.HasTag.dialogue_generic}咱们看看他们有没有拍下我和我的 {MC.PlayerLances.TeamPilot_Random_Generic.UnitName} 那么帅气的样子。
+{MC.If.Encounter.HasTag.dialogue_generic}Stay focused, {MC.PlayerLances.TeamPilot_Random_Generic.DisplayName}!  Check your six...	{MC.If.Encounter.HasTag.dialogue_generic}保持专注，{MC.PlayerLances.TeamPilot_Random_Generic.DisplayName}！注意你的六点方向……
+{MC.If.Encounter.HasTag.dialogue_generic}Time to unleash my trademark move.  For <b>{COMPANY.CompanyName}</b>!!!	{MC.If.Encounter.HasTag.dialogue_generic}是时候使出我的招牌招式了。为了 <b>{COMPANY.CompanyName}</b>！！！
+{MC.If.Encounter.HasTag.dialogue_show}Commander {COMMANDER.Callsign}, this might be the right moment to roll out the strategy we talked about.	{MC.If.Encounter.HasTag.dialogue_show}{COMMANDER.Callsign} 指挥官，也许现在正是推出我们谈过的那个策略的好时机。
+{MC.If.Encounter.HasTag.dialogue_show}Go for it or don't, just keep your guard up.	{MC.If.Encounter.HasTag.dialogue_show}要做就做，不做也罢，只要保持警惕。
+{MC.If.Encounter.HasTag.dialogue_show}Now, Commander?	{MC.If.Encounter.HasTag.dialogue_show}现在吗，指挥官？
+{MC.If.Encounter.HasTag.dialogue_show}Roger	{MC.If.Encounter.HasTag.dialogue_show}收到
+{MC.If.Encounter.HasTag.dialogue_show}Save it for later, {MC.PlayerLances.TeamPilot_Random_Show.DisplayName}.  We've got a fight, stay with me and follow my lead.	{MC.If.Encounter.HasTag.dialogue_show}留着以后再说，{MC.PlayerLances.TeamPilot_Random_Show.DisplayName}。我们有仗要打，跟着我，听我指挥。
+{MC.If.Encounter.HasTag.dialogue_show}We've put up a strategy lesson here --- {TEAM_EMP.FactionDef.Demonym} better be took notes.	{MC.If.Encounter.HasTag.dialogue_show}我们在这儿上了一堂战术示范课——{TEAM_EMP.FactionDef.Demonym} 最好记好笔记。
+{MC.If.Encounter.HasTag.generic_success_talk}After ten, {MC.PlayerLances.TeamPilot_Random_4.DisplayName}, it all became a blur.	{MC.If.Encounter.HasTag.generic_success_talk}十点之后，{MC.PlayerLances.TeamPilot_Random_4.DisplayName}，一切就都模糊了。
+{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}{TEAM_EMP.FactionDef.Demonym} settlement, we're here to pick up Henriette Bosh's dog.	{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}{TEAM_EMP.FactionDef.Demonym} 定居点，我们是来领亨丽埃特·博什的狗的。
+{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}<b>Commander!</b> Take these ruffians out this instant!	{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}<b>指挥官！</b> 立刻把这些流氓收拾掉！
+{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}About time you showed up. We couldn't find that damn dog anyway. This is getting too troublesome so pay us our dues and we're gone. At least we took out your car.	{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}你可算来了。我们反正也没找到那条该死的狗。这事越来越麻烦了，把我们的工钱结了，我们就走。至少我们把你那辆车干掉了。
+{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}Ahem. Ms Bosh, if you may.	{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}咳咳。博什女士，请吧。
+{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}Commander! Little poo-poo must be around here somewhere.	{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}指挥官！小臭臭肯定就在这附近某个地方。
+{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}Ready up, Mechwarriors. Time for a fight.	{MC.If.Encounter.HasTag.mc_met_bosh_in_phase1}准备战斗，机甲战士们。该打一场了。
+{MC.If.Encounter.HasTag.mc_recognised_strange_turrets}Of course! That turret behaviour. This is a setup! Henriette must have hired these guys.	{MC.If.Encounter.HasTag.mc_recognised_strange_turrets}当然！那些炮塔的行为。这是个圈套！一定是亨丽埃特雇的这帮人。
+{MC.If.Encounter.HasTag.mc_solved_crime}...WHAT?! Now listen here! I won't...	{MC.If.Encounter.HasTag.mc_solved_crime}……什么？！你给我听好了！我不会……
+{MC.If.Encounter.HasTag.mc_solved_crime}An insurance scam... really?!	{MC.If.Encounter.HasTag.mc_solved_crime}一场保险诈骗……真的假的？！
+{MC.If.Encounter.HasTag.mc_solved_crime}Darius, inform {TEAM_EMP.FactionDef.Name} that we're bringing <i>Henriette</i> in on charges of murder and other illegal activities.	{MC.If.Encounter.HasTag.mc_solved_crime}达里乌斯，通知 {TEAM_EMP.FactionDef.Name}，我们以谋杀及其他非法活动的罪名把<i>亨丽埃特</i>带回去。
+{MC.If.Encounter.HasTag.mc_solved_crime}Just silenced her comms... and understood. We'll let {TEAM_EMP.FactionDef.Name} handle her from here. Good work out there, Commander.	{MC.If.Encounter.HasTag.mc_solved_crime}刚切断了她的通讯……明白了。接下来就交给 {TEAM_EMP.FactionDef.Name} 处理她吧。外面干得好，指挥官。
+{MC.If.Encounter.HasTag.mc_solved_crime}No wonder she went quiet. She didn't want to be disturbed.	{MC.If.Encounter.HasTag.mc_solved_crime}难怪她一直不吭声。她不想被打扰。
+{MC.If.Encounter.HasTag.neutral_alpha_talk}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}Agreed.  Lead on with your {MC.PlayerLances.TeamPilot_Random_Neutral.UnitName}.  Watch your sixes, {COMPANY.CompanyName}.	{MC.If.Encounter.HasTag.neutral_alpha_talk}{MC.Modification.AddTo.EncounterTags.talk_alpha_done}同意。带着你的 {MC.PlayerLances.TeamPilot_Random_Neutral.UnitName} 领路。都注意六点方向，{COMPANY.CompanyName}。
+{MC.If.RandomPercentage.IsLessThan.33%}{MC.Modification.AddTo.EncounterTags.Intro_1}We are the {COMPANY.CompanyName}!  We'll push through this and stand firm against anything they throw at us!	{MC.If.RandomPercentage.IsLessThan.33%}{MC.Modification.AddTo.EncounterTags.Intro_1}我们是 {COMPANY.CompanyName}！我们会挺过去，挡住他们扔来的一切！
+{MC.If.RandomPercentage.IsLessThanOrIs.50%}{MC.Modification.AddTo.EncounterTags.dialogue_concerned}This is it, another enemy wave.  We'll hold them off for as long as we can.	{MC.If.RandomPercentage.IsLessThanOrIs.50%}{MC.Modification.AddTo.EncounterTags.dialogue_concerned}就是现在，又一批敌人。我们尽量拖住他们。
+{MC.If.RandomPercentage.IsLessThanOrIs.50%}{MC.Modification.AddTo.EncounterTags.dialogue_fancy}<i><color=#99ebff>Their task was to give the main host time to return and strike anew.  Upon the few strongholds that yet stood, they held fast, guarding walls and towers against the foe.</color></i>	{MC.If.RandomPercentage.IsLessThanOrIs.50%}{MC.Modification.AddTo.EncounterTags.dialogue_fancy}<i><color=#99ebff>他们的任务是为主力部队争取回防再战的时间。在仅存的几座要塞上，他们坚守不退，为敌手守着城墙与塔楼。</color></i>
+{MC.If.RandomPercentage.IsLessThanOrIs.99%}{MC.Modification.AddTo.EncounterTags.dialogue_enabled}Shouldn't we ask the {TEAM_EMP.FactionDef.Demonym} units to help us defend this area?	{MC.If.RandomPercentage.IsLessThanOrIs.99%}{MC.Modification.AddTo.EncounterTags.dialogue_enabled}我们不该请 {TEAM_EMP.FactionDef.Demonym} 的单位来帮我们防守这片区域吗？
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Intel Liason Officer:</color>  Commander, we're seeing zero enemy signatures.\n\r\nWith enemy forces eliminated, extraction can proceed at your discretion.  Rally point is no longer contested.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 情报联络官：</color>  指挥官，我们看不到任何敌方信号。\n\r\n敌军已被消灭，可自行决定是否撤离。集结点已不再受争夺。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Firebreak Control to all units --- no hostile contacts detected.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 防火带控制中心呼叫全体单位——未检测到敌方接触。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> All hostile contacts are eliminated.  Against repeated assaults, your company held both relay station and destroyed every attacking unit.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 所有敌方接触均已消灭。面对反复猛攻，你的连队守住了两座中继站，并摧毁了每一个进攻单位。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}<color=#99ebff>Defector:</color>  You eliminated the entire pursuit force...I did not expect such efficiency.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}<color=#99ebff>叛逃者：</color>  你消灭了整支追击部队……我没想到效率这么高。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}All enemy formations eliminated.  No remaining hostile presence detected within operational radius.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}所有敌军编队已消灭。作战半径内未检测到残余敌方存在。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}All hostiles are down.  Perimeter is clean.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}所有敌人已倒下。外围已肃清。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}All hostiles down.  Not a single {TEAM_TAR.FactionDef.Demonym} left standing.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}所有敌人已倒下。{TEAM_TAR.FactionDef.Demonym} 一个不剩。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}And...that's it.  Last hostile mech is down!\n\r\nSensors confirm --- no remaining hostile signatures in the operational area.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}然后……就这样了。最后一台敌方机甲倒下了！\n\r\n传感器确认——作战区域内已无残余敌方信号。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Battlefield scans are clean.  No remaining hostile contacts.\n\r\nBoth facilities are intact and every confirmed {TEAM_TAR.FactionDef.Demonym} assault force has been eliminated.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}战场扫描干净。没有残余敌方接触。\n\r\n两座设施完好，所有确认的 {TEAM_TAR.FactionDef.Demonym} 突击部队均已被消灭。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Confirmed.  AO is clear.  No incoming drops, no reinforcements on scope.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}确认。作战区域已清空。没有来袭投放，雷达上也没有增援。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Confirming...all hostile {TEAM_TAR.FactionDef.ShortName} signatures have been eliminated.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}正在确认……所有敌方 {TEAM_TAR.FactionDef.ShortName} 信号均已消灭。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Enemies neutralized!  That was the last one!\n\r\nThey hit us hard...but we're still standing.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}敌人已肃清！那是最后一个了！\n\r\n他们打得很凶……但我们还站着。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Excellent news, Commander.  Both stations are secure and all hostile forces have been eliminated.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}好消息，指挥官。两座站点都已安全，所有敌军均已被消灭。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Incredible work, team.  All hostile forces have been eliminated and both terminals remain fully operational.\n\r\nNot a single raider remains to threaten the shipment.  {TEAM_EMP.FactionDef.ShortName} logistics will be talking about this operation for years.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}干得不可思议，各位。所有敌军均已被消灭，两座终端仍在完全运转。\n\r\n再没有一名掠夺者能威胁这批货物。{TEAM_EMP.FactionDef.ShortName} 的后勤部门会谈论这次行动好多年。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}My {MC.PlayerLances.TeamPilot_Random_1.UnitName}'s sensors confirms that the battlefield is clear.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}我的 {MC.PlayerLances.TeamPilot_Random_1.UnitName} 的传感器确认战场已清空。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}No more movement on sensors.  Looks like we got them all.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}传感器上再没有动静了。看来我们把他们全收拾了。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Perimeter secure.  Base structures still standing.\n\r\nWe didn't just hold the base, we cleared the board.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}外围安全。基地建筑仍在。\n\r\n我们不只是守住了基地，我们清空了整盘棋。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}That's a full wipe.  Bonus secured.\n\r\nOur employer would be pleased.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}这是彻底的清场。奖金到手。\n\r\n我们的雇主会很满意。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}That's the last of them.  {TEAM_TAR.FactionDef.Demonym} aren't getting back up from that.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}那是最后一批了。{TEAM_TAR.FactionDef.Demonym} 再也爬不起来了。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Well done, {Company.CompanyName}.  That's more than an extraction --- that's a denial operation.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}干得好，{Company.CompanyName}。这已经不只是一次撤离——这是一场拒止行动。
+{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}Yeah, try not to make a habit of dragging half the {TEAM_TAR.FactionDef.Demonym} military behind you next time.	{MC.Modification.AddTo.EncounterTags.KilledAllOpfor}是啊，下次尽量别再把半个 {TEAM_TAR.FactionDef.Demonym} 军队拖在身后了。
+{MC.Modification.AddTo.EncounterTags.mc_met_bosh_in_phase1}<b>WHY I NEVER!</b> My Deusenberg hovercar! It's ruined! You must learn to be a better pilot, Sir.	{MC.Modification.AddTo.EncounterTags.mc_met_bosh_in_phase1}<b>岂有此理！</b> 我的杜森伯格悬浮车！全毁了！你得学着当个更好的飞行员，先生。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Demonym} Liason:</color>  Update from command --- priority override.\n\r\nIt's legit.  The pilot is on a confirmed defection channel. Intelligence division wants that 'Mech intact.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Demonym} 联络官：</color>  指挥部最新消息——优先级推翻。\n\r\n这是真的。那名飞行员在确认的叛逃频道上。情报处要那台机甲完好无损。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Intel Liason Officer:</color>  Commander, confirmation received.  The "terrorist" is our deep cover agent and is legitimate.  They've been made and are now being hunted by their own side.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 情报联络官：</color>  指挥官，确认收到。那名"恐怖分子"是我们的深层卧底，身份属实。他们已暴露，现在正被自己人追杀。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} Intel Liason Officer:</color>  New orders: protect the agent at all costs.  Link up and escort them to the rally point for evacuation.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}<color=#99ebff>{TEAM_EMP.FactionDef.Government} 情报联络官：</color>  新命令：不惜一切代价保护这名特工。与其会合，护送到集结点撤离。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}All units, change of mission.  We're not hunting anymore --- we're shielding.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}全体单位，任务变更。我们不再追杀——我们在掩护。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}Commander, abort!\n\r\nTarget is a deep-cover agent inside {TEAM_TAR.FactionDef.Demonym}.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}指挥官，中止！\n\r\n目标是 {TEAM_TAR.FactionDef.Demonym} 内部的深层卧底。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}Commander, command confirmation received.  The {TEAM_TAR.FactionDef.Demonym} officer carries strategic data caches: military positions, supply lines...this is real.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}指挥官，收到指挥部确认。这名 {TEAM_TAR.FactionDef.Demonym} 军官携带战略数据缓存：军事部署、补给线……这是真的。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}Commander, the "propagandist" is CONFIRMED as a friendly deep-cover operative.\n\r\nOur employer has updated the mission paramters...new orders: PROTECT THE TARGET.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}指挥官，"宣传员"已确认为友方深层卧底。\n\r\n我们的雇主已更新任务参数……新命令：保护目标。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}Confirmation!  Full decryption complete --- it's legit.  He's defecting.\n\r\nHe's carrying a data core --- {TEAM_TAR.FactionDef.Name} supply lines, agent networks, everything.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}确认！完整解密完成——是真的。他要叛逃。\n\r\n他带着一个数据核心——{TEAM_TAR.FactionDef.Name} 的补给线、特工网络，什么都有。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}Copy --- {Company.CompanyName} Actual switch to defensive posture.\n\r\nWe're going to be his shield, nothing should get through us.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}收到——{Company.CompanyName} 主力转入防御姿态。\n\r\n我们要做他的盾，什么都不该穿过我们。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}Copy that.  Switching from intercept to escort.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}收到。从拦截转为护航。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}Orders updated.  The {TEAM_TAR.FactionDef.Demonym} officer is now a Priority Alpha asset.\n\r\nProtect and escort to the evac zone.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}命令已更新。那名 {TEAM_TAR.FactionDef.Demonym} 军官现为阿尔法级优先资产。\n\r\n保护并护送到撤离区。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}So we almost killed your asset.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}所以我们差点杀了你们的资产。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}The escorts are not with him anymore, they're trying to silence him.  Likely {TEAM_TAR.FactionDef.Name} loyalists embedded in his unit.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}那些护航兵不再跟着他了，他们正试图灭口。很可能是 {TEAM_TAR.FactionDef.Name} 安插在他部队里的效忠派。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}Too late!  The {TEAM_TAR.FactionDef.Demonym}'s know.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}太迟了！{TEAM_TAR.FactionDef.Demonym} 已经知道了。
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}You want us to babysit him now?	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}你现在要我们照看他了？
+{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}You've got to be kidding me.  Moments ago we were supposed to blow it to scrap.	{MC.Modification.AddTo.EncounterTags.TeamSwapped}{MC.If.Encounter.HasNoTag.KilledAllOpfor}你开什么玩笑。几分钟前我们还该把他炸成废铁。
+{TEAM_EMP.FactionDef.Demonym} couldn't ask for more.  We expect maximum performance bonuses and a glowing recommendation to {TEAM_EMP.FactionDef.Name}.	{TEAM_EMP.FactionDef.Demonym} 还能要求什么。我们要求最高绩效奖金，以及给 {TEAM_EMP.FactionDef.Name} 的一封热情推荐信。
+{TEAM_EMP.FactionDef.Demonym} forward intel have spotted more bogeys heading your way.	{TEAM_EMP.FactionDef.Demonym} 前沿情报发现更多敌机正朝你飞来。
+{TEAM_EMP.FactionDef.Demonym} intelligence multiple dropship traces confirmed earlier.  We've found the missing force.\n\r\nNew lance inbound to your position, heading towards the depot, making one last push to cripple production.	{TEAM_EMP.FactionDef.Demonym} 情报部门早先确认了多起运输舰痕迹。我们找到了失踪的部队。\n\r\n新的小队正飞向你的位置，朝仓库而去，要做最后一搏以瘫痪生产。
+{TEAM_EMP.FactionDef.Demonym} radio operator. We are {COMPANY.CompanyName} and have been hired to check the sit rep here. You've been out of contact for weeks. Everything ok here?	{TEAM_EMP.FactionDef.Demonym} 无线电操作员。我们是 {COMPANY.CompanyName}，受雇前来核查此地的状况。你们已失联数周。这里一切正常吗？
+{TEAM_EMP.FactionDef.Demonym}s are trying to overwhelm us by weight of numbers...not happening.	{TEAM_EMP.FactionDef.Demonym} 想靠人海压垮我们……办不到。
+{TEAM_EMP.FactionDef.Demonym}'s forces are arriving to mop-up anyone left.  Hopefully you left some for them to play with.	{TEAM_EMP.FactionDef.Demonym} 的部队正赶来清剿残兵。但愿你们给他们留了几个能玩的。
+{TEAM_EMP.FactionDef.Demonym}'s still have limited defensive systems online, but they won't last long.	{TEAM_EMP.FactionDef.Demonym} 仍有有限的防御系统在线，但撑不了多久。
+{TEAM_EMP.FactionDef.Name} isn't going to be happy, Commander. Come back and we'll go over what happened.	{TEAM_EMP.FactionDef.Name} 不会高兴的，指挥官。回来吧，我们复盘一下发生了什么。
+{TEAM_TAR.FactionDef.Demonym} are sending another team to harass the convoy.	{TEAM_TAR.FactionDef.Demonym} 又派了一队人去袭扰车队。
+{TEAM_TAR.FactionDef.Demonym} force, you're outgunned and outmatched. Release your captive and surrender or we'll be forced to fire on your position.	{TEAM_TAR.FactionDef.Demonym} 部队，你们火力与实力皆处劣势。释放俘虏并投降，否则我们将被迫向你们的位置开火。
+{TEAM_TAR.FactionDef.Demonym} forces are advancing --- prepare for engagement.	{TEAM_TAR.FactionDef.Demonym} 部队正在推进——准备交战。
+{TEAM_TAR.FactionDef.Demonym} forces contact confirmed.  Stall them until evac is prepped	确认与 {TEAM_TAR.FactionDef.Demonym} 部队接触。拖住他们，直到撤离准备就绪。
+{TEAM_TAR.FactionDef.Demonym} radio operator. You have illegally taken over this {TEAM_EMP.FactionDef.Demonym} base. Leave or be forced out.	{TEAM_TAR.FactionDef.Demonym} 无线电操作员。你们非法占领了这座 {TEAM_EMP.FactionDef.Demonym} 基地。离开，否则将被驱逐。
+{TGT_SYSTEM.name} settlement. We're a {TEAM_EMP.FactionDef.Demonym} aligned force attempting to offer aid and support. What's the current situation here?	{TGT_SYSTEM.name} 定居点。我们是一支 {TEAM_EMP.FactionDef.Demonym} 阵营的部队，试图提供援助与支持。这里目前情况如何？
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> {COMPANY.CompanyName}, this is Firebreak Control.  Although still no operational, the sensor array and the missile defense battery are linked to the regional defense grid...if either facility is destroyed, the entire network becomes ineffective.\n\r\nBoth sites must survive.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> {COMPANY.CompanyName}，这里是防火带控制中心。虽然尚未投入运作，但传感器阵列与导弹防御连已接入区域防御网格……任一设施被摧毁，整个网络都将失效。\n\r\n两处站点都必须存活。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Alert!  sensor arrays' defensive turrets have been knocked out and is now exposed.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 警报！传感器阵列的防御炮塔已被击毁，现已暴露。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> All units, stand down.  One of the mission-critical facilities has been destroyed	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 全体单位，停止行动。一处任务关键设施已被摧毁。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Enemy losses are irrelevant.  The regional defense network cannot be activated.  Contract failed.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 敌方损失无关紧要。区域防御网络无法启动。合同失败。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Expect probing attacks followed by reinforcement waves.  {TEAM_TAR.FactionDef.Demonym} commanders will likely strike whichever position appears weakest.\n\r\nHold both facilities until the proper {TEAM_EMP.FactionDef.ShortName} reinforcements relieves you of the defensive task.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 预计会有试探性攻击，随后是增援波次。{TEAM_TAR.FactionDef.Demonym} 指挥官多半会攻击看起来最薄弱的位置。\n\r\n守住两座设施，直到 {TEAM_EMP.FactionDef.ShortName} 的正式增援接替你们的防御任务。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Firebreak Control to all units: additional hostiles en route to battery site. The {TEAM_TAR.FactionDef.Demonym} commitment level is escalating.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 防火带控制中心呼叫全体单位：更多敌人正前往导弹连阵地。{TEAM_TAR.FactionDef.Demonym} 的投入力度正在升级。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Hostile blips no longer combat effective.  Bravo Base remains operational.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 敌方目标已不再具备战斗力。布拉沃基地仍在运转。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Missile batteries' defense are offline.  {TEAM_TAR.FactionDef.ShortName} forces now have an open a path to the missile defense complex.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 导弹连的防御已下线。{TEAM_TAR.FactionDef.ShortName} 部队现在有了一条通往导弹防御设施的通路。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> New contacts near missile battery.\n\r\nThey're coordinating attacks between both facilities.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 导弹连附近出现新接触。\n\r\n他们正在协调对两座设施的进攻。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Outstanding shooting.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 射击漂亮。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Second enemy lance entering engagement range.  They're coming straight for the missile battery.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 第二支敌方小队进入交战距离。他们直扑导弹连。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> Second enemy lance has been neutralized.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 第二支敌方小队已被肃清。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Regional Defense Liason:</color> The governor's office will be pleased.  That's not just a successful defense...that's a textbook Firebreak Protocol execution.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 区域防御联络官：</color> 总督府会很满意。这不仅是成功的防御……这是防火带协议教科书式的执行。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> {COMPANY.CompanyName}, more enemies breaking through; this appears to be the final enemy assault wave.\n\r\nThe {TEAM_EMP.FactionDef.Demonym}s know the relay network fails if either station is destroyed.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> {COMPANY.CompanyName}，更多敌人突破；这似乎是敌方最后一波突击。\n\r\n{TEAM_EMP.FactionDef.Demonym} 明白，任一站点被摧毁，中继网络就会失效。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> {COMPANY.CompanyName}, this is Relay Control.  You are defending two communications relay support stations on named Alpha and Bravo.\n\r\nThese facilities function as a single network --- lose one, and the entire communications grid goes dark.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> {COMPANY.CompanyName}，这里是中继控制中心。你正在防守两座通讯中继支持站，代号阿尔法与布拉沃。\n\r\n这两座设施构成单一网络——失去一座，整个通讯网格就会陷入黑暗。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> Critical alert!  Relay Station has been destroyed.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 紧急警报！中继站已被摧毁。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> Do not pursue fleeing enemies beyond defensive range.\n\r\nThe relay stations are the objective.  Hold Alpha and Bravo stations until the relief froces arrives.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 不要越过防御范围追击逃敌。\n\r\n中继站才是目标。守住阿尔法与布拉沃站点，直到接防部队抵达。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> Fresh enemy contacts.  Fourth lance entering the battlespace headaing towards Bravo relay.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 新的敌方接触。第四支小队进入战场，朝布拉沃中继站而去。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> Good hunting, mercs. Protect both relay stations until relieved.  Relay Control out.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 狩猎愉快，雇佣兵们。守住两座中继站直到接防。中继控制中心通话结束。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> New contacts near Bravo Relay.  Second enemy lance is moving through.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 布拉沃中继站附近出现新接触。第二支敌方小队正在通过。
+<color=#99ebff>{TEAM_EMP.FactionDef.Government} Relay Control Officer:</color> Relay Control is transmitting a commendation to my superiors employer.\n\r\nOutstanding work, Commander.  This communications network remains intact because of your actions today.	<color=#99ebff>{TEAM_EMP.FactionDef.Government} 中继控制官：</color> 中继控制中心正向我的上级雇主发送嘉奖。\n\r\n干得漂亮，指挥官。因为你的行动，这张通讯网络今天得以完好无损。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> and <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> are on-site, somewhat.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> inbound.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> is far out --- moving to assist as able.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> 和 <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> 已在现场，算是吧。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color> 正在赶来。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> 距离很远——正尽可能前来支援。
+<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> here; dropped not far from you, <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color>.  Took some dings on landing but I'm operational...nothing that buffing and a paint job won't fix.	<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color> 在此；在离你不远处降落，<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color>。着陆时磕了几下，但我还能作战……打磨一下、重新喷个漆就好了。
+<color=#FAD02C>MEGA KILL!!!</color>\n\r\n	<color=#FAD02C>超级击杀！！！</color>\n\r\n
+<i>HELL</i> yeah! Live fire, baby!	<i>太</i>爽了！实弹射击，宝贝！
+<i>Kick</i>, it's- you know what, never mind. Have fun, Commander. I'll be on station; meet me here when you're ready to leave.	<i>啧</i>，这——你知道吗，算了。玩得开心，指挥官。我会在岗；你准备离开时来这儿找我。
+<i>Thank</i> you for shutting that idiot up, Commander. I don't know how much more I could take.	<i>谢谢</i>你把那蠢货闭嘴了，指挥官。我实在快受不了了。
+A {TEAM_TAR.FactionDef.Demonym} attack? Virus? What the hell is going on here? Let's get this over with fast.	一次 {TEAM_TAR.FactionDef.Demonym} 袭击？病毒？这里到底他妈的发生了什么？我们快点把这事了结。
+A Circle of Equals well fought, Commander. We have brought glory to the Clan	一场势均力敌的较量，打得漂亮，指挥官。我们为氏族带来了荣耀。
+A clean strike. Let's head home and debrief.	干净利落的一击。回家复盘吧。
+A few working units were activated to help defend the area.	几台还能用的单位被启动，协助防御这片区域。
+A handful of units have been brought online to help hold the area.	少量单位已上线，协助守住这片区域。
+A hot and foggy night.  Reads like a horror story, and it could be. You'll have to rely on sensors to spot enemies.	一个炎热多雾的夜晚。读起来像恐怖故事，而它真有可能变成现实。你得靠传感器来发现敌人。
+A huge sandstorm is covering the whole area, greatly impacting our systems. Expect this one to be a struggle against the elements, but at least all sides will have the same issues.	一场巨大的沙暴笼罩了整个区域，严重影响我们的系统。这一仗预计是与自然搏斗，但至少双方都面临同样的问题。
+A lance of mechs?! We were told to expect minor resistance. Shit... Lance! Engage!	一支机甲小队？！我们被告知只会遇到轻微抵抗。妈的……小队！交战！
+About time. Now to show {TEAM_EMP.FactionDef.Name} what happens when someone decides to fuck with {TEAM_TAR.FactionDef.Name}.	总算来了。现在让 {TEAM_EMP.FactionDef.Name} 看看，惹上 {TEAM_TAR.FactionDef.Name} 会是什么下场。
+According to these survey maps, you should be able to see the convoy's route from this location.	根据这些勘测地图，你应该能从这个位置看到车队的路线。
+According to these survey maps, you should be able to see the convoy's route from this location. Once you have eyes on them, destroy the vehicles.	根据这些勘测地图，你应该能从这个位置看到车队的路线。一旦发现他们，就摧毁那些车辆。
+Acknowledged, <i>Argo</i>. We aren't equipped for a fight, in any case. We'll follow your lead.	收到，<i>阿尔戈号</i>。反正我们也没装备打一仗。我们听你指挥。
+Acknowledged. Meyer, what's it looks like from up there?	收到。迈耶，上面看起来怎么样？
+Additional bogeys detected; this is their full push.	检测到更多敌机；这是他们的全力推进。
+Additional contacts near the ordnance plant.  New enemy units entering the combat zone.\n\r\nThe {TEAM_TAR.FactionDef.Demonym}s are reinforcing the assault.	军械厂附近出现更多接触。新的敌方单位进入战区。\n\r\n{TEAM_TAR.FactionDef.Demonym} 正在增援这次突击。
+Additional contacts near the perimeter, Commander.  Brace for contact.	外围附近出现更多接触，指挥官。准备接敌。
+Additional hostile reinforcements have entered your operational area.  Likely intent is to deny us that facility.	更多敌方增援已进入你的作战区域。意图很可能是阻止我们拿下那座设施。
+Additional hostile signatures approaching Alpha.  Looks like {TEAM_TAR.FactionDef.Demonym}'s escalating.	更多敌方信号正逼近阿尔法。看来 {TEAM_TAR.FactionDef.Demonym} 在升级行动。
+Additional hostile signatures just entered the AO;  enemy reinforcements inbound.	更多敌方信号刚进入作战区域；敌方增援正在抵达。
+Additional hostile signatures just entered the AO; enemy reinforcements inbound.	更多敌方信号刚进入作战区域；敌方增援正在抵达。
+Additional hostile units' en route	更多敌方单位正在途中
+Additional hostiles detected near Alpha Relay.  Third lance inbound and accelerating.	阿尔法中继站附近检测到更多敌人。第三支小队正在飞来并加速。
+Additional hostiles detected near the array.  This isn't a probe anymore.	阵列附近检测到更多敌人。这已经不是试探了。
+Additional hostiles detected, Commander.	检测到更多敌人，指挥官。
+Additional hostiles entering the perimeter!	更多敌人正进入外围！
+Advance and get eyes on them. Let's see how badly damaged they really are.	推进并盯住他们。看看他们到底伤得多重。
+Advance to a good recon position and let's see who's guarding that site.	推进到良好的侦察位置，看看是谁在守卫那个地点。
+Affirmative! If I spot 'em, I'll give you a holler.	收到！要是我发现他们，就喊你一声。
+Affirmative, Meyer. Commander, be warned; there may be additional enemy forces in the field. Dammit.	收到，迈耶。指挥官，警告你；战场上可能还有更多敌军。该死。
+Affirmative, XO, I've got them in sight. They're right... about...	收到，副指挥官，我看见他们了。他们就在……大约……
+Affirmative. I'm heading in low, expecting a hot LZ. Don't make me wait, boss.	收到。我正低空进入，预计是热点着陆区。别让我久等，头儿。
+Affirmative; I'll be on station.	收到；我会在岗。
+Affirmative; I'm on station. Meet me at this LZ.	收到；我在岗。到这个着陆区见我。
+Affirmative; inbound now. Pack up and let's go home, Commander.	收到；马上抵达。收拾东西，我们回家吧，指挥官。
+After a whole day heating up the ground, I think we can expect sinking heat to be even more difficult than usual.	在地上炙烤了一整天之后，我想接下来的散热会比平时更难。
+After you've met up with the convoy, get it to the extraction zone, and then get out yourselves. Good luck, Commander.	与车队会合后，把它带到撤离区，然后你们自己也撤出来。祝你好运，指挥官。
+Agamemnon, this is <i>Argo</i> actual. We're seeing another DropShip inbound to this location; could be enemy reinforcements.	阿伽门农号，这里是<i>阿尔戈号</i>主力。我们看到又一艘运输舰正飞向此处；可能是敌方增援。
+Agreed. Commander, once you've dealt with the response force, you'll find our employer's people here, at this facility.	同意。指挥官，你处理完反应部队后，会在这座设施找到我们雇主的人。
+Agreed. Commander, those new contacts are <i>optional</i> and there's no bonus for taking them out. This situation is falling apart rapidly; recommend you finish up and get to the LZ as quickly as possible.	同意。指挥官，那些新接触是<i>可选的</i>，干掉他们没有额外奖金。局面正在迅速崩坏；建议你尽快收尾并赶往着陆区。
+Ah shit, I'm being targetted!	妈的，我被锁定了！
+Ah. I prefer opposition that isn't the usual local idiots. Are you local idiots? I suppose we'll find out.	啊。我更喜欢那些不是本地老套蠢货的对手。你们是本地蠢货吗？我想我们很快就会知道。
+Ah... Command? We have another hostile lance on the field. Please advise.	呃……指挥部？战场上又出现一支敌方小队。请指示。
+Alert!  Alpha Terminal has lost its defensive turret network.	警报！阿尔法终端已失去其防御炮塔网络。
+ALERT, ALERT, ALERT: All hands to battle stations. Unidentified reactor signatures inside the perimeter.	警报，警报，警报：全体人员进入战斗岗位。外围内侧出现不明反应堆信号。
+All contract objectives complete! Good job, Commander. We're done here.	所有合同目标已完成！干得好，指挥官。我们这儿收工了。
+All contract targets eliminated. This was a good day's work, Commander.	所有合同目标已消灭。今天干得不错，指挥官。
+All our targets are down, Commander. Time to bug out.	我们所有目标都倒下了，指挥官。该撤了。
+All remaining evacuees are aboard; ensure their safe extraction.	所有剩余的撤离人员都已登船；确保他们安全撤离。
+All right you <i>maggots!</i> Fall in and let's go find those tangos!	好了，你们这群<i>蛆虫！</i> 集合，咱们去找那些目标！
+All right, Alpha Lance, the task force is up ahead; our intel puts them somewhere in this area.	好，阿尔法小队，特遣队就在前方；我们的情报显示他们在这片区域某处。
+All right, come on home. I'll figure out what to tell our employer.	好，回家吧。我来想想怎么跟我们的雇主交代。
+All right, Commander, we've been tasked with defending this installation.	好的，指挥官，我们的任务是防守这座设施。
+All right, Commander, we've been tasked with defending this installation.\n\r\nWe have reports of incoming hostiles from multiple directions.  They'll be targeting the structures; intercept them before they bring any down.  Good luck.	好的，指挥官，我们的任务是防守这座设施。\n\r\n我们收到报告，敌人将从多个方向来袭。他们的目标是建筑；在他们拆掉任何一栋之前拦截他们。祝你好运。
+All right, you should have good view of the Research Facility now.	好，你现在应该能清楚地看到研究设施了。
+All targets down, Commander. Good shooting.	所有目标已倒下，指挥官。射得漂亮。
+All targets down; let's get out of here. Headed for evac.	所有目标已倒下；我们撤吧。前往撤离点。
+All the {TEAM_TAR.FactionDef.Demonym} units have been eliminated, and {TEAM_EMP.FactionDef.ShortName} can start moving their people through the area.	所有 {TEAM_TAR.FactionDef.Demonym} 单位已被消灭，{TEAM_EMP.FactionDef.ShortName} 可以开始让人员通过该区域了。
+All the data coming from your unit just went bonkers, Commander. I'm just seeing static from its feed up here.	你单位传回的数据突然全乱了，指挥官。我在这上面只看到一片静电。
+All the holo-cams are focused on you guys so put up a show but finish that {TEAM_TAR.FactionDef.Demonym} champion in style.	所有全息摄影机都对着你们，所以拿出点精彩表现，但要漂亮地了结那个 {TEAM_TAR.FactionDef.Demonym} 冠军。
+All this dust is screwing with sensors and visuals. You'll be operating almost blind out here.	这些沙尘干扰了传感器和视觉。你在外面几乎是盲操作。
+All units, be advised, new contacts inbound.  Multiple signatures dropping into your AO.  This is a second wave.	全体单位注意，新接触正在抵达。多个信号正降入你的作战区域。这是第二波。
+All units, confirm status after drop insertion.  Report in.	全体单位，投放后确认状态。报告。
+All units, Multiple signatures confirmed.  Fresh enemy lance approaching.	全体单位，确认多个信号。新的敌方小队正在逼近。
+All units, withdraw.  Mission failed.	全体单位，撤退。任务失败。
+All we have to do is hold out until the cavalry arrives. Good luck.	我们只要坚持到骑兵赶到就行。祝你好运。
+All we have to do is hold them off until our employer's forces relieve us. Good luck, Commander.	我们只要坚持到我们雇主的部队来接替我们。祝你好运，指挥官。
+All we have to do is hold them off until our employer's forces relieve us. Good luck.	我们只要坚持到我们雇主的部队来接替我们。祝你好运。
+Allied reinforcements are just about here --- let them handle the stragglers.  Nice work, Commander.	友军增援马上就到——让它们去处理掉队的敌人。干得好，指挥官。
+Allies have communicated the rally point, they need you to be there to confirm extraction.	友军已通报集结点，需要你到场确认撤离。
+Ally reinforcements are arriving any moment.  Let them deal with the stragglers.	友军增援随时抵达。让它们去对付掉队的敌人。
+Alpha Base is about to be hit --- another wave of hostiles incoming.	阿尔法基地即将遭到打击——又一批敌人来袭。
+Alpha Base is online.  We'll defend this one next and leave Bravo Base to the {TEAM_TAR.FactionDef.Demonym}.	阿尔法基地已上线。下一个我们守这里，把布拉沃基地留给 {TEAM_TAR.FactionDef.Demonym}。
+Alpha defenders score another victory.  Enemy force destroyed.	阿尔法守军再下一城。敌军已被摧毁。
+Alpha reports first hostile lance eliminated.	阿尔法报告，第一支敌方小队已消灭。
+Alright, let's move out before we draw attention to them.	好，我们趁还没引起他们注意时赶紧行动。
+Alright, you should have good view of the Outpost now.	好，你现在应该能清楚地看到前哨站了。
+Alright, you should have good view of the research facility now.	好，你现在应该能清楚地看到研究设施了。
+Alright, you should have good view of the warehouse complex now.	好，你现在应该能清楚地看到仓库建筑群了。
+Also keep an eye out for harassing units from the locals.	另外还要留意当地人的袭扰部队。
+Am I glad to see you guys. I'm in witness protection but these murdering bastards found me. I watched them burn my wife and son and do the same for my whole damn town. Now they want to do the same here. Please... stop them!	看到你们真高兴。我本在证人保护之下，但这些杀人的混蛋找到了我。我亲眼看着他们烧死了我的妻儿，又对我那整个该死的镇子下了同样的手。现在他们又想在这里故技重施。求你们……阻止他们！
+An exceptional result.  {TEAM_EMP.FactionDef.Demonym} command will be very pleased with this report.\n\r\nOutstanding work, team.	出色的结果。{TEAM_EMP.FactionDef.Demonym} 指挥部会对这份报告非常满意。\n\r\n干得漂亮，各位。
+An explosive finish! With that, {COMPANY.CompanyName} makes their way into the final round! Could they be champions? Tune in next time to find out!	一个爆炸性的收尾！就这样，{COMPANY.CompanyName} 挺进了决赛！他们会成为冠军吗？下回分解！
+And down they go! Fantastic display, Commander.	他们倒下了！精彩的表现，指挥官。
+And here I thought you'd be pleased to see me. You've cost me a fair bit of money lately, and I've decided to put a stop to that. Nothing personal, you understand.	我还以为你会乐意见到我呢。你近来让我损失了不少钱，我决定就此打住。别往心里去，你懂的。
+And there goes the battle! {COMPANY.CompanyName} is pulling out all the stops here, and that's earned them an express ride to Solaris City!	战斗就此结束！{COMPANY.CompanyName} 使出浑身解数，为自己赢得了一张直达索拉里斯城的车票！
+And there we go. I expect to see a lot more of those moves in the future. Guess we should be ready for that ourselves.	这就对了。我期待将来能看到更多这样的招数。看来我们也该为此做好准备。
+And there we go. Onto the next round!	这就对了。进入下一轮！
+And there we go. Right into the 1/32!	这就对了。直接进入三十二分之一决赛！
+And there's the reinforcements I was expecting. They'll be targeting the vehicles, Commander. Intercept them.	我等的增援来了。他们的目标是那些车辆，指挥官。拦截他们。
+And they are away! Our pilot is safely out of the AO. Good work, Commander. Now get your remaining forces to the second evac zone for extraction there.	他们出发了！我们的飞行员已安全离开作战区域。干得好，指挥官。现在把你剩余的部队带到第二撤离区撤离。
+Another {TEAM_TAR.FactionDef.Demonym} lance on the field, Commander. It's getting awfully crowded out there.	战场上又出现一支 {TEAM_TAR.FactionDef.Demonym} 小队，指挥官。外面是越来越拥挤了。
+Another {TEAM_TAR.FactionDef.Demonym} Leopard coming in fast and low, Commander.	又一艘 {TEAM_TAR.FactionDef.Demonym} 的"豹"级正快速低空逼近，指挥官。
+Another Alien lance has dropped in Commander! This is the Secondary Objective Version.	又一支异形小队降落了，指挥官！这是次要目标版本。
+Another Alien Lance has dropped in, Commander! This is the Secondary Objective Version.	又一支异形小队降落了，指挥官！这是次要目标版本。
+Another hair-raising finish from {COMPANY.CompanyName}! Is there no stopping these titular, titanic titans?!	{COMPANY.CompanyName} 又一次惊心动魄的收尾！这些名副其实的巨型泰坦难道势不可挡吗？！
+Another hostile formation has entered sensor range.  Raiders are pressing the attack.	又一支敌方编队进入传感器范围。掠夺者正在加强攻势。
+Another hostile lance has been wiped out	又一支敌方小队被消灭
+Another hostile Leopard inbound, Commander. Marking its destination.	又一艘敌方"豹"级正在抵达，指挥官。正在标记其目的地。
+Another member of our ally's Lance just went down! Looks like they managed to eject, but we can't risk this happening again!	我们盟友小队又有一名成员倒下了！看起来他们成功弹射了，但我们不能冒险让这种事再发生！
+Another one bites the dust.	又一个家伙倒下了。
+Another set of bogies destroyed.	又一组敌机被摧毁。
+Another successful criminal operation in the can, Commander.	又一起犯罪行动顺利完成，指挥官。
+Another victory for {COMPANY.CompanyName}! Keep an eye on these ones, folks! I think we're about to see something truly spectacular!	{COMPANY.CompanyName} 又一场胜利！各位，盯紧这几个！我觉得我们马上就要见证真正壮观的场面了！
+Anybody still inside that facility is not going to be doing much talking anytime soon, Commander.	还留在那座设施里的人，短时间内怕是说不出什么话了，指挥官。
+Apparently spies come in mechs these days.	看来如今间谍都开上机甲了。
+Apparently they had some kind of device that started signaling when their heart stopped. They left the key on an automated broadcast loop, though, so we can still make the pickup.	显然他们有个装置，会在他们心跳停止时开始发信号。不过他们把钥匙留在了自动广播循环上，所以我们还是能去取货。
+Apparently they made some friends during their stay, the second transport is also Blue. Repeat. Both transports are friendly.	看来他们逗留期间交了些朋友，第二艘运输船也是蓝方。重复。两艘运输船都是友军。
+Appreciate the assist.  We'll distract them further until our main force arrives.  You can stay if you like, or leave...you do you, chief.	多谢支援。我们会继续牵制他们，直到主力抵达。你想留下也行，想走也行……随你便，老大。
+Approach the base and destroy the designated buildings.	接近基地并摧毁指定建筑。
+Are those the last batch?	那是最后一批了吗？
+Argo actual, {TEAM_EMP.FactionDef.Demonym} lance captain. Our allied lance has arrived in the AO and will be assisting us with our primary objectives.	阿尔戈号主力，这里是 {TEAM_EMP.FactionDef.Demonym} 小队队长。我们的友军小队已抵达作战区域，将协助我们完成主要目标。
+Argo actual, this is the {TEAM_EMP.FactionDef.Demonym} lance captain. Good to have you with us.	阿尔戈号主力，这里是 {TEAM_EMP.FactionDef.Demonym} 小队队长。很高兴有你们同行。
+Argo actual; acknowledged. Commander, if you want to keep our	阿尔戈号主力；收到。指挥官，如果你想保留我们的……
+Argo, we've taken control of the facility. You need to keep it intact and neutralize the attackers.	阿尔戈号，我们已控制设施。你需要保住它完好无损，并肃清袭击者。
+Armstrong's PR people have leaked his location, so we've got a good lead on where to find him.	阿姆斯特朗的公关团队泄露了他的位置，所以我们有了找到他的好线索。
+Artillery is not discriminate about what it destroys. Be sure to clear the area once the firing starts.	炮击可不管摧毁的是什么。开火后务必清空该区域。
+As {TEAM_EMP.FactionDef.Name} didn't want to put all their eggs in one basket, they've split the cache over two locations within a quick march of each other. When you close in to each location, we can make contact with the garrison and get a sitrep.	由于 {TEAM_EMP.FactionDef.Name} 不想把所有鸡蛋放在一个篮子里，他们把缓存分放在了相距快步之遥的两处地点。你接近每一处时，我们就能联系守备部队并获取状况报告。
+As expected, Commander, it looks like this 'security duty' is about to get hot.	正如所料，指挥官，这次"安保任务"看样子要热闹起来了。
+As I suspected, Commander. We've picked up additional pirate forces closing on your position.	正如我所料，指挥官。我们探测到更多海盗部队正逼近你的位置。
+As long as they're still in the AO, they're still at risk, Commander. Keep those idiots covered till they evac.	只要他们还在作战区域内，就仍有危险，指挥官。掩护那些蠢货直到他们撤离。
+Assault the base and destroy enough of it to force {TEAM_TAR.FactionDef.ShortName} to abandon the location.	突击基地并摧毁足够多的部分，迫使 {TEAM_TAR.FactionDef.ShortName} 放弃该地点。
+At last some of the units have been made operable but it won't hold the opposition long.	终于有些单位可以运转了，但这撑不了多久，挡不住对手。
+At least this data relay has some kind of turret defenses. They're booting up now.	至少这个数据中继站有些炮塔防御。它们正在启动。
+At least turrets are easy to outmaneuver. Remember they'll spot you for other units, Commander.	至少炮塔容易绕过。记住，它们会为其他单位发现你，指挥官。
+At least we are keeping casualties down to a minimum here. Good luck, Commander.	至少我们在这里把伤亡控制到了最低。祝你好运，指挥官。
+At least we're keeping casualties down to a minimum here. Good luck, Commander.	至少我们在这里把伤亡控制到了最低。祝你好运，指挥官。
+At that point, the whole galaxy may be in peril.	到那时，整个银河都可能陷入危险。
+Attacker lance neutralized.	袭击者小队已肃清。
+Attention {TEAM_TAR.FactionDef.Demonym} lance: you screwed with the wrong people. You should probably start running now.	注意 {TEAM_TAR.FactionDef.Demonym} 小队：你们惹错了人。你们现在大概该开始跑了。
+Attention, pirate scum: you are in violation of {TGT_SYSTEM.name} regulations on the sale and possession of deadly weaponry.	注意，海盗渣滓：你们违反了 {TGT_SYSTEM.name} 关于致命武器销售与持有的法规。
+Attention: hostile units detected en route to Charlie Base!	注意：检测到敌方单位正前往查理基地！
+Automated defenses have been knocked out.  The depot is exposed, don't let those hostiles get any closer.	自动防御已被击毁。仓库暴露了，别让那些敌人再靠近。
+Aww, really? Come on, I want more targets!	哎呀，真的吗？来吧，我想要更多目标！
+Bah, a little acid won't break any 'Mech I fixed up! But if they take some damage, who knows where that acid will trickle in and do damage...	呸，一点酸液可弄不坏我修好的机甲！不过要是它们受了些损伤，谁知道那酸液会渗到哪儿造成破坏……
+Bam! That worked perfectly! {COMPANY.CompanyName} pull off another victory! That's a strong entrance to the city circuit! Let's see where they go from here!	砰！完美奏效！{COMPANY.CompanyName} 又拿下一场胜利！这是杀入城市赛道的强势开局！看看他们接下来会走到哪一步！
+BattleMech Trial of Position. Ready! GO!	机甲定位试炼。准备！开始！
+Be careful of additional forces inbound. Our employer says they softened up them up a bit, but now they're rallying back at the Outpost. Expect contact.	小心额外的来敌。我们的雇主说已经削弱了他们一些，但现在他们正在前哨站重新集结。预计会有接触。
+Be careful of additional forces. Reports are they have additional units in the area that are rallying back at the base. Expect contact.	小心额外的敌军。报告显示他们在该地区还有部队，正于基地重新集结。预计会有接触。
+Be careful of reinforcements. We're getting intel that there are additional enemy forces rallying to the facility.	小心增援。我们收到情报，有额外的敌军正在设施集结。
+Be careful. These Mechs may be old and poorly maintained, but they can still kill you.	小心。这些机甲也许老旧、保养不佳，但它们照样能要你的命。
+Be on the lookout for reinforcements. We'll need to eliminate all enemy forces that take the field.	留意增援。我们需要消灭所有上场的敌军。
+Be wary of any {TEAM_TAR.FactionDef.Demonym} defenders, and additional patrols in the area. Good hunting, Commander.	提防任何 {TEAM_TAR.FactionDef.Demonym} 守军，以及该区域的额外巡逻队。狩猎愉快，指挥官。
+Be wary of the base defenders, and watch for any additional patrols in the area. Good hunting, Commander.	提防基地守军，并留意该区域的任何额外巡逻队。狩猎愉快，指挥官。
+Be wary of the base defenses. This is a critical facility for {TEAM_EMP.FactionDef.ShortName}, so there may be additional patrols in the area.	提防基地防御。这对 {TEAM_EMP.FactionDef.ShortName} 是一处关键设施，因此该区域可能有额外巡逻队。
+Be wary of the security forces, but the buildings should take priority. Good hunting, Commander.	提防安保部队，但建筑应优先处理。狩猎愉快，指挥官。
+Before we go for the base, we should get eyes on the enemy - the positioning of their garrison, and ideally the layout of the base itself.	在攻打基地之前，我们该先侦察敌人——他们守备部队的部署，最好是基地本身的布局。
+Before we start our attack, we should recon the facility's defenses from a defensible position.	在开始进攻前，我们该从一个可防守的位置侦察设施的防御。
+Better assume it's inbound reinforcements. Heads up, Commander; you may have some company.	最好假定那是来援的增援。注意，指挥官；你可能要有伴了。
+Big? What does 'big' mean? I don't want to die!	大？"大"是什么意思？我不想死！
+Bogies down for the count.	敌机已被击倒。
+Boss, I don't think I like this person at all.	头儿，我觉得我一点也不喜欢这个人。
+Boss, the column is about to leave the AO. If we lose them, we don't get paid.	头儿，那支队伍就要离开作战区域了。要是跟丢了，我们就拿不到钱。
+Boss, those vehicles are about to leave the AO. If we lose them, we don't get paid.	头儿，那些车辆就要离开作战区域了。要是跟丢了，我们就拿不到钱。
+Bravo Lance is down. Without them, our mission is over.	布拉沃小队倒下了。没有他们，我们的任务就结束了。
+Bravo relay station reports all defensive turrets offline.	布拉沃中继站报告所有防御炮塔下线。
+Bravo reports successful engagement.  Hostile lance neutralized	布拉沃报告交战成功。敌方小队已肃清。
+Bravo sector holding strong.  Raider lance has been broken.	布拉沃战区坚守有力。掠夺者小队已被击溃。
+Bravo squad, this is Argo actual. Are you ready to move?	布拉沃小队，这里是阿尔戈号主力。准备好行动了吗？
+Bravo station reporting fresh hostiles, another attack wave is moving in.	布拉沃站报告出现新的敌人，又一批攻击波次正在逼近。
+Bravo's automated defenses have been knocked out.  Tighten the perimeter and prevent any breakthrough.	布拉沃的自动防御已被击毁。收紧外围，防止任何突破。
+Bravo's defensive network has been knocked out.  The station is now fully dependent on your protection.	布拉沃的防御网络已被击毁。该站现在完全依赖你的保护。
+Bring the scientists' here.	把科学家们带到这里来。
+Buildings can give us a good vantage point. Or a long fall. Be careful out there.	建筑可以给我们提供良好的观察点。也可能是一次长距离坠落。外面小心。
+Can they keep up the streak, or are they about to meet their maker? Let's find out in THREE, TWO, ONE!	他们能延续连胜，还是即将命丧黄泉？让我们三、二、一，揭晓！
+Can they keep up with the arena veterans, or will {COMMANDER.FirstName} {COMMANDER.LastName} be taking the next shuttle back home? Keep your eyes peeled as we begin the next match of our seasonal Assault 'Mech championship!	他们能跟得上竞技场老将的步伐，还是 {COMMANDER.FirstName} {COMMANDER.LastName} 将搭下一班穿梭机打道回府？本季突击机甲锦标赛下一场即将开始，请睁大双眼！
+Can we blow up some of the buildings?	我们能炸掉一些建筑吗？
+Can you believe it?  We were only meant to hold them off, and yet you've taken out every {TEAM_TAR.FactionDef.Demonym} force. That's one for the books, boss --- fantastic work!	你信吗？我们本该只是拖住他们，结果你消灭了每一支 {TEAM_TAR.FactionDef.Demonym} 部队。这可是能载入史册的，头儿——干得漂亮！
+Can you get eyes on the targets, Meyer? What are we dealing with here?	你能看见目标吗，迈耶？我们面对的是什么？
+Captain, Argo actual. We copy. Let's wreck some metal.	上尉，这里是阿尔戈号主力。收到。咱们去砸点金属吧。
+Captain, this is Argo actual. Understood; let's get this done.	上尉，这里是阿尔戈号主力。明白；我们把这事办了。
+Catastrophic damage confirmed. One of the cargo terminals has been destroyed.\n\r\nThe loading infrastructure is beyond recovery. Fuel reserves are burning and shipment operations have ceased	确认毁灭性损伤。其中一座货运终端已被摧毁。\n\r\n装卸设施已无法修复。燃料储备正在燃烧，运输作业已停止。
+Charlie Base is about to come under threat --- enemy forces are already on the move toward it.  We need to act now!	查理基地即将受到威胁——敌军已经在向它移动。我们必须立刻行动！
+Charlie Base is active.  This is the final defensive line.  Expect full-force attacks --- form up and hold fast!	查理基地已激活。这是最后一道防线。预计会遭到全力猛攻——结阵，坚守！
+Charlie Base is up.  Hold this position at all costs until reinforcements take over.	查理基地已就位。不惜一切代价守住此阵地，直到增援接替。
+Chatty, aren't they? I kind of want to land the Leopard on their head.	话真多，是吧？我有点想把"豹"级降在他们头上。
+Christ. Have fun, Commander. I'll be on station; meet me here when you're ready to leave.	天哪。玩得开心，指挥官。我会在岗；你准备离开时来这儿找我。
+Clean kill, Commander. I'll meet you back on the bridge.	干净利落的一杀，指挥官。舰桥上见。
+Clear out any defenders, and let's secure the place and get paid.	清剿所有守军，我们把这里拿下，然后拿钱。
+Command, this is Alpha Lance; we're under heavy fire- [static]	指挥部，这里是阿尔法小队；我们遭到猛烈攻击——[静电]
+Commander {COMMANDER.Callsign}, [MC.Format.ToUpperFirst.{TEAM_EMP.FactionDef.Name}]'s very pleased with {COMPANY.CompanyName}'s excellent performance out there!	{COMMANDER.Callsign} 指挥官，{TEAM_EMP.FactionDef.Name} 对 {COMPANY.CompanyName} 在外面的出色表现非常满意！
+Commander {COMMANDER.LastName}! Thank you for the assist today.	{COMMANDER.LastName} 指挥官！感谢你今天的支援。
+Commander {COMMANDER.LastName}. Test Complete.	{COMMANDER.LastName} 指挥官。测试完成。
+Commander it looks like this babysitting job may be heating up.	指挥官，这份看孩子的活儿看来要热起来了。
+Commander! Are we glad to see you! {TEAM_EMP.FactionDef.Demonym} Biolab {TGT_SYSTEM.name}-Delta.	指挥官！见到你太高兴了！{TEAM_EMP.FactionDef.Demonym} 生物实验室 {TGT_SYSTEM.name}-德尔塔。
+Commander! Are we glad to see you! {TEAM_EMP.FactionDef.Demonym} forward base {TGT_SYSTEM.name}-Alpha.	指挥官！见到你太高兴了！{TEAM_EMP.FactionDef.Demonym} 前沿基地 {TGT_SYSTEM.name}-阿尔法。
+Commander! It's a trap! Watch ou...***STATIC***	指挥官！这是个陷阱！小心……***静电***
+Commander! Turrets are coming online... they aren't pointed at us though. Looks like we've got some backup.	指挥官！炮塔正在上线……不过它们没对着我们。看来我们有帮手了。
+Commander, a target building has been demolished. Protect the remaining buildings.	指挥官，一座目标建筑已被摧毁。保护剩余建筑。
+Commander, a word of warning: we have reports this base may have gun emplacements for point defense.	指挥官，提醒一句：我们收到报告，这座基地可能有用于点防御的炮位。
+Commander, all base defenses are destroyed.	指挥官，所有基地防御已被摧毁。
+Commander, all of the forts defenses are destroyed.	指挥官，所有堡垒防御已被摧毁。
+Commander, another match in the Assault League. Good luck!	指挥官，突击联盟又一场比赛。祝你好运！
+Commander, another match in the Assault Tank League. Good luck!	指挥官，突击坦克联盟又一场比赛。祝你好运！
+Commander, another match in the Heavy League. Good luck!	指挥官，重型联盟又一场比赛。祝你好运！
+Commander, another match in the Heavy Tank League. Good luck!	指挥官，重型坦克联盟又一场比赛。祝你好运！
+Commander, another match in the Medium League. Good luck!	指挥官，中型联盟又一场比赛。祝你好运！
+Commander, another match in the Medium Tank League. Good luck!	指挥官，中型坦克联盟又一场比赛。祝你好运！
+Commander, are you okay? Commanderrrrrrr?	指挥官，你还好吗？指挥——官——？
+Commander, at least half of our time has expired. You'll need to move quickly if you're to accomplish this.	指挥官，我们的时间至少已过半。要完成这件事，你得加快动作了。
+Commander, be careful! Our scans show this area is infested with dry quicksand traps, reducing both movement and increasing chances of falling over.	指挥官，小心！我们的扫描显示这片区域布满干流沙陷阱，会降低移动力并增加摔倒的几率。
+Commander, both facilities are critical.  We need to keep Alpha and Bravo operational until relief forces arrive.  Lose either plant and the mission is a failure.\n\r\nExpect multiple attack waves and stay flexible.	指挥官，两座设施都至关重要。我们需要让阿尔法和布拉沃保持运转，直到接防部队抵达。失去任一工厂，任务即告失败。\n\r\n预计会有多波攻击，保持灵活。
+Commander, buy us some time to rid of the stuff then we'll extract.	指挥官，给我们争取点时间清理这些东西，然后我们就撤离。
+Commander, enemy units dropping in.	指挥官，敌方单位正在降落。
+Commander, from here on out, we're expecting to encounter enemy forces.	指挥官，从现在起，我们预计会遭遇敌军。
+Commander, half the base is in flames! If we lose another building, our employer's going to pull the plug on this contract.	指挥官，半个基地都在燃烧！要是再丢一栋建筑，我们的雇主就要叫停这份合同了。
+Commander, Halton here. Confirming credentials...	指挥官，我是霍尔顿。正在核实身份凭证……
+Commander, Halton here. Ms. Bosh is here but...	指挥官，我是霍尔顿。博什女士在这儿，但是……
+Commander, heads-up: {TEAM_EMP.FactionDef.Demonym}'s forces have fully retreated.  We're the decoy team, so we'll be taking the heat alone.  We need to drag this out, deal as much damage as we can, and avoid unnecessary losses.	指挥官，注意：{TEAM_EMP.FactionDef.Demonym} 的部队已完全撤退。我们是诱饵队，所以要独自承受火力。我们需要拖时间，尽可能造成伤害，并避免不必要的损失。
+Commander, holding the base is no longer a priority --- it's a lost cause.  Focus all efforts on defending the convoys.	指挥官，守住基地已不再是优先事项——它已经没救了。把全部精力集中在保护车队上。
+Commander, I don't know what happened down there, but we need to extract, <i>now</i>.	指挥官，我不知道下面发生了什么，但我们需要撤离，<i>立刻</i>。
+Commander, I don't know who those guys are; if they start firing on our forces, take them down. Sumire, see if you can ID them.	指挥官，我不知道那些家伙是谁；要是他们开始攻击我们的部队，就把他们干掉。菫，看看你能不能认出他们。
+Commander, I know this signature. Pirates are here.	指挥官，我认得这个信号。海盗来了。
+Commander, I think our employers might not have given us the whole picture here. We'll need to engage and destroy the {TEAM_TAR_ALLY.FactionDef.Demonym} forces as well.	指挥官，我觉得我们的雇主可能没把全部情况告诉我们。我们还需要交战并摧毁 {TEAM_TAR_ALLY.FactionDef.Demonym} 的部队。
+Commander, if these guys die, we don't get paid. No matter how much they might deserve it.	指挥官，要是这些人死了，我们就拿不到钱。不管他们多该死。
+Commander, if we lose another building we lose the payoff. You have to hold on.	指挥官，要是再丢一栋建筑，我们就拿不到报酬了。你得撑住。
+Commander, if we lose another building we lose the whole lab. You have to hold on.	指挥官，要是再丢一栋建筑，我们就失去整个实验室了。你得撑住。
+Commander, if we lose any more structures, we lose the entire base and all its personnel.	指挥官，要是再丢更多建筑，我们就失去整座基地和所有人员。
+Commander, if we lose that lance, we don't get paid. Do what you can.	指挥官，要是丢掉那支小队，我们就拿不到钱。尽力而为吧。
+Commander, I'll move in for a pickup once you get that base flattened. Don't keep me waiting.	指挥官，等你把那座基地夷平，我就过来接你。别让我久等。
+Commander, I'm not picking up any active hostiles, anywhere. The place looks deserted.	指挥官，我在任何地方都没探测到活跃的敌人。这地方看起来空无一人。
+Commander, I'm not sure what went wrong, but we'll need to prepare some explanations for our employers.	指挥官，我不确定哪里出了问题，但我们得为雇主准备些解释了。
+Commander, I'm picking up four additional contacts headed your way. Watch out for an ambush.	指挥官，我探测到四个额外接触正朝你而来。小心埋伏。
+Commander, I'm seeing an inbound Leopard with {TEAM_TAR.FactionDef.Demonym} livery. Marking its destination for you.	指挥官，我看到一艘涂着 {TEAM_TAR.FactionDef.Demonym} 涂装的"豹"级正在抵达。正在为你标记其目的地。
+Commander, I'm seeing an incoming bogey. I'll mark its target destination for you.	指挥官，我看到一个敌机正在飞来。我会为你标记它的目标位置。
+Commander, I'm seeing new contacts; probably the {TEAM_TAR_ALLY.FactionDef.Demonym} lance-	指挥官，我看到新的接触；多半是 {TEAM_TAR_ALLY.FactionDef.Demonym} 的小队——
+Commander, incoming report: a company-sized enemy unit is advancing in your direction.	指挥官，收到报告：一支连级规模的敌军单位正朝你的方向推进。
+Commander, intel says the target and their escorts will be moving through this area.	指挥官，情报显示目标和其护航队将经过这片区域。
+Commander, it looks like the garrison was on patrol, and they're on the way back. Get ready for multiple contacts.	指挥官，看来守备部队正在巡逻，而且正在返回。准备迎接多个接触。
+Commander, I've been informed that the R&D facility has some additional defense options.	指挥官，我得知研发设施有一些额外的防御选项。
+Commander, I've been informed that the warehouse has some additional defense options.	指挥官，我得知仓库有一些额外的防御选项。
+Commander, I've been talking to our {TEAM_EMP.FactionDef.Demonym} rep and this seems to be a case of simple bad luck; apparently the bad guys wiped out a {TEAM_HOST.FactionDef.Demonym} unit just a few days ago.	指挥官，我跟我们的 {TEAM_EMP.FactionDef.Demonym} 代表谈过了，这似乎只是一桩单纯的倒霉事；据说几天前那帮坏蛋刚消灭了一支 {TEAM_HOST.FactionDef.Demonym} 单位。
+Commander, I've got a blip coming in low and fast. Looks like a Leopard making a drop. Expect company.	指挥官，有个信号正低空快速逼近。看起来是"豹"级在做投放。准备接客。
+Commander, I've got a heat signature in this area.	指挥官，我在这片区域探测到一个热信号。
+Commander, I've got a Leopard inbound to your location. Guessing it's not friendly.	指挥官，有一艘"豹"级正向你的位置飞来。我猜它不怀好意。
+A miserable performance, Commander. But fear not, the needs of House Kurita will be satisfied. The Galedon Regulars will succeed where you have failed.	表现糟糕，指挥官。但别担心，栗田家族的需求自会得到满足。加尔迪恩正规军会在你失败的地方成功。
+A performance as pathetic as it was disappointing. Bask in your shame, Reynauld! Your attempt on my life has failed.	表现既可怜又令人失望。在耻辱中沉沦吧，雷诺！你刺杀我的企图失败了。
+A thing of beauty, XO. He's got about 80 percent of a Galileo Instruments Achilles up on blocks in there. It's an absolute monster of a DropShip, more than twice as big as ours.	真是件杰作，副官。他那儿架着一艘完成度约八成的伽利略仪器公司阿喀琉斯。那是艘不折不扣的巨兽级运输舰，比我们的大一倍还多。
+AAAWWWRRK! Damn't have to go find her again.	啊啊啊！该死，又得去找她。
+ARGH! Now I have to do the leg work and find her again.	啊！现在我得亲自跑腿再去找她。
+About time, I thought you were leaving me to hang. Lets find and retrieve my 'Mech. The bastards can't keep it!	总算来了，我还以为你要丢下我不管。我们去找回我的机甲。那帮混蛋留不住它！
+According to my scouts, Yoshito Okada's convoy is already moving through the AO you've touched down in. All you need do is locate and destroy it.	据我的斥候说，冈田义人的车队已经进入你降落的作战区域。你只需找到并摧毁它。
+Advance on the facility, but exercise caution. The Janissaries are a ruthless, well-funded mercenary command, and they're bound to have additional forces nearby.	向设施推进，但要谨慎。近卫军是冷酷且资金雄厚的佣兵部队，附近必定还有额外兵力。
+After the data's been uploaded, you'll get confirmation and you can make for the evac point. Sumire will be on station to pull you out of there.	数据上传完毕后你会收到确认，然后就可以前往撤离点。苏米尔会在那里接你出来。
+Agreed, and who doesn't want to play wave after wave of Zombies anyway. It's almost like you had a Call of Duty, Commander.	同意，再说谁不想一波接一波地打僵尸呢。简直像在玩使命召唤，指挥官。
+Agreed. And let's not forget about the QuadMech's versatility. We might be able to use its agility to our advantage.	同意。也别忘了四足机甲的多样性。我们也许能利用它的灵活性占得先机。
+Ah finally, all wrapped up neatly, with a bow ontop. <i>purrs</i>. A Leopard dropship is on standby for your pickup.	啊，终于收拾得干干净净，还系了个蝴蝶结。<i>满意地呼噜</i>。一架豹式运输舰正待命接你。
