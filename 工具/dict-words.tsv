@@ -1,0 +1,101 @@
+Inbound hostile Dropship detected, drop zone marked.	检测到敌方空投艇接近，空降区已标记。
+Our Employer has offered a bonus if we eliminate this group as well.	雇主说，如果我们把这批人也一并消灭，就有额外奖金。
+Our Employer has kindly added destroying this group to our objectives. If we want to get paid we need to take them out.	雇主好意地把消灭这批人也加进了任务目标。想拿到钱，就得把他们解决掉。
+Thanks for the assist, we're clear.	多谢支援，我们安全了。
+A primary target is damaged, Commander! Keep it up!	主要目标受损了，指挥官！继续打！
+We won't get paid for covering their evac if we leave before them, plan accordingly Commander.	要是我们在他们撤离前就走，掩护撤离的钱就拿不到了，指挥官，请据此安排。
+We're clear of the AO, thanks Commander.	我们已离开作战区域，多谢指挥官。
+Understood Lance leader, glad to have you with us.	明白，小队长，很高兴有你在。
+That's it Commander, we did what we came here to do. Come on home.	就这样，指挥官，该做的都做了。回家吧。
+Looks like we have some unexpected support from {TEAM_EMP_ALLY.FactionDef.Demonym} forces.	看来有 {TEAM_EMP_ALLY.FactionDef.Demonym} 部队意外来支援我们。
+Glad we could make it to the party Commander. Our orders are to assist in the Primary Objective and once that's done head for Evac.	很高兴赶上这场好戏，指挥官。我们的命令是协助完成主要目标，完成后就前往撤离点。
+Commander, our {TEAM_EMP.FactionDef.Demonym} friends have deployed forces to assist in our operation here.	指挥官，我们的 {TEAM_EMP.FactionDef.Demonym} 友军已派兵协助本次行动。
+{COMMANDER.Name} look out, there's {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys here too. Don't that beat it all.	{COMMANDER.Name} 当心，这里还有 {TEAM_TAR_ALLY.FactionDef.Demonym} 的敌人。真是活见鬼。
+NYI	NYI
+Copy that lance leader, welcome to the party.	收到，小队长，欢迎加入。
+All our objectives are complete, cover our withdraw, Commander.	所有目标已完成，指挥官，掩护我们撤退。
+[GENERIC VO] The secondary asset is sustaining damage, Commander!	[通用语音] 次要目标正在受损，指挥官！
+That's an affirmative, XO Olivera. We will provide support to achieve the primary objective. When it's complete we have orders to proceed to our Evac.	确认收到，奥利维拉副官。我们会提供支援以完成主要目标。完成后按命令前往撤离点。
+[GENERIC VO] The secondary asset has been recovered, Commander.	[通用语音] 次要目标已回收，指挥官。
+The hostile {TEAM_HOST.FactionDef.Demonym} lance has arrived!	敌方 {TEAM_HOST.FactionDef.Demonym} 小队已抵达！
+We lost Quebec Two Commander.	指挥官，我们失去了 Quebec 二号。
+Bogeys on sensors!	传感器发现不明目标！
+[GENERIC VO] Sensors are clear, proceed to the next objective.	[通用语音] 传感器无异常，前往下一个目标。
+Our Employer has kindly added taking this group to contract. If we want to get paid we need to take them out.	雇主好意地把这批人也写进了合同。想拿到钱，就得把他们解决掉。
+Our Employer has kindly added taking this group to contract as a bonus. If we want to make some extra C-bills we can take them out if we want.	雇主好意地把这批人作为奖金写进了合同。想多赚点星币，顺手解决他们就行。
+New contacts on sensors, Commander. These units don't match {TEAM_TAR.FactionDef.ShortName} signatures. We've got a new player on the field.	指挥官，传感器出现新目标。这些单位的信号与 {TEAM_TAR.FactionDef.ShortName} 不符。战场上来了新玩家。
+[GENERIC VO] The asset is sustaining damage, Commander!	[通用语音] 目标正在受损，指挥官！
+That is our target, sustain fire on that unit!	那就是我们的目标，持续火力压制！
+[GENERIC VO] Area is not clear, Commander. Eliminate the hostiles before continuing to the next Objective.	[通用语音] 区域尚未肃清，指挥官。先消灭敌人再前往下一个目标。
+Commander, the target is bugging out! Eliminate them before they escape.	指挥官，目标要跑了！在他们逃走前解决掉。
+Kilo 1-3 just got smoked! Suffering loses over here, Commander! We're still in the fight, but down one.	Kilo 1-3 被打爆了！这边损失惨重，指挥官！我们还能打，但少了一台。
+More {TEAM_EMP.FactionDef.Demonym} forces on the field!	战场上又出现 {TEAM_EMP.FactionDef.Demonym} 部队！
+Commander, our employer's allied forces have been destroyed.	指挥官，雇主的盟军已被消灭。
+This is Quebec Actual, return fire and check your rear arc!	这里是 Quebec 实机，还击并注意后方！
+Good shots, Commander! You scored a solid hit on one of the target structures, keep it up.	打得漂亮，指挥官！你命中了一座目标建筑，继续保持。
+And there we go!	这就对了！
+Sensors are showing enemy movement beyond our initial count. Be advised you might meet with increased resistance.	传感器显示的敌军数量超过了最初统计。请注意，你们可能遭遇更强的抵抗。
+Our employer has offered a bonus if we eliminate this group as well.	雇主说，如果我们把这批人也一并消灭，就有额外奖金。
+Enemy Reinforcements, get ready for contact.	敌军增援到了，准备接战。
+We've demolished the objective buildings. No need to loiter, get to the evac zone.	目标建筑已摧毁。没必要逗留，前往撤离区。
+Bkt_KillConfirmed: The garrison is destroyed. Good Work.	Bucket_击杀确认：守军已被消灭。干得好。
+Warning commander, sensors are reading multiple contacts approaching from multiple vectors. Looks like the attacking force has brought reinforcements.	警告，指挥官，传感器显示多个目标从不同方向逼近。看来进攻方带来了增援。
+Target building destroyed, good work commander, stay at it and we'll be done in no time.	目标建筑已摧毁，干得好指挥官，继续下去很快就能收工。
+Heads up Commander, its a hostile {TEAM_TAR_ALLY.FactionDef.Demonym} lance!	当心，指挥官，是敌方 {TEAM_TAR_ALLY.FactionDef.Demonym} 小队！
+[GENERIC VO] The asset has been recovered, Commander. Good work.	[通用语音] 目标已回收，指挥官。干得好。
+You've reached the extraction point for the objective vehicles. Hold there are keep them safe until we can get them out.	你们已到达目标车辆的撤离点。守住那里，保护好它们，等我们接应。
+Ok, that was unfortunate. Let's try next season.	好吧，真不走运。下个赛季再试。
+Heads up Commander, its a hostile {TEAM_TAR_ALLY.FactionDef.Demonym} lance!	当心，指挥官，是敌方 {TEAM_TAR_ALLY.FactionDef.Demonym} 小队！
+Commander, a target building has been demolished. Ensure the integrity of the remaining buildings.	指挥官，一座目标建筑已被摧毁。请确保其余建筑完好。
+Mercenary Commander, we've received word of the assault on your position. Reinforcements are incoming, they are about halfway there. Maintain position and you'll be relieved shortly.	佣兵指挥官，我们收到了你方阵地遇袭的消息。增援正在赶来，大约已过半程。坚守阵地，很快就会解围。
+Commander, the friendly {TEAM_EMP.FactionDef.Demonym} has been destroyed.	指挥官，友方 {TEAM_EMP.FactionDef.Demonym} 已被消灭。
+And they are away! The convoy is safely out of the AO. Good work, Commander. Now get your remaining forces to the second evac zone for extraction there.	他们出发了！车队已安全离开作战区域。干得好，指挥官。现在把你剩余部队带到第二撤离区待接应。
+Ok, that was unfortunate. Let's prepare for the next match better.	好吧，真不走运。下一场我们准备得更充分些。
+Grace under fire, folks. Lay it on 'em!	火力之下见真章，各位。狠狠地打！
+Good hunting, Commander. Oliveira out.	狩猎愉快，指挥官。奥利维拉通话结束。
+One down. Keep engaging those threats and we'll be out of here.	解决一个。继续压制这些威胁，我们就能离开这里。
+More {TEAM_TAR.FactionDef.Demonym} forces on the field!	战场上又出现 {TEAM_TAR.FactionDef.Demonym} 部队！
+Be advised, some of the target buildings are sustaining damage. Your mission is to keep them standing.	提醒各位，部分目标建筑正在受损。你的任务是让它们保持完好。
+Commander. The enemy has deployed reinforcements and they are inbound. Expect increased resistance.	指挥官。敌方已派出增援，正在赶来。预计抵抗会更强。
+That's got it, keep firing on those targets until they are neutralized.	打中了，继续攻击那些目标直到将其消灭。
+Primary targets destroyed Commander.	主要目标已摧毁，指挥官。
+Our Employer has kindly added destroying this group to the contract as a bonus. If we want to make some extra C-bills we can take them out if we want.	雇主好意地把消灭这批人作为奖金写进了合同。想多赚点星币，顺手解决他们就行。
+I'm inbound to the LZ Commander.	我正飞往着陆区，指挥官。
+Charlie beacon deployed.	Charlie 信标已部署。
+Bravo beacon deployed, Commander.	Bravo 信标已部署，指挥官。
+Alpha beacon deployed, Commander. Good work.	Alpha 信标已部署，指挥官。干得好。
+Warning: Incoming artillery fire.	警告：敌方炮火来袭。
+Readings indicate the ambushing units are out of commission. The employer will be pleased.	读数显示伏击部队已失去战力。雇主会满意的。
+Understood Lance Leader, glad to have you with us.	明白，小队长，很高兴有你在。
+That's it Commander we did what we came here to do.	就这样，指挥官，该做的都做了。
+we're clear of the AO, thanks Commander.	我们已离开作战区域，多谢指挥官。
+That's an affirmative, XO Olivera. We're on station and will provide support to achieve the primary objective. When it's destroyed we have orders to proceed to our Evac.	确认收到，奥利维拉副官。我们已就位，将提供支援以完成主要目标。目标摧毁后按命令前往撤离点。
+Keep in mind that the convoy will try to stay near you for protection. Continue advancing to get them to the extract point!	记住，车队会尽量靠近你们寻求保护。继续推进，把他们送到撤离点！
+Glad we could make it to the party Commander. Our orders are to assist in the Primary Objective and once eliminated head for Evac.	很高兴赶上这场好戏，指挥官。我们的命令是协助完成主要目标，完成后前往撤离点。
+Copy that lance leader.	收到，小队长。
+All our objectives are complete, cover our withdraw Commander.	所有目标已完成，指挥官，掩护我们撤退。
+We have a lock on the target vehicles. They should be to your front. Engage and destroy, Commander.	已锁定目标车辆。它们应该在你正前方。交战并摧毁，指挥官。
+Best of luck, Commander. Oliveira out.	祝你好运，指挥官。奥利维拉通话结束。
+Another {TEAM_EMP.FactionDef.Demonym} lance has dropped in Commander!	指挥官，又有一支 {TEAM_EMP.FactionDef.Demonym} 小队降落了！
+That's it, mech recovering our Secondary Target is scraped. S&R will look for what's left. That objective is failed. Focus on the Primary.	就这样，负责回收次要目标的那台机甲已报废。搜救队会去找残骸。该目标宣告失败。专心处理主要目标。
+Fire Control this is Observer Actual: Good effect on target. Targets Destroyed.	火控中心，这里是观察员实机：命中效果良好。目标已摧毁。
+CHECK FIRE! CHECK FIRE! FRIENDLIES NOT CLEAR OF IMPACT SITE. OH---	停火！停火！友军尚未离开落点。哦——
+Our employer has kindly added destroying this group to our objectives. If we want to get paid we need to take them out.	雇主好意地把消灭这批人也加进了任务目标。想拿到钱，就得把他们解决掉。
+Our Employer has kindly added this group to the contract. If we want to get paid we need to take them out.	雇主好意地把这批人写进了合同。想拿到钱，就得把他们解决掉。
+Commander, on this outing we have some additional support from our employer.	指挥官，这次行动我们得到了雇主的一些额外支援。
+Commander, {TEAM_TAR.FactionDef.Demonym} reinforcements are inbound to this location.	指挥官，{TEAM_TAR.FactionDef.Demonym} 的增援正赶往此地。
+Commander, I'm seeing hostile {TEAM_TAR_ALLY.FactionDef.Demonym} units in the area. Our target brought in allies for backup.	指挥官，我在这片区域发现了敌方 {TEAM_TAR_ALLY.FactionDef.Demonym} 单位。我们的目标叫来了帮手。
+Another {TEAM_EMP.FactionDef.Demonym} lance has dropped in Commander!	指挥官，又有一支 {TEAM_EMP.FactionDef.Demonym} 小队降落了！
+The {TEAM_EMP.FactionDef.Demonym} has been destroyed.	{TEAM_EMP.FactionDef.Demonym} 已被消灭。
+The convoy is finished, now get what mechs you have to the extraction point and we'll pull you out. Move quickly.	车队完了，把你剩下的机甲带到撤离点，我们接你出来。动作快。
+N/A	无
+More {TEAM_EMP.FactionDef.Demonym} forces on the field. This is the Secondary Objective Version.	战场上又出现 {TEAM_EMP.FactionDef.Demonym} 部队。（次要目标版本）
+More {TEAM_EMP.FactionDef.Demonym} forces on the field. This is the Primary Objective Version.	战场上又出现 {TEAM_EMP.FactionDef.Demonym} 部队。（主要目标版本）
+Inbound strike team, Boss. We've lingered a bit too long and their quick reinforcements are arriving shortly.	打击小队来袭，头儿。我们逗留太久了，他们的快速增援马上就到。
+Heads up, commander, a lance of {TEAM_HOST.FactionDef.Demonym} units just entered the area. They're hostile to everyone!	当心，指挥官，一支 {TEAM_HOST.FactionDef.Demonym} 小队刚进入该区域。他们见谁都打！
+Good luck, Commander.	祝你好运，指挥官。
+Commander, our {TEAM_EMP.FactionDef.Demonym} friends have deployed forces to assist in our operation here. This is the Secondary version.	指挥官，我们的 {TEAM_EMP.FactionDef.Demonym} 友军已派兵协助本次行动。（次要版本）
+Commander, our {TEAM_EMP.FactionDef.Demonym} friends have deployed forces to assist in our operation here. This is the Primary version.	指挥官，我们的 {TEAM_EMP.FactionDef.Demonym} 友军已派兵协助本次行动。（主要版本）
+Another {TEAM_TAR.FactionDef.Demonym} lance has dropped in Commander!	指挥官，又有一支 {TEAM_TAR.FactionDef.Demonym} 小队降落了！
+We have a friendly convoy with engineers who are eager to get at those defenses, so they can bring them online.	我们有一支友方车队，随行的工程师急于处理那些防御设施，好让它们恢复运作。
+Our Employer has kindly added destroying this group to our contract. If we want to get paid we need to take them out.	雇主好意地把消灭这批人写进了合同。想拿到钱，就得把他们解决掉。
