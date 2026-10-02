@@ -65,6 +65,10 @@ foreach ($m in $rxSpan.Matches($t)) {
             }
             if ($isAfterObj) {
                 while ($res.Length -gt 0 -and $res[$res.Length-1] -eq $spc) { [void]$res.Remove($res.Length-1, 1) }
+                # 关键: 删除全角逗号后必须补一个【半角空格】。
+                # 游戏语法是 [[对象[目标] 显示名]], ] 与显示名之间要有空格分隔;
+                # 只删逗号不补空格会变成 ]显示名, 同样无法解析(显示"错误")。
+                [void]$res.Append($spc)
                 $fixed++
                 $i++
                 while ($i -lt $n -and $span[$i] -eq $spc) { $i++ }
@@ -79,7 +83,15 @@ foreach ($m in $rxSpan.Matches($t)) {
 [void]$out.Append($t.Substring($pos, $t.Length - $pos))
 $new = $out.ToString()
 
-if ($fixed -gt 0) {
+# 兜底: 确保 [[前缀[目标] 与后续文本之间有空格([[前缀[目标]显示名]] -> 补空格)
+$rxSep = New-Object System.Text.RegularExpressions.Regex ('(\[\[[A-Za-z_][A-Za-z0-9_.]*\[[^\]]+\])([^ \]\r\n])')
+$sepN = $rxSep.Matches($new).Count
+if ($sepN -gt 0) {
+    $new = $rxSep.Replace($new, '$1 $2')
+    Write-Host ("补充空格分隔 " + $sepN + " 处")
+}
+
+if ($fixed -gt 0 -or $sepN -gt 0) {
     [IO.File]::WriteAllText($csv, $new, (New-Object Text.UTF8Encoding $false))
     Write-Host ("已修复 " + $fixed + " 处占位符内标点")
 } else {
