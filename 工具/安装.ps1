@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/12] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/13] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -221,22 +221,30 @@ RunTool 'fold-apply.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-defs'))
 Ok "完成"
 
-# ---------- 8) 对话/字幕汉化 ----------
+# ---------- 8) 装备特性说明汉化 ----------
+# BonusDescriptions_*.json 的 Short/Long/Full 是装备"特性"栏的显示文本
+Step 8 "补译装备特性说明（BonusDescriptions）"
+RunTool 'apply-bonus.ps1' @('-dir', (Join-Path $gameRoot 'Mods'),
+                            '-pairs', (Join-Path $PSScriptRoot 'dict-bonus.tsv'),
+                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-bonus'))
+Ok "完成"
+
+# ---------- 9) 对话/字幕汉化 ----------
 # 游戏对 dialogueContent[].words 不查 CSV, 直接显示 JSON 里的字符串,
 # 必须就地替换(月光石头的本地化表虽有译文, 但源文件未被改写, 用不上)
-Step 8 "汉化对话与字幕（words）"
+Step 9 "汉化对话与字幕（words）"
 RunTool 'apply-words.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                             '-pairs', (Join-Path $PSScriptRoot 'dict-words.tsv'),
                             '-backupRoot', (Join-Path $packRoot 'backup\Mods-words'))
 Ok "完成"
 
 # ---------- 9) 装备分类显示名 ----------
-Step 9 "汉化装备分类显示名"
+Step 10 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
 # ---------- 10) 控制字符与标点空格 ----------
-Step 10 "清理控制字符、标点空格与插值占位符"
+Step 11 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
@@ -244,14 +252,14 @@ RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 11) 术语归一化与格式修复 ----------
-Step 11 "术语归一化与格式修复"
+Step 12 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 12) 校验 ----------
-Step 12 "校验"
+Step 13 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }

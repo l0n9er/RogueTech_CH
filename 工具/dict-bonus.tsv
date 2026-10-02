@@ -1,0 +1,332 @@
+ITEM WILL BE REMOVED SOON	该物品即将移除
+Effects Stack; can be applied multiple times per turn.	效果可叠加；每回合可生效多次。
+{0} Modifier to Jam Chance	卡壳几率 {0}
+Allows Moving after Shooting if pilot has Neural Implants.	机师植入神经接口后，可在射击后移动。
+Range Change based on your evasion. Base Range multiplied by number of Evasion Pips to the power of {0}	射程随闪避变化。基础射程乘以闪避点数的 {0} 次方
+Damage Variance Change based on your evasion. Base Variance multiplied by number of Evasion Pips to the power of {0}	伤害浮动随闪避变化。基础浮动乘以闪避点数的 {0} 次方
+{0} decreased based on your evasion. Base {0} multiplied by number of Evasion Pips to the power of {1}	{0} 随闪避降低。基础 {0} 乘以闪避点数的 {1} 次方
+Shot separates after {0} metres	弹丸在 {0} 米后散开
+Area-of-Effect: Does {1} damage, {2} heat and {3} stability in a {0} m radius from impact.	范围效果：在落点 {0} 米半径内造成 {1} 点伤害、{2} 点热量与 {3} 点稳定性伤害。
+{0} mode: Weapon has a jam chance of {1} per {2} shots - Mitigated by Gunnery & Jam Modifiers	{0} 模式：每 {2} 发有 {1} 卡壳几率 — 受射击技能与卡壳修正影响
+Weapon has base {0} jam chance, multiplied by {1} per shot - Mitigated by Gunnery & Jam Modifiers	武器基础卡壳几率 {0}，每发乘以 {1} — 受射击技能与卡壳修正影响
+Weapon has {0} chance to misfire, damaging itself, when firing in {1} mode.	在 {1} 模式下开火时，有 {0} 几率走火并伤及自身。
+Weapon has {0} jam chance when firing in {1} mode. Triggers {2} rounds cooldown.	在 {1} 模式下开火有 {0} 卡壳几率。触发 {2} 回合冷却。
+Drone Control System for remote-controlling the unit.	用于遥控该单位的无人机控制系统。
+Reduces Offensive Push Accuracy by {0}	攻势推进的精度降低 {0}
+{0} Long Tom damage	长汤姆炮伤害 {0}
+{0} Micro Missile damage	微型导弹伤害 {0}
+{0} resistance to ballistic attacks	对实弹攻击的抗性 {0}
+{0} resistance to non-melee handheld weapon attacks	对非近战手持武器攻击的抗性 {0}
+{0} damage taken at the installed location	在安装部位受到的伤害 {0}
+{0} recoil with ranged {1} weapons in the equipment location.	装备部位中 {1} 远程武器的后坐力 {0}。
+{0} accuracy with AC/10.	AC/10 精度 {0}。
+Shell seperates at {0} meters and does {1} damage below that range.	炮弹在 {0} 米处散开，低于该距离时造成 {1} 点伤害。
+{0} additional projectiles with LBX10.	LBX10 额外弹丸数 {0}。
+{0} additional projectiles with LBX20.	LBX20 额外弹丸数 {0}。
+{0} additional projectiles with HAG.	HAG 额外弹丸数 {0}。
+{0} direct fire accuracy with Long-Range Missiles.	远程导弹的直射精度 {0}。
+{0} direct fire accuracy with Multi-Missile Launcher.	多用途导弹发射器的直射精度 {0}。
+{0} melee stability damage.	近战稳定性伤害 {0}。
+{0} melee damage.	近战伤害 {0}。
+{0} additional base melee damage.	额外基础近战伤害 {0}。
+{0} additional melee heat damage.	额外近战热量伤害 {0}。
+{0} melee critical chance.	近战暴击几率 {0}。
+{0} Evasion pips from movement.	移动获得的闪避点数 {0}。
+{0} bonus walking distance if {1}.	满足 {1} 时，步行距离加成 {0}。
+{0} walking speed, increasing by {1} per {2} tons over {3} tons.	步行速度 {0}，超过 {3} 吨后每 {2} 吨增加 {1}。
+{0} Run Multiplier	冲刺倍率 {0}
+Twin Linked Capacitor: Improves Weapons Stats; Grants Doubled Rate of Fire or Accuracy; Incompatible with PPC Capacitor.	双联电容器：提升武器属性；射速或精度翻倍；与 PPC 电容器不兼容。
+{0} increased Hand-Held Weapon accuracy.	手持武器精度提升 {0}。
+Nova CEWS: Unit can participate in C3 Nova CEWS network	Nova CEWS：该单位可加入 C3 Nova CEWS 网络
+Nova CEWS generates 6 heat per turn.	Nova CEWS 每回合产生 6 点热量。
+Status effects last {0}.	状态效果持续 {0}。
+Reduces the Minimum range on Autocannons by {0}.	自动炮的最小射程降低 {0}。
+Each projectile has a {0}% crit chance, before modifiers.	每发弹丸有 {0}% 暴击几率（未计修正）。
+Increases Scattering by {0} minimum and {1} maximum per additional shot selected.	每多选一发，散射增加最小值 {0}、最大值 {1}。
+Reduces Accuracy by {0} per shot selected.	每多选一发，精度降低 {0}。
+Reduces Accuracy by {1} per shot selected, starting at {0}.	从 {0} 起每多选一发，精度降低 {1}。
+When this weapon Jams it can't be cleared for the rest of the battle.	该武器卡壳后，本场战斗内无法排除。
+Davy Crockett Tactical Nuclear Device: Causes massive damage in a large area.	戴维克罗克特战术核装置：在大范围内造成巨量伤害。
+Fires a thermobaric Thunderbolt missile.	发射一枚温压雷神锤导弹。
+Weapon Gains {0} increased Range, Damage, Heat Damage and Heat generated for every 10 Heat.	每 10 点热量，武器射程、伤害、热量伤害与产生热量各提升 {0}。
+Small Scale Battle Armor Ballistic weapon.	小型战斗装甲用实弹武器。
+Hyper Velocity Autocannons have extended range and crit chance; {0} chance of misfiring.	超高速自动炮拥有更远射程与更高暴击几率；有 {0} 几率走火。
+Long-Range Missiles fire a large salvo and can use multiple ammo types.	远程导弹一次齐射大量弹丸，并可使用多种弹药。
+Hyper Lasers deal superior damage and can be overcharged, but can explode when destroyed.	超频激光伤害极高且可超载，但被摧毁时可能爆炸。
+Overcharge mode deals +40 damage, +4 stability damage, 10 heat damage, 10 armor-piercing damage, and costs +30 heat.	超载模式造成 +40 伤害、+4 稳定性伤害、10 热量伤害、10 穿甲伤害，并额外消耗 30 热量。
+Mauler Lasers are highly unstable and can explode for 200 damage when destroyed.	重击者激光极不稳定，被摧毁时可能爆炸造成 200 点伤害。
+Downsized Naval Lasers has an alternate firing mode for short range engagements with greatly reduced performance.	缩小型舰炮激光另有近距离交战射击模式，但性能大幅下降。
+Web Guns spray a sticky substance that forms to a web on impact, lowering vision by {0}, reducing movement by {1} and worsening accuracy by {2}. Status effects last 3 turns & stack 2 times.	网枪喷射粘性物质，命中后结成网，视野降低 {0}、移动降低 {1}、精度降低 {2}。状态效果持续 3 回合，可叠加 2 次。
+Multishot Lasers fire a barrage of beams.	多发激光一次射出多道光束。
+Jury Rigged Silver Bullet Gauss Rifles can select between solid slug, cluster or scrap metal ammunition.	拼装银弹高斯步枪可在实心弹、集束弹或废铁弹之间切换。
+BFG 9000s fire a canister with {0} projectiles.	BFG 9000 发射装有 {0} 枚弹丸的霰弹罐。
+Prototype Ultra Autocannons fire 2 rounds.	原型超级自动炮每次射击 2 发。
+Rotary Howitzer has select-fire of 1-6 shots.	旋转榴弹炮可选 1-6 发连射。
+Rotary Weapon: Select-fire of 1-{0} shots.	旋转武器：可选 1-{0} 发连射。
+Superheavy Rotary Autocannons have select-fire of 3, 6 or 9 shots with increasing cooldown in both direct and indirect fire modes.	超重型旋转自动炮可选 3、6、9 发连射，直射与曲射模式下冷却均递增。
+Rotary Anti-personnel Large Bore Gauss Rifles have select-fire of 2, 4, 6, 8 shots. x6 and x8 modes have reduced accuracy.	旋转反人员大口径高斯步枪可选 2、4、6、8 发连射。x6 与 x8 模式精度降低。
+Prototype Streak Launcher makes one To-Hit roll and will either hit all or no missile.	原型集束发射器只做一次命中判定，要么全部命中要么全部落空。
+iATM Launchers have an inbuilt Streak system for direct fire, and can fire indirectly with Streak disabled. Streak Mode has no damage variance.	iATM 发射器直射时内置集束系统，关闭集束后可曲射。集束模式无伤害浮动。
+Micro Missile System fire a large Volley of Smart Missiles.	微型导弹系统一次齐射大量智能导弹。
+Target Lock Mode has {0} Evasion Ignore and {1} Accuracy. Fires as Streak.	锁定模式获得 {0} 闪避无视与 {1} 精度。以集束方式发射。
+Fire and Forget Mode fires {0} More Missiles with {1} extra Heat, but removes Accuracy and Evasion Ignore bonuses and disables Streak. Missiles roll to hit individually.	射后不管模式多发 {0} 枚导弹并额外产生 {1} 热量，但失去精度与闪避无视加成，且关闭集束。导弹逐枚判定命中。
+Heavy Medium Range Missile Launchers fire a volley of missiles, and can use different ammo types.	重型中程导弹发射器一次齐射多枚导弹，并可使用多种弹药。
+Short-barrelled Artillery featuring reduced weight and size, as well as reduced range.	短管火炮，重量与体积更小，射程也更短。
+Defiance AC: Increased range; Can jam.	迪法恩斯自动炮：射程提升；可能卡壳。
+Imperator AC: Can Rapid Fire; Can Misfire in Rapid Mode.	帝皇自动炮：可速射；速射模式下可能走火。
+Norse Storm Gauss Rifle: minor area-of-effect damage.	北欧风暴高斯步枪：附带轻微范围伤害。
+Defiance Gauss Rifle: Increased range; Increased heat.	迪法恩斯高斯步枪：射程提升；热量增加。
+Blackwell Gauss Rifle: Increased accuracy; Increased jam rate.	布莱克韦尔高斯步枪：精度提升；卡壳率增加。
+Delta LRM: resistance to AMS; has recoil.	德尔塔远程导弹：抗反导系统；有后坐力。
+Longfire LRM: Increased range; Increased heat.	长火远程导弹：射程提升；热量增加。
+Telos LRM: Increased accuracy; more vulnerable to AMS.	特洛斯远程导弹：精度提升；更易被反导系统拦截。
+Zeus LRM: Increased damage; can jam.	宙斯远程导弹：伤害提升；可能卡壳。
+Holly SRM: Increased accuracy; more vulnerable to AMS.	冬青短程导弹：精度提升；更易被反导系统拦截。
+Irian SRM: resistance to AMS; Increased recoil.	伊里安短程导弹：抗反导系统；后坐力增加。
+Exostar Laser: Increased accuracy; {0} Increased heat.	艾克索星激光：精度提升；热量增加 {0}。
+Provides Stealth Charges. Making unit harder to hit. Is Self Repairing.	提供隐匿充能，使单位更难被命中。可自我修复。
+Provides both Sensor and Mimetic Stealth when Activated. Making units harder to hit and detect. Use Components Menu to Toggle. Countered by Probes.	激活后同时提供传感器隐匿与拟态隐匿，使单位更难被命中与发现。用部件菜单开关。可被探针克制。
+Makes unit harder to hit. Can not be combined with Stealth Armors or other Mimetic Systems.	使单位更难被命中。不可与隐匿装甲或其它拟态系统并用。
+Aura buffs Allies's within {0} meters. Red Circle.	光环为 {0} 米内的友军提供增益。红色圈。
+Aura debuffs Enemy's within {0} meters. Red Circle.	光环为 {0} 米内的敌人施加减益。红色圈。
+{0} Accuracy debuff to Enemies in Aura Range.	光环范围内的敌人精度降低 {0}。
+{0} Defense buff to Allies in Aura Range.	光环范围内的友军防御提升 {0}。
+{0} Defense debuff to Enemies in Aura Range.	光环范围内的敌人防御降低 {0}。
+{0} chance to deal a critical hit for Company Units within {1} meters. Orange Circle.	{1} 米内的连队单位有 {0} 几率造成暴击。橙色圈。
+Item enables Sensor Lock ability.	该物品赋予传感器锁定能力。
+Requires a Nova CEWS (S) to be installed.	需要安装 Nova CEWS (S)。
+{0} Max Resolve.	最大决心 {0}。
+{0} Company Resolve Cost of MechWarrior Skills. Does not stack with itself. Does not count for other resolve cost stack limits.	机甲战士技能的连队决心消耗 {0}。不自叠加，也不计入其它决心消耗的叠加上限。
+{0} increased Company sensor range within {1} meters. Orange Circle.	{1} 米内连队传感器范围提升 {0}。橙色圈。
+{0} increased Company sight range within {1} meters. Orange Circle.	{1} 米内连队视野范围提升 {0}。橙色圈。
+{0} reduced sight range.	视野范围降低 {0}。
+{0} Company base sight distance in Aura range.	光环范围内连队基础视距 {0}。
+{0} Company base sight distance to all Allies.	对所有友军的连队基础视距 {0}。
+{0} Visibility per Hit. Stackable.	每次命中降低 {0} 视野。可叠加。
+{0} Sensor Signature per Hit. Stackable.	每次命中增加 {0} 传感器信号。可叠加。
+Goat-Fi: {0} Initiative for Company units in range.	Goat-Fi：范围内的连队单位先攻值 {0}。
+XenoQueen can communicate with other XenoMechs in a way similar to C3 network. All friendly units with Black Carapace receive multiple bonuses.	异种女王可以类似 C3 网络的方式与其它异种机甲通讯。所有装备黑甲壳的友方单位获得多项加成。
+Scrambles C3, C3i, and C3 Nova systems. Both friendly and enemy systems affected.	扰乱 C3、C3i 与 C3 Nova 系统。敌我双方均受影响。
+All units carrying affected C3 equipment are removed from the network and suffer -2 Resolve generation per round.	所有携带受影响 C3 装备的单位将被移出网络，且每回合决心生成 -2。
+Seraphim units can participate in a C3i network.	炽天使单位可加入 C3i 网络。
+Harder to Hit by {0} at Medium, {1} at Long and {2} at Extreme Ranges.	中距离更难被命中 {0}，远距离 {1}，极远距离 {2}。
+Use Components Menu to Toggle Item. All activatable bonuses apply only if pilot has Neural Implants.	用部件菜单开关该物品。所有可激活加成仅在机师植入神经接口时生效。
+Item has {0} Turns duration.	该物品持续 {0} 回合。
+{0} melee damage when not over heat threshold.	未超过热量阈值时，近战伤害 {0}。
+{0} melee stability damage when not over heat threshold.	未超过热量阈值时，近战稳定性伤害 {0}。
+{0} walk distance when not over heat threshold.	未超过热量阈值时，步行距离 {0}。
+Reduces melee damage significantly when over heat threshold.	超过热量阈值时，近战伤害大幅降低。
+Reduces melee stability damage when over heat threshold.	超过热量阈值时，近战稳定性伤害降低。
+Walk distance decreased when over heat threshold.	超过热量阈值时，步行距离降低。
+{0} increased PPC damage when active.	激活时 PPC 伤害提升 {0}。
+{0} PPC heat generation when active.	激活时 PPC 产生热量 {0}。
+Take pilot damage upon overheating, when active.	激活时，过热会造成机师伤害。
+When active, pilot takes injuries on structure damage taken.	激活时，受到结构伤害会导致机师受伤。
+{0} Initiative when active.	激活时先攻值 {0}。
+Increases Called Shot modifier by {0} when active.	激活时，瞄准射击修正提升 {0}。
+Enables Targeting the Head with Offensive Push when Active.	激活时，攻势推进可瞄准头部。
+{0} recoil with ranged weapons when active	激活时远程武器后坐力 {0}
+{0} damage taken when active	激活时受到的伤害 {0}
+{0} Stability damage taken when active	激活时受到的稳定性伤害 {0}
+This item may be manually detonated, dealing damage in an area around the unit.	该物品可手动引爆，对单位周围区域造成伤害。
+Overload AMS Deals {0} Dmg to missiles.	超载反导系统对导弹造成 {0} 点伤害。
+Munition has {0} HP per Missile.	每枚导弹的弹药有 {0} 点生命值。
+AMS can not intercept the missile, but will still fire..	反导系统无法拦截该导弹，但仍会开火。
+Can fire as a Large Laser.	可作为大型激光开火。
+Can fire as a Medium Laser.	可作为中型激光开火。
+Can fire as a Small Laser.	可作为小型激光开火。
+Overload: Advanced AMS Protects Teammates & Allies.	超载：高级反导系统可保护队友与友军。
+Fires at one missile volley per round.	每回合对一轮导弹齐射开火。
+Can fire at multiple missile volleys per round.	每回合可对多轮导弹齐射开火。
+Overload: Can fire at multiple missile volleys per round.	超载：每回合可对多轮导弹齐射开火。
+OL: {0} Missile intercept chance per shot.	超载：每发 {0} 导弹拦截几率。
+Overload: {0} Heat per activation in AMS mode.	超载：反导模式下每次激活产生 {0} 热量。
+Overload: + {0} AMS range.	超载：反导系统射程 + {0}。
+Heat generated by AMS decreased by {0}.	反导系统产生的热量降低 {0}。
+Accuracy improved by {0} for Anti-Missile Systems.	反导系统精度提升 {0}。
+Jam Chance reduced by {0} for Anti-Missile Systems.	反导系统卡壳几率降低 {0}。
+Range mode is {0} accuracy, {1} jam chance, and {2} range.	射程模式：精度 {0}、卡壳几率 {1}、射程 {2}。
+Damage mode is {0} damage, {1} accuracy, {2} heat, and {3} jam chance.	伤害模式：伤害 {0}、精度 {1}、热量 {2}、卡壳几率 {3}。
+{0} jam chance, but no way to deactivate other than jamming.	{0} 卡壳几率，但除卡壳外无法停用。
+Weapon Attachment will modify existing firing modes. If attachment is destroyed, the original modes will be used.	武器附件会改变现有的射击模式。若附件被摧毁，则使用原模式。
+Apollo MRM:<br>  +1 evasion pips ignored when firing in Apollo mode..<br>  +2 accuracy with this weapon when firing in Apollo mode.	阿波罗中程导弹：<br>  阿波罗模式下射击时无视闪避点数 +1。<br>  阿波罗模式下该武器精度 +2。
+Apollo Heavy MRM:<br>  Hits Group toward same location, affected by Grouping modifiers.<br>  +1 chance to Group on hit location when firing in Apollo mode.<br>  -2 damage per missile when firing in Apollo mode.	阿波罗重型中程导弹：<br>  命中会趋于集中到同一部位，受集束修正影响。<br>  阿波罗模式下命中部位集中几率 +1。<br>  阿波罗模式下每枚导弹伤害 -2。
+Clan MRM (Hunter-Killer):<br>  +3 evasion pips ignored when firing in Apollo mode.<br>  -1 damage dealt per missile when firing in Apollo mode.<br> -25% to all range brackets when firing in Apollo mode.	氏族中程导弹（猎杀者）：<br>  阿波罗模式下射击时无视闪避点数 +3。<br>  阿波罗模式下每枚导弹伤害 -1。<br>  阿波罗模式下所有射程档位 -25%。
+{0} indirect accuracy when firing with {1} ammunition.	使用 {1} 弹药射击时，曲射精度 {0}。
+Weapon can fire Indirectly in {0} mode.	武器可在 {0} 模式下曲射。
+{0} chance for misfire of attached weapon. Risk mitigated by Gunnery.	所附武器有 {0} 走火几率。可由射击技能减轻。
+{0} chance for jam per shot of attached weapon. Risk mitigated by Gunnery.	所附武器每发有 {0} 卡壳几率。可由射击技能减轻。
+Enables Grouping when firing with {0} ammunition.	使用 {0} 弹药射击时启用集束。
+{0} to all range brackets when firing with {1} ammunition.	使用 {1} 弹药射击时，所有射程档位 {0}。
+{0} recoil for {1} type weapons.	{1} 类武器后坐力 {0}。
+Not allowed in {0}.	不可安装于 {0}。
+{0} Evasion ignored with this ammo.	使用该弹药时无视闪避 {0}。
+Each shot fired from this ammunition bin increases the chance that the bin is permanently depleted after combat. This chance increases by {0} per ammo spent to a maximum of {1}.	从该弹药箱射出的每一发都会增加战后弹药箱永久耗尽的机会。每消耗一发提高 {0}，上限 {1}。
+This ammunition fires a cluster of projectiles; they roll to hit as a group.	该弹药发射集束弹丸，以整体进行命中判定。
+iNarc Launcher Ammo - {0} Shots	iNarc 发射器弹药 - {0} 发
+iATM EMP missiles have reduced range, equal to that of HE ammo.	iATM 电磁脉冲导弹射程缩短，与高爆弹相同。
+Improved MRM have active targeting: {0} more likely to be intercepted by AMS.	改进型中程导弹采用主动制导：被反导系统拦截的几率提高 {0}。
+Through Armor Damage (TAD) bypasses most Armor and damages Structure; this causes a critical hit check.	穿甲伤害（TAD）可越过大部分装甲直接损伤结构，并触发暴击判定。
+Maximum Armor value this weapon can TAC: {0}.	该武器可造成穿甲暴击的最大装甲值：{0}。
+{0} to Maximum Armor value this weapon can TAC.	该武器可造成穿甲暴击的最大装甲值 {0}。
+{0} chance to deal a Through Armor Critical Hit.	造成穿甲暴击的几率 {0}。
+{0} Shards Multiplier. Raises maximum TAC chance.	碎片倍率 {0}。提高最大穿甲暴击几率。
+{0} Shards Multiplier; Maximum TAC chance is minimum chance times Shards.	碎片倍率 {0}；最大穿甲暴击几率等于最小几率乘以碎片数。
+Chance of dealing a TAC increases from 0% to a maximum of {1} as target's armor drops below {2}.	当目标装甲低于 {2} 时，造成穿甲暴击的几率从 0% 提升至最高 {1}。
+{0} to Through Armor Damage (TAD) inflicted Multiplier.	穿甲伤害（TAD）倍率 {0}。
+This weapon is unable to pierce armor, it can never cause Through Armor Damage (TAD) or Criticals (TAC).	该武器无法穿透装甲，永远不会造成穿甲伤害（TAD）或穿甲暴击（TAC）。
++ {0} slots available.	可用槽位 + {0}。
+{0} slots reserved in all Legs.	所有腿部预留 {0} 个槽位。
+A Battle Royale is a 1v1v1v1v1v1 battle. There are special rewards for winning 6 Battle Royales. This is seperate from Solaris7 Matches	大逃杀是 1v1v1v1v1v1 的混战。赢得 6 场大逃杀可获得特殊奖励。与 Solaris7 比赛互不相干。
+A typical liquid Storage, can carry anything from pesticides to fire retardant foam. Comes in various sizes and have no combat impact.	典型的液体储存罐，可装运从农药到阻燃泡沫的各种液体。规格多样，对战斗无影响。
+Construction materials used for Argo upgrades	用于阿尔戈号升级的建筑材料
+Battle Armor Partial Wings can not be used with Jump Boosters.	战斗装甲部分翼不可与跳跃助推器并用。
+Lack of Battle Armor manipulators prevents mounting on other units (unless Magnetic Clamps are used) and swarm attacks.	缺少战斗装甲机械臂，无法搭载于其它单位（除非使用磁力夹），也无法进行蚁附攻击。
+Battle Armor Stealth. Making units harder to hit and detect. Countered by Probes.	战斗装甲隐匿。使单位更难被命中与发现。可被探针克制。
+Battle Armor Mimetic Stealth. Making units harder to hit and detect. Countered by Probes.	战斗装甲拟态隐匿。使单位更难被命中与发现。可被探针克制。
+Pilot takes injuries on structure damage taken	受到结构伤害时机师受伤
+Provides {0} hex ({1} meters) VTOL-mode movement. Unit can not sprint.	提供 {0} 格（{1} 米）垂直起降模式移动力。单位无法冲刺。
+Battle Armor Myomer Boosters increases movement, but makes the unit's signature more visible and can not be combined with any stealth technologies.	战斗装甲肌束助推器可提升移动力，但会使单位信号更易被侦测，且不可与任何隐匿技术并用。
+VTOL BattleArmor can change between Trooper and VTOL Mode. Deploys in VTOL. Each mode has a separate motive system, and can only be switched before moving.	垂直起降战斗装甲可在步兵模式与垂直起降模式间切换。以垂直起降模式部署。两种模式各有独立的动力系统，且只能在移动前切换。
+Allows transforming a Battle Armor to VTOL mode. Replaces movement statistics of Ground Motive System.	允许战斗装甲切换为垂直起降模式。替换地面动力系统的移动数据。
+Rider BattleArmor can change between Trooper and Bike Mode. Deploys in Bike. Each mode has a separate motive system, and can only be switched before moving.	骑乘战斗装甲可在步兵模式与摩托模式间切换。以摩托模式部署。两种模式各有独立的动力系统，且只能在移动前切换。
+While in Bike-mode: Enables sprinting. +350% sprint speed.	摩托模式下：可冲刺。冲刺速度 +350%。
+Can only be used on Battle Armor.	仅可用于战斗装甲。
+{0} modifier to Physical Weapon Damage.	实体武器伤害修正 {0}。
+{0} modifier to Physical Weapon Stability Damage.	实体武器稳定性伤害修正 {0}。
+{0} modifier to Physical Weapon Damage when Activated.	激活时实体武器伤害修正 {0}。
+{0} modifier to Physical Weapon Stability Damage when Activated.	激活时实体武器稳定性伤害修正 {0}。
+{0} modifier to Punch Attack Damage.	拳击攻击伤害修正 {0}。
+{0} modifier to Punch Attack Stability Damage.	拳击攻击稳定性伤害修正 {0}。
+{0} modifier to Kick Attack Damage.	踢击攻击伤害修正 {0}。
+{0} modifier to Charge Attack Damage.	冲锋攻击伤害修正 {0}。
+{0} modifier to Charge Attack StabilityDamage.	冲锋攻击稳定性伤害修正 {0}。
+{0} modifier to Charge Attack Self Damage.	冲锋攻击自身伤害修正 {0}。
+{0} modifier to Charge Attack Stability Self Damage.	冲锋攻击自身稳定性伤害修正 {0}。
+Enemy units within {0} sink {1} less heat per turn.	{0} 米内的敌方单位每回合少散 {1} 点热量。
+Pressurized Nitro can explode for {0} heat, damage and stability damage.	加压硝基可能爆炸，造成 {0} 点热量、伤害与稳定性伤害。
+{0} efficiency of heat sinks.	散热器效率 {0}。
+{0} efficiency of heat sinks when Active.	激活时散热器效率 {0}。
+{0} laser heat generation.	激光产生热量 {0}。
+Removes base heat generation for ground movement. Heat can still be generated by special or damaged components.	移除地面移动的基础热量产生。特殊或受损部件仍可能产生热量。
+Each critical strike taken lowers the cooling by {0}	每次受到暴击使冷却降低 {0}
+LAM Wings provide {0} Jump Capacity, Generate {1} Heat, but reduce ground speed by {2} and requires {3} Slots PER Side Torso.	LAM 机翼提供 {0} 跳跃能力，产生 {1} 热量，但地面速度降低 {2}，且每侧躯干各需 {3} 个槽位。
+Cannot be used with JumpJets.	不可与跳跃喷射器并用。
+Bomber: This LAM is not affected by Drag from Wing Mounted weapons.	轰炸型：该 LAM 不受翼挂武器阻力的影响。
+BattleArmor Bay requires {0} Ton Carry Weight.	战斗装甲舱需要 {0} 吨载重。
+{0} increased PPC damage.	PPC 伤害提升 {0}。
+{0} PPC heat generation.	PPC 产生热量 {0}。
+PPC scrambles target accuracy by {0}.	PPC 使目标精度受到 {0} 的扰乱。
+EMP increases enemy recoil penalty by {0}.	电磁脉冲使敌方后坐力惩罚增加 {0}。
+{0} extra flamer and plasma heat damage.	喷火器与等离子额外热量伤害 {0}。
+{0} extra flamer and plasma range.	喷火器与等离子额外射程 {0}。
+Weapon does not fire in melee.	该武器在近战中不会开火。
+{0} Bleed Modifier - Changes Bleeding Out speed.	流血修正 {0} —— 改变濒死流失速度。
+{0} Bleed Modifier in {1} Aura Range.	{1} 光环范围内流血修正 {0}。
+{0} Bleed Modifier to all enemies in {1} Aura Range for {2} turns. Does not stack. Bloodcolored Aura.	{1} 光环范围内的所有敌人获得 {0} 流血修正，持续 {2} 回合。不叠加。血色光圈。
+{0} Bleed Modifier for all Company units. Does not stack.	所有连队单位流血修正 {0}。不叠加。
+Stability damage to self reduced by Piloting and Unit Tonnage. Further reduced by -100 if braced during the prior round, moving before firing cancels this reduction.	自身稳定性伤害受驾驶技能与单位吨位减免。若上一回合处于戒备姿态，再额外降低 100；开火前移动会取消该减免。
+{0} Stability damage to self starting at {1} shots, with an additional {2} per shot thereafter.	自身稳定性伤害 {0}，从第 {1} 发起算，此后每发再增加 {2}。
+{0} increased stability damage to self when firing large weapons.	发射大型武器时自身稳定性伤害增加 {0}。
+Amount of Head Armor on Superheavy Mechs is doubled.	超重型机甲的头部装甲值翻倍。
+Doubles the weight of the gyro to handle the increased strain.	陀螺仪重量翻倍，以承受增加的负荷。
+Due to its size, superheavy 'Mechs ignore movement penalties in forest, rough or rubble terrains, but does also not benefit from roads.	由于体型原因，超重型机甲无视森林、崎岖或瓦砾地形的移动惩罚，但同样无法享受道路加成。
+{0} structure weight change (1/5 Chassis weight)	结构重量变化 {0}（底盘重量的 1/5）
+Spawn a Xeno Swarm unit.  This unit is an AI controlled ally. Range {0}. {1} uses per battle	召唤一支异种群单位。该单位是由 AI 控制的友军。范围 {0}。每场战斗 {1} 次。
+Can only be mounted on {0} Mechs.	只能安装在 {0} 机甲上。
+All enemies within {0}m suffer {1} penalty to panic rolls. {2} chance to fail on activation and {3} chance to fail per round active.	{0} 米内的所有敌人恐慌判定受到 {1} 惩罚。激活时有 {2} 几率失效，激活后每回合有 {3} 几率失效。
+Curse: Causes all enemies to have a chance to fall over after moving.	诅咒：使所有敌人在移动后有可能摔倒。
+Only allowed in {0}.	仅允许安装于 {0}。
+Can't be used with any other type of advanced missile guidance, including Targeting Computers, Streak, Artemis, Apollo, Aphrodite or ArrowIV.	不可与任何其它先进导弹制导方式并用，包括瞄准计算机、集束、阿尔忒弥斯、阿波罗、阿佛洛狄忒或 ArrowIV。
+Enables Artmis IV firing mode in all compatible launchers.	在所有兼容发射器中启用阿尔忒弥斯 IV 射击模式。
+Enables Artmis IV firing mode in all compatible SRM launchers.	在所有兼容短程导弹发射器中启用阿尔忒弥斯 IV 射击模式。
+Enables Apollo firing mode in all compatible MRM launchers.	在所有兼容中程导弹发射器中启用阿波罗射击模式。
+Structure Modification: Must be installed in Center Torso. Max 1 Per Unit.	结构改造：必须安装在中央躯干。每单位最多 1 个。
+Armored: Adds one extra hit to every critical hit slot. Increases weight by 0.5 ton per slot.	装甲化：每个暴击槽位额外增加一次命中。每个槽位增重 0.5 吨。
+Armored: Adds one extra critical hit before destruction. Increases weight by 1 ton.	装甲化：被摧毁前额外承受一次暴击。增重 1 吨。
+Unit can only be piloted by {0}	该单位只能由 {0} 驾驶
+Overload mode: Fires a superheated gauss shot, dealing +100 damage. Has a 50% chance to misfire damaging itself - Mitigated by Gunnery & Jam Modifiers	超载模式：发射过热高斯弹，造成 +100 伤害。有 50% 几率走火并伤及自身 — 受射击技能与卡壳修正减轻
+Can not be used in combination with {0}	不可与 {0} 并用
+Moves Life Support equipment to side torsos.	将生命维持设备移至侧躯干。
+Provides all allies with a modifier of {0} to Tactics: Can raise skills over 10, Max +2 from most sources.	为所有友军提供战术技能修正 {0}：可使技能超过 10 级，多数来源最多 +2。
+Rotary TAG: fires {0} TAG beams simultaneously. Grants {1} to sensor checks on hit, decaying by -1 for each hex the target moved. Does not stack.	旋转目标指示器：同时发射 {0} 道指示光束。命中时传感器检定获得 {1}，目标每移动一格递减 -1。不叠加。
+Micro NARC Beacons grant visibility on target. Counters ECM up to {0}; Stacks 10 times.	微型 NARC 信标为目标提供可见性。可对抗最高 {0} 的电子对抗；可叠加 10 次。
+NARC ECM Pods apply {0} ECM Jamming. Does not Stack. 3 Turns Duration.	NARC 电子对抗吊舱施加 {0} 电子干扰。不叠加。持续 3 回合。
+iNARC Beacons grant more detailed information on a target. {0} detailed information modifier.	iNARC 信标提供目标的更详细信息。详细信息修正 {0}。
+iNarc ECM Pods apply {0} ECM Jamming. Does not Stack. 3 Turns Duration.	iNarc 电子对抗吊舱施加 {0} 电子干扰。不叠加。持续 3 回合。
+ProtoMech Jump systems provide {0} Hex Jump Capacity. Can't perform DFA attacks.	原型机甲跳跃系统提供 {0} 格跳跃能力。无法进行死从天降攻击。
+Represents ProtoMech 'Frenzy' attack that combines a punch, a kick and anything else the ProtoMech can muster.	代表原型机甲的"狂暴"攻击，将拳击、踢击以及原型机甲能使出的一切手段结合在一起。
+ProtoMech only weapon. Has 3 tubes with advanced guidance and Streak system. Uses fusillade iATM ammo and has only 1 reload.	原型机甲专用武器。拥有 3 个发射管，配备先进制导与集束系统。使用齐射 iATM 弹药，仅可装填 1 次。
+This ProtoMech is equipped with Electric Discharge ProtoMech Armor, which adds Mech Taser-like effect to frenzy attacks with cooldown of 6 turns.	该原型机甲装备了放电型原型机甲装甲，使狂暴攻击附带类似机甲电击枪的效果，冷却 6 回合。
+WiGE ProtoMech can change between 'Mech and Flight Mode. Deploys in Flight.	地效原型机甲可在机甲模式与飞行模式间切换。以飞行模式部署。
+WiGE ProtoMech in Flight is unaffected by Ground Effects and Minefields.	飞行中的地效原型机甲不受地面效果与雷区影响。
+WiGE mode provides {0} Max Evasion, and {1} Evasion Pips gained from movement	地效模式提供 {0} 最大闪避，移动获得 {1} 闪避点数
+This ProtoMech can mount any unit in similar fashion to Battle Armor.	该原型机甲可以类似战斗装甲的方式搭载任何单位。
+ProtoQuads use quadrupedal movement instead of the standard biped of standard ProtoMechs. This allows heavier loadouts and utilizing specialized equipment such as the Quad Melee Weapon System.	原型四足机甲采用四足移动方式，而非标准原型机甲的双足。这可承载更重的配置，并使用四足近战武器系统等专用装备。
+Stability Mode:	稳定模式：
+{0} Decreased Walk  & Jump Distance	步行与跳跃距离降低 {0}
+{0} Increased Unsteady Threshold	不稳定阈值提高 {0}
+{0} Reduced Incoming Stability Damage	受到的稳定性伤害降低 {0}
+Fast Mode :	快速模式：
+{0} Reduced Unsteady Threshold	不稳定阈值降低 {0}
+{0} Increased Sprint Speed	冲刺速度提升 {0}
+Shaped Charge Mode: Missile deals extreme damage but has a harder time establishing a lock.	破甲弹模式：导弹造成极高伤害，但更难建立锁定。
+Airburst Mode: Missile explodes near the target, dealing less direct damage but making targeting much easier.	空爆模式：导弹在目标附近爆炸，直接伤害较低，但瞄准容易得多。
+SupraLaser are able to Switch between Extra Damage or Ranged Modes at 33% Increased Heat.	超级激光可在额外伤害模式与远程模式间切换，热量增加 33%。
+Chassis has OmniSlots.	底盘拥有全向槽位。
+Hand Held Weapon are individually Armored and cannot be destroyed.	手持武器各自具备装甲，无法被摧毁。
+Hand Held Weapon adds {0} armor to CT.	手持武器为中央躯干增加 {0} 点装甲。
+Experimental Targeting Computer: Allows to use Battle Computer Upgrades.	实验性瞄准计算机：允许使用战斗计算机升级。
+Intimidating units strike fear into their Enemies and makes them {0} more likely to panic in {1} radius; Lime Green Aura.	威吓单位令敌人心生畏惧，使 {1} 半径内的敌人恐慌几率提高 {0}；黄绿色光圈。
+Passive Mode: installed arm and adjacent side torso gain {0} damage reduction and {1} AP damage and TAC reduction. {2} accuracy penalty in protected locations.	被动模式：安装手臂与相邻侧躯干获得 {0} 伤害减免与 {1} 穿甲伤害及穿甲暴击减免。受保护部位的精度惩罚 {2}。
+Active Mode: provides {0} damage reduction and {1} AP damage and TAC reduction to installed arm, adjacent side torso, center torso and head. Grants BULWARK, increasing damage reduction from GUARDED to 20%. Disables weapons in protected locations. Mech cannot run. Disables punching with installed arm. All attacks suffer {2} accuracy penalty.	主动模式：为安装手臂、相邻侧躯干、中央躯干与头部提供 {0} 伤害减免与 {1} 穿甲伤害及穿甲暴击减免。赋予"壁垒"，使"戒备"的伤害减免提升至 20%。禁用受保护部位的武器。机甲无法冲刺。禁用安装手臂的拳击。所有攻击承受 {2} 精度惩罚。
+Passive Mode: installed arm and adjacent side torso gain {0} damage reduction and immunity to AP damage and TACs. {1} accuracy penalty in protected locations. Walk Distance reduced by {2}.	被动模式：安装手臂与相邻侧躯干获得 {0} 伤害减免，并免疫穿甲伤害与穿甲暴击。受保护部位的精度惩罚 {1}。步行距离降低 {2}。
+Active Mode: provides {0} damage reduction and immunity to AP damage and TACs, to all locations except opposite arm. Grants BULWARK, increasing damage reduction from GUARDED to 20%. Disables weapons in protected locations. Mech cannot run. Walk Distance reduced by {2}. Disables punching with installed arm. All attacks suffer {1} accuracy penalty.	主动模式：为除对侧手臂外的所有部位提供 {0} 伤害减免，并免疫穿甲伤害与穿甲暴击。赋予"壁垒"，使"戒备"的伤害减免提升至 20%。禁用受保护部位的武器。机甲无法冲刺。步行距离降低 {2}。禁用安装手臂的拳击。所有攻击承受 {1} 精度惩罚。
+This unit is a squad of {0} 'Mechs.	该单位是由 {0} 台机甲组成的小队。
+Allows a 'Mech Squad to carry a weapon larger than would be possible on an individual squad member.	允许机甲小队携带比单个队员所能携带的更大武器。
+Deploys a unit under AI control. Hold Shift while placing the unit to select from available options.	部署一个由 AI 控制的单位。放置时按住 Shift 可从可用选项中挑选。
+Base Deploy Cost: {0} cbills.	基础部署费用：{0} 星币。
+This item can be used an unlimited number of times.	该物品可使用无限次。
+{0} heat per turn when passive.	被动时每回合产生 {0} 热量。
+MGLs launch high explosive rounds that are immune to AMS.	MGL 发射的高爆弹不受反导系统拦截。
+Hyper PPCs have three range modes. Each range mode fires fewer shots but deals more damage.	超级 PPC 有三种射程模式。射程模式越远，发射数量越少但伤害越高。
+Siege Lasers use less heat and deal less damage the more the wielder moves. Base stats shown at 0-1 Evasion.	围攻激光在搭载者移动越多时热量越低、伤害也越低。显示的是 0-1 闪避时的基础数据。
+Advanced engine technology increases jump distance by {0}.	先进引擎技术使跳跃距离提升 {0}。
+Plasmo-Electric coolant systems gains an increasing risk to explode from lattice failure from {0} Heat. Returning below the safe heat level of {1} removes the risk.	等离子电冷却系统从 {0} 热量起，因晶格失效而爆炸的风险递增。降至 {1} 的安全热量以下即可解除风险。
+Converts the 'Mech to use Plasmo-Electric Heat Sinks.	将该机甲改装为使用等离子电散热器。
+{0} to Bay Weapons accuracy.	舱载武器精度 {0}。
+{0} full speed distance.	全速距离 {0}。
+AirShips are very slow but heavily armed Aerial Units.	飞艇是速度极慢但火力强大的空中单位。
+Critical hits on the Crew decrease maximum Evasive Pips or destroy the vehicle.	对乘员的暴击会降低最大闪避点数，或直接摧毁该载具。
+Vehicles with open cargo space can be externally mounted by Battle Armors.	具有开放式货舱的载具可被战斗装甲外部搭乘。
+{0} heat generated per shot by attached weapon.	所附武器每发产生热量 {0}。
+{0} damage per shot by attached weapon.	所附武器每发伤害 {0}。
+{0} heat damage by attached weapon.	所附武器热量伤害 {0}。
+{0} stability damage by attached weapon.	所附武器稳定性伤害 {0}。
+{0} shots per activation of the attached weapon.	所附武器每次激活射击 {0} 发。
+Maxell Laser: ignore 1 Evasion; Increased heat.	马克塞尔激光：无视 1 点闪避；热量增加。
+Intek Laser: Reduced heat and damage; Increased range.	因泰克激光：热量与伤害降低；射程提升。
+Raker Laser: Increased accuracy and heat	雷克激光：精度与热量提升
+Magna Laser: {0} Increased damage and heat.	麦格纳激光：伤害与热量提升 {0}。
+BlazeFire Laser: Increased damage; chance to jam.	烈焰激光：伤害提升；可能卡壳。
+Blankenburg Laser: Increased crit chance; variable damage.	布兰肯堡激光：暴击率提升；伤害浮动。
+Thunderbolt Laser: reduced weight; Increased size.	雷神锤激光：重量降低；体积增大。
+Tiegart PPC: Compact size; Increased recoil.	蒂加特 PPC：体积紧凑；后坐力增加。
+Magna PPC: Reduced weight; Increased recoil, Increased heat.	麦格纳 PPC：重量降低；后坐力与热量增加。
+Rotary Gauss Rifle: select-fire of 1-6 shots; also has an additional mode.	旋转高斯步枪：可选 1-6 发连射；另有额外模式。
+Sniper Mode: Weapon has a more accurate, longer range firing mode that deals {0} damage to the target and {1} stability damage to self.	狙击模式：武器拥有更精准、射程更远的射击模式，对目标造成 {0} 伤害，自身承受 {1} 稳定性伤害。
+Railgun has {0} firing modes, switching between range and damage profiles. 	电磁炮有 {0} 种射击模式，在射程与伤害配置间切换。
+Helical Railguns can be switched between multi-shot and long range mode.	螺旋电磁炮可在多发模式与远程模式间切换。
+ProtoMechs fill a niche between Power Armor and BattleMechs. Their specialized weapons can also be equipped on conventional units.	原型机甲填补了动力装甲与战斗机甲之间的空白。其专用武器也可装备于常规单位。
+Ion Cannon {0} Mode: {1} AoE Damage, {2} AoE Heat in {3} radius from impact. Jam Chance: {4} - mitigated by Gunnery	离子炮 {0} 模式：落点 {3} 半径内造成 {1} 范围伤害、{2} 范围热量。卡壳几率：{4} — 受射击技能减轻
+Rotary LRM {0} Mode:  Missiles: {1}  |  Heat Generated: {2}  |  Jam Chance: {3}	旋转远程导弹 {0} 模式：导弹数：{1}  |  产生热量：{2}  |  卡壳几率：{3}
+Rotary LRM {0} Mode:\n\n  Missiles: {1}  |  Heat Generated: {2}\n\n  Accuracy Modifier: {3}  |  Jam Chance: {4} - Gunnery mitigates	旋转远程导弹 {0} 模式：\n\n  导弹数：{1}  |  产生热量：{2}\n\n  精度修正：{3}  |  卡壳几率：{4} — 受射击技能减轻
+The Supra Soaker has a fire rate of 1 to 4, Jam Rate Massively Increases above 1 Shot	超级吸水者的射速为 1 至 4，超过 1 发后卡壳率大幅上升
+Carronade battery: Can fire {0} to {1} shots in barrage. Each shot after the first has a {2} chance of misfire.	卡隆炮组：可齐射 {0} 至 {1} 发。第一发之后的每一发都有 {2} 走火几率。
+Jumbo Machine guns can be set to fire between 1 and 5 shots or shotgun mode, but have recoil and can jam.	巨型机枪可设为 1 至 5 发连射或霰弹模式，但存在后坐力且可能卡壳。
+Can fire in Shotgun Mode, firing a large amount of shots together, but is guaranteed to jam.	可在霰弹模式下开火，一次射出大量弹丸，但必定卡壳。
+Blocks other weapons in {0} until ejected.	在弹出前，阻挡 {0} 中的其它武器。
+Industrial Equipment is designed to be used for industrial and commerical tasks, but can be used for combat in emergencies. Can only be used on Industrial Mechs.	工业设备本为工业与商业作业设计，但紧急时也可用于战斗。仅可用于工业机甲。
+Industrial Weapons are designed to be used for industrial and commerical tasks, but can be used for combat in emergencies.	工业武器本为工业与商业作业设计，但紧急时也可用于战斗。
+Rivet Guns have -1 accuracy up to 45 meters and -3 accuracy beyond that.	铆钉枪在 45 米内精度 -1，超出该距离精度 -3。
+Ammo increased Heat Generated by {0} 	弹药使产生的热量增加 {0}
