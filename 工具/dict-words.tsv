@@ -640,3 +640,48 @@ Copy, Darius.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayNa
 Follow your instincts, {MC.PlayerLances.TeamPilot_Random_1.DisplayName}.  Keep the pressure on, stay alert on our rear, and don't overextend.	跟着直觉走，{MC.PlayerLances.TeamPilot_Random_1.DisplayName}。保持压力，留意后方，别过度推进。
 I don't see any movement down here Darius... {MC.PlayerLances.TeamPilot_Random_1.DisplayName} send the ping. Everyone else, on your guard.	我在这下面没看到任何动静，达吕斯……{MC.PlayerLances.TeamPilot_Random_1.DisplayName} 发个脉冲。其他人保持警戒。
 My <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.UnitName}</b></color>'s standing by.  We'll hold Bravo relay control.	我的 <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.UnitName}</b></color> 已待命。我们会守住 Bravo 中继控制点。
+ Alright, Pillow. We'll observe the convoy and see what we're dealing with. But we can't afford any mistakes this time.	好吧，枕头。我们观察车队，看看面对的是什么。但这次不能再出任何差错。
+ Commander {COMMANDER.LastName} Cameras are rolling lets do this!	{COMMANDER.LastName} 指挥官，摄影机开拍了，开始吧！
+ Commander {COMMANDER.LastName} cameras are rolling let's do this!	{COMMANDER.LastName} 指挥官，摄影机开拍了，开始吧！
+ Commander {COMMANDER.LastName} cameras are rolling, let's do this!	{COMMANDER.LastName} 指挥官，摄影机开拍了，开始吧！
+ Commander {COMMANDER.LastName} this is CHAOS! The people will love the footage!	{COMMANDER.LastName} 指挥官，这里是混沌频道！民众会喜欢这段画面的！
+ Commander {COMMANDER.LastName} we have noticed cameras all around the area!	{COMMANDER.LastName} 指挥官，我们注意到区域四周到处都是摄影机！
+ Commander {COMMANDER.LastName} we're rolling film here, give us a show!	{COMMANDER.LastName} 指挥官，我们这边正在拍摄，给我们来场好戏！
+ Commander {COMMANDER.LastName} will make you suffer, as you made my planet suffer!	{COMMANDER.LastName} 指挥官会让你受苦，就像你让我的星球受苦一样！
+ Commander {COMMANDER.LastName} will make you suffer, as you made this planet suffer!	{COMMANDER.LastName} 指挥官会让你受苦，就像你让这颗星球受苦一样！
+ Commander {COMMANDER.LastName}, This is CHAOS. Our viewers are gonna love this!	{COMMANDER.LastName} 指挥官，这里是混沌频道。我们的观众会爱死这个的！
+ Commander {COMMANDER.LastName}, cameras are rolling. Let's get this done!	{COMMANDER.LastName} 指挥官，摄影机开拍了。把这事了结吧！
+ Commander {COMMANDER.LastName}, don't get distracted. You can do this and the people will love you for it!	{COMMANDER.LastName} 指挥官，别分心。你能做到，民众会因此爱戴你！
+ Commander {COMMANDER.LastName}, lights are on and the cameras are rolling. Don't disappoint our sponsors and we won't disappoint you!	{COMMANDER.LastName} 指挥官，灯光已就位，摄影机开拍了。别让我们的赞助商失望，我们也不会让你失望！
+ Commander {COMMANDER.LastName}, our viewers are losing their minds! Don't back down!	{COMMANDER.LastName} 指挥官，我们的观众都疯了！别退缩！
+ Commander, I'm picking up something concerning. It appears that our designs have been stolen and are being used by the enemy.	指挥官，我发现了令人担忧的情况。看来我们的设计被窃取，正被敌人使用。
+ No, no, no! How could this happen? My design, stolen! We've failed the mission, and they've taken my hard work for their own gain. This is a disaster!	不不不！这怎么可能？我的设计被偷了！任务失败了，他们把我的心血拿去谋私利。这是一场灾难！
+ Well, we should be prepared for anything. Let's make sure our mechs are loaded up with a variety of weapons.	总之，我们得做好万全准备。确保机甲装载了多样化的武器。
+'Tis cold 'n snowin. A fittin' grave fer our enemies.	天寒地冻，还下着雪。给我们的敌人当坟墓正合适。
+'Tis where we last saw that traitor, Jimmy. Get 'im.	我们最后一次见到那个叛徒吉米就是这儿。抓住他。
+*STATIC* -ell, this round is yours. Fight on for us Commander! *COUGH* Until next time.	*电流声* ……好吧，这一局算你赢。为我们继续战斗吧，指挥官！*咳嗽* 下次再会。
+*static* -ell, this round is yours. *cough* Until next time.	*电流声* ……好吧，这一局算你赢。*咳嗽* 下次再会。
+*static* Major, this is <i>Chu-i</i> Tetsuhara. My deepest apologies; we are overcome.	*电流声* 少校，这里是<i>中尉</i>铁原。万分抱歉；我们被击溃了。
+////Attrition has claimed the last of my combat drones, Commander. From this point on, your lance is on its own.////	////消耗战夺走了我最后一架战斗无人机，指挥官。从现在起，你的小队只能靠自己了。////
+////Be advised: my combat drones have left the AO. Your lance is on its own.////	////提醒：我的战斗无人机已离开作战区域。你的小队只能靠自己了。////
+////Captain Magorian has been safely recovered, Commander {COMMANDER.LastName}. It is in my nature to fulfill my promises.////	////马戈里安上尉已安全回收，{COMMANDER.LastName} 指挥官。履行承诺是我的本性。////
+////I am ordering my drones to withdraw, Commander.////	////我正在命令我的无人机撤退，指挥官。////
+////My drones are online and ready to assist you, Commander. They will divide the enemy and provide you with fire support.////	////我的无人机已上线，随时助战，指挥官。它们会分割敌军并为你提供火力支援。////
+////My drones have already engaged the Baumann Group's armory, Mr. Oliveira. It is in my nature to fulfill my promises.////	////我的无人机已经攻击了鲍曼集团的军械库，奥利维拉先生。履行承诺是我的本性。////
+////My drones have been eliminated, Commander. I cannot assist you any further on this combat drop.////	////我的无人机已被摧毁，指挥官。这次战斗投放我无法再提供协助了。////
+////Negative, Mr. Oliveira. She is almost certainly on her way to obliterate the spaceport.////	////不行，奥利维拉先生。她几乎可以肯定正前往摧毁太空港。////
+////One of my combat drones is down, Commander. I will attempt to push back the enemy with the remainder.////	////我有战斗无人机被击落了，指挥官。我会用剩下的无人机尝试逼退敌人。////
+////Our cause is lost, Commander. I advise you to salvage what you can and go.////	////我们的事业已失败，指挥官。我建议你能回收多少就回收多少，然后撤离。////
+////Our mission has failed, Commander. Salvage what you can and go. I will seek out the information I need on my own.////	////我们的任务失败了，指挥官。能回收多少就回收多少，然后走吧。我会独自去寻找我需要的情报。////
+////Pick up the pieces of your lance and go, Commander. Our mission has failed.////	////收拾你小队的残部撤离吧，指挥官。我们的任务失败了。////
+////The OpFor has eliminated one of my combat drones. I will attempt to hold out with the remainder.////	////敌军摧毁了我一架战斗无人机。我会用剩下的尝试坚守。////
+////These are the last of my combat drones. May they serve you well in the battle to come.////	////这是我最后的战斗无人机了。愿它们在接下来的战斗中助你一臂之力。////
+////Yes, Chief Virtanen. My combat drones are en route to Captain Magorian's location. So long as you keep the garrison occupied, I don't foresee any difficulty.////	////是的，维尔塔宁总管。我的战斗无人机正前往马戈里安上尉的位置。只要你们牵制住守军，我看不出会有什么困难。////
+<i>Argo</i>, this is <i>Gungnir</i> Actual. We have confirmation of target lock. Preparing to fire main gun.	<i>阿尔戈号</i>，这里是<i>钢鬃号</i>实机。已确认目标锁定。准备发射主炮。
+<i>Gungnir</i>, this is <i>Argo</i> Actual. Fire when ready. Commander, get our people clear.	<i>钢鬃号</i>，这里是<i>阿尔戈号</i>实机。准备好就开火。指挥官，让我们的人撤开。
+<i>NO!</i> Do <i>not</i> let it through! Commander, I suspect the signal contains some kind of virus that caused the facility to go offline.	<i>不！</i>千万别让它通过！指挥官，我怀疑这个信号含有某种病毒，导致设施断线。
+<i>You're</i> the one who betrayed <i>us</i>, asshole! You gave us bad intel on purpose!	是你<i>背叛</i>了<i>我们</i>，混蛋！你故意给了我们假情报！
+A Fortress protecting a Fortress. What is that Rogue AI doing that they need to protect it?	用堡垒来保护堡垒。那个失控 AI 到底在干什么，竟需要保护它？
+A Leopard is on station to pick you up.	一架豹式已就位接你。
+A dump with point-defense turrets. This Garrilac guy must really like drinking in peace.	一处带定点防御炮塔的垃圾场。这个加里拉克肯定很喜欢安静地喝酒。
+A fight fit for a King. \r\nOr at least a Clan Khan.	配得上国王的一战。\r\n至少配得上氏族可汗。
