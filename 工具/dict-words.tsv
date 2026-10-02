@@ -263,3 +263,61 @@ Holy cow what a surprise it's a {TEAM_TAR_ALLY.FactionDef.Demonym} lance! A surp
 Good hunting, Commander.	狩猎愉快，指挥官。
 Get them to safety, keep them intact, and get out there when it's done.	把他们送到安全地带，保证完好无损，完事后就撤出去。
 Game Over. Good shooting.	游戏结束。枪法不错。
+We're in position! All engineers have disembarked from the Personal carriers. The APCs will scatter and support you, keep the Turrets	我们已就位！所有工程师都已从运兵车上下车。装甲运兵车会散开支援你，盯住那些炮塔
+We are the champions!	我们是冠军！
+This should not be used in this Flashpoint.	此闪点任务中不应使用。
+They've got multiple units protecting this facility. Be careful not to get caught in an ambush.	他们有多个单位守卫这座设施。小心别中了埋伏。
+They've got multiple units protecting this facility, careful not to get caught in an ambush.	他们有多个单位守卫这座设施，小心别中了埋伏。
+The Hostile to All {TEAM_HOST.FactionDef.Demonym} lance has arrived! This is the Secondary Version.	与所有势力为敌的 {TEAM_HOST.FactionDef.Demonym} 小队已抵达！（次要版本）
+That's what we're here for. Don't worry; we'll watch your six.	这正是我们来的目的。别担心；我们会看着你的背后。
+Target eliminated. Mop up the remaining enemies, or head for the evac LZ.	目标已消灭。清剿残余敌人，或前往撤离着陆区。
+Stepping in the drop area may be good for polls, but it wont be good for your 'Mech repair costs.	踏进空投区或许能讨好民意，但对你的机甲维修费可没好处。
+Reinforcements?	增援？
+Ok, that was quick unfortunately. Let's try next season.	好吧，真不走运，这么快就结束了。下个赛季再试。
+Observer Actual, this is Fire Control: Target Locked. Danger close.	观察员实机，这里是火控中心：目标已锁定。危险距离，注意。
+Looks like we have some unexpected support from other forces. This is the Secondary version.	看来有其它部队意外来支援我们。（次要版本）
+It's the semi-final, you will be facing the best of the best. Good luck!	这是半决赛，你将面对最强的对手。祝好运！
+It's the FINAL, Commander. You've made it this far, make every shot count. Good luck!	这是决赛，指挥官。你一路走来，每一枪都要算数。祝好运！
+It's 1/8, you've got serious folks here, stay focused. Good luck!	这是十六强赛，对手都很硬，保持专注。祝好运！
+It's 1/32, not the most vigorous opponents usually, but stay focused. Good luck!	这是六十四强赛，对手通常不算强悍，但仍要保持专注。祝好运！
+It's 1/16, you've got serious folks here, stay focused. Good luck!	这是三十二强赛，对手都很硬，保持专注。祝好运！
+I'm pulling you out, Commander. We're done here.	我要把你撤出来了，指挥官。这里结束了。
+I don't know what went wrong, Commander, but we need to evac before we suffer any more losses.	我不知道哪里出了问题，指挥官，但我们得在损失更多之前撤离。
+Heya Duncan! It's a real honor working with you today.	嘿，邓肯！今天能和你共事真是荣幸。
+Glad we could make it to the party, Commander. Our orders are to assist in the Primary Objective and once eliminated head for Evac.	很高兴赶上这场好戏，指挥官。我们的命令是协助完成主要目标，完成后前往撤离点。
+Commander, the target location is likely to be well-defended.	指挥官，目标地点很可能防守严密。
+Commander, enemy turrets identified.	指挥官，已确认敌方炮塔。
+Commander, bad news. We're seeing energy signatures for fixed defenses powering up.	指挥官，坏消息。我们探测到定点防御设施正在启动的能量信号。
+And there we go. Right into the semi-final!	就这样，挺进半决赛！
+And there we go. Right into the final!	就这样，挺进决赛！
+And there we go. Right into the 1/8!	就这样，挺进十六强！
+And there we go. Right into the 1/4!	就这样，挺进八强！
+And there we go. Right into the 1/16!	就这样，挺进三十二强！
+Wow, that was... entertaining?	哇，真是……精彩？
+Whoo hoo!	好耶！
+When you're ready to extract, Sumire will pick you up at this location.	你准备好撤离时，苏米尔会在此地接你。
+Well now <i>there's</i> a surprise.	这可真是<i>个</i>惊喜。
+We've marked your evac zone.  Reach it as soon as possible.	我们已标出你的撤离区。尽快抵达。
+We've got 'Mechs on the ground, Commander. Ready to advance on the enemy when you are.	我们的机甲已落地，指挥官。你准备好就向敌人推进。
+We've failed...	我们失败了……
+We need to move up, get eyes on the location and evaluate if we want to fight or grab and go.	我们需要推进，侦察该地点，再判断是交战还是拿了就走。
+We failed.	我们失败了。
+Uh, Commander? I've got eyes on a new lance in the AO. Looks like {TEAM_HOST.FactionDef.Demonym} markings.	呃，指挥官？我在作战区域发现一支新的小队。看起来是 {TEAM_HOST.FactionDef.Demonym} 的标识。
+This went south in a hurry. I'm scrubbing the mission, Commander.	局势一下子就崩了。我要中止任务，指挥官。
+They're here to defend their base and will engage any hostiles that get too close.	他们是来守卫基地的，任何敌人靠得太近都会遭到攻击。
+The {TEAM_EMP.Faction.Name} has provided some of their own forces to support us.	{TEAM_EMP.Faction.Name} 派出了一些自己的部队来支援我们。
+The guard units are dealt with; a wise move.	守卫部队已解决；明智之举。
+The crowd went wild for this one, we could practically hear it up here on the Argo!  Great job!	观众为这一战沸腾了，我们在阿尔戈号上都能听见！干得漂亮！
+The asset has been recovered, Commander. Let's dust off and collect our pay.	目标已回收，指挥官。起飞去领钱吧。
+That's the first target structure down, Commander. Keep up the pressure.	第一座目标建筑已倒下，指挥官。保持压力。
+That's our target destroyed, Commander. Meyer, are you ready for the pickup?	目标已摧毁，指挥官。迈耶，准备好接应了吗？
+That's it Commander, we did what we came here to do.	就这样，指挥官，该做的都做了。
+That's going to make this mission rough, command. Suggestions?	这会让任务变得艰难，指挥官。有什么建议？
+That was a brawl, too bad we didn't last though.	那真是场混战，可惜我们没撑住。
+Roger. Commander, if we want any backup, we'll need to keep those APCs alive until they get to the turret control building.	收到。指挥官，想要增援的话，我们得让那些装甲运兵车活着抵达炮塔控制楼。
+Roger, local command. Commander, looks like we have a few more guns on our side.	收到，当地指挥部。指挥官，看来我们这边多了几门炮。
+Our pilot is on their way out. Hold position until they're safely aboard, and then get out of there.	我们的飞行员正在撤离途中。守住位置直到他们安全登船，然后撤出去。
+Once we've secured our pilot, the Leopard will extract us at this LZ.	一旦接上我们的飞行员，豹式会在此着陆区接我们撤离。
+Maybe you should try again later. Much, much later!	也许你该晚点再试。晚很多、很多！
+Ladies and Gentlemen welcome to Solaris Medium Tank League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 中型战车联赛！战斗开始！
+Ladies and Gentlemen welcome to Solaris Medium League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 中量级联赛！战斗开始！
