@@ -139,3 +139,93 @@ You're approaching the encounter area, Commander. First enemy lance is in this a
 The second enemy lance was last seen here.	第二支敌军小队最后出现在这里。
 That's an affirmative, XO Oliveira. We're on station and will provide support to achieve the primary objective. When it's destroyed we have orders to proceed to our Evac.	确认收到，奥利维拉副官。我们已就位，将提供支援以完成主要目标。目标摧毁后按命令前往撤离点。
 That's affirmative. Take them down as well, Commander.	确认。把他们也一并解决，指挥官。
+Good shots, Commander! You scored a solid hit on one of the target structures, keep it up. 	打得漂亮，指挥官！你命中了一座目标建筑，继续保持。
+Commander, I've got inbound sensor contacts. Expect enemy reinforcements to drop in at any moment. 	指挥官，传感器捕捉到来袭目标。敌军增援随时可能空降。
+Warning commander, sensors are reading multiple contacts approaching from multiple vectors. Looks like the attacking force has brought reinforcements. 	警告，指挥官，传感器显示多个目标从不同方向逼近。看来进攻方带来了增援。
+Be advised, some of the target buildings are sustaining damage. Your mission is to keep them standing. 	提醒各位，部分目标建筑正在受损。你的任务是让它们保持完好。
+We've demolished the objective buildings. No need to loiter, get to the evac zone. 	目标建筑已摧毁。没必要逗留，前往撤离区。
+Target building destroyed, good work commander, stay at it and we'll be done in no time. 	目标建筑已摧毁，干得好指挥官，继续下去很快就能收工。
+[GENERIC VO] The asset has been recovered, Commander. Good work. 	[通用语音] 目标已回收，指挥官。干得好。
+That's got it, keep firing on those targets until they are neutralized. 	打中了，继续攻击那些目标直到将其消灭。
+One down. Keep engaging those threats and we'll be out of here. 	解决一个。继续压制这些威胁，我们就能离开这里。
+Warning commander, sensors are reading multiple contacts approaching from multiple vectors.  Looks like the attacking force has brought reinforcements.	警告，指挥官，传感器显示多个目标从不同方向逼近。看来进攻方带来了增援。
+Readings indicate the ambushing units are out of commission. The employer will be pleased. 	读数显示伏击部队已失去战力。雇主会满意的。
+And they are away! The convoy is safely out of the AO. Good work, Commander. Now get your remaining forces to the second evac zone for extraction there. 	他们出发了！车队已安全离开作战区域。干得好，指挥官。现在把你剩余部队带到第二撤离区待接应。
+Heads up Commander, its a hostile {TEAM_TAR_ALLY.FactionDef.Demonym} lance!  	当心，指挥官，是敌方 {TEAM_TAR_ALLY.FactionDef.Demonym} 小队！
+Another {TEAM_EMP.FactionDef.Demonym} lance has dropped in Commander!  	指挥官，又有一支 {TEAM_EMP.FactionDef.Demonym} 小队降落了！
+Another {TEAM_TAR.FactionDef.Demonym} lance has dropped in Commander!  	指挥官，又有一支 {TEAM_TAR.FactionDef.Demonym} 小队降落了！
+The Flag has been recovered, Commander. Good work. 	战旗已夺回，指挥官。干得好。
+Commander, {TEAM_EMP.FactionDef.Demonym} forces on station. Thanks for clearing those defenses to make way for us.	指挥官，{TEAM_EMP.FactionDef.Demonym} 部队已就位。多谢你清除了那些防御设施，为我们开路。
+Commander, we have visuals on the second enemy lance.	指挥官，我们目视确认了第二支敌军小队。
+Another {TEAM_EMP.FactionDef.Demonym} lance has dropped in Commander! This is the Secondary Objective Version.	指挥官，又有一支 {TEAM_EMP.FactionDef.Demonym} 小队降落了！（次要目标版本）
+Another {TEAM_EMP.FactionDef.Demonym} lance has dropped in Commander! This is the Primary Objective Version.	指挥官，又有一支 {TEAM_EMP.FactionDef.Demonym} 小队降落了！（主要目标版本）
+We won't get paid for covering their evac if we leave before them. Plan accordingly, Commander.	要是我们在他们撤离前就走，掩护撤离的钱就拿不到了。请据此安排，指挥官。
+They have point defenses set up around the base, they are however offline.	他们在基地周边架设了定点防御，不过目前处于离线状态。
+Ladies and Gentlemen welcome to Solaris off-season battle! Let the fight begin!	女士们先生们，欢迎来到 Solaris 休赛期对决！战斗开始！
+Escort them safely to the generators and we can boost our defensive capability with those turrets activated. Good Luck!	护送他们安全抵达发电机，启动那些炮塔就能增强我们的防御能力。祝好运！
+Commander, we've got an enemy lance moving towards the {TEAM_EMP.FactionDef.Demonym} base.	指挥官，有一支敌军小队正朝 {TEAM_EMP.FactionDef.Demonym} 基地移动。
+Commander, more hostiles are entering the area. I've marked their LZ.	指挥官，更多敌人进入该区域。我已标出他们的着陆区。
+All our objectives are complete, cover our withdrawal Commander.	所有目标已完成，指挥官，掩护我们撤退。
+Turrets, boss. Just keep an eye out in case they are online.	是炮塔，头儿。留神点，以防它们还在运转。
+INCOMING TRANSMISSION.	收到通讯。
+We'll have to destroy that lance if we want to complete the mission.	想完成任务，就得消灭那支小队。
+That's a disappointing result, Commander.	结果令人失望，指挥官。
+Scratch another target.	又解决一个目标。
+Our employer is saying we NEED to kill those units. Prepare to engage.	雇主说我们必须消灭那些单位。准备交战。
+Once he's down, head to the evac point for your pickup.	他一倒下，就前往撤离点等候接应。
+Move to their position and provide support.	移动到他们的位置并提供支援。
+Ladies and Gentlemen welcome to Solaris Light League! Let the fight begin!	女士们先生们，欢迎来到 Solaris 轻量级联赛！战斗开始！
+If we decide to kill these units our employer if offering a bonus.	如果我们决定消灭这些单位，雇主愿意提供奖金。
+Good job, commander. All primary objectives complete. Get to evac, Sumire will pick you up here.	干得好，指挥官。主要目标全部完成。前往撤离点，苏米尔会来这里接你。
+Commander. The enemy had deployed reinforcements and they are inbound. Expect increased resistance. 	指挥官。敌方已派出增援，正在赶来。预计抵抗会更强。
+Commander, another match in the Light League. Good luck!	指挥官，轻量级联赛又一场比赛。祝好运！
+Commander, I'm seeing hostile defenders surrounding the enemy base.	指挥官，我发现敌方基地周围有敌军守卫。
+The convoy is finished, now get what 'Mechs you have to the extraction point and we'll pull you out. Move quickly.	车队完了，把你剩下的机甲带到撤离点，我们接你出来。动作快。
+Sensors are showing enemy movement beyond our intitial count. Be advised you might meet with increased resistance.	传感器显示的敌军数量超过了最初统计。请注意，你们可能遭遇更强的抵抗。
+Our employer wants us to kill these guys. This mission isn't ending until they die.	雇主想让我们干掉这帮人。他们不死，任务就不算完。
+Commander, a word of warning, we have reports this base may have gun emplacements for point defense.	指挥官，提醒一句，有报告称该基地可能设有定点防御炮位。
+[GENERIC VO] Area is not clear, Commander. Eliminate the hostiles before continuing to the next objective.	[通用语音] 区域尚未肃清，指挥官。先消灭敌人再前往下一个目标。
+Mercenary Commander, we've received word of the assault on your position. Reinforcements are incoming, they are about halfway there. Maintain position and you'll be relieved shortly.	佣兵指挥官，我们收到了你方阵地遇袭的消息。增援正在赶来，大约已过半程。坚守阵地，很快就会解围。
+PLACHEHOLDER (Hostile to All Secondary). In bound hostile Dropship detected, drop zone marked.	占位符（对所有势力敌对·次要）。检测到敌方空投艇接近，空降区已标记。
+PLACHEHOLDER (Additional Target Forces Secondary). In bound hostile Dropship detected, drop zone marked.	占位符（目标增援·次要）。检测到敌方空投艇接近，空降区已标记。
+PLACHEHOLDER (Additional Target Forces Primary). In bound hostile Dropship detected, drop zone marked.	占位符（目标增援·主要）。检测到敌方空投艇接近，空降区已标记。
+PLACHEHOLDER (Additional Target Forces 2 Secondary). In bound hostile Dropship detected, drop zone marked.	占位符（目标增援 2·次要）。检测到敌方空投艇接近，空降区已标记。
+PLACHEHOLDER (Additional Dropped Target Forces 2 Primary). In bound hostile Dropship detected, drop zone marked.	占位符（空降目标增援 2·主要）。检测到敌方空投艇接近，空降区已标记。
+PLACHEHOLDER (Additional Dropped Forces Enemy Ally Secondary) . In bound hostile Dropship detected, drop zone marked.	占位符（空降增援·敌方盟军·次要）。检测到敌方空投艇接近，空降区已标记。
+PLACHEHOLDER (Additional Dropped Forces Enemy Ally Primary). In bound hostile Dropship detected, drop zone marked.	占位符（空降增援·敌方盟军·主要）。检测到敌方空投艇接近，空降区已标记。
+PLACEHODLER This is Quebec actual return fire and check your rear arc!	占位符：这里是 Quebec 实机，还击并注意后方！
+Looks like we have some unexpected support from {TEAM_EMP_ALLY.FactionDef.Demonym} forces. This is the Secondary version.	看来有 {TEAM_EMP_ALLY.FactionDef.Demonym} 部队意外来支援我们。（次要版本）
+Looks like we have some unexpected support from {TEAM_EMP_ALLY.FactionDef.Demonym} forces. This is the Primary version.	看来有 {TEAM_EMP_ALLY.FactionDef.Demonym} 部队意外来支援我们。（主要版本）
+Hark {COMMANDER.Name} here are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys are here too. Don't that beat it all. This is the primary version.	听好，{COMMANDER.Name}，这里还有 {TEAM_TAR_ALLY.FactionDef.Demonym} 的敌人。真是活见鬼。（主要版本）
+Hark {COMMANDER.Name} here are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys  are here too. Don't that beat it all. This is the secondary version.	听好，{COMMANDER.Name}，这里还有 {TEAM_TAR_ALLY.FactionDef.Demonym} 的敌人。真是活见鬼。（次要版本）
+Grace under fire folks. Lay it on 'em!	火力之下见真章，各位。狠狠地打！
+We've got them, Commander. Right out in the open.	我们逮住他们了，指挥官。就暴露在空地上。
+Watch out commander, more hostiles are arriving. They'll be landing in this area.	当心，指挥官，更多敌人正在抵达。他们会在这片区域着陆。
+The primary targets are down, Commander. You can evac at any time.	主要目标已倒下，指挥官。你随时可以撤离。
+Readings indicate the ambushing units are out of commision. The employer will be pleased. 	读数显示伏击部队已失去战力。雇主会满意的。
+Our employer is offering us some extra cash if we destroy these units too.	雇主说，如果我们把这些单位也一并摧毁，就额外给钱。
+Let's see what you got.	让我们看看你的本事。
+If we destroy them we'll get a hefty bonus.	摧毁他们就能拿到一笔丰厚的奖金。
+I know! It's great!	我知道！太棒了！
+Hey, uh, XO? I'm tracking an inbound blip. Coming in fast and low, like they're making a dropoff.	喂，副官？我追踪到一个来袭信号。速度快、高度低，像是要空投。
+Greetings, Commander. Understand that this facility is as important to the {TEAM_TAR_ALLY.FactionDef.Name} as it is to our {TEAM_TAR.FactionDef.Name}.	你好，指挥官。要知道，这座设施对 {TEAM_TAR_ALLY.FactionDef.Name} 的重要性不亚于对我们的 {TEAM_TAR.FactionDef.Name}。
+*STATIC* -ell, this round is yours. *COUGH* Until next time.	*电流声*……好吧，这一局算你赢。*咳嗽* 下次再会。
+You've reached the extraction point for the objective vehicles. Hold there and keep them safe until we can get them out.	你们已到达目标车辆的撤离点。守住那里，保护好它们，等我们接应。
+You didn't sound so confident earlier. Some of the in booth audio has already gone viral.	你刚才可没这么自信。解说席上的录音已经传开了。
+Wow. This is the most amazing fight I have seen today!	哇。这是我今天见过最精彩的战斗！
+Wow, would you look at that. Looks like the odds makers were way off today.	哇，你瞧瞧。看来今天的赔率开得离谱啊。
+Well done, Commander. Let's go get paid.	干得好，指挥官。去领钱吧。
+Well done, Commander. Let's debrief back in orbit.	干得好，指挥官。回轨道上再做简报。
+We can't complete the contract until those units are destroyed.	那些单位不被摧毁，合同就没法完成。
+Wait... Darius did you plan this?	等等……达吕斯，这是你安排的吗？
+Wait, you said we weren't being recorded!	等等，你说过我们没被录音的！
+To say that this fight has just got real, is an understatement!	说这场战斗刚变得动真格，都嫌轻了！
+This is a disaster. Commander, I'm pulling the plug on this operation.	这是一场灾难。指挥官，我要中止这次行动。
+This fight just got tighter than two hairs in a manbun!	这场战斗紧张得像丸子头里的两根头发！
+They're coming in fast, don't let them get too close.	他们冲得很快，别让他们靠得太近。
+These guys are amateurs. Get eyes on them, take them out.	这帮人是外行。盯住他们，干掉他们。
+The convoy's almost escaped, Commander. You need to step it up or we're going to miss the window of opportunity.	车队快跑了，指挥官。你得加快速度，否则就要错过时机。
+NOT USED IN THIS FLASHPOINT.	此闪点任务未使用。
+Looks like the other mercs have joined in the fight!	看来其他佣兵也加入战斗了！
+Ladies and Gentlemen welcome to Solaris Medium League battle! Let the fight begin!	女士们先生们，欢迎来到 Solaris 中量级联赛对决！战斗开始！
+Ladies and Gentlemen welcome to Solaris Light League battle! Let the fight begin!	女士们先生们，欢迎来到 Solaris 轻量级联赛对决！战斗开始！
