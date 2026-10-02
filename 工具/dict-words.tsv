@@ -782,3 +782,49 @@ Boss, that's another {TEAM_TAR.FactionDef.Demonym} lance in the field. Getting k
 Boss, there's a garbage signal blasting out of that base's transmitters. Want me to put it through?	头儿，那座基地的发射机正在喷出垃圾信号。要我接进来吗？
 Boss, we've got turrets going live all over the place. Nothing you can't handle, but keep your eyes open all the same.	头儿，各处炮塔都在启动。虽然难不倒你，但还是多加留意。
 Brace yourself, Commander. We've got more Khulan bodyguards entering the AO.	做好准备，指挥官。更多呼兰护卫进入作战区域。
+Commander {COMMANDER.LastName} the cameras are rolling; let's do this!	{COMMANDER.LastName} 指挥官，摄影机开拍了；开始吧！
+Commander {COMMANDER.LastName}, we have the perfect weather for this match. \r\nWe are hoping that you can show the audience at home how it's done!	{COMMANDER.LastName} 指挥官，今天的天气正适合这场比赛。\r\n我们期待你向家中观众展示什么叫真本事！
+Commander {COMMANDER.LastName}. Lieutenant Azura Damestroir here. We appreciate the assistance, because we're gonna need it.	{COMMANDER.LastName} 指挥官。我是阿祖拉·达梅斯特罗尔中尉。感谢你的协助，因为我们真的需要。
+Commander {COMMANDER.LastName}. Please contact me when you reach a safe altitude. We need to talk.	{COMMANDER.LastName} 指挥官。抵达安全高度后请联系我。我们需要谈谈。
+Commander {COMMANDER.LastName}. We've been waiting for you. Welcome to Jessup Downs, the unofficial armpit of Gauthier.	{COMMANDER.LastName} 指挥官。我们一直在等你。欢迎来到杰瑟普唐斯，戈蒂耶的非官方胳肢窝。
+Commander, Darius: if I'm right, that base will need to be completely destroyed.	指挥官，达吕斯：如果我没判断错，那座基地必须彻底摧毁。
+Commander, I 'ave good news 'n bad news. Th' enemy target be naught more than a pile o' scrap.	指挥官，我有好消息和坏消息。敌方目标不过是一堆废铁。
+Commander, I am calling into question my own judgment as well as your own. This is extremely disappointing.	指挥官，我开始怀疑我自己的判断，也怀疑你的。这太令人失望了。
+Commander, I don't think they're very happy with you down there. Incoming hostiles.	指挥官，我看下面那帮人对你不太满意。敌人来袭。
+Commander, I have entered new coordinates into the system. We need to expedite our operation and move quickly. Time is of the essence here.	指挥官，我已把新坐标输入系统。我们得加快行动，迅速推进。时间紧迫。
+Commander, I have fantastic news and some challenging news.	指挥官，我有天大的好消息，也有些麻烦的消息。
+Commander, I have good news and bad news. First, well done! The enemy target is nothing more than a pile of scrap and salvage. Good shooting.	指挥官，我有好消息和坏消息。先说好的，干得漂亮！敌方目标只剩一堆废铁和残骸。枪法不错。
+Commander, I have good news for you. This munitions factory is surrounded by point-defense turrets. They're currently inactive, but I believe that my team can get them up and running.	指挥官，有个好消息。这座弹药厂周围布有定点防御炮塔。它们目前处于未激活状态，但我相信我的队伍能让它们运转起来。
+Commander, I know this signature. ComStar is here, and they left a very competent commander in charge. His handle is Agent X.	指挥官，我认得这个信号。通讯之星来了，而且留下了一位相当能干的指挥官坐镇。代号是 X 特工。
+Commander, I require your assistance to covertly eliminate this convoy. Please assemble a light, low-tonnage lance for immediate deployment.	指挥官，我需要你协助秘密消灭这支车队。请组建一支轻型、低吨位的小队立即部署。
+Commander, I'll try to keep this brief, because there's a lot happening on this one.	指挥官，我尽量长话短说，因为这次情况很多。
+Commander, I'm detecting Directorate reinforcements between you and the evac point. You may have a fight on your hands.	指挥官，我探测到你和撤离点之间有督政府增援。你可能会遭遇一场恶战。
+Commander, I'm looking at this data, and this bunker… is commanded by Lieutenant Colonel Song.	指挥官，我正在看这些数据，这座地堡……由宋中校指挥。
+Commander, I'm seeing a DropShip coming in low and hot. Probably dropping reinforcements; I'll mark its LZ for you.	指挥官，我看到一艘运输舰低空高速逼近。大概是要空投增援；我为你标出着陆区。
+Commander, I'm seeing another lance closing on the facility. Be ready for a possible ambush.	指挥官，我看到又一支小队正逼近设施。做好遭遇伏击的准备。
+Commander, I'm seeing vehicle reinforcements on radar, be careful.	指挥官，雷达上出现车辆增援，小心。
+Commander, I've been tracking the satellite and you're almost out of time! You need to get those beacons placed immediately!	指挥官，我一直在追踪卫星，你的时间快到了！必须立刻把那些信标布好！
+Commander, I've found something useful but you might not like it.	指挥官，我发现了些有用的东西，但你可能不喜欢。
+Commander, I've got a line open to the facility, and it's under our control now. Broadcasting Carlyle's message.	指挥官，我已接通设施，现在它在我们控制之下。正在播送卡莱尔的消息。
+Commander, The mechs are incoming lets engage them quickly!	指挥官，机甲来袭，我们赶紧交战！
+Commander, We can start sifting through the rubble.	指挥官，我们可以开始翻检废墟了。
+Commander, a word of warning—we've got reports this base may have gun emplacements for point defense.	指挥官，提醒一句——有报告称该基地可能设有定点防御炮位。
+Commander, a {TEAM_TAR.FactionDef.Demonym} Leopard just dropped another lance into the AO.	指挥官，一架 {TEAM_TAR.FactionDef.Demonym} 豹式刚向作战区域投下另一支小队。
+Commander, as we suspected this guy is simply cowardly, he's trying to get away! Eliminate them before they escape.	指挥官，如我们所料，这家伙就是个懦夫，他想逃！在他们跑掉之前解决掉。
+Commander, be advised: it looks like the Galdeon Regulars have brought point-defense turrets online at the facility.	指挥官，提醒：看来加尔迪恩正规军已让设施处的定点防御炮塔上线了。
+Commander, if we lose another building, this mission is over.	指挥官，再丢掉一座建筑，任务就结束了。
+Commander, if we lose another structure, the base is a total loss, and we don't get paid.	指挥官，再丢掉一处建筑，基地就彻底完了，我们也拿不到钱。
+Commander, if you do not act quickly, the convoy is likely to escape, and the target with it.	指挥官，如果你不赶快行动，车队很可能逃脱，目标也会随之溜走。
+Commander, long range sensors are detecting even more of these remarkably distasteful individuals inbound.	指挥官，远程传感器探测到更多这类极其讨厌的家伙正在赶来。
+Commander, long range sensors are picking up an enemy bogey. They will be landing any minute.	指挥官，远程传感器捕捉到一个敌方目标。他们随时会降落。
+Commander, long-range sensors are picking up an enemy bogey. It'll be landing any minute.	指挥官，远程传感器捕捉到一个敌方目标。它随时会降落。
+Commander, long-range sensors are picking up an enemy reinforcements.they will be converging any minute.	指挥官，远程传感器捕捉到敌方增援。他们随时会合拢过来。
+Commander, my DropShip is inbound. As in, <i>right now</i>.	指挥官，我的运输舰正在抵达。就是<i>现在</i>。
+Commander, my DropShip is inbound. As in, right now.	指挥官，我的运输舰正在抵达。就是现在。
+Commander, my sensors show a large incoming enemy reaction force. Clear out of this area of operation!	指挥官，传感器显示大批敌军反应部队正在逼近。赶快撤出该区域！
+Commander, my sensors show a large incoming enemy reaction force. Head to Evac.	指挥官，传感器显示大批敌军反应部队正在逼近。前往撤离点。
+Commander, my staff tells me that the patrol they detected earlier is inbound to your position.	指挥官，我的参谋说，先前探测到的巡逻队正朝你的位置赶来。
+Commander, one of our lances was hit on the way to the facility and has suffered 50% losses.	指挥官，我们一支小队在前往设施途中遇袭，损失达 50%。
+Commander, our sensors show a massive incoming swarm of weebs. Get out of here quickly!	指挥官，我们的传感器显示一大群"歪脖"正蜂拥而来。快点离开这里！
+Commander, our window of opportunity for this strike is closing. At least half of our time has expired. You'll need to move quickly if you're to accomplish the mission.	指挥官，这次打击的机会之窗正在关闭。至少一半时间已经过去。想完成任务，你就得加快行动。
+Commander, our window of oppurtunity for this strike is closing. At least half of our time has expired. You will need to move quickly if you are to accomplish the mission.	指挥官，这次打击的机会之窗正在关闭。至少一半时间已经过去。想完成任务，你就得加快行动。
