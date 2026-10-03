@@ -1,4 +1,4 @@
-﻿param(
+param(
     [string]$gameRoot = ""
 )
 $ErrorActionPreference = 'Stop'
@@ -257,6 +257,7 @@ foreach ($pair in @(
     @{ f = 'description'; d = 'dict-desc.tsv' },
     @{ f = 'UIName';      d = 'dict-uiname.tsv' },
     @{ f = 'shortDescription,longDescription,ShortDesc'; d = 'dict-brief.tsv' }
+    @{ f = 'ErrorMessage'; d = 'dict-errmsg.tsv' }
 )) {
     $dict = Join-Path $PSScriptRoot $pair.d
     if ([IO.File]::Exists($dict)) {
