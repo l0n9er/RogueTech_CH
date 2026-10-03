@@ -1,0 +1,85 @@
+[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] set to {RES_VALUE.ToString}	[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], 士气]]被设置为{RES_VALUE.ToString}
+[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] increased by {RES_VALUE.ToString}	[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], 士气]]增加了{RES_VALUE.ToString}
+[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] decreased by {RES_VALUE.ToString}	[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], 士气]]减少了{RES_VALUE.ToString}
+[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days	[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], 士气]]被设置为{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
+[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] increased by {RES_VALUE.ToString} for {RES_DURATION.ToString} days	[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], 士气]]增加了{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
+[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]] decreased by {RES_VALUE.ToString} for {RES_DURATION.ToString} days	[[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], 士气]]减少了{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
++{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]]	+{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], 士气]]
+-{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], Morale]]	-{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_Morale], 士气]]
+[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]] are set to {RES_VALUE.ToString}	[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], 技师点]]被设置为{RES_VALUE.ToString}
++{RES_VALUE.ToString} permanent change to [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]]	+{RES_VALUE.ToString} 对[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], 技师点]]的永久改动
+-{RES_VALUE.ToString} permanent change to [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]]	-{RES_VALUE.ToString} 对[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], 技师点]]的永久改动
+[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]] are set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days	[[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], 技师点]]被设置为{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
+The company gains a +{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Point]] boost for {RES_DURATION.ToString} days	公司获得 +{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], 技师点]]加成，持续{RES_DURATION.ToString}天
+The company suffers a -{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Point]] penalty for {RES_DURATION.ToString} days	公司承受 -{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], 技师点]]惩罚，持续{RES_DURATION.ToString}天
++{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]]	+{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], 技师点]]
+-{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], Tech Points]]	-{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MechTechSkill], 技师点]]
+[[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], Medical Points]] are set to {RES_VALUE.ToString}	[[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], 医疗点]]被设置为{RES_VALUE.ToString}
++{RES_VALUE.ToString} permanent change to [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], Medical Points]]	+{RES_VALUE.ToString} 对[[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], 医疗点]]的永久改动
+-{RES_VALUE.ToString} permanent change to [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], Medical Points]]	-{RES_VALUE.ToString} 对[[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], 医疗点]]的永久改动
+[[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], Medical Points]] are set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days	[[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], 医疗点]]被设置为{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
+The company gains a +{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], Medical Point]] boost for {RES_DURATION.ToString} days	公司获得 +{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], 医疗点]]加成，持续{RES_DURATION.ToString}天
+The company suffers a -{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], Medical Point]] penalty for {RES_DURATION.ToString} days	公司承受 -{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], 医疗点]]惩罚，持续{RES_DURATION.ToString}天
++{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], Medical Points]]	+{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], 医疗点]]
+-{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], Medical Points]]	-{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_MedTechSkill], 医疗点]]
+MechWarriors gain {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] each day	机甲战士每天获得{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], 经验值]]
+MechWarriors with less than {RES_VALUE.ToString} total [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] can benefit from this training	总[[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], 经验值]]低于{RES_VALUE.ToString}的机甲战士可受益于本次训练
+[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] is set to {RES_VALUE.ToString}	[[RES_MW,{RES_MW.Callsign}]]的[[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], 经验值]]被设置为{RES_VALUE.ToString}
+[[RES_MW,{RES_MW.Callsign}]] gains {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]]	[[RES_MW,{RES_MW.Callsign}]]获得{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], 经验值]]
+[[RES_MW,{RES_MW.Callsign}]] loses {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]]	[[RES_MW,{RES_MW.Callsign}]]失去{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], 经验值]]
+[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] is set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days	[[RES_MW,{RES_MW.Callsign}]]的[[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], 经验值]]被设置为{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
+[[RES_MW,{RES_MW.Callsign}]] gains {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] for {RES_DURATION.ToString} days	[[RES_MW,{RES_MW.Callsign}]]获得{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], 经验值]]，持续{RES_DURATION.ToString}天
+[[RES_MW,{RES_MW.Callsign}]] loses {RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], Experience]] for {RES_DURATION.ToString} days	[[RES_MW,{RES_MW.Callsign}]]失去{RES_VALUE.ToString} [[DM.SimGameStatDescDefs[SimGameStatDesc_ExperienceUnspent], 经验值]]，持续{RES_DURATION.ToString}天
+[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injuries]] set to {RES_VALUE.ToString}	[[RES_MW,{RES_MW.Callsign}]]的[[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], 伤势]]被设置为{RES_VALUE.ToString}
+[[RES_MW,{RES_MW.Callsign}]] suffers {RES_VALUE.ToString}x [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injury]]	[[RES_MW,{RES_MW.Callsign}]]遭受{RES_VALUE.ToString}x [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], 伤势]]
+[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injuries]] are reduced by {RES_VALUE.ToString}	[[RES_MW,{RES_MW.Callsign}]]的[[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], 伤势]]减少{RES_VALUE.ToString}
+[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injuries]] set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days	[[RES_MW,{RES_MW.Callsign}]]的[[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], 伤势]]被设置为{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
+[[RES_MW,{RES_MW.Callsign}]] suffers {RES_VALUE.ToString}x [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injury]] for {RES_DURATION.ToString} days	[[RES_MW,{RES_MW.Callsign}]]遭受{RES_VALUE.ToString}x [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], 伤势]]，持续{RES_DURATION.ToString}天
+[[RES_MW,{RES_MW.Callsign}]]'s [[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], Injuries]] are reduced by {RES_VALUE.ToString} for {RES_DURATION.ToString} days	[[RES_MW,{RES_MW.Callsign}]]的[[DM.SimGameStatDescDefs[SimGameStatDesc_Injuries], 伤势]]减少{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
+The Barracks support up to {RES_VALUE.ToString} MechWarriors	兵营最多可容纳{RES_VALUE.ToString}名机甲战士
+You now may shop at the [[DM.BaseDescriptionDefs[LoreBlackMarket],Black Market]] in various systems	你现在可以在多个星系中的[[DM.BaseDescriptionDefs[LoreBlackMarket],黑市]]购物了
+You have lost access to the [[DM.BaseDescriptionDefs[LoreBlackMarket],Black Market]]	你失去了[[DM.BaseDescriptionDefs[LoreBlackMarket],黑市]]的准入权限
+Contract bonus payment {RES_VALUE.ToPercentString}	合同奖金支付{RES_VALUE.ToPercentString}
+Contract payment increased by {RES_VALUE.ToPercentString}	合同报酬增加{RES_VALUE.ToPercentString}
+Contract payment decreased by {RES_VALUE.ToPercentString}	合同报酬减少{RES_VALUE.ToPercentString}
+Contract bonus payment {RES_VALUE.ToPercentString} for {RES_DURATION.ToString} days	合同奖金支付{RES_VALUE.ToPercentString}，持续{RES_DURATION.ToString}天
+Contract payment increased by {RES_VALUE.ToPercentString} for {RES_DURATION.ToString} days	合同报酬增加{RES_VALUE.ToPercentString}，持续{RES_DURATION.ToString}天
+Contract payment decreased by {RES_VALUE.ToPercentString} for {RES_DURATION.ToString} days	合同报酬减少{RES_VALUE.ToPercentString}，持续{RES_DURATION.ToString}天
+Travel time to and from Jump Points reduced by {RES_VALUE.ToString}%	往返跳跃点的航行时间减少{RES_VALUE.ToString}%
+You now have exactly \u00A2{RES_VALUE.ToCommaSeparatedString}	你现在正好拥有\u00A2{RES_VALUE.ToCommaSeparatedString}
+You gain \u00A2{RES_VALUE.ToCommaSeparatedString}	你获得\u00A2{RES_VALUE.ToCommaSeparatedString}
+You lose \u00A2{RES_VALUE.ToCommaSeparatedString}	你失去\u00A2{RES_VALUE.ToCommaSeparatedString}
+You now have exactly \u00A2{RES_VALUE.ToCommaSeparatedString} for {RES_DURATION.ToString} days	你现在正好拥有\u00A2{RES_VALUE.ToCommaSeparatedString}，持续{RES_DURATION.ToString}天
+You gain \u00A2{RES_VALUE.ToCommaSeparatedString} for {RES_DURATION.ToString} days	你获得\u00A2{RES_VALUE.ToCommaSeparatedString}，持续{RES_DURATION.ToString}天
+You lose \u00A2{RES_VALUE.ToCommaSeparatedString} for {RES_DURATION.ToString} days	你失去\u00A2{RES_VALUE.ToCommaSeparatedString}，持续{RES_DURATION.ToString}天
+Chance of death from Incapacitating damage is {RES_VALUE.ToPercentString} less likely	因失能伤害死亡的概率降低{RES_VALUE.ToPercentString}
+You now have exactly {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]]	你现在正好拥有{RES_VALUE.ToString}× [[RES_OBJ,{RES_OBJ.Description.Name}]]
+You gain {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]]	你获得{RES_VALUE.ToString}× [[RES_OBJ,{RES_OBJ.Description.Name}]]
+You lose {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]]	你失去{RES_VALUE.ToString}× [[RES_OBJ,{RES_OBJ.Description.Name}]]
+You now have exactly {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]] for {RES_DURATION.ToString} days	你现在正好拥有{RES_VALUE.ToString}× [[RES_OBJ,{RES_OBJ.Description.Name}]]，持续{RES_DURATION.ToString}天
+You gain {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]] for {RES_DURATION.ToString} days	你获得{RES_VALUE.ToString}× [[RES_OBJ,{RES_OBJ.Description.Name}]]，持续{RES_DURATION.ToString}天
+You lose {RES_VALUE.ToString}x [[RES_OBJ,{RES_OBJ.Description.Name}]] for {RES_DURATION.ToString} days	你失去{RES_VALUE.ToString}× [[RES_OBJ,{RES_OBJ.Description.Name}]]，持续{RES_DURATION.ToString}天
+Chance of death from Lethal damage is {RES_VALUE.ToPercentString} less likely	因致命伤害死亡的概率降低{RES_VALUE.ToPercentString}
+The MechBay supports up to {RES_VALUE.ToString} BattleMechs ready for battle	机甲库最多可容纳{RES_VALUE.ToString}台待战战斗机甲
+Your Reputation with [[RES_OBJ,{RES_OBJ.Name}]] is now {RES_VALUE.ToString}	你与[[RES_OBJ,{RES_OBJ.Name}]]的声望现在为{RES_VALUE.ToString}
+You gain {RES_VALUE.ToString} Reputation with [[RES_OBJ,{RES_OBJ.Name}]]	你获得{RES_VALUE.ToString}点与[[RES_OBJ,{RES_OBJ.Name}]]的声望
+You lose {RES_VALUE.ToString} Reputation with [[RES_OBJ,{RES_OBJ.Name}]]	你失去{RES_VALUE.ToString}点与[[RES_OBJ,{RES_OBJ.Name}]]的声望
+Your Reputation with [[RES_OBJ,{RES_OBJ.Name}]] is now {RES_VALUE.ToString} for {RES_DURATION.ToString} days	你与[[RES_OBJ,{RES_OBJ.Name}]]的声望现在为{RES_VALUE.ToString}，持续{RES_DURATION.ToString}天
+You gain {RES_VALUE.ToString} Reputation with [[RES_OBJ,{RES_OBJ.Name}]] for {RES_DURATION.ToString} days	你获得{RES_VALUE.ToString}点与[[RES_OBJ,{RES_OBJ.Name}]]的声望，持续{RES_DURATION.ToString}天
+You lose {RES_VALUE.ToString} Reputation with [[RES_OBJ,{RES_OBJ.Name}]] for {RES_DURATION.ToString} days	你失去{RES_VALUE.ToString}点与[[RES_OBJ,{RES_OBJ.Name}]]的声望，持续{RES_DURATION.ToString}天
+[[COMPANY.CurSystem.GetLastPilotAddedToHiring,{COMPANY.CurSystem.GetLastPilotAddedToHiringName}]] is now present in the local Hiring Hall	[[COMPANY.CurSystem.GetLastPilotAddedToHiring,{COMPANY.CurSystem.GetLastPilotAddedToHiringName}]]现在已在当地雇佣大厅中
+[[RES_MW,{RES_MW.Callsign}]] has suffered {RES_VALUE.ToString} injuries	[[RES_MW,{RES_MW.Callsign}]]遭受了{RES_VALUE.ToString}处伤势
+[[RES_MW,{RES_MW.Callsign}]] has suffered an injury	[[RES_MW,{RES_MW.Callsign}]]遭受了一处伤势
+[[RES_MW,{RES_MW.Callsign}]] is no longer with the company	[[RES_MW,{RES_MW.Callsign}]]已不再效力于本公司
+[[RES_MW,{RES_MW.Callsign}]] is no longer with the company for {RES_DURATION.ToString} days	[[RES_MW,{RES_MW.Callsign}]]在{RES_DURATION.ToString}天内不再效力于本公司
+[[RES_MW,{RES_MW.Callsign}]] has recovered from all injuries	[[RES_MW,{RES_MW.Callsign}]]已从所有伤势中康复
+[[RES_MW,{RES_MW.Callsign}]] dies	[[RES_MW,{RES_MW.Callsign}]]死亡
+[[RES_MW,{RES_MW.Callsign}]] dies for {RES_DURATION.ToString} days	[[RES_MW,{RES_MW.Callsign}]]死亡{RES_DURATION.ToString}天
+[[RES_MW,{RES_MW.Callsign}]] will be unavailable for {RES_VALUE.ToString} days	[[RES_MW,{RES_MW.Callsign}]]将在{RES_VALUE.ToString}天内无法出战
+[[RES_MW,{RES_MW.Callsign}]] has recovered from {RES_Value.ToString} injuries	[[RES_MW,{RES_MW.Callsign}]]已从{RES_Value.ToString}处伤势中康复
+[[RES_MW,{RES_MW.Callsign}]] has recovered from an injury	[[RES_MW,{RES_MW.Callsign}]]已从一处伤势中康复
+[[RES_MECH,{RES_MECH.Name}]] suffers {RES_VALUE.ToString} damage	[[RES_MECH,{RES_MECH.Name}]]遭受{RES_VALUE.ToString}点伤害
+[[RES_MECH,{RES_MECH.Name}]] suffers {RES_VALUE.ToString} damage for {RES_DURATION.ToString} days	[[RES_MECH,{RES_MECH.Name}]]遭受{RES_VALUE.ToString}点伤害，持续{RES_DURATION.ToString}天
+New Flashpoint added in [[RES_SYSTEM,{RES_SYSTEM.Name}]].	[[RES_SYSTEM,{RES_SYSTEM.Name}]]新增了一个闪点。
+You are now allied with {RES_FACTION.Name}	你现在与{RES_FACTION.Name}结盟
+You are no longer allied with {RES_FACTION.Name}	你不再与{RES_FACTION.Name}结盟
