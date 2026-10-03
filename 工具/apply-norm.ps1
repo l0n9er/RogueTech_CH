@@ -122,7 +122,7 @@ function Fix-Text([string]$text, [string]$src) {
 # 覆盖全部已知文本字段(含之前遗漏的 CULTURE_ZH_CN 与 words)
 # words 曾长期缺席, 导致对话/字幕里的"运输舰""载具""混战"等术语始终没被
 # 归一化(实测残留 228/31/11 处), 而脚本每次都报 hits=0 看不出问题。
-$fldList = @('words','Details','YangsThoughts','StockRole','levelName','decription','DisplayName','ErrorMessage','title','description','Text','CULTURE_ZH_CN','UIName','Name','Original','Commentary','Short','Long','Full','BonusValueA','BonusValueB')
+$fldList = @('words','Details','YangsThoughts','StockRole','levelName','decription','DisplayName','ErrorMessage','title','description','Text','CULTURE_ZH_CN','UIName','Name','Original','Commentary','Short','Long','Full','BonusValueA','BonusValueB','shortDescription','longDescription','ShortDesc')
 $flds = [string]::Join('|', $fldList)
 $fieldRx = [regex]('"(' + $flds + ')"\s*:\s*"((?:[^"' + $BS + $BS + ']|' + $BS + $BS + '.)*)"')
 $excl = @($BS + '.modtek' + $BS, 'ModSaves', $BS + 'unitTypes' + $BS)

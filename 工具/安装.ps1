@@ -247,13 +247,16 @@ RunTool 'apply-words.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                             '-backupRoot', (Join-Path $packRoot 'backup\Mods-words'))
 Ok "完成"
 
-# ---------- 9b) 任务标题/描述/物品界面名 ----------
+# ---------- 9b) 任务标题/描述/物品界面名/合约简报 ----------
 # 这些字段同样不查 CSV(或查询优先级低), 一并就地补译
-Step 11 "补译任务标题、目标描述与物品界面名"
+# shortDescription/longDescription 是合约简报正文, ShortDesc 是技能/AI 能力简述;
+# 这三个字段曾被完全遗漏, 玩家在合约界面看到的是整段英文
+Step 11 "补译任务标题、目标描述、物品界面名与合约简报"
 foreach ($pair in @(
     @{ f = 'title';       d = 'dict-title.tsv' },
     @{ f = 'description'; d = 'dict-desc.tsv' },
-    @{ f = 'UIName';      d = 'dict-uiname.tsv' }
+    @{ f = 'UIName';      d = 'dict-uiname.tsv' },
+    @{ f = 'shortDescription,longDescription,ShortDesc'; d = 'dict-brief.tsv' }
 )) {
     $dict = Join-Path $PSScriptRoot $pair.d
     if ([IO.File]::Exists($dict)) {

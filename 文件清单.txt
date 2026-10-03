@@ -55,6 +55,9 @@ BattleTech_Data\StreamingAssets\data\VersionManifest.csv  游戏资源清单（2
 工具\dict-title.tsv                  任务标题中英对照表（21 条）
 工具\dict-desc.tsv                   目标描述中英对照表（39 条）
 工具\dict-uiname.tsv                 物品界面名对照表（29 条）
+工具\dict-brief.tsv                  合约简报对照表（1,257 条）
+                                     shortDescription / longDescription / ShortDesc
+                                     这三个字段此前完全遗漏，合约界面会整段显示英文
 工具\apply-statdesc.ps1              游戏本体状态说明模板汉化（simGameStatDesc 的
                                      Result 字段，不查 CSV、需就地改写 JSON）
 工具\dict-statdesc.tsv               状态说明模板中英对照表（85 条）
