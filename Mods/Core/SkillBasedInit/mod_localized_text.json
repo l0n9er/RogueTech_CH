@@ -1,0 +1,38 @@
+{
+	"Floaties" : {
+"FLOATIE_KNOCKDOWN" : "击倒! 主动权 -{0}",
+"FLOATIE_CALLED_SHOT_NOW" : "精准射击! 主动权 -{0}",
+"FLOATIE_CALLED_SHOT_LATER" : "精准射击! 下回合主动权 -{0}",
+"FLOATIE_VIGILANCE" : "警戒状态! 下回合主动权 +{0}!",
+	},
+	"MechBay" : {
+"MECHBAY_TONNAGE" : "<b>基础</b>: {0} (<i>由吨位决定</i>)",
+"MECHBAY_UNIT_TYPE" : "<space=2em><color=#{0}>{1:+0;-#} 单位类型</color>",
+"MECHBAY_COMPONENTS" : "<space=2em><color=#{0}>{1:+0;-#} 组件</color>",
+"MECHBAY_LANCE" : "<space=2em><color=#{0}>{1:+0;-#} 小队</color>",
+"MECHBAY_TACTICS" : "<space=2em>{0:+0;-#} 战术",
+"MECHBAY_TOTAL" : "<b>总计</b>: {0}",
+"MECHBAY_RANDOM" : "<space=2em><color=#FF0000>{0} 至 {1} 随机</color> (<i>受战术技能影响而降低</i>)",
+"MECHBAY_EXPECTED_NO_PILOT" : "<b>预计阶段</b>: {0}",
+"MECHBAY_EXPECTED" : "<b>预计阶段</b>: {0} 至 {1}",
+	},
+	"Tooltip" : {
+"TOOLTIP_TITLE_INITIATIVE" : "主动权",
+"TOOLTIP_MECH_TONNAGE" : "机体 => 吨位: {0}",
+"TOOLTIP_UNIT_TYPE" : "<space=2em><color=#{0}>{1:+0;-#} 单位类型</color>",
+"TOOLTIP_COMPONENTS" : "<space=2em><color=#{0}>{1:+0;-#} 组件</color>",
+"TOOLTIP_CRIPPLED" : "<color=#FF0000>{0} 严重受损</color>",
+"TOOLTIP_PRONE" : "<color=#FF0000>{0} 倒地</color>",
+"TOOLTIP_SHUTDOWN" : "<color=#FF0000>{0} 关机</color>",
+"TOOLTIP_TACTICS" : "机师 => 战术: <color=#00FF00>{0:+0}</color>",
+"TOOLTIP_PILOT_TAGS" : "<color=#{0}>{1:+0;-#} 机师标签</color>",
+"TOOLTIP_INSPIRED" : "<color=#00FF00>{0} 受到鼓舞</color>",
+"TOOLTIP_INJURY" : "<color=#{0}>{1:+0;-#} 受伤</color>",	
+"TOOLTIP_HESITATION" : "<color=#FF0000>{0} 犹豫</color>",
+"TOOLTIP_CALLED_SHOT" : "<color=#FF0000>{0} 精准射击</color>",
+"TOOLTIP_VIGILANCE" : "<color=#00FF00>{0} 警戒状态</color>",
+"TOOLTIP_RANDOM" : "\\n随机 => <color=#FF0000>{0} 至 {1}</color><i>(受战术技能影响而降低)</i>",
+"TOOLTIP_EXPECTED" : "<b>预计阶段</b>: {0} 至 {1}",
+"TOOLTIP_HOVER" : "<i>在机甲实验室和部署界面中，将光标悬停在主动权上以查看详情.</i>",
+	}
+}

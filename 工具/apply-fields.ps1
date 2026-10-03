@@ -3,6 +3,7 @@
     [string]$pairs = "",
     [string]$fields = "words",
     [string]$backupRoot = "",
+    [string]$pathLike = "",
     [switch]$IncludeModJson,
     [switch]$DryRun
 )
@@ -58,6 +59,18 @@ $files = Get-ChildItem $mods -Recurse -File -Filter '*.json' | Where-Object {
     # mod.json 默认跳过(多为元数据); -IncludeModJson 时放行(个别模组的
     # description 等字段是玩家可见的 mod 设置说明, 需要汉化)
     if (-not $IncludeModJson -and $_.Name -in @('mod.json', 'modstate.json')) { $bad = $true }
+    # -pathLike 限定相对路径片段(逗号分隔, 任一匹配即处理)。
+    # Name/Tooltip/Caption/Text 这类字段在别处可能是内部标识符或 ID,
+    # 不能全局替换, 必须把处理范围压到具体文件。
+    if (-not $bad -and $pathLike -ne '') {
+        $rel = $p.Substring($mods.Length).TrimStart($BS)
+        $hit = $false
+        foreach ($pat in ($pathLike -split ',')) {
+            $pat = $pat.Trim()
+            if ($pat -ne '' -and $rel -like ('*' + $pat + '*')) { $hit = $true }
+        }
+        if (-not $hit) { $bad = $true }
+    }
     -not $bad
 }
 

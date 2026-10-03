@@ -1,0 +1,1110 @@
+[
+  {
+    "Caption": "武器",
+    "Filter": {
+      "ComponentTypes": [
+        "Weapon"
+      ]
+    },
+    "Buttons": [
+      {
+        "Icon": "uixSvgIcon_weapon_Ballistic",
+        "Tag": "All",
+        "Tooltip": "显示所有武器",
+        "Filter": {
+          "ComponentTypes": [
+            "Weapon"
+          ]
+        }
+      },
+      {
+        "Icon": "RotaryAC",
+        "Tag": "",
+        "Tooltip": "显示自动炮",
+        "Filter": {
+          "Categories": [
+            "w/a/a/ac",
+            "w/a/a/lac",
+            "w/a/a/hvac",
+            "w/a/a/rac",
+            "w/a/a/shrac",
+            "w/a/a/uac",
+            "w/a/a/md",
+            "w/a/a/lbx",
+            "w/a/a/rifle"
+          ]
+        }
+      },
+      {
+        "Icon": "GAUSS",
+        "Tag": "",
+        "Tooltip": "显示磁射步枪",
+        "Filter": {
+          "Categories": [
+            "w/a/g/gaussrifle",
+            "w/a/g/lightgaussrifle",
+            "w/a/g/heavygaussrifle",
+            "w/a/g/sb",
+            "w/a/g/hag",
+            "w/a/g/railgun",
+            "w/a/g/plasmarailgun",
+            "w/a/g/helicalrailgun",
+            "w/a/g/magshot",
+            "w/a/g/raplbgr",
+            "w/a/g/taser"
+          ]
+        }
+      },
+      {
+        "Icon": "Artillery",
+        "Tag": "",
+        "Tooltip": "显示其他弹道武器",
+        "Filter": {
+          "Categories": [
+            "w/a/o/mg",
+            "w/a/o/artillery",
+            "w/a/o/mortar"
+          ]
+        }
+      },
+      {
+        "Icon": "uixSvgIcon_weapon_Energy",
+        "Tag": "",
+        "Tooltip": "显示激光",
+        "Filter": {
+          "Categories": [
+            "w/e/l/laser",
+            "w/e/l/pulse",
+            "w/e/l/x-pulse",
+            "w/e/l/vspl",
+            "w/e/l/er",
+            "w/e/l/erpulse",
+            "w/e/l/heavy",
+            "w/e/l/bombast",
+            "w/e/l/binary",
+            "w/e/l/re",
+            "w/e/l/chemical"
+          ]
+        }
+      },
+      {
+        "Icon": "PPC",
+        "Tag": "",
+        "Tooltip": "显示PPC(粒子加农炮)",
+        "Filter": {
+          "Categories": [
+            "w/e/p/ppc",
+            "w/e/p/erppc",
+            "w/e/p/hppc",
+            "w/e/p/snppc",
+            "w/e/p/lppc",
+            "w/e/p/rppc",
+            "w/e/p/xppc",
+            "w/e/p/tsemp"
+          ]
+        }
+      },
+      {
+        "Icon": "dragon-breath",
+        "Tag": "",
+        "Tooltip": "显示火焰喷射器及等离子武器",
+        "Filter": {
+          "Categories": [
+            "w/e/p/flamer",
+            "w/e/p/aflamer",
+            "w/e/p/plasma"
+          ]
+        }
+      },
+      {
+        "Icon": "SRM",
+        "Tag": "",
+        "Tooltip": "显示短程火箭",
+        "Filter": {
+          "Categories": [
+            "w/m/s/srm",
+            "w/m/s/ssrm",
+            "w/m/s/mrm",
+            "w/m/s/smrm",
+            "w/m/s/hmrm",
+            "w/m/s/mms",
+            "w/m/s/rl"
+          ]
+        }
+      },
+      {
+        "Icon": "lrm",
+        "Tag": "",
+        "Tooltip": "显示远程导弹",
+        "Filter": {
+          "Categories": [
+            "w/m/l/lrm",
+            "w/m/l/slrm",
+            "w/m/l/elrm",
+            "w/m/l/nlrm",
+            "w/m/l/rlrm",
+            "w/m/t/thunderbolt",
+            "w/m/t/arrowiv",
+            "w/m/t/cruisemissile"
+          ]
+        }
+      },
+      {
+        "Icon": "uixSvgIcon_weapon_Missile",
+        "Tag": "",
+        "Tooltip": "显示多导弹发射系统",
+        "Filter": {
+          "Categories": [
+            "w/m/l/atm",
+            "w/m/l/iatm",
+            "w/m/s/mml",
+            "w/m/s/smml"
+          ]
+        }
+      },
+      {
+        "Icon": "steelwing-emblem",
+        "Tag": "",
+        "Tooltip": "显示AMS(反导)、TAG(目标指示)及支援武器",
+        "Filter": {
+          "Categories": [
+            "w/s/a/ams",
+            "w/s/a/lams",
+            "w/s/t/tag",
+            "w/s/t/narc",
+            "w/s/t/inarc",
+            "w/s/m/melee",
+            "w/s/m/ac",
+            "w/s/m/energy",
+            "w/s/m/explode",
+            "w/s/m/support",
+            "w/s/i/industrial"
+          ]
+        }
+      },
+      {
+        "Icon": "HandHeldRifle",
+        "Tag": "",
+        "Tooltip": "显示特殊及LAM(陆空两用机甲)武器",
+        "Filter": {
+          "Categories": [
+            "w/s/h/HandHeld",
+            "w/s/h/BoltOn",
+            "w/b/b/InternalBombBay",
+            "w/w/w/bomb"
+          ]
+        }
+      },
+      {
+        "Icon": "BattleArmour",
+        "Tag": "",
+        "Tooltip": "显示小队武器",
+        "Filter": {
+          "Categories": [
+            "w/s/m/pa",
+            "ProtoAC",
+            "ProtoLRM",
+            "ProtoSRM",
+            "ProtoMelee",
+            "ProtoLBX",
+            "Fusillade"
+          ]
+        }
+      },
+      {
+        "Text": "err",
+        "tag": "!!!",
+        "Debug": true,
+        "Filter": {
+          "NotCategories": [
+            "w/a/a/ac",
+            "w/a/a/lac",
+            "w/a/a/hvac",
+            "w/a/a/rac",
+            "w/a/a/shrac",
+            "w/a/a/uac",
+            "w/a/a/md",
+            "w/a/a/lbx",
+            "w/a/a/rifle",
+            "w/a/g/gaussrifle",
+            "w/a/g/lightgaussrifle",
+            "w/a/g/heavygaussrifle",
+            "w/a/g/sb",
+            "w/a/g/hag",
+            "w/a/g/railgun",
+            "w/a/g/plasmarailgun",
+            "w/a/g/helicalrailgun",
+            "w/a/g/magshot",
+            "w/a/g/raplbgr",
+            "w/a/g/taser",
+            "w/a/o/mg",
+            "w/a/o/artillery",
+            "w/a/o/mortar",
+            "w/e/l/laser",
+            "w/e/l/pulse",
+            "w/e/l/x-pulse",
+            "w/e/l/vspl",
+            "w/e/l/er",
+            "w/e/l/erpulse",
+            "w/e/l/heavy",
+            "w/e/l/bombast",
+            "w/e/l/binary",
+            "w/e/l/re",
+            "w/e/l/chemical",
+            "w/e/p/ppc",
+            "w/e/p/erppc",
+            "w/e/p/hppc",
+            "w/e/p/snppc",
+            "w/e/p/lppc",
+            "w/e/p/rppc",
+            "w/e/p/xppc",
+            "w/e/p/plasma",
+            "w/e/p/tsemp",
+            "w/e/p/flamer",
+            "w/e/p/aflamer",
+            "w/m/s/srm",
+            "w/m/s/ssrm",
+            "w/m/s/mml",
+            "w/m/s/rl",
+            "w/m/s/mrm",
+            "w/m/s/smrm",
+            "w/m/s/hmrm",
+            "w/m/s/mms",
+            "w/m/l/lrm",
+            "w/m/l/slrm",
+            "w/m/l/elrm",
+            "w/m/l/nlrm",
+            "w/m/l/rlrm",
+            "w/m/l/atm",
+            "w/m/l/iatm",
+            "w/m/t/thunderbolt",
+            "w/m/t/arrowiv",
+            "w/m/t/cruisemissile",
+            "w/s/a/ams",
+            "w/s/a/lams",
+            "w/s/t/tag",
+            "w/s/t/narc",
+            "w/s/t/inarc",
+            "w/s/m/melee",
+            "w/s/m/support",
+            "w/s/m/ac",
+            "w/s/m/energy",
+            "w/s/m/pa",
+            "w/s/m/explode",
+            "w/s/h/HandHeld",
+            "w/s/h/BoltOn",
+            "w/s/i/industrial",
+            "w/b/b/InternalBombBay",
+            "w/w/w/bomb",
+            "ProtoAC",
+            "Fusillade",
+            "ProtoLRM",
+            "ProtoSRM",
+            "ProtoMelee",
+            "ProtoLBX"
+          ]
+        }
+      },
+      {
+        "Text": "err",
+        "tag": "OLD!",
+        "Debug": true,
+        "Filter": {
+          "Categories": [
+            "ATM",
+            "iATM",
+            "Streak",
+            "StreakLRM",
+            "ArrowIV",
+            "Railgun",
+            "ParticleWeapon",
+            "SmartMissile",
+            "CGLauncher",
+            "HAGR",
+            "MRM",
+            "LBX",
+            "LGR",
+            "HGR",
+            "SBGR",
+            "HSBGR",
+            "UAC2",
+            "UAC5",
+            "UAC10",
+            "UAC20",
+            "RAC2RISC",
+            "RAC5RISC",
+            "RAC10",
+            "RAC20",
+            "PLASMA"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Caption": "弹药",
+    "Filter": {
+      "ComponentTypes": [
+        "AmmunitionBox"
+      ]
+    },
+    "Buttons": [
+      {
+        "Tag": "All",
+        "Icon": "uixSvgIcon_weapon_Ballistic",
+        "Tooltip": "显示所有弹药"
+      },
+      {
+        "Tag": "AC",
+        "Icon": "uixSvgIcon_weapon_Ballistic",
+        "Tooltip": "显示自动炮与步枪弹药",
+        "Filter": {
+          "Categories": [
+            "a/a/a/ac",
+            "a/a/a/hvac",
+            "a/a/a/rifle",
+            "a/a/a/md"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Tag": "R/U/LB",
+        "Icon": "RotaryAC",
+        "Tooltip": "显示RAC、UAC及LBX弹药",
+        "Filter": {
+          "Categories": [
+            "a/a/a/rac",
+            "a/a/a/shrac",
+            "a/a/a/uac",
+            "a/a/a/lbx"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Tag": "g",
+        "Icon": "GAUSS",
+        "Tooltip": "显示高斯弹药",
+        "Filter": {
+          "Categories": [
+            "a/a/g/gaussrifle",
+            "a/a/g/hag",
+            "a/a/g/railgun",
+            "a/a/g/helicalrailgun",
+            "a/a/g/plasmarailgun",
+            "a/a/g/raplbgr",
+            "a/a/g/taser",
+            "a/a/g/magshot",
+            "a/a/g/heavygaussrifle",
+            "a/a/g/lightgaussrifle"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Tag": "etc",
+        "Icon": "Artillery",
+        "Tooltip": "显示机枪及火炮弹药",
+        "Filter": {
+          "Categories": [
+            "a/a/o/mg",
+            "a/a/o/artillery",
+            "a/a/o/mortar"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Tag": "srm",
+        "Icon": "SRM",
+        "Tooltip": "显示SRM及锁定式SRM导弹",
+        "Filter": {
+          "Categories": [
+            "a/m/s/srm",
+            "a/m/s/ssrm"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Tag": "mrm",
+        "Icon": "MRM",
+        "Tooltip": "显示MRM、MMS及HMRM导弹",
+        "Filter": {
+          "Categories": [
+            "a/m/s/mrm",
+            "a/m/s/hmrm",
+            "a/m/s/mms"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Tag": "lrm",
+        "Icon": "lrm",
+        "Tooltip": "显示LRM及锁定式LRM导弹",
+        "Filter": {
+          "Categories": [
+            "a/m/l/lrm",
+            "a/m/l/slrm"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Tag": "atm",
+        "Icon": "ATM",
+        "Tooltip": "显示ATM及iATM导弹",
+        "Filter": {
+          "Categories": [
+            "a/m/l/atm",
+            "a/m/l/iatm",
+            "a/m/l/fusillade"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Tag": "etc",
+        "Icon": "thunderbolt",
+        "Tooltip": "显示箭式、雷电及翼挂弹药",
+        "Filter": {
+          "Categories": [
+            "a/m/t/thunderbolt",
+            "a/m/t/arrowiv",
+            "a/m/t/cruisemissile",
+            "a/w/w/bomb"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Icon": "pyromaniac",
+        "Tag": "Nrg",
+        "Tooltip": "显示化学激光、火焰喷射器及等离子武器弹药",
+        "Filter": {
+          "Categories": [
+            "a/e/l/chemical",
+            "a/e/p/plasma",
+            "a/e/p/aflamer"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Icon": "steelwing-emblem",
+        "Tag": "Sup",
+        "Tooltip": "显示支援武器弹药",
+        "Filter": {
+          "Categories": [
+            "a/s/a/ams",
+            "a/s/t/narc",
+            "a/s/t/inarc",
+            "a/s/m/support",
+            "a/s/m/ac",
+            "a/s/m/energy",
+            "a/s/i/industrial"
+          ],
+          "NotCategories": [
+            "ProtoMechAmmo",
+            "a/s/m/pa"
+          ]
+        }
+      },
+      {
+        "Icon": "BattleArmour",
+        "Tag": "Sqd",
+        "Tooltip": "显示小队武器弹药",
+        "Filter": {
+          "Categories": [
+            "a/s/m/pa",
+            "ProtoMechAmmo"
+          ]
+        }
+      },
+      {
+        "Text": "ERR",
+        "tag": "!!!",
+        "Debug": true,
+        "Filter": {
+          "NotCategories": [
+            "a/a/a/ac",
+            "a/a/a/hvac",
+            "a/a/a/rifle",
+            "a/a/a/md",
+            "a/a/g/gaussrifle",
+            "a/a/g/hag",
+            "a/a/g/railgun",
+            "a/a/g/helicalrailgun",
+            "a/a/g/plasmarailgun",
+            "a/a/g/raplbgr",
+            "a/a/g/taser",
+            "a/a/g/magshot",
+            "a/a/g/heavygaussrifle",
+            "a/a/g/lightgaussrifle",
+            "a/s/a/ams",
+            "a/s/t/narc",
+            "a/s/t/inarc",
+            "a/s/m/support",
+            "a/s/m/ac",
+            "a/s/m/energy",
+            "a/s/m/pa",
+            "a/s/i/industrial",
+            "a/e/l/chemical",
+            "a/e/p/plasma",
+            "a/e/p/aflamer",
+            "a/m/t/thunderbolt",
+            "a/m/t/arrowiv",
+            "a/m/t/cruisemissile",
+            "a/m/l/atm",
+            "a/m/l/iatm",
+            "a/m/l/fusillade",
+            "a/m/s/mrm",
+            "a/m/s/hmrm",
+            "a/m/s/mms",
+            "a/m/l/lrm",
+            "a/m/l/slrm",
+            "a/m/s/srm",
+            "a/m/s/ssrm",
+            "a/a/o/mg",
+            "a/a/o/artillery",
+            "a/a/o/mortar",
+            "a/a/a/lbx",
+            "a/a/a/rac",
+            "a/a/a/shrac",
+            "a/a/a/uac",
+            "a/w/w/bomb",
+            "ProtoMechAmmo"
+          ]
+        }
+      },
+      {
+        "Text": "OLD",
+        "tag": "!!!",
+        "Debug": true,
+        "Filter": {
+          "Categories": [
+            "LRMAmmo",
+            "SRMAmmo",
+            "AC10Ammo",
+            "AC20Ammo",
+            "AC2Ammo",
+            "AC5Ammo"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Caption": "内部组件",
+    "Spacing": 4,
+    "Filter": {
+      "ComponentTypes": [
+        "HeatSink",
+        "Upgrade"
+      ]
+    },
+    "Buttons": [
+      {
+        "Text": "全部",
+        "Tooltip": "显示所有散热器及引擎组件"
+      },
+      {
+        "Tag": "",
+        "Icon": "enginecore",
+        "Tooltip": "显示引擎核心",
+        "Filter": {
+          "Categories": [
+            "EngineCore"
+          ]
+        }
+      },
+      {
+        "Tag": "",
+        "Icon": "power-generator",
+        "Tooltip": "显示引擎防护",
+        "Filter": {
+          "Categories": [
+            "EngineShield"
+          ],
+          "NotCategories": []
+        }
+      },
+      {
+        "Tag": "",
+        "Icon": "thermometer-cold",
+        "Tooltip": "散热套件",
+        "Filter": {
+          "Categories": [
+            "Cooling"
+          ],
+          "NotCategories": [
+            "EngineShield"
+          ]
+        }
+      },
+      {
+        "Tag": "",
+        "Icon": "EngineCooling",
+        "Tooltip": "引擎散热",
+        "Filter": {
+          "Categories": [
+            "EngineHeatBlock"
+          ],
+          "NotCategories": [
+            "EngineShield"
+          ]
+        }
+      },
+      {
+        "Tag": "",
+        "Icon": "uixSvgIcon_equipment_Heatsink",
+        "Tooltip": "显示散热器及热量控制装备",
+        "Filter": {
+          "ComponentTypes": [
+            "HeatSink"
+          ],
+          "NotCategories": [
+            "EnginePart",
+            "Cooling",
+            "Special",
+            "CoolantPod",
+            "EngineHeatBlock"
+          ]
+        }
+      },
+      {
+        "Tag": "",
+        "Icon": "CoolantPod",
+        "Tooltip": "显示冷却舱",
+        "Filter": {
+          "Categories": [
+            "CoolantPod"
+          ]
+        }
+      },
+      {
+        "Icon": "shieldcomb",
+        "Tag": "",
+        "Tooltip": "显示装甲",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "Armor"
+          ]
+        }
+      },
+      {
+        "Icon": "uixSvgIcon_ArmourPlate",
+        "Tag": "",
+        "Tooltip": "显示装甲改装件",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "ArmorMod",
+            "CASE",
+            "CASE2"
+          ]
+        }
+      },
+      {
+        "Icon": "Structure",
+        "Tag": "",
+        "Tooltip": "显示结构",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "Structure",
+            "StructureMod",
+            "Patchwork"
+          ]
+        }
+      },
+      {
+        "Icon": "uixSvgIcon_equipment_Gyro",
+        "Tag": "",
+        "Tooltip": "显示陀螺仪",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "Gyro"
+          ]
+        }
+      },
+      {
+        "Icon": "leg-armor",
+        "Tag": "",
+        "Tooltip": "显示腿部升级件",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "LegHip",
+            "LegUpperActuator",
+            "LegLowerActuator",
+            "LegFootActuator",
+            "ActuatorEnhancementSystemLegs",
+            "ActuatorEnhancementSystemQuad"
+          ]
+        }
+      },
+      {
+        "Icon": "metal-hand",
+        "Tag": "",
+        "Tooltip": "显示手臂升级件",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "ArmShoulder",
+            "ArmUpperActuator",
+            "ArmLowerActuator",
+            "ArmHandActuator",
+            "OmniLowerActuator",
+            "OmniLowerActuatorQS",
+            "OmniHandActuator",
+            "OmniHandActuatorQS",
+            "MeleeActuator",
+            "MeleeSTAB",
+            "MeleeACC",
+            "ActuatorEnhancementSystemArms"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Caption": "装备",
+    "Filter": {
+      "ComponentTypes": [
+        "JumpJet",
+        "Upgrade",
+        "HeatSink"
+      ]
+    },
+    "Buttons": [
+      {
+        "Text": "全部",
+        "Tooltip": "显示所有装备"
+      },
+      {
+        "Icon": "uixSvgIcon_action_jump",
+        "Tag": "",
+        "Tooltip": "显示跳跃推进器",
+        "Filter": {
+          "ComponentTypes": [
+            "JumpJet"
+          ],
+          "NotCategories": []
+        }
+      },
+      {
+        "Icon": "AdvancedTC",
+        "Tag": "",
+        "Tooltip": "显示作战电脑(BC)",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "TargetingComputer",
+            "BCEva",
+            "BCCluster",
+            "BCCrit",
+            "BCRange",
+            "BCEnergy",
+            "BCBallistic",
+            "BCMissile",
+            "BCHeat",
+            "BCRecoil",
+            "BCIndirect",
+            "BCHeadshot",
+            "BCConvergence",
+            "BCGuts",
+            "BCGunnery",
+            "BCPiloting",
+            "BCTactics",
+            "BCMinRange",
+            "BCShortRange",
+            "BCMediumRange",
+            "BCLongRange",
+            "BCMaxRange",
+            "BCMultiTrac",
+            "BCOptics",
+            "BCOrssos",
+            "BCSniper",
+            "BCSnafu",
+            "BCCurse",
+            "BCAA",
+            "BCJam"
+          ]
+        }
+      },
+      {
+        "Icon": "WeaponAttachment",
+        "Tag": "",
+        "Tooltip": "显示武器附件与改进件",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "WeaponAttachment",
+            "RecoilDamper",
+            "HPCS"
+          ]
+        }
+      },
+      {
+        "Icon": "StealthArmor",
+        "Tag": "",
+        "Tooltip": "显示电子战(EW)设备",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "ECM",
+            "Probe",
+            "AdvECM",
+            "UAV",
+            "C3Master",
+            "C3Slave",
+            "C3i",
+            "SensorStealthMod",
+            "MimeticStealthMod",
+            "SensorStealthSystem",
+            "StealthEngine",
+            "MimeticStealthSystem",
+            "Chameleon",
+            "StealthX",
+            "VoidSignatureSystem"
+          ]
+        }
+      },
+      {
+        "Icon": "uixSvgIcon_equipment_Generic",
+        "Tooltip": "显示其他装备",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "NotCategories": [
+            "Armor",
+            "ArmorMod",
+            "Structure",
+            "StructureMod",
+            "Gyro",
+            "LifeSupportA",
+            "LifeSupportB",
+            "Cockpit",
+            "CockpitFCS",
+            "CockpitSensors",
+            "LegHip",
+            "LegUpperActuator",
+            "LegLowerActuator",
+            "LegFootActuator",
+            "ArmShoulder",
+            "ArmUpperActuator",
+            "ArmLowerActuator",
+            "ArmHandActuator",
+            "OmniLowerActuator",
+            "OmniLowerActuatorQS",
+            "OmniHandActuator",
+            "OmniHandActuatorQS",
+            "ActuatorEnhancementSystemArms",
+            "ActuatorEnhancementSystemLegs",
+            "ActuatorEnhancementSystemQuad",
+            "MeleeActuator",
+            "MeleeSTAB",
+            "MeleeACC",
+            "Special",
+            "SpecialShield",
+            "SpecialMelee",
+            "ECM",
+            "Probe",
+            "AdvECM",
+            "UAV",
+            "C3Master",
+            "C3Slave",
+            "C3i",
+            "StealthSystemAdd",
+            "MimeticSystemAdd",
+            "SensorStealthSystem",
+            "MimeticStealthSystem",
+            "Chameleon",
+            "VoidSignatureSystem",
+            "TargetingComputer",
+            "BCEva",
+            "BCCluster",
+            "BCCrit",
+            "BCRange",
+            "BCEnergy",
+            "BCBallistic",
+            "BCMissile",
+            "BCHeat",
+            "BCRecoil",
+            "BCIndirect",
+            "BCHeadshot",
+            "BCConvergence",
+            "BCGuts",
+            "BCGunnery",
+            "BCPiloting",
+            "BCTactics",
+            "BCMinRange",
+            "BCShortRange",
+            "BCMediumRange",
+            "BCLongRange",
+            "BCMaxRange",
+            "BCMultiTrac",
+            "BCOptics",
+            "BCOrssos",
+            "BCSniper",
+            "BCSnafu",
+            "BCCurse",
+            "BCAA",
+            "BCJam",
+            "WeaponAttachment",
+            "RecoilDamper",
+            "HPCS"
+          ]
+        }
+      },
+      {
+        "Icon": "uixSvgIcon_equipment_Cockpit",
+        "Tag": "",
+        "Tooltip": "驾驶舱",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "LifeSupportA",
+            "LifeSupportB",
+            "Cockpit"
+          ],
+          "NotCategories": []
+        }
+      },
+      {
+        "Icon": "targeting",
+        "Tag": "",
+        "Tooltip": "火控系统",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "CockpitFCS"
+          ],
+          "NotCategories": [
+            "Cockpit"
+          ]
+        }
+      },
+      {
+        "Icon": "uixSvgIcon_equipment_Comms",
+        "Tag": "",
+        "Tooltip": "传感器",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "CockpitSensors"
+          ],
+          "NotCategories": [
+            "Cockpit"
+          ]
+        }
+      },
+      {
+        "Icon": "swordman",
+        "Tooltip": "显示近战装备",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "SpecialMelee"
+          ]
+        }
+      },
+      {
+        "Icon": "swords-emblem",
+        "Tooltip": "显示护盾",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade"
+          ],
+          "Categories": [
+            "SpecialShield"
+          ]
+        }
+      },
+      {
+        "Icon": "circuitry",
+        "Tag": "",
+        "Tooltip": "显示特殊装备",
+        "Filter": {
+          "ComponentTypes": [
+            "Upgrade",
+            "HeatSink",
+            "JumpJet"
+          ],
+          "Categories": [
+            "Special"
+          ],
+          "NotCategories": [
+            "SpecialShield",
+            "SpecialMelee",
+            "w/s/h/HandHeld",
+            "w/s/h/BoltOn",
+            "Quirk"
+          ]
+        }
+      }
+    ]
+  }
+]

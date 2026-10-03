@@ -1,0 +1,36 @@
+{
+	"Dialog": {
+"SCRAP_ALL_TITLE": "报废仓库",
+"SCRAP_ALL_ASSAULT": "报废仓库中的袭击型机甲",
+"SCRAP_ALL_HEAVY": "报废仓库中的重型机甲",
+"SCRAP_ALL_LIGHT": "报废仓库中的轻型机甲",
+"SCRAP_ALL_MEDIUM": "报废仓库中的中型机甲",
+"SCRAP_ALL_DESC": "这将拆解仓库中当前存放的机甲，获得 {0} 星币. 此操作不可撤销，你需要加载之前的存档才能恢复. 确定吗?",
+"BUTTON_CANCEL": "取消",
+"BUTTON_SCRAP": "报废"
+	},
+
+	"Floaties": {
+"INJURY_RESIST": "伤势抵抗!"
+	},
+
+	"Labels" : {
+"MECHBAY_CONFIRM_TEXT" : "确认"
+	},
+
+	"Modifiers": {
+"CALLED_SHOT": "精准射击"
+	},
+
+	"SimGameDifficultyStrings": {
+"DESCRIPTION": "总体难度",
+"LABEL": "难度"
+	},
+
+	"Tooltips": {
+"COMBAT_SAVE_TITLE": "战斗中存档已禁用",
+"COMBAT_SAVE_DETAILS": "战斗中禁止存档，以防止模组游戏出错. 加载模组游戏可保持一致的行为，因为很少有模组会把数据写入存档.",
+"COMBAT_RESTART_TITLE": "任务重新开始已禁用",
+"COMBAT_RESTART_DETAILS": "为避免模组游戏出错，已禁用战斗中重新开始任务的功能. 重新开始任务常会导致战利品界面出现存档损坏."
+	}
+}

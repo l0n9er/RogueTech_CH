@@ -1,0 +1,219 @@
+Passed shutdown override	已成功强制取消关机
+Failed shutdown override	强制取消关机失败
+Falling from shutdown	因关机而倒地
+Ammo explosion check	弹药爆炸检定
+Volatile ammo explosion check	易爆弹药爆炸检定
+Shutdown check	关机检定
+Startup check	开机检定
+Pilot injury check	机师受伤检定
+System failure check	系统故障检定
+Falling check	倒地检定
+Overheat death	过热死亡
+Falling death	倒地死亡
+Kick falling check	踢击倒地检定
+Charge falling check	冲撞倒地检定
+DFA falling check	死神天降倒地检定
+Sprinted with damage	受损状态下冲刺
+Jumped with damage	受损状态下跳跃
+Automatic failure	自动失败
+Hull breach check	船体破裂检定
+Swarm attack!	攀附攻击!
+HEAT LEVEL	热量等级
+Projected heat: {0} of {1}	预计热量 {0}/{1}
+\n  Heat: {0} of {1}, will sink: {2} of {3} (<color=#{4}>x{5:#.#}</color>)	\n  热量: {0}/{1}，将散去: {2}/{3} (<color=#{4}>x{5:#.#}</color>)
+\nAmmo explosion on (d100+{0}) < {1}	\n弹药爆炸检定 (d100+{0}) < {1}
+Guaranteed ammo explosion!	弹药必定爆炸!
+\nPilot injury on (d100+{0}) < {1}	\n机师受伤检定 (d100+{0}) < {1}
+\nSystem failure on (d100+{0}) < {1}	\n系统故障检定 (d100+{0}) < {1}
+\nShutdown on (d100+{0}) < {1}	\n关机检定 (d100+{0}) < {1}
+\nGuaranteed shutdown!	必定关机!
+\nAttack penalty: +{0}	\n攻击惩罚: +{0}
+\nMovement penalty: -{0}m	\n移动惩罚: -{0}米
+SHUT DOWN	关机
+This target is easier to hit, and Called Shots can be made against this target. When clicking the Restart button, a piloting check will decide if the unit restarts.	该目标更容易被命中，且可对其进行部位瞄准. 点击重启按钮时，将通过一次驾驶技能检定来决定该单位是否能够重启.
+OVERHEATING	过热
+This unit will suffer penalties, may shut down or even explode unless heat is reduced past critical levels.\n<i>Hover over the heat bar to see a detailed breakdown.</i>	该单位将承受惩罚，若不将热量降至临界水平以下，可能关机甚至爆炸. \n<i>将光标悬停在热量条上可查看详细拆分.</i>
+<align="left"><b>CHARGE</b> damages both the attacker and target.\n<color=#00ff00>Target    DMG: {0} STAB: {1}  {2}</color>\n<color=#ff0000>Attacker  DMG: {3} STAB: {4}  {5}</color>\n	<align=\"left\"><b>冲撞</b>会对攻击者和目标双方造成伤害.\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>\n<color=#ff0000>攻击者  伤害: {3} 稳伤: {4}  {5}</color>\n
+<align="left"><b>DFA</b> damages both the attacker and target.\n<color=#00ff00>Target    DMG: {0} STAB: {1}  {2}</color>\n<color=#ff0000>Attacker  DMG: {3} STAB: {4}  {5}</color>\n	<align=\"left\"><b>DFA</b>会对攻击者和目标双方造成伤害.\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>\n<color=#ff0000>攻击者  伤害: {3} 稳伤: {4}  {5}</color>\n
+<align="left"></b>KICK</b>\n<color=#00ff00>Target    DMG: {0} STAB: {1}  {2}</color>	<align=\"left\"></b>踢击</b>\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>
+<align="left"><b>PHYSICAL WEAPON</b>\n<color=#00ff00>Target    DMG: {0} STAB: {1}  {2}</color>	<align=\"left\"><b>物理武器</b>\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>
+<align="left"><b>PUNCH</b>\n<color=#00ff00>Target    DMG: {0} STAB: {1}  {2}</color>	<align=\"left\"><b>拳击</b>\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>
+ATTACKER JUMPED	攻击方跳跃
+{0} dmg	{0}伤害
+{0} stab	{0}稳定性
++{0} heat	+{0}热量
+CHARGE	冲撞
+DFA	死神天降
+KICK	踢击
+PHY. WEAPON	物理武器
+PUNCH	拳击
+<size=80%>Can hit: head, arms, torsos</size>	<size=80%>可命中: 头部、手臂、躯干</size>
+<size=80%>Can hit: legs</size>	<size=80%>可命中: 腿部</size>
+<size=80%>Can hit: everywhere</size>	<size=80%>可命中: 所有部位</size>
+MELEE - {0}	近战 - {0}
+(w/p/k)	(武器/拳击/踢击)
+Shit! Explosive decompression!	该死! 爆炸性失压!
+Hull breach detected!	侦测到舱体破裂!
+I hope life support holds up.	但愿生命维持系统撑得住.
+There are cracks in my cockpit!	我的驾驶舱出现裂痕了!
+Components crippled by vacuum!	组件因真空环境受损!
+A lot of red from that hit!	那一击损毁了一大片!
+Damn! Lost a lot of gear...	该死! 损失了一大堆装备……
+Oh ... shit!	哦……该死!
+F.M.L.	我靠!
+This is going to hurt...	这下要疼了……
+Screw you, gravity!	见鬼去吧，重力!
+Going down!	要倒了!
+Stability lost! Controls unresponsive!	稳定性丧失! 操控无响应!
+Bracing for ground impact.	准备承受地面撞击.
+Dampening neurohelm feedback.	正在抑制神经头盔的反馈.
+Hope the armor takes it...	但愿装甲扛得住……
+About to bite the dust!	要啃一嘴土了!
+Start, damn you!	启动啊，你这该死的!
+Override, damn it! Override!!	超载，该死! 超载!!
+Time to void the warranty...	是时候让保修见鬼去了……
+What?! I put in the startup sequence!	什么?! 我明明输入了启动指令!
+SCRAP ALL IN STORAGE	报废仓库
+SCRAP ASSAULTS IN STORAGE	报废仓库中的袭击型机甲
+SCRAP HEAVIES IN STORAGE	报废仓库中的重型机甲
+SCRAP LIGHTS IN STORAGE	报废仓库中的轻型机甲
+SCRAP MEDIUMS IN STORAGE	报废仓库中的中型机甲
+This will scrap units currently in storage, gaining {0} c-bills. This action cannot be reversed, you will need to load an earlier save. Are you sure?	这将拆解仓库中当前存放的机甲，获得 {0} 星币. 此操作不可撤销，你需要加载之前的存档才能恢复. 确定吗?
+CANCEL	取消
+SCRAP	报废
+INJURY RESISTED!	伤势抵抗!
+Validate	确认
+Called Shot	精准射击
+Overall Difficulty	总体难度
+Difficulty	难度
+Combat Saves Disabled	战斗中存档已禁用
+Mission Restarts Disabled	任务重新开始已禁用
+Restarting a missing during combat is disabled to prevent errors in modded games. Restarting often leads to corruption at the salvage screen.	为避免模组游戏出错，已禁用战斗中重新开始任务的功能. 重新开始任务常会导致战利品界面出现存档损坏.
+UPKEEP: {0}	维护费用: {0}
+CARGO: Gear ({0} units)	货舱: 装备（{0} 单位）
+CARGO: Mech Parts ({0} tons)	货舱: 机甲部件（{0} 吨）
+\n\n<color=#FF0000>Cargo Cost: {0} from {1} tons</color>	\n\n<color=#FF0000>货舱费用: {0}（{1} 吨）</color>
+\n\n<color=#FF0000>Cargo Cost: {0} from {1}u size</color>	\n\n<color=#FF0000>货舱费用: {0}（{1}u 大小）</color>
+Bright	明亮
+Dim	昏暗
+Dark	黑暗
+Fog	雾天
+Dense Fog	浓雾
+Snow	雪天
+Rain	雨天
+<b>Sensors</b><size=90%> <color=#{0}>{1:#.00}m</color> Multi:<color=#{2}> x{3}</color> [{4}]\n	<b>传感器</b><size=90%> <color=#{0}>{1:#.00}米</color> 倍率:<color=#{2}> x{3}</color> [{4}]\n
+<b>Visuals</b><size=90%> <color=#00FF00>{0:0}m</color> Scan:{1}m [{2}]\n	<b>视野</b><size=90%> <color=#00FF00>{0:0}米</color> 扫描:{1}米 [{2}]\n
+  Total: <color=#{0}>{1:+0;-#}</color><size=90%> Roll: <color=#{2}>{3:+0;-#}</color> Tactics: <color=#00FF00>{4:+0;-#}</color> AdvSen: <color=#{5}>{6:+0;-#}</color>\n 	  总计: <color=#{0}>{1:+0;-#}</color><size=90%> 检定: <color=#{2}>{3:+0;-#}</color> 战术: <color=#00FF00>{4:+0;-#}</color> 高级传感器: <color=#{5}>{6:+0;-#}</color>\n 
+<b>Thermals</b><size=90%> Mod: <color=#{0}>{1:+0;-#}</color> / {2} heat Range: {3}m\n	<b>热成像</b><size=90%> 修正: <color=#{0}>{1:+0;-#}</color> / {2} 热量 距离: {3}米\n
+<b>Zoom</b><size=90%> Mod: <color=#{0}>{1:+0;-#}</color> Cap: <color=#{2}>{3:+0;-#}</color> Range: {4}m\n	<b>变焦</b><size=90%> 修正: <color=#{0}>{1:+0;-#}</color> 上限: <color=#{2}>{3:+0;-#}</color> 距离: {4}米\n
+No Info	无信息
+Type	类型
+Armor+WeapType	装甲 + 武器类型
+Struct+Weapon	结构 + 武器
+All Info	全部信息
+Unknown	未知
+FIRING BLIND	盲射
+NO VISUALS	无目视接触
+ZOOM VISION	变焦视野
+HEAT VISION	热成像视觉
+MIMETIC ARMOR	拟态装甲
+NO SENSORS	无传感器
+ECM JAMMING	ECM干扰
+ECM SHIELD	ECM护盾
+STEALTH	潜行者
+NARCED	被Narc标记
+TAGGED	被TAG标记
+Ballistic	弹道
+Energy	能量
+Missile	导弹
+Unidentified	未识别
+VISION AND SENSORS	视觉和传感器
+SENSORS OFFLINE	传感器离线
+Sensors offline during the first round of the battle.	传感器在第一轮战斗中离线.
+ELECTRONIC WARFARE	电子战
+<size=90%><b>ECM SHIELD</b>: <color=#{0}>{1:+0;-#}</color> to detect or attack.\n	<size=90%><b>ECM护盾</b>: <color=#{0}>{1:+0;-#}</color> 侦测或攻击.\n
+<size=90%><b>ECM JAMMING</b>: <color=#{0}>{1:+0;-#} sensor details.</color>\n	<size=90%><b>ECM干扰</b>: <color=#{0}>{1:+0;-#} 传感器细节.</color>\n
+<size=90%><b>ACTIVE PROBE</b>: <color=#{0}>{1:+0;-#}</color> to enemy ECM, Stealth, Mimetic\n	<size=90%><b>主动探头</b>: <color=#{0}>{1:+0;-#}</color> 敌方ECM、潜行、拟态\n
+<size=90%><b>NARCED</b>: <color=#{0}>{1:+0;-#}</color> to attack and detect.\n	<size=90%><b>被Narc标记</b>: <color=#{0}>{1:+0;-#}</color> 攻击与探测.\n
+<size=90%><b>PROBE PINGED</b>: <color=#{0}>{1:+0;-#}</color> to detect.\n	<size=90%><b>被探头标记</b>: <color=#{0}>{1:+0;-#}</color> 侦测.\n
+<size=90%><b>TAGGED</b>: <color=#{0}>{1:+0;-#}</color> attack and detection modifier.\n	<size=90%><b>已被TAG标记</b>: <color=#{0}>{1:+0;-#}</color> 攻击与探测修正.\n
+<size=90%><b>MIMETIC</b>: <color=#{0}>{1:+0;-#}</color> attack modifier.\n	<size=90%><b>拟态</b>: <color=#{0}>{1:+0;-#}</color> 攻击修正.\n
+<size=90%><b>STEALTH</b>: med. <color=#{0}>{1:+0;-#}</color> / long <color=#{0}>{2:+0;-#}</color> / ext. <color=#{0}>{3:+0;-#}</color> attack modifier\n	<size=90%><b>潜行</b>: 中距 <color=#{0}>{1:+0;-#}</color> / 长距 <color=#{0}>{2:+0;-#}</color> / 极远 <color=#{0}>{3:+0;-#}</color> 攻击修正\n
+  Walk: {0}m  Run: {1}m  Jump: {2}m\n	  行走: {0}米  奔跑: {1}米  跳跃: {2}米\n
+  Cruise: {0}m  Flank: {1}m\n	  巡航: {0}米  侧翼: {1}米\n
+  Distance: {0}m\n	  距离: {0}米\n
+  Heat: {0} of {1}\n	  热量: {0}/{1}\n
+  Instability: {0} of {1}\n	  稳定性: {0}/{1}\n
+{0} tons	{0}吨
+SIZE DELTA	体型差值
+KNOCKDOWN! -{0} INIT	击倒! 主动权 -{0}
+CALLED SHOT! -{0} INIT	精准射击! 主动权 -{0}
+CALLED SHOT! -{0} INIT NEXT ROUND	精准射击! 下回合主动权 -{0}
+VIGILANCE! +{0} INIT NEXT ROUND!	警戒状态! 下回合主动权 +{0}!
+<b>BASE</b>: {0} (<i>from tonnage</i>)	<b>基础</b>: {0} (<i>由吨位决定</i>)
+<space=2em><color=#{0}>{1:+0;-#} unit type</color>	<space=2em><color=#{0}>{1:+0;-#} 单位类型</color>
+<space=2em><color=#{0}>{1:+0;-#} components</color>	<space=2em><color=#{0}>{1:+0;-#} 组件</color>
+<space=2em><color=#{0}>{1:+0;-#} lance</color>	<space=2em><color=#{0}>{1:+0;-#} 小队</color>
+<space=2em>{0:+0;-#} tactics	<space=2em>{0:+0;-#} 战术
+<b>TOTAL</b>: {0}	<b>总计</b>: {0}
+<space=2em><color=#FF0000>{0} to {1} random</color> (<i>reduced by tactics</i>)	<space=2em><color=#FF0000>{0} 至 {1} 随机</color> (<i>受战术技能影响而降低</i>)
+<b>EXPECTED PHASE</b>: {0}	<b>预计阶段</b>: {0}
+<b>EXPECTED PHASE</b>: {0} to {1}	<b>预计阶段</b>: {0} 至 {1}
+INITIATIVE	主动权
+CHASSIS => tonnage: {0}	机体 => 吨位: {0}
+<color=#{0}>{1:+0;-#} unit type</color>	<space=2em><color=#{0}>{1:+0;-#} 单位类型</color>
+<color=#{0}>{1:+0;-#} components</color>	<space=2em><color=#{0}>{1:+0;-#} 组件</color>
+<color=#FF0000>{0} crippled</color>	<color=#FF0000>{0} 严重受损</color>
+<color=#FF0000>{0} prone</color>	<color=#FF0000>{0} 倒地</color>
+<color=#FF0000>{0} shutdown</color>	<color=#FF0000>{0} 关机</color>
+PILOT => Tactics: <color=#00FF00>{0:+0}</color>	机师 => 战术: <color=#00FF00>{0:+0}</color>
+<color=#{0}>{1:+0;-#} pilot tags</color>	<color=#{0}>{1:+0;-#} 机师标签</color>
+<color=#00FF00>{0} inspired</color>	<color=#00FF00>{0} 受到鼓舞</color>
+<color=#{0}>{1:+0;-#} injury</color>	<color=#{0}>{1:+0;-#} 受伤</color>
+<color=#FF0000>{0} hesitation</color>	<color=#FF0000>{0} 犹豫</color>
+<color=#FF0000>{0} called shot</color>	<color=#FF0000>{0} 精准射击</color>
+<color=#00FF00>{0} vigilance</color>	<color=#00FF00>{0} 警戒状态</color>
+\nRANDOM => <color=#FF0000>{0} to {1}</color> <i>(reduced by tactics)</i>	\n随机 => <color=#FF0000>{0} 至 {1}</color><i>(受战术技能影响而降低)</i>
+EXPECTED PHASE: <b>{0} to {1}</b>	<b>预计阶段</b>: {0} 至 {1}
+<i>Hover initiative in Mechlab & Deploy for details.</i>	<i>在机甲实验室和部署界面中，将光标悬停在主动权上以查看详情.</i>
+ACTUATOR DAMAGE	驱动器损伤
+PILOTING DELTA	驾驶差值
+EASY TO KICK	容易被踢倒
+PRONE MELEE TARGET	倒地的近战目标
+OVERHEATED	过热
+CHARGE MOD	冲撞修正
+KICK MOD	踢击修正
+PUNCH MOD	拳击修正
+P.WEAP MOD	物理武器修正
+DFA MOD	死神天降修正
+DFA TYPE MOD	死神天降类型修正
+Saving during combat is disabled to prevent errors in modded games. Loading a modded game can result in consistent behavior, as few mods write their data into the saves.	战斗中禁止存档，以防止模组游戏出错. 加载模组游戏可保持一致的行为，因为很少有模组会把数据写入存档.
+Physical	物理
+Test	测试
+I've lost something to atmo!	我有东西掉进大气层了!
+I can't breathe!	我喘不上气了!
+Can't keep her steady!	稳不住机体!
+Gyro's not compensating!	陀螺仪补偿失效!
+You're a bastard, Newton.	你个混蛋，牛顿.
+Controls are locked up! I can't stop the fall!	操控锁死了! 我止不住下坠!
+Past the critical point! She's going down!	超过临界点了! 要倒了!
+Impact protection, don't fail me now...	撞击防护，千万别在这时候掉链子……
+I can't see through this heat!	热量太高，我看不清!
+Where's the start button!?	启动按钮在哪!?
+Why won't you turn on?!	你怎么就启动不了?!
+Feel the weight of your failure	感受你失败的重量吧
+Dreams - crushed	梦想——破灭
+Bigger is better	越大越好
+Another gnat squashed	又拍扁一只小虫
+What was that bump?	刚才那一下撞的是什么?
+Damn, that scratched the paint	该死，把漆刮花了
+Not very nimble, are you?	身手不太灵活嘛，是吧?
+Try dodging next time	下次试着躲开点
+You'll need a scraper for that salvage	那堆废铁你得上铲子了
+Get out there and defend me!	出去给我挡住他们!
+Scrambling support units!	紧急出动支援单位!
+Launch support units!	发射支援单位!
+Need coverage on the flank!	侧翼需要掩护!
+Deploy when ready!	准备好了就部署!
+Prep engines for takeoff	准备引擎起飞
+Go for launch. Get us out of here!	准备升空. 带我们离开这!

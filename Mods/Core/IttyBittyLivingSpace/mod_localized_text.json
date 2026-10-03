@@ -1,0 +1,13 @@
+{
+    "Labels" : {
+"MECH_UPKEEP" : "维护费用: {0}", 
+"CARGO_GEAR" : "货舱: 装备（{0} 单位）",
+"CARGO_MECH_PARTS" : "货舱: 机甲部件（{0} 吨）"
+    },
+	
+	"Tooltips" : {
+"CARGO_CHASSIS" : "\n\n<color=#FF0000>货舱费用: {0}（{1} 吨）</color>",
+"CARGO_EQUIPMENT" : "\n\n<color=#FF0000>货舱费用: {0}（{1}u 大小）</color>",
+"CARGO_WEAPON" : "\n\n<color=#FF0000>货舱费用: {0}（{1}u 大小）</color>"
+	}	
+}

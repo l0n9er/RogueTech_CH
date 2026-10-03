@@ -1,0 +1,2621 @@
+{
+  "difficultyList": [
+    {
+      "ID": "diff_ironMan",
+      "Name": "铁人模式",
+      "UIOrder": 0,
+      "Tooltip": "铁人模式限制你只能有一个存档. 包括机甲损失、机甲战士死亡、任务失败在内的所有后果都是<i>永久性</i>的. <color=#F79B26>资金耗尽<i>或</i>任何优先任务的失败将导致战役失败. 该设定是专门为老手和那些寻求重大挑战的人准备的.</color>",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": true,
+      "StartOnly": true,
+      "DefaultIndex": 0,
+      "Options": [
+        {
+          "ID": "diff_IM_off",
+          "Name": "关闭",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "IronManMode",
+              "ConstantValue": "False"
+            }
+          ]
+        },
+        {
+          "ID": "diff_IM_on",
+          "Name": "打开",
+          "DifficultyValue": 3,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "IronmanMode",
+              "ConstantValue": "True"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_mechConstruction",
+      "Name": "组装机甲所需部件数量",
+      "UIOrder": 2,
+      "Tooltip": "<color=#F79B26>请使用第二个设置！</color>此设置控制组装一台新机甲所需获取的打捞或购买的机甲部件数量. 提高此数值会使新机甲更加稀有，更难获得. <color=#F79B26>此项被硬编码置顶.</color>",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 2,
+      "Options": [
+        {
+          "ID": "diff_MC_easy",
+          "Name": "3",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultMechPartMax",
+              "ConstantValue": "3"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MC_easy2",
+          "Name": "4",
+          "DifficultyValue": 1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultMechPartMax",
+              "ConstantValue": "4"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MC_med",
+          "Name": "5",
+          "DifficultyValue": 1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultMechPartMax",
+              "ConstantValue": "5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MC_med2",
+          "Name": "6",
+          "DifficultyValue": 1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultMechPartMax",
+              "ConstantValue": "6"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MC_med",
+          "Name": "7",
+          "DifficultyValue": 2,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultMechPartMax",
+              "ConstantValue": "7"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MC_hard",
+          "Name": "8",
+          "DifficultyValue": 3,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultMechPartMax",
+              "ConstantValue": "8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_mechDestruction",
+      "Name": "机甲回收概率",
+      "UIOrder": 3,
+      "Tooltip": "此设置定义回收一台被摧毁机甲的额外概率. <color=#F79B26>即免费取回自己机甲的概率.</color>",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 5,
+      "Options": [
+        {
+          "ID": "diff_MD_100",
+          "Name": "100%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "1.5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_90",
+          "Name": "90%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "1.4"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_80",
+          "Name": "80%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "1.3"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_70",
+          "Name": "70%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "1.2"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_60",
+          "Name": "60%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "1.1"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_50",
+          "Name": "50%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "1"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_40",
+          "Name": "40%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "0.9"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_30",
+          "Name": "30%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "0.8"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_20",
+          "Name": "20%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "0.7"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_10",
+          "Name": "10%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "0.6"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MD_on",
+          "Name": "00%",
+          "DifficultyValue": 2,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Salvage",
+              "ConstantName": "DestroyedMechRecoveryChance",
+              "ConstantValue": "0.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_contractDifficulty",
+      "Name": "敌军实力",
+      "UIOrder": 4,
+      "Tooltip": "此设置按档位调整敌军小队实力，每档大约相差半颗骷髅等级.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 2,
+      "Options": [
+        {
+          "ID": "diff_CMD_veryeasy",
+          "Name": "非常简单",
+          "DifficultyValue": -2,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "-2"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_easy",
+          "Name": "别伤着我",
+          "DifficultyValue": -1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "-1"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_med",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "0"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_hard",
+          "Name": "困难",
+          "DifficultyValue": 1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "1"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_veryhard",
+          "Name": "雇佣兵",
+          "DifficultyValue": 2,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "2"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_pirate",
+          "Name": "海盗",
+          "DifficultyValue": 3,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "3"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_warlord",
+          "Name": "战争领主",
+          "DifficultyValue": 4,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "4"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_Clanner",
+          "Name": "氏族佬",
+          "DifficultyValue": 5,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_nothing",
+          "Name": "小菜一碟",
+          "DifficultyValue": 6,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "6"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_bringit",
+          "Name": "放马过来！",
+          "DifficultyValue": 7,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "7"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_HMPlenty",
+          "Name": "尽管伤我",
+          "DifficultyValue": 8,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "8"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_nightmare",
+          "Name": "噩梦",
+          "DifficultyValue": 9,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "9"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_spankme",
+          "Name": "把我打趴！",
+          "DifficultyValue": 10,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_DifficVariance",
+      "Name": "合约难度波动",
+      "UIOrder": 6,
+      "Tooltip": "设置生成合约与全局难度之间允许的最大难度差异. <color=#F79B26>每个数值代表与你的全局难度相差半颗骷髅等级.</color>",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 3,
+      "Options": [
+        {
+          "ID": "diff_DV_5",
+          "Name": "5",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyVariance",
+              "ConstantValue": "5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_DV_4",
+          "Name": "4",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyVariance",
+              "ConstantValue": "4"
+            }
+          ]
+        },
+        {
+          "ID": "diff_DV_3",
+          "Name": "3",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyVariance",
+              "ConstantValue": "3"
+            }
+          ]
+        },
+        {
+          "ID": "diff_DV_2",
+          "Name": "2",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyVariance",
+              "ConstantValue": "2"
+            }
+          ]
+        },
+        {
+          "ID": "diff_DV_1",
+          "Name": "1",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyVariance",
+              "ConstantValue": "1"
+            }
+          ]
+        },
+        {
+          "ID": "diff_DV_0",
+          "Name": "0",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "ContractDifficultyVariance",
+              "ConstantValue": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_contractPayment",
+      "Name": "合约报酬",
+      "UIOrder": 7,
+      "Tooltip": "该设定控制着整个游戏里合约支付的星币数量. 调整该设定让游戏的经济多少宽裕些.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 1,
+      "Options": [
+        {
+          "ID": "diff_CP_easy",
+          "Name": "慷慨",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ContractPricePerDifficulty",
+              "ConstantValue": "300000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CP_med",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ContractPricePerDifficulty",
+              "ConstantValue": "200000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CP_hard",
+          "Name": "小气",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ContractPricePerDifficulty",
+              "ConstantValue": "150000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CP_superhard",
+          "Name": "小气鬼",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ContractPricePerDifficulty",
+              "ConstantValue": "100000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_baseSalvage",
+      "Name": "战利品",
+      "UIOrder": 8,
+      "Tooltip": "该设定能调整你从谈判中获得的战利品数量. 调整该设定让游戏的经济多少宽裕些.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 1,
+      "Options": [
+        {
+          "ID": "diff_BS_high",
+          "Name": "慷慨",
+          "DifficultyValue": -1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ContractFloorSalvageBonus",
+              "ConstantValue": "2"
+            }
+          ]
+        },
+        {
+          "ID": "diff_BS_med",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ContractFloorSalvageBonus",
+              "ConstantValue": "1"
+            }
+          ]
+        },
+        {
+          "ID": "diff_BS_low",
+          "Name": "小气",
+          "DifficultyValue": 1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ContractFloorSalvageBonus",
+              "ConstantValue": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_CommanderEXP",
+      "Name": "指挥官经验值",
+      "UIOrder": 9,
+      "Tooltip": "使用此设置决定你的指挥官初始经验值.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 1,
+      "Options": [
+        {
+          "ID": "diff_CMDEXP_easy2",
+          "Name": "10000",
+          "DifficultyValue": -1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "CommanderStartingExperience",
+              "ConstantValue": "10000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMDEXP_easy",
+          "Name": "7000",
+          "DifficultyValue": -1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "CommanderStartingExperience",
+              "ConstantValue": "7000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMDEXP_normal",
+          "Name": "3500",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "CommanderStartingExperience",
+              "ConstantValue": "3500"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMDEXP_hard",
+          "Name": "1750",
+          "DifficultyValue": 1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "CommanderStartingExperience",
+              "ConstantValue": "1750"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_advancedPilots",
+      "Name": "高级机甲战士",
+      "UIOrder": 10,
+      "Tooltip": "在游戏后期，雇佣大厅里的新机甲战士通常会拥有比游戏前期的机甲战士更好的属性和技能. 修改该设定以更改具有这些提升的新机甲战士出现的频率.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 0,
+      "Options": [
+        {
+          "ID": "diff_CMD_easy",
+          "Name": "经常",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "0.12"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_med",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "0.08"
+            }
+          ]
+        },
+        {
+          "ID": "diff_CMD_hard",
+          "Name": "稀有",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "ContractDifficultyMod",
+              "ConstantValue": "0.04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_pilotRonin",
+      "Name": "浪人出现概率",
+      "UIOrder": 11,
+      "Tooltip": "此设置控制雇佣浪人的概率.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 5,
+      "Options": [
+        {
+          "ID": "diff_Ronin_only",
+          "Name": "100%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "1.0"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_90",
+          "Name": "90%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.9"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_80",
+          "Name": "80%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.8"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_70",
+          "Name": "70%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.7"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_60",
+          "Name": "60%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.6"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_50",
+          "Name": "50%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_40",
+          "Name": "40%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.4"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_30",
+          "Name": "30%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.3"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_20",
+          "Name": "20%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.2"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_10",
+          "Name": "10%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.1"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Ronin_never",
+          "Name": "从不",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultRoninHiringChance",
+              "ConstantValue": "0.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_pilotpersystem",
+      "Name": "雇佣大厅机师数量",
+      "UIOrder": 12,
+      "Tooltip": "此设置控制每个星系雇佣大厅中机师的数量.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 5,
+      "Options": [
+        {
+          "ID": "diff_pilotssys_10",
+          "Name": "10",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "10"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_9",
+          "Name": "9",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "9"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_8",
+          "Name": "8",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "8"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_7",
+          "Name": "7",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "7"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_6",
+          "Name": "6",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "6"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_5",
+          "Name": "5",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_4",
+          "Name": "4",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "4"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_3",
+          "Name": "3",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "3"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_2",
+          "Name": "2",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "2"
+            }
+          ]
+        },
+        {
+          "ID": "diff_pilotssys_1",
+          "Name": "1",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "DefaultPilotsPerSystem",
+              "ConstantValue": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_pilotProgression",
+      "Name": "机甲战士升级",
+      "UIOrder": 13,
+      "Tooltip": "该设定控制着机甲战士从每场任务中获得的经验数量. 改变该设定会调整机甲战士提升自身数值以及获取新技能的速率.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 1,
+      "Options": [
+        {
+          "ID": "diff_PP_fast",
+          "Name": "快",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "BaseXPGainPerMission",
+              "ConstantValue": "450"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PP_easy",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "BaseXPGainPerMission",
+              "ConstantValue": "350"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PP_med",
+          "Name": "慢",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "BaseXPGainPerMission",
+              "ConstantValue": "250"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PP_hard",
+          "Name": "非常慢",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "BaseXPGainPerMission",
+              "ConstantValue": "150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_pilotExponent",
+      "Name": "机甲战士经验",
+      "UIOrder": 14,
+      "Tooltip": "此设置控制升级所需经验花费的指数增长. <color=#F79B26>等级花费=(潜在等级,指数)*倍率.</color>",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 2,
+      "Options": [
+        {
+          "ID": "diff_PEXP_fast",
+          "Name": "快",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostExponent",
+              "ConstantValue": "1.5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PEXP_easy",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostExponent",
+              "ConstantValue": "2.0"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PEXP_med",
+          "Name": "慢",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostExponent",
+              "ConstantValue": "2.5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PEXP_hard",
+          "Name": "非常慢",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostExponent",
+              "ConstantValue": "3.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_pilotcostmultiplier",
+      "Name": "机甲战士升级速度",
+      "UIOrder": 15,
+      "Tooltip": "此设置控制升级所需经验花费的倍率. <color=#F79B26>等级花费=(潜在等级,指数)*倍率.</color>",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 2,
+      "Options": [
+        {
+          "ID": "diff_PCMP_fast",
+          "Name": "快",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostMultiplier",
+              "ConstantValue": "60"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PCMP_easy",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostMultiplier",
+              "ConstantValue": "80"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PCMP_med",
+          "Name": "慢",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostMultiplier",
+              "ConstantValue": "100"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PCMP_hard",
+          "Name": "非常慢",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostMultiplier",
+              "ConstantValue": "140"
+            }
+          ]
+        },
+        {
+          "ID": "diff_PCMP_superhard",
+          "Name": "超级慢",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "PilotLevelCostMultiplier",
+              "ConstantValue": "180"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_lethality",
+      "Name": "杀伤力",
+      "UIOrder": 16,
+      "Tooltip": "选择阵亡（KIA）的概率，从“从不”到“总是”.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 2,
+      "Options": [
+        {
+          "ID": "diff_LTH_never",
+          "Name": "从不",
+          "DifficultyValue": -2,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "IncapacitatedDeathChance",
+              "ConstantValue": "0.0"
+            },
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "GutsDeathReduction",
+              "ConstantValue": "1.00"
+            }
+          ]
+        },
+        {
+          "ID": "diff_LTH_easy",
+          "Name": "一半",
+          "DifficultyValue": -1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "IncapacitatedDeathChance",
+              "ConstantValue": "0.5"
+            },
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "GutsDeathReduction",
+              "ConstantValue": "0.05"
+            }
+          ]
+        },
+        {
+          "ID": "diff_LTH_Normal",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "IncapacitatedDeathChance",
+              "ConstantValue": "0.9"
+            },
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "GutsDeathReduction",
+              "ConstantValue": "0.05"
+            }
+          ]
+        },
+        {
+          "ID": "diff_LTH_ULTRA",
+          "Name": "致命",
+          "DifficultyValue": 1,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "IncapacitatedDeathChance",
+              "ConstantValue": "1.05"
+            },
+            {
+              "ConstantType": "Pilot",
+              "ConstantName": "GutsDeathReduction",
+              "ConstantValue": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_money",
+      "Name": "启动资金",
+      "UIOrder": 17,
+      "Tooltip": "选择你的初始资金. <color=#F79B26>你的初始小队费用的1%将从中扣除.</color>",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 3,
+      "Options": [
+        {
+          "ID": "diff_SM_supereasy",
+          "Name": "6580000",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "StartingCBills",
+              "ConstantValue": "6580000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SM_easy",
+          "Name": "4080000",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "StartingCBills",
+              "ConstantValue": "4080000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SM_medium",
+          "Name": "3210000",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "StartingCBills",
+              "ConstantValue": "3210000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SM_hard",
+          "Name": "2500000",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "StartingCBills",
+              "ConstantValue": "2500000"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SM_veryhard",
+          "Name": "1800000",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Story",
+              "ConstantName": "StartingCBills",
+              "ConstantValue": "1800000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_MechBayTechCost",
+      "Name": "机甲维修速度",
+      "UIOrder": 18,
+      "Tooltip": "选择机甲库建造速度.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 2,
+      "Options": [
+        {
+          "ID": "diff_MBAY_quick",
+          "Name": "更快速",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "StructureRepairTechPoints",
+              "ConstantValue": "0.35"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ComponentRepairTechPoints",
+              "ConstantValue": "5"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "BallisticInstallTechPoints",
+              "ConstantValue": "8"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "MissileInstallTechPoints",
+              "ConstantValue": "8"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "EnergyInstallTechPoints",
+              "ConstantValue": "8"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "APInstallTechPoints",
+              "ConstantValue": "8"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "AmmoInstallTechPoints",
+              "ConstantValue": "4"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "JumpJetInstallTechPoints",
+              "ConstantValue": "4"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "HeatSinkInstallTechPoints",
+              "ConstantValue": "4"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "OtherInstallTechPoints",
+              "ConstantValue": "4"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MBAY_Normal",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "StructureRepairTechPoints",
+              "ConstantValue": "0.35"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ComponentRepairTechPoints",
+              "ConstantValue": "6"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "BallisticInstallTechPoints",
+              "ConstantValue": "10"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "MissileInstallTechPoints",
+              "ConstantValue": "10"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "EnergyInstallTechPoints",
+              "ConstantValue": "10"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "APInstallTechPoints",
+              "ConstantValue": "10"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "AmmoInstallTechPoints",
+              "ConstantValue": "5"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "JumpJetInstallTechPoints",
+              "ConstantValue": "5"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "HeatSinkInstallTechPoints",
+              "ConstantValue": "5"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "OtherInstallTechPoints",
+              "ConstantValue": "5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MBAY_Hard",
+          "Name": "困难",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "StructureRepairTechPoints",
+              "ConstantValue": "0.65"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ComponentRepairTechPoints",
+              "ConstantValue": "8"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "BallisticInstallTechPoints",
+              "ConstantValue": "13"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "MissileInstallTechPoints",
+              "ConstantValue": "13"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "EnergyInstallTechPoints",
+              "ConstantValue": "13"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "APInstallTechPoints",
+              "ConstantValue": "13"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "AmmoInstallTechPoints",
+              "ConstantValue": "7"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "JumpJetInstallTechPoints",
+              "ConstantValue": "7"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "HeatSinkInstallTechPoints",
+              "ConstantValue": "7"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "OtherInstallTechPoints",
+              "ConstantValue": "7"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MBAY_VeryHard",
+          "Name": "非常难",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "StructureRepairTechPoints",
+              "ConstantValue": "0.85"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ComponentRepairTechPoints",
+              "ConstantValue": "11"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "BallisticInstallTechPoints",
+              "ConstantValue": "16"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "MissileInstallTechPoints",
+              "ConstantValue": "16"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "EnergyInstallTechPoints",
+              "ConstantValue": "16"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "APInstallTechPoints",
+              "ConstantValue": "16"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "AmmoInstallTechPoints",
+              "ConstantValue": "10"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "JumpJetInstallTechPoints",
+              "ConstantValue": "10"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "HeatSinkInstallTechPoints",
+              "ConstantValue": "10"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "OtherInstallTechPoints",
+              "ConstantValue": "10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_ArmourTechCost",
+      "Name": "外装甲改造速度",
+      "UIOrder": 19,
+      "Tooltip": "选择装甲更换的速度.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 2,
+      "Options": [
+        {
+          "ID": "diff_MBAY_quick",
+          "Name": "简单",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ArmorInstallTechPoints",
+              "ConstantValue": "30"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MBAY_Normal",
+          "Name": "快速",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ArmorInstallTechPoints",
+              "ConstantValue": "45"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MBAY_Hard",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ArmorInstallTechPoints",
+              "ConstantValue": "70"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MBAY_VeryHard",
+          "Name": "非常难",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ArmorInstallTechPoints",
+              "ConstantValue": "100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_MechBayBillsCost",
+      "Name": "机甲改造价格",
+      "UIOrder": 20,
+      "Tooltip": "选择机甲库星币费用.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 1,
+      "Options": [
+        {
+          "ID": "diff_MBAYC_quick",
+          "Name": "便宜",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "StructureRepairCost",
+              "ConstantValue": "200"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ComponentRepairCost",
+              "ConstantValue": "300"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "BallisticInstallCost",
+              "ConstantValue": "350"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "MissileInstallTechCost",
+              "ConstantValue": "350"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "EnergyInstallCost",
+              "ConstantValue": "350"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "APInstallCost",
+              "ConstantValue": "350"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "AmmoInstallCost",
+              "ConstantValue": "175"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "JumpJetInstallCost",
+              "ConstantValue": "350"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "HeatSinkInstallCost",
+              "ConstantValue": "250"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ArmorInstallCost",
+              "ConstantValue": "100"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "OtherInstallCost",
+              "ConstantValue": "250"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MBAYC_Normal",
+          "Name": "普通",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "StructureRepairCost",
+              "ConstantValue": "400"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ComponentRepairCost",
+              "ConstantValue": "600"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "BallisticInstallCost",
+              "ConstantValue": "700"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "MissileInstallTechCost",
+              "ConstantValue": "700"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "EnergyInstallCost",
+              "ConstantValue": "700"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "APInstallCost",
+              "ConstantValue": "700"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "AmmoInstallCost",
+              "ConstantValue": "350"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "JumpJetInstallCost",
+              "ConstantValue": "700"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "HeatSinkInstallCost",
+              "ConstantValue": "500"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ArmorInstallCost",
+              "ConstantValue": "150"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "OtherInstallCost",
+              "ConstantValue": "500"
+            }
+          ]
+        },
+        {
+          "ID": "diff_MBAYC_Hard",
+          "Name": "昂贵",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "StructureRepairCost",
+              "ConstantValue": "800"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ComponentRepairCost",
+              "ConstantValue": "1200"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "BallisticInstallCost",
+              "ConstantValue": "1400"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "MissileInstallTechCost",
+              "ConstantValue": "1400"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "EnergyInstallCost",
+              "ConstantValue": "1400"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "APInstallCost",
+              "ConstantValue": "1400"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "AmmoInstallCost",
+              "ConstantValue": "700"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "JumpJetInstallCost",
+              "ConstantValue": "1400"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "HeatSinkInstallCost",
+              "ConstantValue": "1000"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "ArmorInstallCost",
+              "ConstantValue": "300"
+            },
+            {
+              "ConstantType": "MechLab",
+              "ConstantName": "OtherInstallCost",
+              "ConstantValue": "1000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_ShopSell",
+      "Name": "商店销售价格",
+      "UIOrder": 23,
+      "Tooltip": "设置你想要的出售价值.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 8,
+      "Options": [
+        {
+          "ID": "diff_SS_5",
+          "Name": "5%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.05"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_6",
+          "Name": "6%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.06"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_10",
+          "Name": "7%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.07"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_8",
+          "Name": "8%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.08"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_9",
+          "Name": "9%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.09"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_10",
+          "Name": "10%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.1"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_11",
+          "Name": "11%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.11"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_12",
+          "Name": "12%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.12"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_13",
+          "Name": "13%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.13"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_14",
+          "Name": "14%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.14"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_15",
+          "Name": "15%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.15"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_16",
+          "Name": "16%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.16"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_17",
+          "Name": "17%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.17"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_18",
+          "Name": "18%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.18"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_19",
+          "Name": "19%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.19"
+            }
+          ]
+        },
+        {
+          "ID": "diff_SS_20",
+          "Name": "20%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "ShopSellModifier",
+              "ConstantValue": "0.20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_ShopScrap",
+      "Name": "回购指数",
+      "UIOrder": 24,
+      "Tooltip": "设置你想要的拆解收益.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 8,
+      "Options": [
+        {
+          "ID": "diff_Scrap_5",
+          "Name": "5%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.05"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_6",
+          "Name": "6%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.06"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_7",
+          "Name": "7%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.07"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_8",
+          "Name": "8%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.08"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_9",
+          "Name": "9%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.09"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_10",
+          "Name": "10%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.10"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_11",
+          "Name": "11%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.11"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_12",
+          "Name": "12%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.12"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_13",
+          "Name": "13%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.13"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_14",
+          "Name": "14%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.14"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_15",
+          "Name": "15%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.15"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_16",
+          "Name": "16%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.16"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_17",
+          "Name": "17%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.17"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_18",
+          "Name": "18%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.18"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_19",
+          "Name": "19%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.19"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Scrap_20",
+          "Name": "20%",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "MechScrapModifier",
+              "ConstantValue": "0.20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_ShopSize",
+      "Name": "商店最大库存",
+      "UIOrder": 25,
+      "Tooltip": "设置你想要的商店最大库存量.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 7,
+      "Options": [
+        {
+          "ID": "diff_Mshop_20",
+          "Name": "10",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "10"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_40",
+          "Name": "20",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "20"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_60",
+          "Name": "30",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "30"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_80",
+          "Name": "40",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "40"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_100",
+          "Name": "50",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "50"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_120",
+          "Name": "60",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "60"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_140",
+          "Name": "70",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "70"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_160",
+          "Name": "80",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "80"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_180",
+          "Name": "90",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "90"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Mshop_200",
+          "Name": "100",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxInventory",
+              "ConstantValue": "100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "diff_ShopSpecials",
+      "Name": "商店特殊商品上限",
+      "UIOrder": 26,
+      "Tooltip": "设置你想要的商店特殊商品最大数量.",
+      "Enabled": true,
+      "Visible": true,
+      "Toggle": false,
+      "StartOnly": false,
+      "DefaultIndex": 7,
+      "Options": [
+        {
+          "ID": "diff_Specials_5",
+          "Name": "5",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "5"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_10",
+          "Name": "7",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "7"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_15",
+          "Name": "9",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "9"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_20",
+          "Name": "11",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "11"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_25",
+          "Name": "13",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "13"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_30",
+          "Name": "15",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "15"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_35",
+          "Name": "17",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "17"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_40",
+          "Name": "19",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "19"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_45",
+          "Name": "21",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "21"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_50",
+          "Name": "23",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "23"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_60",
+          "Name": "25",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "25"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_65",
+          "Name": "27",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "27"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_65",
+          "Name": "29",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "29"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_70",
+          "Name": "31",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "31"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_75",
+          "Name": "33",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "33"
+            }
+          ]
+        },
+        {
+          "ID": "diff_Specials_80",
+          "Name": "35",
+          "DifficultyValue": 0,
+          "DifficultyConstants": [
+            {
+              "ConstantType": "Finances",
+              "ConstantName": "DefaultShopMaxSpecials",
+              "ConstantValue": "35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

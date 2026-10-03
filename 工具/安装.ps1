@@ -1,4 +1,4 @@
-param(
+﻿param(
     [string]$gameRoot = ""
 )
 $ErrorActionPreference = 'Stop'
@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/16] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/18] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -278,11 +278,38 @@ if ([IO.File]::Exists($descExtra)) {
 }
 Ok "完成"
 
-# ---------- 9c) Quirk 特性显示名 ----------
+# ---------- 9d) 模组本地化覆盖表（mod_localized_text.json） ----------
+# 8 个模组用这个文件覆盖引擎文本(战斗浮动提示、菜单按钮、台词、光照面板)。
+# 游戏先按英文原文查 CSV 挤兑键, 查不到就退回文件里的英文原值 —— 所以
+# 既要补 CSV 缺的键, 也要把文件里的值就地改成中文(CodeWords 已全员中文,
+# 证明这条通道有效)。数组项(战斗台词)一并处理。
+Step 12 "汉化模组本地化覆盖表（mod_localized_text）"
+$mtDict = Join-Path $PSScriptRoot 'dict-modtext.tsv'
+if ([IO.File]::Exists($mtDict)) {
+    RunTool 'apply-modtext.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                  '-pairs', $mtDict,
+                                  '-backupRoot', (Join-Path $packRoot 'backup\Mods-modtext'))
+}
+Ok "完成"
+
+# ---------- 9e) IRTweaks / CustomFilters 菜单 ----------
+# IRTweaks 的难度设置菜单与 CustomFilters 的库存页签: 这些文件的
+# Name/Tooltip/Text/Caption 直接显示。字段名在别处可能是内部标识符或
+# 匹配键, 所以用 -pathLike 把处理范围压到这两个模组的菜单文件。
+Step 13 "汉化难度设置菜单与库存页签"
+$menuDict = Join-Path $PSScriptRoot 'dict-menus.tsv'
+if ([IO.File]::Exists($menuDict)) {
+    RunTool 'apply-fields.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                 '-pairs', $menuDict,
+                                 '-fields', 'Name,Tooltip,Text,Caption',
+                                 '-pathLike', 'IRTweaks\Menus,CustomFilters\RogueTechTabs.json',
+                                 '-backupRoot', (Join-Path $packRoot 'backup\Mods-menus'))
+}
+Ok "完成"
 # Quirk_*.json 的 Description.Name 是显示名(装备特性栏), 包内不含这些定义
 # 文件, 只能靠词典在目标机应用。Name 字段在别处可能是内部标识符, 所以
 # 限定只处理 Quirks 目录下的文件。
-Step 12 "补译 Quirk 特性显示名"
+Step 14 "补译 Quirk 特性显示名"
 $quirkDict = Join-Path $PSScriptRoot 'dict-quirk.tsv'
 if ([IO.File]::Exists($quirkDict)) {
     RunTool 'apply-quirk.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
@@ -292,12 +319,12 @@ if ([IO.File]::Exists($quirkDict)) {
 Ok "完成"
 
 # ---------- 10) 装备分类显示名 ----------
-Step 13 "汉化装备分类显示名"
+Step 15 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
 # ---------- 11) 控制字符与标点空格 ----------
-Step 14 "清理控制字符、标点空格与插值占位符"
+Step 16 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
@@ -305,14 +332,14 @@ RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 11) 术语归一化与格式修复 ----------
-Step 15 "术语归一化与格式修复"
+Step 17 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 12) 校验 ----------
-Step 16 "校验"
+Step 18 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }

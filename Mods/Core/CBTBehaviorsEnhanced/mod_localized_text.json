@@ -1,0 +1,136 @@
+{
+    "Floaties" : {
+"SHUTDOWN_OVERRIDE_SUCCESS" : "已成功强制取消关机",
+"SHUTDOWN_OVERRIDE_FAILED" : "强制取消关机失败",
+"SHUTDOWN_FALL" : "因关机而倒地",
+
+"EXPLOSION_CHECK" : "弹药爆炸检定",
+"VOLATILE_EXPLOSION_CHECK" : "易爆弹药爆炸检定",
+"SHUTDOWN_CHECK" : "关机检定",
+"STARTUP_CHECK" : "开机检定",
+"INJURY_CHECK" : "机师受伤检定",
+"SYSTEM_FAILURE_CHECK": "系统故障检定",
+"FALLING_CHECK" : "倒地检定",
+
+"PILOT_DEATH_OVERHEAT" : "过热死亡",
+"PILOT_DEATH_FALLING" : "倒地死亡",
+
+"MELEE_KICK" : "踢击倒地检定",
+"MELEE_CHARGE" : "冲撞倒地检定",
+"MELEE_DFA" : "死神天降倒地检定",
+
+"RUN_AND_FALL" : "受损状态下冲刺",
+"JUMP_AND_FALL" : "受损状态下跳跃",
+
+"AUTO_FAIL" : "自动失败",
+"HULL_BREACH" : "船体破裂检定",
+		
+"SWARM_ATTACK" : "攀附攻击!"
+    },
+
+    "Tooltips" : {
+"TITLE" : "热量等级",
+"END_OF_TURN_HEAT" : "预计热量 {0}/{1}",
+"HEAT_AND_SINKING" : "\\n  热量: {0}/{1}，将散去: {2}/{3} (<color=#{4}>x{5:#.#}</color>)",
+"AMMO_EXP_CHANCE" : "\\n弹药爆炸检定 (d100+{0}) < {1}",
+"AMMO_EXP_WARNING" : "弹药必定爆炸!",
+"PILOT_INJURY_CHANCE" : "\\n机师受伤检定 (d100+{0}) < {1}",
+"SYSTEM_FAILURE_CHANCE" : "\\n系统故障检定 (d100+{0}) < {1}",
+"SHUTDOWN_CHANCE" : "\\n关机检定 (d100+{0}) < {1}",
+"SHUTDOWN_WARNING" : "必定关机!",
+"ATTACK_PENALTY" : "\\n攻击惩罚: +{0}",
+"MOVEMENT_PENALTY" : "\\n移动惩罚: -{0}米",
+
+"SHUTDOWN_ICON_TITLE" : "关机",
+"SHUTDOWN_ICON_TEXT" : "该目标更容易被命中，且可对其进行部位瞄准. 点击重启按钮时，将通过一次驾驶技能检定来决定该单位是否能够重启.",
+"OVERHEAT_ICON_TITLE" : "过热",
+"OVERHEAT_ICON_TEXT" : "该单位将承受惩罚，若不将热量降至临界水平以下，可能关机甚至爆炸. \\n<i>将光标悬停在热量条上可查看详细拆分.</i>"
+    },
+
+    "AttackDescriptions" : {
+        "CHARGE_DESC" : 
+            "<align=\\\"left\\\"><b>冲撞</b>会对攻击者和目标双方造成伤害.\\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>\\n<color=#ff0000>攻击者  伤害: {3} 稳伤: {4}  {5}</color>\\n" ,
+        "DFA_DESC" : 
+            "<align=\\\"left\\\"><b>DFA</b>会对攻击者和目标双方造成伤害.\\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>\\n<color=#ff0000>攻击者  伤害: {3} 稳伤: {4}  {5}</color>\\n",
+        "KICK_DESC" :
+            "<align=\\\"left\\\"></b>踢击</b>\\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>",
+        "PHYSICAL_WEAPON_DESC" :
+            "<align=\\\"left\\\"><b>物理武器</b>\\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>",
+        "PUNCH_DESC" :
+            "<align=\\\"left\\\"><b>拳击</b>\\n<color=#00ff00>目标   伤害: {0} 稳伤: {1}  {2}</color>"
+    },
+
+    "Labels" : {
+"ATK_MOD_ACTUATOR_DAMAGE" : "驱动器损伤",
+"ATK_MOD_ATTACKER_JUMPED" : "攻击方跳跃",
+"ATK_MOD_COMPARATIVE_PILOTING" : "驾驶差值",
+"ATK_MOD_EASY_TO_KICK" : "容易被踢倒",
+"ATK_MOD_TARGET_PRONE" : "倒地的近战目标",
+"ATK_MOD_OVERHEATED" : "过热",
+
+"ATK_MOD_CHARGE_MOD" : "冲撞修正",
+"ATK_MOD_KICK_MOD" : "踢击修正",
+"ATK_MOD_PUNCH_MOD" : "拳击修正",
+"ATK_MOD_PHYS_WEP_MOD" : "物理武器修正",
+"ATK_MOD_DFA_MOD" : "死神天降修正",
+"ATK_MOD_DFA_BASE_MOD" : "死神天降类型修正",
+		
+"WEAPON_HOVER_DAMAGE" : "{0}伤害" ,
+"WEAPON_HOVER_INSTABILITY" : "{0}稳定性" ,
+"WEAPON_HOVER_HEAT" : "+{0}热量" ,
+
+"MELEE_TYPE_CHARGE" : "冲撞" ,
+"MELEE_TYPE_DFA" : "死神天降" ,
+"MELEE_TYPE_KICK" : "踢击" ,
+"MELEE_TYPE_PHYSICAL_WEAPON" : "物理武器" ,
+"MELEE_TYPE_PUNCH" : "拳击" ,
+
+"MELEE_TABLE_PUNCH" : "<size=80%>可命中: 头部、手臂、躯干</size>",
+"MELEE_TABLE_LEGS" : "<size=80%>可命中: 腿部</size>",
+"MELEE_TABLE_STANDARD" : "<size=80%>可命中: 所有部位</size>",															   
+"WEAPON_PANEL_MELEE_WEAPON" : "近战 - {0}",
+"WEAPON_PANEL_MELEE_NO_ATTACK_TYPE" : "(武器/拳击/踢击)",
+        "WEAPON_PANEL_MELEE_NO_ATTACK_TYPE_DAMAGE" : "{0} / {1} / {2}"
+    },
+
+    "Quips": {
+        "Breach" : [
+            "该死! 爆炸性失压!",
+            "侦测到舱体破裂!",
+            "我有东西掉进大气层了!",
+            "但愿生命维持系统撑得住.",
+            "我喘不上气了!",
+            "我的驾驶舱出现裂痕了!",
+            "组件因真空环境受损!",
+            "那一击损毁了一大片!",
+            "该死! 损失了一大堆装备……"
+        ], 
+        "Knockdown" : [
+            "哦……该死!",
+            "我靠!",
+            "这下要疼了……",
+            "稳不住机体!",
+            "陀螺仪补偿失效!",
+            "见鬼去吧，重力!",
+            "要倒了!",
+            "你个混蛋，牛顿.",
+            "稳定性丧失! 操控无响应!",
+            "操控锁死了! 我止不住下坠!",
+            "超过临界点了! 要倒了!",
+            "准备承受地面撞击.",
+            "撞击防护，千万别在这时候掉链子……",
+            "正在抑制神经头盔的反馈.",
+            "但愿装甲扛得住……",
+            "要啃一嘴土了!"
+        ],
+        "Startup" : [
+            "启动啊，你这该死的!",
+            "热量太高，我看不清!",
+            "启动按钮在哪!?",
+            "超载，该死! 超载!!",
+            "是时候让保修见鬼去了……",
+            "你怎么就启动不了?!",
+            "什么?! 我明明输入了启动指令!"
+        ]
+    }
+}

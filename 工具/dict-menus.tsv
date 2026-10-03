@@ -1,0 +1,49 @@
+<color=#F79B26>USE SECOND SETTING!</color>This setting controls the number of salvaged or purchased 'Mech parts you must acquire to assemble a new 'Mech. Increase this value to make new 'Mechs rarer and more difficult to obtain. <color=#F79B26>Hardcoded to be on top.</color>	<color=#F79B26>请使用第二个设置！</color>此设置控制组装一台新机甲所需获取的打捞或购买的机甲部件数量. 提高此数值会使新机甲更加稀有，更难获得. <color=#F79B26>此项被硬编码置顶.</color>
+This setting defines the additional chance to recover a destroyed 'Mech. <color=#F79B26>defines the chance of getting your own mech back for free</color>	此设置定义回收一台被摧毁机甲的额外概率. <color=#F79B26>即免费取回自己机甲的概率.</color>
+This setting changes enemy lance strength by roughly 1 half skull per difficulty setting.	此设置按档位调整敌军小队实力，每档大约相差半颗骷髅等级.
+This setting controls the chance of hiring ronin	此设置控制雇佣浪人的概率.
+This setting controls the exponent of raising XP Cost per Level. <color=#F79B26>LevelCost=(Potential Level,Exponent)*Multiplier.</color>	此设置控制升级所需经验花费的指数增长. <color=#F79B26>等级花费=(潜在等级,指数)*倍率.</color>
+This setting controls the multiplier of XP Cost per Level. <color=#F79B26>LevelCost=(Potential Level,Exponent)*Multiplier.</color>	此设置控制升级所需经验花费的倍率. <color=#F79B26>等级花费=(潜在等级,指数)*倍率.</color>
+Set your desired Scrapping Payouts.	设置你想要的拆解收益.
+Set your desired Max Shop Inventory.	设置你想要的商店最大库存量.
+Set your desired Max Special Amount .	设置你想要的商店特殊商品最大数量.
+Max Shop Inventory	商店最大库存
+Max Specials per shop	商店特殊商品上限
+Cheapskate (50%)	小气鬼(50%)
+In Debt	负债开局
+Very Slow (200%)	非常慢(200%)
+Expensive (200%)	昂贵(200%)
+Circinus	圆规座联合会
+ComGuard	通讯卫队
+Elysia	极乐原野
+FarmersRiseUp	农民起义
+Hanse	汉萨同盟
+Lothian	洛锡安联盟
+Illyrian	伊利里亚边区
+Marian	马里安霸权
+Militia	民兵
+Oberon	奥伯龙邦联
+Outworld	外域联盟
+Recon Lance	侦察小队
+Rusty Dan	锈铁丹
+Society	氏族学会
+Tanks (IS)	坦克(内天体)
+The Dumps	垃圾场
+Tread Lightly	步步为营
+Tortuga	托尔图加自治领
+Urbies	城市仔
+VeryEasy	非常简单
+Don't hurt me	别伤着我
+Clanner	氏族佬
+'Tis nothing	小菜一碟
+Bring It!	放马过来！
+Hurt me Plenty	尽管伤我
+Nightmare	噩梦
+SPANK ME!	把我打趴！
+On	打开
+Show Autocannons and Rifle Ammo	显示自动炮与步枪弹药
+all	全部
+WEAPON	武器
+AMMO	弹药
+Internals	内部组件
+EQUIP	装备
