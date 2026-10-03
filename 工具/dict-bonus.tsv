@@ -666,3 +666,81 @@ iNarc Beacon	iNarc 信标
 {1} Mode {0} BraceToFire	{1} 模式 {0} 撑住开火
 {2} AP Max 	{2} AP 上限
 {2} ammo/shot	{2} 弹药/发
+1-Use	一次使用
+Amphibious	两栖
+B-Pod	B-吊舱
+Blocks	阻挡
+Bomber	轰炸机
+C.A.S.E'd	C.A.S.E. 化
+Capacitor	电容器
+Carronade	短炮
+Category: {0}	类别：{0}
+Cost: {0}	费用：{0}
+Crew	乘员
+Crit.Cmp.	暴击组件
+Deploy {0}	部署 {0}
+Deploys: {0}	部署：{0}
+Destabilize	扰乱
+Detect	探测
+Drag	拖曳
+Duration {0}	持续 {0}
+Enables {0}	可启用 {0}
+Enables{0}	可启用{0}
+Explosive	爆炸
+Fusillade	齐射
+G.Range	群组射程
+Guided	制导
+Heater	加热器
+Incompatible	不兼容
+Lockup	锁定
+Mace	钉头锤
+Min.Range.Dmg	最小射程伤害
+Modular	模块化
+Mount	挂载
+No {0}	无 {0}
+No: {0}	否：{0}
+Obvious {0}	明显 {0}
+Only {0}	仅 {0}
+Palasma	等离子
+Permajam	永久卡壳
+Permajam: {0}	永久卡壳：{0}
+Pilot: {0}	驾驶员：{0}
+Rider	骑乘
+Rotary	旋转
+Rotary {0}	旋转 {0}
+Rotary{0}	旋转{0}
+Rotor+	旋翼+
+Shotgun	霰弹
+Stacks	堆叠
+Zeppelin	齐柏林
+{0} Aura	{0} 光环
+{0} Crit.Vul	{0} 暴击易伤
+{0} Crritical	{0} 暴击
+{0} Cruise	{0} 巡航
+{0} Direct	{0} 直射
+{0} Dmg {1}	{0} 伤害 {1}
+{0} Dur.	{0} 持续
+{0} Duration	{0} 持续
+{0} Ev	{0} 闪避
+{0} Extreme	{0} 极限
+{0} F.Area	{0} 范围
+{0} Failure({1})	{0} 失败几率（{1}）
+{0} Flank	{0} 侧翼
+{0} Hindrance	{0} 阻碍
+{0} Indir.Acc	{0} 间接精度
+{0} Inferno	{0} 燃烧弹
+{0} Long	{0} 长
+{0} M.Multiplier	{0} 倍率
+{0} Med	{0} 中
+{0} Sep.Distance	{0} 分离距离
+{0} Shards	{0} 碎片
+{0} Shell	{0} 弹壳
+{0} Short	{0} 短
+{0} Sprint	{0} 冲刺
+{0} Stb.Damage	{0} 稳定伤害
+{0} Unsteady	{0} 失稳
+{0} Var	{0} 浮动
+{0} Walk	{0} 步行
+{0} deploy	{0} 部署
+{0}Only	{0}仅
+{0}Recoil{1}	{0}后坐力{1}
