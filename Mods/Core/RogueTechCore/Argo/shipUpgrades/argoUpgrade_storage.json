@@ -1,0 +1,65 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_storage",
+    "Name": "存储空间",
+    "Details": "<i>阿戈</i>号的内部仓储只够日常生存，但我们需要开发一套专为<i>阿戈</i>号优化、而非标准空投艇的库存系统。这艘船的布局与功能与标准型号差异太大，所以必须从零开始开发一套新的统一库存系统。",
+    "Icon": "uixSvgIcon_shipUpgrade_repairscaffold"
+  },
+  "Illustration": "uixTxrSpot_ArgoStructure2",
+  "Location": "SHIP",
+  "Category": "STRUCTURE",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "我们的内部仓储已经够多阻碍了，指挥官。我从工程部走到机甲库，一路上都会被散落的零碎和备件绊倒。眼下我们管理着这么多摆放不当的库存，光是找工具和材料，各班组的生产力就在流失。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_mechBay1",
+      "argoUpgrade_pod1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 30,
+  "PurchaseCost": 90000,
+  "AdditionalCost": 400,
+  "Tags": {
+    "items": [
+      "argo_storage"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Single",
+      "name": "IBLS_MechbayUpkeepModifier",
+      "value": "0.95",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "IBLS_MechbayUpkeepModifier_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "IBLS_CargoStorageModifier",
+      "value": "0.95",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "IBLS_CargoStorageModifier_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

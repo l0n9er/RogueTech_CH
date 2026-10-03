@@ -1,0 +1,29 @@
+{
+    "enumerationValueList" : [
+        {
+            "ID" : 50,
+            "Name" : "BDDropTonnage",
+            "FriendlyName": "最大空投吨位"
+        },
+        {
+            "ID" : 51,
+            "Name" : "BDMechControl",
+            "FriendlyName": "额外机甲控制"
+        },
+        {
+            "ID" : 52,
+            "Name" : "BDMechDrops",
+            "FriendlyName": "额外机甲空降"
+        },
+        {
+            "ID" : 60,
+            "Name" : "RTExtra1",
+            "FriendlyName": "MRB控制台"
+        },
+        {
+            "ID" : 61,
+            "Name" : "RTExtra2",
+            "FriendlyName": "更多空投信息"
+        }
+	]
+}

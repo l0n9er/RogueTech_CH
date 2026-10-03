@@ -1,0 +1,49 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_DropSlot3",
+    "Name": "豹式: 4号空降舱",
+    "Details": "指挥官，把一支机甲分队从轨道上投下去，可不只是把它们捆在墙上那么简单。舰上好几具陀螺仪和操纵传感器已经损坏，甚至干脆不见了。如果我们载满四个机甲机架从轨道投放飞船，只要载荷不是绝对完美的平衡，就极有可能连穿梭机带机上所有人一起损失。指挥官，我们得先通过几次试投放来更换并重新校准这些系统，才能充分发挥这艘新豹式的能力。",
+    "Icon": "uixSvgIcon_shipUpgrade_automation"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_SumireDefault",
+  "AssignedCastDescription": "确保我们的人能顺利抵达任务地点，是迈向胜利的真正第一步.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_DropSlot2",
+      "argoUpgrade_mechBay3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 9,
+  "PurchaseCost": 800000,
+  "AdditionalCost": 13000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_Dropslot3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_AdditionalMechSlots",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_AdditionalPlayerMechSlots",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDMechDrops"
+}

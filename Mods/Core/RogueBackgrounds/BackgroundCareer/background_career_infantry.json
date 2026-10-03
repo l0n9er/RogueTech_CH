@@ -66,5 +66,5 @@
   "OptionMusicTrigger": "",
   "OptionDescription": "前途未卜的你前往 [[DM.BaseDescriptionDefs[LoreCoromodir]  Coromodir]]——[[DM.BaseDescriptionDefs[LoreAuriganCoalition]  Aurigan Coalition]] 的首都，并加入了联盟军队。你很快在军阶中步步高升，以可靠的机甲战士之名崭露头角。士兵的生活并不光鲜，却正合你意。\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery]  Gunnery]]",
   "Intro": "在一次不幸的任务中，你被困在敌后，与小队失去了联系。拉朱恰好正在附近巡逻，他发起了一场大胆的营救。当发现救出的正是你之后，他把你带进了[[DM.BaseDescriptionDefs[LoreHouseArano]  阿然诺家族]]皇家卫队。\n\n就这样，你与旧日的导师重逢，为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿然诺女士]]加冕当天的守卫任务保养你的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]……",
-  "BioDescription": "Following a disastrous mission that saw the rest of your unit all but wiped out, you picked up what was left to start anew. It wasn't easy as a lone battlesuit trooper, but you had experience and grit enough to make a name for yourself and pull a company together.\r\n"
+  "BioDescription": "在一次除你之外全队几乎全灭的灾难性任务之后，你收拾残部从头开始。作为一名孤身的战斗服士兵并不容易，但你有足够的经验与胆魄为自己挣下名声，并把一家公司拉了起来。\n"
 }

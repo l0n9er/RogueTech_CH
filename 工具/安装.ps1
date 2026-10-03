@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/20] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/21] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -366,10 +366,27 @@ if ([IO.File]::Exists($bgDict)) {
                                  '-backupRoot', (Join-Path $packRoot 'backup\Mods-bg'))
 }
 Ok "完成"
+
+# ---------- 9h) 合约名、闪点简报、地图名与其它零散显示字段 ----------
+# contractName 是合约列表里显示的合约名; FlashpointShortDescription 是闪点
+# 简报; FriendlyName 是地图/环境显示名; BioDescription 是背景短文;
+# BonusValueA/B 是加成说明; ErrorOverweight 是改装校验的报错文字。
+# 译文同样取自各模组 Localization/ZH 表(-JsonValue)。
+Step 16 "汉化合约名、闪点简报与地图名"
+$extraDict = Join-Path $PSScriptRoot 'dict-extra.tsv'
+if ([IO.File]::Exists($extraDict)) {
+    RunTool 'apply-fields.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                 '-pairs', $extraDict,
+                                 '-fields', 'FlashpointShortDescription,BioDescription,contractName,FriendlyName,AssignedCastDescription,viewLabel,ErrorOverweight,BonusValueA,BonusValueB',
+                                 '-pathLike', 'Flashpoints,RogueFlashPointModule,RogueBackgrounds,RogueTechCore,CustomMaps,CAB-Maps,ExtendedConversations,RGoBoom,MechEngineer,EnviromentalDesignMasks',
+                                 '-JsonValue',
+                                 '-backupRoot', (Join-Path $packRoot 'backup\Mods-extra'))
+}
+Ok "完成"
 # Quirk_*.json 的 Description.Name 是显示名(装备特性栏), 包内不含这些定义
 # 文件, 只能靠词典在目标机应用。Name 字段在别处可能是内部标识符, 所以
 # 限定只处理 Quirks 目录下的文件。
-Step 16 "补译 Quirk 特性显示名"
+Step 17 "补译 Quirk 特性显示名"
 $quirkDict = Join-Path $PSScriptRoot 'dict-quirk.tsv'
 if ([IO.File]::Exists($quirkDict)) {
     RunTool 'apply-quirk.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
@@ -379,12 +396,12 @@ if ([IO.File]::Exists($quirkDict)) {
 Ok "完成"
 
 # ---------- 10) 装备分类显示名 ----------
-Step 17 "汉化装备分类显示名"
+Step 18 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
 # ---------- 11) 控制字符与标点空格 ----------
-Step 18 "清理控制字符、标点空格与插值占位符"
+Step 19 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
@@ -392,14 +409,14 @@ RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 11) 术语归一化与格式修复 ----------
-Step 19 "术语归一化与格式修复"
+Step 20 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 12) 校验 ----------
-Step 20 "校验"
+Step 21 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }

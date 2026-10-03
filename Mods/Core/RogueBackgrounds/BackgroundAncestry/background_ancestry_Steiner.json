@@ -63,5 +63,5 @@
   "OptionName": "天琴共同体（施泰纳）",
   "OptionMusicTrigger": "steiner",
   "OptionDescription": "出身于[[DM.Factions[faction_Steiner]  莱兰联邦]]的机师往往坚韧、装备精良、训练有素，不过他们也落下了在战场上不太讲究战略的名声。\n\n财富是由[[DM.BaseDescriptionDefs[LoreHouseSteiner]  斯坦纳家族]]统治的莱兰联邦商业诸侯最大的实力所在。尽管在前两次[[DM.BaseDescriptionDefs[LoreSuccessionWars]  继承战争]]中遭受了若干屈辱的失败，莱兰联邦依然凭借其经济体量（五大[[DM.BaseDescriptionDefs[LoreSuccessorState]  继承国]]中最大）与对[[DM.BaseDescriptionDefs[LoreInnerSphere]  内天体]]最大在运转战斗机甲工厂的控制而重新振作。莱兰联邦或许在军事才能上有所欠缺，但它用纯粹的体量与工业规模弥补了这一点。",
-  "BioDescription": "Decades ago, your family came to the Aurigan Reach from the Lyran Commonwealth. MechWarriors who hail from the Lyran Commonwealth tend to be hardy, well equipped, and well trained, though they have also earned a reputation for not being particularly strategic thinkers on the battlefield. Wealth is the greatest strength of the merchant princes of the Lyran Commonwealth.\r\n"
+  "BioDescription": "数十年前，你的家族从莱兰联邦来到奥里根边境。出身于莱兰联邦的机师往往坚韧、装备精良、训练有素，不过他们也落下了在战场上不太讲究战略的名声。财富是莱兰联邦商业诸侯最大的实力所在。\n"
 }

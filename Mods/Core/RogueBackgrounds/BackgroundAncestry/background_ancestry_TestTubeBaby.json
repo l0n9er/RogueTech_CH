@@ -63,5 +63,5 @@
   "OptionName": "氏族实验室(真生者)",
   "OptionMusicTrigger": "deep",
   "OptionDescription": "TESTING",
-  "BioDescription": "You were created a [[DM.BaseDescriptionDefs[LoreTrueborn]  trueborn]] member of the [[DM.BaseDescriptionDefs[LoreClans]  Clans]]. Washed out from the eugenics program, you are still determined to earn your place in the Remembrance."
+  "BioDescription": "你作为[[DM.BaseDescriptionDefs[LoreClans]  氏族]]的[[DM.BaseDescriptionDefs[LoreTrueborn]  真出者]]而生。虽被优生计划淘汰，你仍决心在《纪念录》中赢得自己的位置。"
 }

@@ -1,0 +1,42 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_mechBay_machineShop",
+    "Name": "机甲车间",
+    "Details": "在继承战争时代维护机甲之所以复杂，正是因为精密制造的部件相对稀少。<i>阿戈</i>号的机加工车间一旦修好并上线，就能帮助缓解这种短缺。",
+    "Icon": "uixSvgIcon_shipUpgrade_machineshop"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "MECH_BAY",
+  "Category": "REPAIR_REFIT",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "好，我们这里有一间装备齐全的机加工车间，以及一大堆关于机甲规格的数据。让这里重新上线，我们就能自己加工零件，大概比陶里安工厂出产的更好。也更快。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_mechBay3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 15,
+  "PurchaseCost": 400000,
+  "AdditionalCost": 5500,
+  "Tags": {
+    "items": [
+      "argo_mechBay_machineShop"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MechTechSkill",
+      "value": "3",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

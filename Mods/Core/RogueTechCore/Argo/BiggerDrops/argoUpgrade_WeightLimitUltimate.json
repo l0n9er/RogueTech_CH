@@ -1,0 +1,48 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_WeightLimitUltimate",
+    "Name": "豹式: 船体扩容",
+    "Details": "豹式空投艇的全面重建，通过扩大船体来新增数个隔舱. 包括修改内部框架、改进内部布线以及升级引擎. 重建将耗费相当长的时间和极高的成本，但一旦完成，几乎可以将任何东西带往外勤任务.",
+    "Icon": "Tonnage_Upgrade_400t"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "就是这一下了，这之后真的没什么可改进的了。嗯，除了买比豹式更大的东西。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_DropInfo2",
+      "argoUpgrade_medBay_hospital",
+      "argoUpgrade_LeopardStorage1",
+      "argoUpgrade_trainingModule3",
+      "argoUpgrade_rec_employee",
+      "argoUpgrade_mechBay_automation2",
+      "argoUpgrade_drive3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 65,
+  "PurchaseCost": 25000000,
+  "AdditionalCost": 100000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_WeightlimitUltimate"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_MaxTonnage",
+      "value": "400",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDDropTonnage"
+}

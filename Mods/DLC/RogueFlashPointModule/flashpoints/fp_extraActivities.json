@@ -1,0 +1,44 @@
+{
+  "Description": {
+    "Id": "fp_extraActivities",
+    "Name": "附带活动",
+    "Details": "被自己的组织背叛",
+    "Icon": ""
+  },
+  "Weight": 200,
+  "InternalName": "extraActivities",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 7,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Steiner"
+  ],
+  "TargetFaction": "Davion",
+  "AllowRefitTime": false,
+  "FlashpointLength": "SHORT",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_extraActivities",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_FP_generic_SLDF",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "我需要你帮忙处理一件私人事务，指挥官. 我需要你的雇佣兵部队. 如果你接受，详情将在你抵达布罗克维后提供.",
+  "FlashpointDescriberCastDefId": "castDef_SteinerRepDefault"
+}

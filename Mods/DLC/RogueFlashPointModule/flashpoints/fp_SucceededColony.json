@@ -1,0 +1,55 @@
+{
+  "Description": {
+    "Id": "fp_SucceededColony",
+    "Name": "成功建立的殖民地",
+    "Details": "帮助一处殖民地摆脱企业贪婪",
+    "Icon": "SeededColony"
+  },
+  "Weight": 500,
+  "InternalName": "SucceededColony",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 8,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [
+        "planet_name_urcruinne"
+      ],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Locals"
+  ],
+  "TargetFaction": "Locals",
+  "AllowRefitTime": false,
+  "FlashpointLength": "LONG",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_SucceededColony",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "RT_FP_SucceededColony",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "长官，我们收到一份来自当地团体的合约要约，他们正试图摆脱企业霸主的控制.",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

@@ -1,0 +1,58 @@
+{
+  "Description": {
+    "Id": "fp_RSteelBeast",
+    "Name": "Return of the Steel Beast. This is both <b><color=#f0ff00>Long</color></b> and <b><color=#ff0d00>HARD </color></b>",
+    "Details": "钢铁野兽寻求复仇",
+    "Icon": "rsteelbeast"
+  },
+  "Weight": 140,
+  "InternalName": "RSteelBeast",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 16,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [
+          "flashpoint_gladiator_complete"
+        ],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "MercenaryReviewBoard"
+  ],
+  "TargetFaction": "NoFaction",
+  "AllowRefitTime": false,
+  "FlashpointLength": "LONG",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_RSteelBeast",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "RT_FP_ThreeClanItemsClanScouts",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "有人在制造麻烦并栽赃给我们。如果我们置之不理，我们可能会在MRBC那里失掉声望。警告：本闪点既<b><color=#f0ff00>漫长</color></b>又<b><color=#ff0d00>困难</color></b>",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

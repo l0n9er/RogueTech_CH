@@ -1,0 +1,43 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_rec_lounge2",
+    "Name": "升级后的休息室",
+    "Details": "几张沙发和一张桌子算不上什么社交空间。而饮料、二维视频屏和一套音响系统就是另一回事了……",
+    "Icon": "uixSvgIcon_shipUpgrade_loungeUpgrade"
+  },
+  "Illustration": "uixTxrSpot_Lounge",
+  "Location": "SHIP",
+  "Category": "RECREATION",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "那个，呃，工程师们想知道能不能安排一个定期的三录节目。有个剧，讲内战时期的雇佣兵，里面的机甲据说是历史准确的。我想——呃，他们想找个地方看这类东西。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_rec_lounge1",
+      "argoUpgrade_power1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 20,
+  "PurchaseCost": 450000,
+  "AdditionalCost": 2800,
+  "Tags": {
+    "items": [
+      "argo_rec_lounge2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "2",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

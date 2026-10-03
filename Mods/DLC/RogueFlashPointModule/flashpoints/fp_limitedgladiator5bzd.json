@@ -1,0 +1,46 @@
+{
+  "Description": {
+    "Id": "fp_limitedgladiator5bzd",
+    "Name": "限定角斗士对战 <b><color=#f0ff00>中型 </color></b>",
+    "Details": "短拆分模板",
+    "Icon": "limitedgladiator"
+  },
+  "Weight": 1,
+  "MinAppearanceDate": "3041-06-01T00:00:00Z",
+  "InternalName": "limited gladiator 1",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 13,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [
+        "planet_other_gamesworld"
+      ],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "MercenaryReviewBoard"
+  ],
+  "TargetFaction": "NoFaction",
+  "AllowRefitTime": true,
+  "FlashpointLength": "SHORT",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_limitedgladiator5bzd",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "RT_FP_ThreeRogueItemsGHard",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "一名机甲战士向你叫板。他一定是在当地全息影像上见过你。赞助商正涌向这场对决。<b><color=#f0ff00>中型 </color></b>难度 ",
+  "FlashpointDescriberCastDefId": "castDef_FP_justinAllard_AllardDefault"
+}

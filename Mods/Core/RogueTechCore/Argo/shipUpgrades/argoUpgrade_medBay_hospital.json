@@ -1,0 +1,81 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_medBay_hospital",
+    "Name": "医院室",
+    "Details": "<i>阿戈</i>号原本的设计规格中，就有容纳真正医院设施的空间与基础设施，而不只是简单的医疗舱。有了完整的医院级设备，以及与舰上图书馆和数据库的连接，医疗技师们能够创造出近乎奇迹的疗愈效果。所有医疗舱都将改建为医院舱。",
+    "Icon": "uixSvgIcon_shipUpgrade_medbay4"
+  },
+  "Illustration": "uixTxrSpot_MedBay",
+  "Location": "SHIP",
+  "Category": "MED_BAY",
+  "AssignedCastDefId": "castDef_DariusDefault",
+  "AssignedCastDescription": "指挥官，医护兵们一直在谈论那些先进设施，而我们现在有足够的电力让它们全部运转。我们需要对所有医疗舱做大改造，但我们的重伤救治能力将大幅提升。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_medBay3",
+      "argoUpgrade_power3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 30,
+  "PurchaseCost": 2700000,
+  "AdditionalCost": 6700,
+  "Tags": {
+    "items": [
+      "argo_medbay_hospital"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MedTechSkill",
+      "value": "3",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MedTechMultiplier_Spartan",
+      "value": "0.1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MedTechMultiplier_Restrictive",
+      "value": "0.15",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MedTechMultiplier_Spartan_Display",
+      "value": "10",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MedTechMultiplier_Restrictive_Display",
+      "value": "15",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "IncapacitatedDeathChance",
+      "value": "-0.05",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "LethalDeathChance",
+      "value": "-0.05",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

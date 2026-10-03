@@ -1,0 +1,48 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_rec_hydroponics",
+    "Name": "无土栽培室",
+    "Details": "在脊柱附近，吊舱的旋转不足以产生任何真正可感知的重力。这使那些区域不适合居住，却非常适合种植水培作物——它们能清新空气，也让餐桌多些花样。",
+    "Icon": "uixSvgIcon_shipUpgrade_hydroponics"
+  },
+  "Illustration": "uixTxrSpot_Hydroponics",
+  "Location": "SHIP",
+  "Category": "RECREATION",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "我看过伽马舱了，指挥官，大部分原有管道都还完好。只需花点小力气，我们就能修好水培系统，让厨房里有新鲜香草和蔬菜，而不是复原糊。只是个想法。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_pod2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 20,
+  "PurchaseCost": 450000,
+  "AdditionalCost": -3000,
+  "Tags": {
+    "items": [
+      "argo_rec_hydroponics"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MedTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

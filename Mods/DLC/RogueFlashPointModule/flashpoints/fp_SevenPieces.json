@@ -1,0 +1,61 @@
+{
+  "Description": {
+    "Id": "fp_SevenPieces",
+    "Name": "七块碎片",
+    "Details": "海盗认定一处防守薄弱的当地政府为目标。本闪点<b><color=#f0ff00>漫长</color></b>",
+    "Icon": "sevenpieces"
+  },
+  "Weight": 9000,
+  "InternalName": "SevenPieces",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 6,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [
+          "flashpoint_simplegreeting_b"
+        ],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [
+          "flashpoint_solarwinds_complete",
+          "flashpoint_SevenPieces_complete"
+        ],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Valkyrate"
+  ],
+  "TargetFaction": "Locals",
+  "AllowRefitTime": false,
+  "FlashpointLength": "LONG",
+  "Repeatable": true,
+  "MilestoneSetID": "ms_fp_SevenPieces",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "RT_FP_ThreePirateItems",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "我们收到了发布给我们的一份新合约。上面写着（大劫掠，轻松打捞）。我不知道他们是怎么把这东西通过MRBC的安全线路传过来的。本闪点<b><color=#f0ff00>漫长</color></b>。",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

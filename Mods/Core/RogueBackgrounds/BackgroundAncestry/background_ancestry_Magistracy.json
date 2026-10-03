@@ -63,5 +63,5 @@
   "OptionName": "卡诺普斯法域",
   "OptionMusicTrigger": "canopus",
   "OptionDescription": "出身于[[DM.Factions[faction_MagistracyOfCanopus]  卡诺帕治安官辖区]]的机师在技能与战斗风格上跨度极大，但他们往往偏爱战场上巧妙而非正统的战术。\n\n虽然比[[DM.BaseDescriptionDefs[LoreInnerSphere]  内天体]]的各大[[DM.BaseDescriptionDefs[LoreSuccessorState]  继承国]]更小，卡诺帕治安官辖区是[[DM.BaseDescriptionDefs[LoreRimwardPeriphery]  外缘星区]]的主要势力之一。辖区是一个由女执政官领导的母系社会。这是一个任何女性都可参选的选举职位，但由于家族的声望，实际上大多由[[DM.BaseDescriptionDefs[LoreHouseCentrella]  森特雷拉家族]]掌控。辖区支持一个开放社会，保障所有公民的个人自由及其按自己意愿生活的权利。",
-  "BioDescription": "You were born and raised in the Magistracy of Canopus. MechWarriors who hail from the Magistracy of Canopus often favor clever and unorthodox tactics on the field. The Magistracy supports an open society that ensures the personal liberty of all citizens and their right to live their lives as they see fit.\r\n"
+  "BioDescription": "你出生并成长于卡诺帕治安官辖区。出身于卡诺帕治安官辖区的机师往往偏爱战场上巧妙而非正统的战术。辖区支持一个开放社会，保障所有公民的个人自由及其按自己意愿生活的权利。\n"
 }

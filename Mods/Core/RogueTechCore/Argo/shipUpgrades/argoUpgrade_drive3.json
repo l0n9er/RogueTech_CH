@@ -1,0 +1,52 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_drive3",
+    "Name": "高G过载驱动升级",
+    "Details": "<i>阿尔戈</i>的驱动器可升级以支持剧烈的高G燃烧，但这会对系统与结构造成负担，也会给你的预算造成压力。",
+    "Icon": "uixSvgIcon_shipUpgrade_drive2"
+  },
+  "Illustration": "uixTxrSpot_ArgoDrive2",
+  "Location": "ENGINEERING",
+  "Category": "DRIVE_SYSTEM",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "<i>阿戈</i>号的推进器<i>远</i>比我猜想的强大。我们或许永远无法让它完全重新上线，但目前我可以提高我们的推力。虽然3G并不舒适，船员也会有怨言，但我们的航行时间将大幅缩短。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_drive2",
+      "argoUpgrade_power3",
+      "argoUpgrade_structure2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 30,
+  "PurchaseCost": 1720000,
+  "AdditionalCost": 5700,
+  "Tags": {
+    "items": [
+      "argo_drive3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Single",
+      "name": "DriveTravelMultiplier",
+      "value": "0.55",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "DriveTravelMultiplier_Display",
+      "value": "45",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

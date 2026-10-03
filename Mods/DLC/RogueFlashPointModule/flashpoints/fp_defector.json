@@ -1,0 +1,44 @@
+{
+  "Description": {
+    "Id": "fp_defector",
+    "Name": "叛逃者",
+    "Details": "兵分三路",
+    "Icon": ""
+  },
+  "Weight": 140,
+  "InternalName": "defector",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 8,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Kurita"
+  ],
+  "TargetFaction": "Liao",
+  "AllowRefitTime": true,
+  "FlashpointLength": "SHORT",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_defector",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_FP_generic_SLDF",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "联合政府的一名特工已叛变. 必须阻止他泄露所知情报，我们认为雇佣兵是处理叛逃者的合适手段. 杀死叛逃者，你将获得丰厚的回报.",
+  "FlashpointDescriberCastDefId": "castDef_KuritaRepDefault"
+}

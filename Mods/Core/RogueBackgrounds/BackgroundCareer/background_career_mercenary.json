@@ -66,5 +66,5 @@
   "OptionMusicTrigger": "",
   "OptionDescription": "急于抛开一切，你加入了一支内天体的次要雇佣兵部队。融入这个关系紧密的团队花了些时间，但你最终证明了自己的价值，成为了家中的一员。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics]  战术]]",
   "Intro": "纯属偶然把你带回了[[DM.BaseDescriptionDefs[LoreAuriganReach]  奥里根边境]]——你的雇佣兵队伍在奥里根空间郊外接了一份对海盗飞地的倒霉合约。活儿砸了，你是全队唯一的幸存者。拉朱的分队恰好就在附近巡逻。在救下你、并帮你悼念阵亡战友之后，他给了你一份在[[DM.BaseDescriptionDefs[LoreHouseArano]  阿拉诺家族]]皇家卫队的工作。\n\n于是就这样，你发现自己与昔日的导师重聚，正在为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿拉诺女士]]加冕日的守卫任务准备你那台祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  黑杰克]]……",
-  "BioDescription": "Eager to get away from your past and make a name for yourself, you joined up with a minor mercenary unit. Integrating into the tight-knit crew took time, but you eventually proved your worth and became part of the family.\r\n"
+  "BioDescription": "急于摆脱过去、为自己扬名，你加入了一支小型雇佣兵部队。融入这个关系紧密的团队花了些时间，但你最终证明了自己的价值，成为家人的一员。\n"
 }

@@ -1,0 +1,66 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_storage3",
+    "Name": "自动化存储空间",
+    "Details": "自动化<i>阿戈</i>号的内部仓储就是未来。对储存舱做最后一次升级，就能让我们转向自动化无人机库存系统，配几台增压作业机甲做特殊工作。给部分库存降压、让机器人干活，能让我们把人力与资源调配到别处，省下大量维护费用",
+    "Icon": "uixSvgIcon_shipUpgrade_repairscaffold"
+  },
+  "Illustration": "uixTxrSpot_ArgoStructure2",
+  "Location": "SHIP",
+  "Category": "STRUCTURE",
+  "AssignedCastDefId": "castDef_DariusDefault",
+  "AssignedCastDescription": "我不是建议让机器人接管所有人的工作，但事实是机器不睡觉、不呼吸、不吃饭、也不抱怨。我们有些人可以时不时努力更像那样一点。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_mechBay3",
+      "argoUpgrade_pod3",
+      "argoUpgrade_storage2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 15,
+  "PurchaseCost": 450000,
+  "AdditionalCost": 1700,
+  "Tags": {
+    "items": [
+      "argo_storage3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Single",
+      "name": "IBLS_MechbayUpkeepModifier",
+      "value": "0.85",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "IBLS_MechbayUpkeepModifier_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "IBLS_CargoStorageModifier",
+      "value": "0.85",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "IBLS_CargoStorageModifier_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

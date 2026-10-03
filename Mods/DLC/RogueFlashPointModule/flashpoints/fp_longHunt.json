@@ -1,0 +1,44 @@
+{
+  "Description": {
+    "Id": "fp_longHunt",
+    "Name": "漫长的狩猎",
+    "Details": "分支B有一个额外选项，通向b2或c1。",
+    "Icon": ""
+  },
+  "Weight": 200,
+  "InternalName": "longHunt",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 7,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Kurita"
+  ],
+  "TargetFaction": "Davion",
+  "AllowRefitTime": false,
+  "FlashpointLength": "MEDIUM",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_longHunt",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_FP_generic_SLDF",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "一名达维昂中尉在联合体的肖尔卡拉星系犯下了骇人暴行。我要你把他揪出来，指挥官。犯下那些事之后，他不能活下去。",
+  "FlashpointDescriberCastDefId": "castDef_KuritaRepDefault"
+}

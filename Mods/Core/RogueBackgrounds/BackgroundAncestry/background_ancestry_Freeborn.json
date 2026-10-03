@@ -63,5 +63,5 @@
   "OptionName": "氏族领地(自由生者)",
   "OptionMusicTrigger": "deep",
   "OptionDescription": "TESTING",
-  "BioDescription": "Born by natural means within the [[DM.BaseDescriptionDefs[LoreClans]  Clans]], your status has always been second class. However, this has done nothing to curb your ambition to become more than just a footnote in the known universe, let alone just the Clans."
+  "BioDescription": "你以自然方式生于[[DM.BaseDescriptionDefs[LoreClans]  氏族]]之中，身份一直是二等。然而这丝毫没有遏制你的野心——你要成为远比已知宇宙中一个脚注更重要的人物，更不用说只在氏族之内了。"
 }

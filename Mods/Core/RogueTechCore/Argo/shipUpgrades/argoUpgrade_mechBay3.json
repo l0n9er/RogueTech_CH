@@ -1,0 +1,84 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_mechBay3",
+    "Name": "3号机甲舱",
+    "Details": "随着<i>阿尔戈号</i> 的电力系统全面上线，以及足够的结构加固来防止启用中的维修舱损坏船体脊梁，最后六个机甲舱位终于可以通电并投入使用了.\n\n<b><color=#F79232>启用第三个维修舱位，允许以33%的效率同时维修第三台机甲.</color></b>",
+    "Icon": "uixSvgIcon_shipUpgrade_mechbay3"
+  },
+  "Illustration": "uixTxrSpot_MechBay",
+  "Location": "MECH_BAY",
+  "Category": "MECH_BAY",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "机甲库其余部分的电力已经恢复，我们可以开始修复最后6个隔间了。就算你不打算用机甲把它们填满，相信我，我也能让多出来的空间派上大用场。不过这可是个大工程。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_mechBay2",
+      "argoUpgrade_power2",
+      "argoUpgrade_structure2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 18,
+  "PurchaseCost": 1850000,
+  "AdditionalCost": 4000,
+  "Tags": {
+    "items": [
+      "argo_mechBay3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MechBayPods",
+      "value": "3",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MechBayPods_Display",
+      "value": "18",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MechTechSkill",
+      "value": "2",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Extravagant",
+      "value": "0.15",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Extravagant_Display",
+      "value": "15",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Generous",
+      "value": "0.1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Generous_Display",
+      "value": "10",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

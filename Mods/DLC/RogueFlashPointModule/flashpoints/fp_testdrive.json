@@ -1,0 +1,59 @@
+{
+  "Description": {
+    "Id": "fp_testdrive",
+    "Name": "试驾",
+    "Details": "康星正为一个最高机密项目请求援助。",
+    "Icon": "centaur"
+  },
+  "Weight": 909909,
+  "InternalName": "testdrive",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 3,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [
+          "flashpoint_testdrive_complete"
+        ],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [
+        "planet_faction_ComStar"
+      ],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "ComStar"
+  ],
+  "TargetFaction": "Locals",
+  "AllowRefitTime": true,
+  "FlashpointLength": "LONG",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_testdrive",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "RT_FP_testdriveitems",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "通讯之星请求我们协助一个名为“半人马”的项目.",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

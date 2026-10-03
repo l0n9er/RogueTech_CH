@@ -66,5 +66,5 @@
   "OptionMusicTrigger": "",
   "OptionDescription": "厌倦了活在他人权威之下的日子，你混进了[[DM.BaseDescriptionDefs[LoreRimwardPeriphery]  Rimward Periphery]]当地的一伙海盗帮派。这帮人桀骜难驯，却也相当能干——在外围地区游荡，让你这支队伍有了稳定的猎物来源：防御薄弱的商队和补给站。突袭偶尔会演变成正面交战，但你很快就明白，成功的海盗行当多半靠的是在对的时间出现在对的地点、摆出对的威胁，再加上一场像样的武力展示。\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts]  Guts]]",
   "Intro": "在边疆漂泊多年之后，你的部队终于耗尽了运气，你被关进了[[DM.BaseDescriptionDefs[LoreAuriganCoalition]  Aurigan Coalition]]的监狱。得知你遭遇不幸，Raju将你从狱中拉了出来，在他的指导下给了你第二次机会。经过艰苦的康复训练，你证明了自己的价值，被吸纳入[[DM.BaseDescriptionDefs[LoreHouseArano]  House Arano]]皇家卫队。\r\n\r\n就这样，你与昔日的导师重逢，为自己的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  Blackjack]]做好护卫准备，迎接[[DM.BaseDescriptionDefs[LoreKameaArano]  Lady Kamea Arano]]的加冕典礼……",
-  "BioDescription": "After years of working for Dr. Banzai, you have stuck out on your own and were given one of Team Banzai's treasured Hatchetmen as a reward for exceptional service.\r\n"
+  "BioDescription": "在为班宰博士工作多年之后，你终于独立门户，并因表现卓著获赠一台班宰小队珍藏的斧手作为奖赏。\n"
 }

@@ -1,0 +1,48 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_DropInfo1",
+    "Name": "传感器-地形测绘",
+    "Details": "目前的传感器系统一直缺乏对任务空降区地形进行精确测绘的能力. 通过一些简单的线路改造，并为阿尔戈号的计算机加装合适的软件，我们就能将通用传感器阵列改造为可支持地形扫描的配置.",
+    "Icon": "SensorICON_01"
+  },
+  "Illustration": "uixTxrSpot_ArgoPod",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_SumireDefault",
+  "AssignedCastDescription": "我终于能提前看清着陆地点了！再也不会因为达吕斯把咱们派错了地方，而意外降落在沼泽里了.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_power1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 7,
+  "PurchaseCost": 168000,
+  "AdditionalCost": 2500,
+  "Tags": {
+    "items": [
+      "argo_info1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Boolean",
+      "name": "Intel_Show_Minimap",
+      "value": "True",
+      "set": true
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "Intel_Show_Minimap_Display",
+      "value": "1",
+      "set": true
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "RTExtra2"
+}

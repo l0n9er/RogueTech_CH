@@ -1,0 +1,56 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_power3",
+    "Name": "大容量电力管道",
+    "Details": "<i>阿尔戈</i>原本设计的总功率传递量远高于这些临时拼凑的导管所能承受。有了这次升级，我们就能让一些武器上线，帮我们挡下一些袭击者。",
+    "Icon": "uixSvgIcon_shipUpgrade_power2"
+  },
+  "Illustration": "uixTxrSpot_EngineeringInnards",
+  "Location": "ENGINEERING",
+  "Category": "POWER_SYSTEM",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "这是一艘了不起的船。我不断惊讶于<i>阿戈</i>号基础设施的某些部分有多么<i>先进</i>。我们连它推进器能承受的一半功率都没用到。更多功率意味着更大推力，指挥官。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_power2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 30,
+  "PurchaseCost": 720000,
+  "AdditionalCost": 700,
+  "Tags": {
+    "items": [
+      "argo_power3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MechTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [
+    {
+      "Type": "Ship_SetRepairState",
+      "value": "2",
+      "additionalValues": [
+        "Power"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Description": {
+    "Id": "fp_walktheplank",
+    "Name": "walktheplank",
+    "Details": "海盗女王有个请求给我们。",
+    "Icon": "walktheplank"
+  },
+  "Weight": 1000,
+  "InternalName": "walktheplank",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 12,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [
+          "flashpoint_mutiny_complete"
+        ],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [
+          "flashpoint_walktheplank_complete"
+        ],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [
+        "planet_faction_Valkyrate"
+      ],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Valkyrate"
+  ],
+  "TargetFaction": "Valkyrate",
+  "AllowRefitTime": false,
+  "FlashpointLength": "LONG",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_walktheplank",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "RT_FP_walktheplankitems",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "收到一条非公开的密语通讯。海盗女王需要我们的帮助。 ",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

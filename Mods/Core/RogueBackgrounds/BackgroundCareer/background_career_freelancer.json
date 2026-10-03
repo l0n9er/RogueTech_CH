@@ -65,5 +65,5 @@
   "OptionMusicTrigger": "",
   "OptionDescription": "你以自由身游荡于[[DM.BaseDescriptionDefs[LoreRimwardPeriphery]  Rimward Periphery]]，作为一名受雇的机甲战士，接下一切能找到的零散合同。那是种孤独的生活——但随着你逐渐适应了漂泊的日子，你发现自己能靠着帮助边疆的人们过上不错的生活。\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics]  Tactics]]",
   "Intro": "在为[[DM.BaseDescriptionDefs[LoreAuriganReach]  奥里根边区]]边缘的某地政府执行例行巡逻时，你遭到海盗袭击并被弃之等死。拉朱恰好正在访问首府城市，接收到了你的求救信号。救出你之后，他邀请你加入[[DM.BaseDescriptionDefs[LoreHouseArano]  阿然诺家族]]皇家卫队。\n\n就这样，你与旧日的导师重逢，为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿然诺女士]]加冕当天的守卫任务保养你的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]……",
-  "BioDescription": "Desperate to escape your past, you roamed the Rimward Periphery as a freelancer, signing on for whatever odd contracts you could find as a MechWarrior for hire. It was a solitary life - but as you became more comfortable with the itinerant lifestyle, you found you have been able to eke out a decent living thus far.\r\n"
+  "BioDescription": "急于逃离过去，你在核心方向外缘以自由职业者身份游荡，作为受雇机师接下你能找到的任何古怪合约。这是一种孤独的生活——但随着你越来越习惯这种漂泊的生活方式，你发现迄今还能凑合过个体面的日子。\n"
 }

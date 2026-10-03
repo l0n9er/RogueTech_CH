@@ -1,0 +1,768 @@
+C3 slave	C3从机
+with id '{value}'	ID 为 '{value}'
+'{value}' into the mechbay	'{value}' 放入机甲库
+for conversation id {value}	对话 ID {value}
+Defend Lance	防守小队
+Asset Denial	资产拒止
+Secret Logistics	秘密后勤
+Guerrilla Interception	拦截游击队
+Aggressive Negotiations	咄咄逼人的谈判
+Bug Hunt	猎虫
+Insurgent Leader	叛乱领袖
+Abandoned Factory	废弃工厂
+Bargaining Chip	谈判筹码
+Data Piracy	数据海盗
+Aborted Colony	夭折的殖民地
+Hostage Rescue	营救人质
+Garrison Duty	守备任务
+Professional Ethics	职业道德
+Deniable Destruction	可以撇清关系的毁灭
+Factory Recall	收回工厂
+Corporate Secrets	公司机密
+Embassy Extraction	撤出大使
+Smash and Grab	强夺行动
+Last 'Mech Standing	最后一台机甲
+Drop Interception	拦截空投
+Settling a Grudge	了结宿怨
+Walking Apocalypse	行走的天启
+Doom on Two Legs	双足末日
+Tanky With a Side of Sniper	能抗又能狙
+Built Like a Brick, Shoots Like a Sniper	砖墙般坚固，狙击手般精准
+Taco Truck Locomotion	塔可餐车机动
+Blink and You'll Miss It	眨眼就错过
+Now You See Me, Now You Don't	现在你看得见，转眼就看不见
+Goldilocks Gunnery	Goldilocks炮术
+Surgical Striker	外科手术式打击者
+Accursed Actuation	诅咒驱动系统
+Agent Of Death	死亡使者
+Amaris Enabler	阿玛里斯拥护者
+Big Iron on His Hip	腰间巨铁枪
+Always Blamed	总是被指责
+Burning Chaos	燃烧混沌
+Can't Find Me	找不到我
+Clan Ascended	氏族升华者
+Clan-Fu Master	氏族功夫大师
+Code Monkey	程序猿
+Contract Negotiator	合约谈判员
+Diplomatic Immunity	外交豁免权
+EI Master	EI大师
+Ferret Master	雪貂大师
+First Lord	第一领主
+Fortified Propaganda	强化宣传
+Four Finger Discount	顺手牵羊
+Herald of Gifs	动图使者
+Golden Bib Armour	金围兜装甲
+Gonna Ticket That?	又要开工单了?
+Good Guy Grol	好人格罗尔
+Gulag Warden	古拉格监狱长
+Hidden Hope Fulfilled	隐藏的希望已实现
+High Khan KO	至高可汗KO
+Just Wanted Infernos	只是想要炼狱
+IlChi Overdrive	IlChi超频系统
+Ilkhan of the Ilclan	无上氏族之无上可汗
+Independent Trader	独立贸易商
+Inspiring Presence	鼓舞人心的存在
+Iron Hearted Khan	铁心可汗
+JSON Monkey	JSON猴子
+Last Successor Lord	最后的继承领主
+Lets Try This	试试这个
+LuteFisk Launchers	腌鱼发射器
+Market Master	市场大师
+Way of the Murderpede	杀戮蜈蚣之道
+Neural Implants	神经植入物
+Not Your Typical Kerensky	非比寻常的克伦斯基
+Nyanling Slayer	喵灵杀手
+Pain Shunt	痛觉屏蔽
+Pity the Fool	<color=#FF0000>可怜的傻瓜</color>
+Ranger's Edge	游侠之刃
+Recruitment Thievery	招募窃贼
+RogueBot Mocker	RogueBot嘲讽者
+RT Crew	RT班底
+Saint's Heavy Light	圣徒重型轻型机
+Salvage Seeker	战利品搜寻者
+Support Rangler	支援协调员
+Taco Time!	塔可时间到!
+Terror of Atreus	Atreus之恐怖
+3rd Star League Founder	第三次星际联盟创立者
+Too Old For This Shit	太老了，受不了这破事
+Tuned Capacitors	调校电容器
+Who Let The Dogs Out?	谁把狗放出来了?
+Pirate WiFi	海盗WiFi
+Enter The Thunderdome	进入雷霆穹顶
+Gameworld Battle Royale: Assault Mech Class	游戏世界大乱斗：突击机甲级
+Gameworld Battle Royale: Heavy Mech Class	游戏世界大乱斗：重型机甲级
+Gameworld Battle Royale: Light Mech Class	游戏世界大乱斗：轻型机甲级
+Gameworld Battle Royale: Medium Mech Class	游戏世界大乱斗：中型机甲级
+Gameworld Battle Royale: Superheavy Mech Class	游戏世界大乱斗：超重型机甲级
+Gameworld Battle Royale: Ultralight Mech Class	游戏世界大乱斗：超轻型机甲级
+Absent Witness	缺席证人
+Hold the Ground, Until You Can't	守住地面，直到你守不住
+Last Stand	最后一搏
+Leapfrogging is the Way	蛙跳才是王道
+At High Noon	正午时分
+Double Trouble	双重麻烦
+Festive Couple	喜庆一对
+Last Minute Replacements	最后时刻的替补
+Words Hurt	言语伤人
+Yearly Tussle	年度角力
+Beefed Up Security	加强安保
+Breakthrough on the Brink	濒临突破
+Hold the Line	守住战线
+Maintenance Base	维护基地
+All Eyes On	万众瞩目
+A Taste For War	嗜战之味
+Challenge Accepted	接受挑战
+Cornered Revenge	困兽之报
+Life Lesson	人生教训
+Proxy War	代理战
+Insurrection Interception	叛乱拦截
+Middle Management	中层管理者
+The General	将军号
+War Machine	战争机器
+Being Attacked Means the Enemy Believes in You	遭受攻击意味着敌人相信你的实力
+BRv2 - ARENA - Alpine River - Pappystein	BRv2 - 竞技场 - 高山河 - Pappystein
+BRv2 - Big Loch - Pappystein	BRv2 - 大湖 - Pappystein
+BRv2 - Big Loch 02 - Pappystein	BRv2 - 大湖 02 - Pappystein
+BRv2 - ARENA - Death Valley - Bloodydoves	BRv2 - 竞技场 - 死亡谷 - Bloodydoves
+BRv2 - ARENA - The Red City - Bloodydoves	BRv2 - 竞技场 - 血色之城 - Bloodydoves
+BRv2 - ARENA - Rocky Crater	BRv2 - 竞技场 - 岩石陨石坑
+BRv2 - ARENA - Split River	BRv2 - 竞技场 - 分水河
+BRv2 - ARENA - Tide Bay - Bloodydoves	BRv2 - 竞技场 - 潮汐湾 - Bloodydoves
+BRv2 - Boggy Rocks - Bloodydoves	BRv2 - 泥沼岩 - Bloodydoves
+BRv2 - ARENA - Boulder Field - Bloodydoves	BRv2 - 竞技场 - 巨石原 - Bloodydoves
+BRv2 - Grid Lock - Bloodydoves	BRv2 - 锁网 - Bloodydoves
+BRv2 - Hidden Lagoon - Bloodydoves	BRv2 - 隐秘潟湖 - Bloodydoves
+BRv2 - Story Encounter 8 LOCURA - Pappy	BRv2 - 剧情遭遇8 洛库拉 - 帕皮
+Duo Duel - Open Area	双人决斗 - 开阔地
+Duo Duel - Alpine River 01	双人对决 - 高山河 01
+Duo Duel - Story Encounter 8 LOCURA - Pappy	双人对决 - 剧情遭遇8 LOCURA - Pappy
+Duo Duel - Arena	双人决斗 - Arena
+Scramble-DefendBase - Big Crater	紧急起飞-防御基地 - 大火山口
+Scramble-DefendBase - Boreal Forest	紧急起飞-防御基地 - 北方针叶林
+Scramble-DefendBase - Lost World	紧急起飞-防御基地 - 失落世界
+Scramble-DefendBase - Mons Foothills	紧急起飞-防御基地 - 蒙斯山麓
+Scramble-DefendBase - Raw Cliffsides	紧急起飞-防御基地 - 嶙峋崖壁
+Scramble-DefendBase - Rocky Mesas	紧急起飞-防御基地 - 岩石台地
+Scramble-DefendBase - Rolling Hills Lake	紧急起飞-防御基地 - 连绵丘陵湖
+Solo Duel - Open Area	单人决斗 - Open Area
+Solo Duel - Alpine River 01	单人对决 - 高山河 01
+Solo Duel - Story Encounter 8 LOCURA - Pappy	单挑决斗 - 剧情遭遇8 洛库拉 - 帕皮
+Solo Duel - Arena	单人决斗 - Arena
+Split Defense - Alpine Cathedral	分兵防御 - 高山大教堂
+Split Defense - Crater Field	分散防御 - 陨石坑区
+Split Defense - Mountani Hold	分兵防御 - 山间据点
+Split Defense - Rocky Cliffs	分兵防御 - 岩石峭壁
+Split Defense - Sandy Mesa	分兵防御 - 沙丘台地
+Split Defense - Terrace Lakes	分兵防御 - 梯田湖
+Split Defense - Tropical Cove	分散防御 - 热带海湾
+TheSwitch-Assassinate - Big Crater	TheSwitch-刺杀 - 大火山口
+TheSwitch-Assassinate - Frigid Steppes	TheSwitch-刺杀 - 严寒草原
+TheSwitch-Assassinate - Highway	TheSwitch-刺杀 - 公路
+TheSwitch-Assassinate - Jumbled Karst	TheSwitch-刺杀 - 杂沓喀斯特
+TheSwitch-Assassinate - Mons Foothills	TheSwitch-刺杀 - 蒙斯山麓
+TheSwitch-Assassinate - Rift Valley	折越-刺杀 - 裂谷
+TheSwitch-Assassinate - The Mound	TheSwitch-刺杀 - 土丘
+TheSwitch-Assassinate - Metro Green	TheSwitch-刺杀 - 都市绿地
+WZv2 - ARENA - Alpine River	WZv2 - 竞技场 - 高山河
+WZv2 - ARENA - River Crossing	WZv2 - 竞技场 - 渡河
+WZv2 - ARENA - Split River	WZv2 - 竞技场 - 分水河
+WZv2 - ARENA - Split River v2	WZv2 - 竞技场 - 分水河 v2
+WZv2 - ARENA - Taiga River	WZv2 - 竞技场 - 针叶河
+WZv2 - ARENA - Metro Green	WZv2 - 竞技场 - 都市绿地
+Solo Duel	单人决斗
+Duo Duel	双人决斗
+The crew has seen the Beta Pod rec facilities on the ship's floor plans, Commander, and it's all they can talk about. More practically, we'd be able to bring the Beta Pod medical facilities back online.	船员们在舰上平面图里看到了贝塔舱的娱乐设施，指挥官，他们满嘴都是这个。更实际地说，我们还能让贝塔舱的医疗设施重新上线。
+Commander, there are already a half dozen requests for new facilities for Gamma Pod, ranging from a swimming pool to a DropShip-sized bouncy castle. On a more practical note, we could also begin using the Gamma Pod medical facilities.	指挥官，关于伽玛舱的新设施已经有6份请求了，从游泳池到空投艇大小的充气城堡. 有份实际一点的记录是，我们可以开始利用伽玛舱的医疗设施.
+You were born and raised in the Federation. MechWarriors who hail from the Federated Suns tend to possess more finely honed skills and better equipment than their counterparts from other regions of space. They often see themselves as righteous warriors and champions of liberty - sometimes to a fault.\r\n	你出生并成长于联邦。来自联邦太阳国的机甲战士往往比太空其他地区的同行拥有更精炼的技能与更好的装备。他们常把自己视为正义的战士与自由的捍卫者——有时甚至过头。\n
+You were born and raised in the Deep Periphery. MechWarriors that hail from the Deep Periphery are rare, but even rarer is the MechWarrior who will admit to such an origin. Beyond the outermost edges of the Periphery lie depths of space that remain uncharted and unknown to most of human civilization, littered with abandoned colonies and small outposts.\r\n	你出生并成长于深远外缘。来自深远外缘的机师很罕见，但更罕见的是愿意承认这种出身的机师。在外缘最外侧的边缘之外，是大部人类文明都未曾测绘、未知的深空，散落着被废弃的殖民地和小型前哨。\n
+Born by natural means within the [[DM.BaseDescriptionDefs[LoreClans]  Clans]], your status has always been second class. However, this has done nothing to curb your ambition to become more than just a footnote in the known universe, let alone just the Clans.	你以自然方式生于[[DM.BaseDescriptionDefs[LoreClans]  氏族]]之中，身份一直是二等。然而这丝毫没有遏制你的野心——你要成为远比已知宇宙中一个脚注更重要的人物，更不用说只在氏族之内了。
+You were born and raised in the Free Rasalhague Republic. MechWarriors who hail from the short-lived Republic are fiercely independent, and often find themselves at odds with others. Despite frequent arguments and disagreements, they are invaluable lancemates.\r\n	你出生并成长于自由拉萨尔哈格共和国。出身于这个短命共和国的机师极为独立，常与他人发生分歧。尽管时常争论与不合，他们却是无可替代的分队队友。\n
+You were born and raised in the Draconis Combine. MechWarriors who hail from the Combine tend to be fierce, disciplined, and relentless fighters. Over centuries of rule, House Kurita has united the Combine into a single culture, heavily molded around medieval Japanese society.\r\n	你出生并成长于龙尼斯联合体。出身于联合体的机师往往是凶猛、自律、不屈不挠的战士。在数百年的统治中，栗田家族把联合体统一为单一文化，深受中世纪日本社会塑造。\n
+You were born and raised in the Capellan Confederation. MechWarriors who hail from the Capellan Confederation are dedicated and steadfast combatants, capable of holding the line and often surprising those opponents who would make the mistake of underestimating them. Most Capellans take great pride in their citizenship, which must be earned through service to the state.\r\n	你出生并成长于卡佩兰联邦。来自卡佩兰联邦的机甲战士是忠诚坚定的战士，能守住阵线，常让那些犯下低估他们这一错误的对手大吃一惊。大多数卡佩兰人极为自豪于自己的公民身份——这必须通过为国服务来赢得。\n
+You were born and raised in the Magistracy of Canopus. MechWarriors who hail from the Magistracy of Canopus often favor clever and unorthodox tactics on the field. The Magistracy supports an open society that ensures the personal liberty of all citizens and their right to live their lives as they see fit.\r\n	你出生并成长于卡诺帕治安官辖区。出身于卡诺帕治安官辖区的机师往往偏爱战场上巧妙而非正统的战术。辖区支持一个开放社会，保障所有公民的个人自由及其按自己意愿生活的权利。\n
+You were born and raised in the Free Worlds League. MechWarriors who hail from the Free Worlds League tend to be passionate, enduring fighters who value justice and equality above all else. The cultural diversity and independence of the Free Worlds League is at once the greatest strength of the Free Worlds League, and its greatest weaknesses.\r\n	你出生并成长于自由世界联盟。出身于自由世界联盟的机师往往热忱而坚韧，把正义与平等看得高于一切。自由世界联盟的文化多样性与独立性既是它最大的优势，也是它最大的弱点。\n
+You were born and raised in the Periphery. There is no easy way to characterize MechWarriors hailing from the Periphery - they can be anything from petty thugs to ruthless tacticians to skilled and honorable warriors. The Periphery is the galaxy's frontier, and petty politics and piracy rule the region.	你出生并成长于外缘。外缘出身的机师很难一概而论——他们可以是小混混，可以是冷酷的战术家，也可以是技艺精湛、光明磊落的战士。外缘是银河的边疆，琐碎的政治与海盗行径统治着这片区域。
+Decades ago, your family came to the Aurigan Reach from the Lyran Commonwealth. MechWarriors who hail from the Lyran Commonwealth tend to be hardy, well equipped, and well trained, though they have also earned a reputation for not being particularly strategic thinkers on the battlefield. Wealth is the greatest strength of the merchant princes of the Lyran Commonwealth.\r\n	数十年前，你的家族从莱兰联邦来到奥里根边境。出身于莱兰联邦的机师往往坚韧、装备精良、训练有素，不过他们也落下了在战场上不太讲究战略的名声。财富是莱兰联邦商业诸侯最大的实力所在。\n
+Decades ago, your family came to the Aurigan Reach from the Taurian Concordat. MechWarriors who hail from the Taurian Concordat tend to be stubborn and aggressive but are nonetheless skilled and perceptive combatants. Founded as a constitutional monarchy under the leadership of House Calderon, the Taurian Concordat is the strongest military power of the Rimward Periphery.\r\n	数十年前，你的家族从陶里安协约国来到奥里根边境。出身于陶里安协约国的机师往往固执而好斗，但依然是技艺娴熟、洞察敏锐的战斗者。陶里安协约国建立时是卡尔德隆家族领导下的君主立宪国，也是外缘星区最强的军事力量。\n
+You were created a [[DM.BaseDescriptionDefs[LoreTrueborn]  trueborn]] member of the [[DM.BaseDescriptionDefs[LoreClans]  Clans]]. Washed out from the eugenics program, you are still determined to earn your place in the Remembrance.	你作为[[DM.BaseDescriptionDefs[LoreClans]  氏族]]的[[DM.BaseDescriptionDefs[LoreTrueborn]  真出者]]而生。虽被优生计划淘汰，你仍决心在《纪念录》中赢得自己的位置。
+After years of working for Dr. Banzai, you have stuck out on your own and were given one of Team Banzai's treasured Hatchetmen as a reward for exceptional service.\r\n	在为班宰博士工作多年之后，你终于独立门户，并因表现卓著获赠一台班宰小队珍藏的斧手作为奖赏。\n
+You knew you would fly someday; the only question was how to get there. A chance barfight with a visiting TDF Air Chief led to the opportunity to train in air combat. You took to it as you knew you would, putting up with any draconian policy if it meant more airtime. Eventually, though, your ego got you in enough trouble to ground you from combat-readiness, and you were relegated to the position of Instructor. It took four more years of kowtowing and favors, but you got all the parts in place—nobody expected you to commandeer a bird while quitting the job, but nobody could stop you, either.	你早就知道自己终有一天会飞；唯一的问题是该如何到达那里。一次与来访TDF空军主官的酒吧斗殴带来了空中作战训练的机会。你如愿以偿地投入其中，只要能有更多飞行时间，任何苛刻政策你都忍。然而最终，你的自负给你惹了足够多麻烦，使你被取消了战备资格，降为教官。又经过四年逢迎与运作，你才把所有环节办妥——没人料到你会一边辞职一边把一架飞机开走，但也没人拦得住你。
+Desperate to escape your past, you roamed the Rimward Periphery as a freelancer, signing on for whatever odd contracts you could find as a MechWarrior for hire. It was a solitary life - but as you became more comfortable with the itinerant lifestyle, you found you have been able to eke out a decent living thus far.\r\n	急于逃离过去，你在核心方向外缘以自由职业者身份游荡，作为受雇机师接下你能找到的任何古怪合约。这是一种孤独的生活——但随着你越来越习惯这种漂泊的生活方式，你发现迄今还能凑合过个体面的日子。\n
+Eager to escape your past, you took your Blackjack and your skills as a MechWarrior to the famed arena planet of Solaris VII. There, you eked out a living as a gladiator, fighting for the crowd in minor arenas, getting by from paycheck to paycheck.\r\n	急于逃离过去，你带着你的黑杰克和机师技能来到著名的竞技场行星索拉里斯VII。你在那里作为角斗士勉强度日，在小竞技场为观众作战，靠薪水一月过一月。\n
+Following a disastrous mission that saw the rest of your unit all but wiped out, you picked up what was left to start anew. It wasn't easy as a lone battlesuit trooper, but you had experience and grit enough to make a name for yourself and pull a company together.\r\n	在一次除你之外全队几乎全灭的灾难性任务之后，你收拾残部从头开始。作为一名孤身的战斗服士兵并不容易，但你有足够的经验与胆魄为自己挣下名声，并把一家公司拉了起来。\n
+You took to plying yourself as a mercenary and found yourself traveling the [[DM.BaseDescriptionDefs[LoreInnerSphere]  Inner Sphere]]. While you're not the best pilot, you've been lucky enough to make it this far and a gift from a distant relative might prove to be the break you were looking for.\r\n	你开始以雇佣兵的身份谋生，并发现自己游历于[[DM.BaseDescriptionDefs[LoreInnerSphere]  内天体]]之间。你虽不是最出色的飞行员，但幸运地一路走到了今天，而一位远亲的赠礼或许正是你苦寻的转机。\n
+Eager to get away from your past and make a name for yourself, you joined up with a minor mercenary unit. Integrating into the tight-knit crew took time, but you eventually proved your worth and became part of the family.\r\n	急于摆脱过去、为自己扬名，你加入了一支小型雇佣兵部队。融入这个关系紧密的团队花了些时间，但你最终证明了自己的价值，成为家人的一员。\n
+You've spent most of your lift running some kind of grift. Hell, even getting MechWarrior training was something of a happy accident. A shame that your Lyran mentor at the time wasn't too thrilled when you tried to pay him D-Bills. Once all that was settled (it wasn't), you left (fled) your way to brighter prospects, sprinkling a little cash here and there to grease the wheels and buy your way to the head of a small mercenary company. What is it they say? War is business?\r\n	你大部分时间都在搞某种骗局。见鬼，连机师训练都算是场愉快的意外。可惜当你试图用D币付钱给你当时的莱兰导师时，他并不太高兴。等这一切都算了结（其实没了结）之后，你离开（逃离）了，奔向前程更光明的去处，这里撒点钱、那里撒点钱来润滑车轮，一路买到了一个小雇佣兵公司的头把交椅。人们怎么说来着？战争就是生意？\n
+The school of hard knocks is for people who think that the only way to the top of the food chain is brute force. Officer training school is for the people who <i>know</i> the only way to the top of the food chain is brute force <i>applied by people under your command</i>. You graduated, did a brief stint in the organised military, dropped out, had a jaunt through the private sector, and now you find yourself at the head of your own mercenary company, with a whole slew of people ready to do the brute force for you.\r\n	“硬碰硬学校”是给那些认为登上食物链顶端唯一途径就是蛮力的人上的。军官训练学校则是给那些<i>知道</i>登上食物链顶端唯一途径是<i>由你指挥下的人施加的蛮力</i>的人上的。你毕业了，在正规军里短暂服役，退出，去私营部门转了一圈，如今你发现自己坐在自家雇佣兵公司的头把交椅上，有整整一票人准备替你去施加蛮力。\n
+In the Clans' mad scramble to find suitable pilots for the ProtoMech project, you were among those selected for experimentation. While you failed to meet the frankly absurd conditions of the program, you became adept at piloting the unusual machines. Discarded once you were deemed useless, you took to the great expanse of space and landed yourself a comfortable job at the head of a mercenary company, ready to put your unconventional skills to use.\r\n	在氏族为原型机甲项目疯狂寻找合适飞行员的过程中，你是被选中参加实验的人之一。虽然你没达到该项目那简直荒谬的条件，你却变得擅长驾驶这些不寻常的机器。在你被判定无用之后遭到抛弃，你便投向广阔太空，为自己找到了一份舒适的工作——执掌一家雇佣兵公司，准备把你的非常规技能派上用场。\n
+You signed up for your local militia as soon as you came of age. While it wasn't glamorous, the life of a soldier suited you just fine. Things took a turn for the worse several years deep, however, and you found yourself burnt out on a gruelling campaign against local pirates who were conspicuously more armed than intelligence would've had you believe. You toughed through it, but swore you'd never commit to ops that you weren't in control of any longer, and founded your own mercenary company far away from the little speck you once called home.\r\n	你一到成年就报名加入了当地民兵。虽说并不光鲜，但士兵的生活对你来说正合适。然而几年之后事情开始变糟，你在一场对当地海盗的艰苦战役中筋疲力尽——那些海盗的武装明显比情报所声称的更重。你硬撑了下来，但发誓再也不会参与任何自己无法掌控的行动，于是在远离那个你曾称之为家的微小光点的地方，建立了自己的雇佣兵公司。\n
+Through many years of exceptional service, you found yourself shortlisted for a strike against Clan Smoke Jaguar - Operation DAMOCLES. Along with three other Second Star League veterans, you fought your way through the Smoke Jaguar chain of command, salvaging what 'Mechs you could along the way. In the final confrontation with the would-be leader of the Clan, your salvaged 'Mech was destroyed, but you were ultimately successful. Now, with your Bushwacker in tow, you think it's time for something a little quieter.\r\n	凭借多年卓越服役，你被列入对烟虎氏族打击行动——达摩克利斯行动——的候选名单。你与另外三名第二星盟老兵一同杀穿烟虎的指挥链，沿途打捞所能得到的机甲。在与该氏族准领袖的最后交锋中，你打捞来的机甲被摧毁，但你最终取得了成功。如今，带着你的丛林狼，你觉得该是时候做点更安静的事了。\n
+When you were young, you were always fascinated with space. Either you spent your life amongst the stars, or you wished you could.\r\n	你小时候总是对太空着迷。你要么在群星之间度过了一生，要么曾渴望如此。\n
+For almost all your life, you've been drawn to games of chance. Be it simple monetary gambling, or risking your life on the field of battle.\r\n	你几乎一生都被机会游戏吸引。无论是简单的金钱赌博，还是把性命押在战场上。\n
+In your spare time, you used to live and breathe technology. Whether you were tinkering with various systems, or scouring through every TechManual under the sun, you always found the technology that made the universe ticks to be fascinating.\r\n	在空闲时间，你过去总是活在技术里。无论你是在鼓捣各种系统，还是翻遍天下所有技术手册，你总觉得让宇宙运转的技术令人着迷。\n
+You have ever been looking to the past, perhaps to a fault. Any period of history, be it pre-spaceflight or as recent as the Age of War, has always piqued your interest. Despite not having a formal education in the field, your knowledge of some eras rivals even the most accredited historians.\r\n	你始终回望过去，或许已近成癖。任何一段历史时期——无论是前太空时代，还是近至战火时代——总能激起你的兴趣。尽管你并未在该领域受过正规教育，你对某些时代的了解甚至堪与最权威的历史学家比肩。\n
+In your youth, while others your age had myriad interests, you fought tooth and nail to justify your own existence. Life was tough, so you had to be tougher.\r\n	在你年少时，当同龄人有形形色色的兴趣，你却拼死拼活地证明自己存在的价值。生活很艰难，所以你不得不更坚韧。\n
++ 15 Overheat Threshold	+15 过热阈值
++ 10 Overheat Threshold	+10 过热阈值
++ 5 Overheat Threshold	+5 过热阈值
+ - 10% Weapon Heat	-10% 武器热量
+ - 15% Weapon Heat	-15% 武器热量
+ - 20% Weapon Heat	-20% 武器热量
++ 5 Melee Dmg.	+5 肉搏伤害.
++ 40 Melee Stb.Dmg.	+40 肉搏稳定性伤害.
++ 60 Melee Stb.Dmg.	+60 肉搏稳定性伤害.
++ 50 Melee Stb.Dmg.	+50 肉搏稳定性伤害.
++ 30 Melee Stb.Dmg.	+30 肉搏稳定性伤害.
++ 20 Melee Stb.Dmg.	+20 肉搏稳定性伤害.
++ 10 Melee Stb.Dmg.	+10 肉搏稳定性伤害.
+- 10 DFA Self Dmg.	-10 死神天降自伤.
+- 30 DFA Self Dmg.	-30 死神天降自伤.
+- 20 DFA Self Dmg.	-20 死神天降自伤.
++ 1 Injury Resist	+1 受伤抗性
++ 3 Injury Resist	+3 受伤抗性
++ 2 Injury Resist	+2 受伤抗性
++ 50m View Dist.	+50米 视野范围.
++ 25m View Dist.	+25米 视野范围.
++ 3 Resolve Gain	+3 决心/每回合
++ 4 Resolve Gain	每回合 +4 决心
++ 2 Resolve Gain	每回合 +2 决心
++ 1 Resolve Gain	+1 决心/每回合
++ 1 Initiative for all Lance units	+1 小队主动权
++ Called Shot	+ 精准射击
++ 2 Initiative for this unit	该单位主动权 +2
++ 1 Melee Hit	+1 肉搏命中
++ 2 Melee Hit	+2 肉搏命中
++ 3 Melee Hit	+3 肉搏命中
++ 2 Hit Defense	+2 命中防御
++ 1 Hit Defense	+1 命中防御
++ 3 Hit Defense	+3 命中防御
+- 20% Stb.Dmg. Taken	-20% 受到的稳定性伤害
+- 30% Stb.Dmg. Taken	-30% 受到的稳定性伤害
+- 10% Stb.Dmg. Taken	-10% 受到的稳定性伤害
++ 1 Acc. (Missile)	+1 精度. (导弹武器)
++ 2 Acc. (Missile)	+2 精度. (导弹武器)
++ 3 Acc. (Missile)	+3 精度. (导弹武器)
++ 1 Acc. (Ballistic)	+1 精度. (弹道武器)
++ 2 Acc. (Ballistic)	+2 精度. (弹道武器)
++ 3 Acc. (Ballistic)	+3 精度. (弹道武器)
++ 3 Acc. (Energy)	+3 精度. (Energy)
++ 10 Stb.Dmg.	+ 10 稳定伤害
+* 4 Ammo	* 4 弹药
+- 2 Tons	- 2 吨
+- 2 Heat	- 2 热量
++ 1 Stb.Dmg.	+ 1 稳定伤害
+Not Set	未设置
+Inferno Rack	炼狱发射架
+Sniper	狙击手
+Yang Artillery	杨氏火炮
+Destroy Base	摧毁基地
+Capture Base	占领基地
+Defend Base	守卫基地
+Ambush Convoy	伏击车队
+Target Acquisition	目标锁定
+Attack and Defend	攻守兼备
+Battle Royale	大乱斗
+Organized Retreat	有序撤退
+Defence In Depth	纵深防御
+Defend Base (Scramble)	保卫基地(紧急出击)
+Switch (Assassinate)	调班(刺杀)
+Max Drop Tonnage	最大空投吨位
+Additional Mech Control	额外机甲控制
+Additional Mech Drops	额外机甲空降
+MRB Console	MRB控制台
+More Drop Information	更多空投信息
+Finally I would be able see where to land in advance! No more accidentally landing in a swamp because Darius sent us to the wrong area.	我终于能提前看清着陆地点了！再也不会因为达吕斯把咱们派错了地方，而意外降落在沼泽里了.
+With this upgrade, my intel will be a lot more accurate of the battle conditions. I hope.	希望有了这次升级，我的情报对战场状况的把握会精准得多. 但愿吧.
+With this we can support dropping an additional Mech onto the battlefield.	有了这个，我们就能额外向战场空降一台机甲.
+This will use up the last of the parts that weren't salvaged, but at least we were able to keep the costs down, right?	这会用掉最后一批没被回收的部件，但至少我们把成本压下来了，对吧？
+The cradles can be completed, but Sumire has some concerns. You should talk to her before trying to field a full extra lance, Boss.	托架可以完成，但苏米尔有些顾虑. 头儿，在尝试投入一整支额外小队前，您应该先和她谈谈.
+Making sure our people can make it to the mission is the first real step to victory.	确保我们的人能顺利抵达任务地点，是迈向胜利的真正第一步.
+If we get this up and running, our tactical flexibility will take a big step up, Commander.	指挥官，如果我们能让这东西投入运作，我们的战术灵活性将向前迈进一大步.
+Processors that can handle this kind of raw data-bandwidth are LosTech these days, Commander. I'm sorry, but this won't be cheap.	指挥官，如今能处理这种原始数据带宽的处理器已属失落科技。抱歉，这不会便宜。
+At this point, I think only ComStar can claim to have better communication infrastructure in a single place.	事到如今，我想只有通讯之星敢说能在一个地方拥有比我们更好的通讯基础设施了.
+Improving the network linkages between our C&C systems should ease some of the burden.	改善我们指挥与控制系统之间的网络连接，应该能减轻一部分负担.
+The next step will be to standardize the communication hardware between our 'Mechs and the Argo's systems so I can remove an abstraction layer from our ship-side software.	下一步是统一我们的机甲与阿戈号系统之间的通讯硬件，这样我就能从舰载软件里去掉一层抽象层。
+There's a lot of work to do on this baby, but we can manage it.	这小家伙有很多活要干，但我们应付得来。
+After this she might look like there weren't a family of squatters throwing parties in her every night.	这之后她看起来就不会像每晚都有一家子擅自占住者在里面开派对。
+The interior is now fit to sleep in. Not that I have been... Anyways, now we can start work on all the problems we can't see.	内部现在可以住人了。倒不是说我一直住在里面……总之，现在我们能开始处理那些我们看不见的问题了。
+Frankly I'm surprised there's been no disasters already, Boss. No one reported this to me. If you happen to notice any of my 'techs on septic tank duty over the coming weeks, I promise it's completely unrelated.	说实话，我很惊讶到现在都还没出事，老板。没人向我报告这件事。如果你接下来几周碰巧看到我的哪位技师被派去清理化粪池，我保证这完全无关。
+We've reached the limit of weight these engines can handle, Commander. It'll take some time to get them back up to spec.	我们已达到这些引擎能承受的重量极限，指挥官。把它们恢复到规格需要一些时间。
+Tune the Engine and drop them hot, Boss.	调校好引擎，直接让它们热机空降，头儿.
+Almost at the home stretch, Commander. We've turned this ship from a home for rats into something I'd feel safe flying myself. Almost.	快到家了，指挥官。我们把这艘船从老鼠窝变成了我自己都敢开的东西。差一点。
+I wish I'd known you'd see this through before we started, Boss. I could have saved us some time and money if we'd just done this from the start.	我真希望在我们开始之前就知道你会把它做完，老大。要是我们一开始就这么干，本可以省下不少时间和钱。
+This is it, after this there really isn't anything else we can improve. Well, except buying something bigger than a Leopard.	就是这一下了，这之后真的没什么可改进的了。嗯，除了买比豹式更大的东西。
+The Argo's drive is only operating at a fraction of its potential, Commander. With some time and materials, I believe I can boost the output of the secondary fusion reactors - to put it simply, I'll make the Argo go faster.	阿戈号的推进器只发挥了其潜力的一小部分，指挥官。给我一些时间和材料，我相信我能提升次级聚变反应堆的输出——简单说，我会让阿戈号跑得更快。
+The <i>Argo</i>'s drive is <i>far</i> more powerful than I suspected. We may not ever bring it completely back online, but for now I can increase our thrust. While 2 g is not comfortable and the crew will complain, we'll cut our travel times significantly.	<i>阿戈</i>号的推进器<i>远</i>比我猜想的强大。我们或许永远无法让它完全重新上线，但目前我可以提高我们的推力。虽然2G并不舒适，船员也会有怨言，但我们的航行时间将大幅缩短。
+The <i>Argo</i>'s drive is <i>far</i> more powerful than I suspected. We may not ever bring it completely back online, but for now I can increase our thrust. While 3 g is not comfortable and the crew will complain, we'll cut our travel times significantly.	<i>阿戈</i>号的推进器<i>远</i>比我猜想的强大。我们或许永远无法让它完全重新上线，但目前我可以提高我们的推力。虽然3G并不舒适，船员也会有怨言，但我们的航行时间将大幅缩短。
+We've got a lot of extra space in here, Commander. It's just full of junk and pirate garbage, and half of the walls are missing. I could pull my engineers off 'Mech duties and we could probably get another six 'Mech cubicles online. Just say the word.	我们这里多出了不少空间，指挥官。只是里面堆满了垃圾和海盗的破烂，一半的墙还不见了。我可以把我的工程师从机甲维护岗上调走，大概能让另外六个机甲机库上线。你一句话就行。
+The power's back on to the rest of the Mech Bay, and we can start repairs on the last 6 cubicles. Even if you don't want to fill them with 'Mechs, believe me, I can put the extra space to good use. It's gonna take a shitload of work, though.	机甲库其余部分的电力已经恢复，我们可以开始修复最后6个隔间了。就算你不打算用机甲把它们填满，相信我，我也能让多出来的空间派上大用场。不过这可是个大工程。
+This stuff can't do the work for me, but it comes awfully close. You want to speed things up around here, give me the resources to get these machines back online.	这些材料没法替我把活干了，但已经很接近了。你想让这里的事快点推进，就给我资源让这些机器重新上线。
+There's machines hidden in the walls, under the floor panels — I don't even know what half of it does. But I turned one on and it built a 'Mech leg before I was able to shut it off. We make these work, we'll be moving 'Mechs out of repair in record time.	墙里、地板下都藏着机器——我连一半是干什么用的都不知道。但我启动了一台，在我能关掉它之前它就造出了一条机甲腿。要是我们把它们弄好，我们就能以创纪录的速度让机甲出维修线。
+Okay, what we've got here is a fully outfitted machine shop, and a whole lot of data on 'Mech specifications. Get this back online, and we'll be machining our own parts, probably better than the ones coming out of the Taurian factories. Faster, too.	好，我们这里有一间装备齐全的机加工车间，以及一大堆关于机甲规格的数据。让这里重新上线，我们就能自己加工零件，大概比陶里安工厂出产的更好。也更快。
+You always see cables and stuff hanging down from the ceiling and think, 'What the hell are those for?' Right? Lifting and turning entire 'Mechs. We get them back online, and we can lift a whole 'Mech. I mean, honestly? I just want to see that happen.	你总是看见天花板上垂着线缆之类的东西，心里想\"这些到底是干嘛用的？\"对吧？那是用来吊起并翻转整台机甲的。我们让它们重新运转，就能吊起一整台机甲。老实说？我就是想亲眼看到那一幕。
+The platforms around here are meant to move automatically when they detect the size of the 'Mech we're working on, adjusting to be at just the right height. They're all off-line, and we've been working around that, but… let's get them fixed and speed this up.	这附近的平台本该在检测到我们正在作业的机甲尺寸时自动移动，调整到刚好合适的高度。它们全都离线了，我们一直绕着这个干活，不过……让我们把它们修好，加快进度。
+We've found a way to get the whole secondary Mech hangar online, but the cost will be high. But it will be worth it in my opinion, not only does it let us have more Mechs ready, it also gives us more space to work on them.	我们找到办法让整个第二机甲库上线了，但代价会很高。不过我认为值得：它不仅让我们能备妥更多机甲，还给我们更多维修空间。
+Commander, the existing Med Bay is able to keep up, but just barely. Nobody's dying for lack of treatment, but our medics are overworked. Beta Pod has an entire additional medical bay, unused and waiting to be renovated and powered back up.	指挥官，现有的医疗舱勉强跟得上，但也只是勉强。没人因为得不到治疗而死，但我们的医护兵超负荷了。贝塔舱有一间完整的额外医疗舱，闲置未用，等着翻新并重新通电。
+We're taking enough injuries to keep our current medical staff fully tasked, Commander, and that makes me worry about our future capacity. These battles aren't getting any easier. We have the space for another Med Bay, and I'm sure we'd find it useful.	我们受的伤已经足够让我们当前的医务人员满负荷了，指挥官，这让我担心我们未来的容量。这些战斗不会变得更容易。我们有空间再设一间医疗舱，我相信它会派上用场。
+Commander, the medics are talking about all the advanced facilities, and we now have sufficient power to operate it all. We'd need to do a major overhaul of all our Med Bays, but we'd substantially increase our ability to treat severe injuries.	指挥官，医护兵们一直在谈论那些先进设施，而我们现在有足够的电力让它们全部运转。我们需要对所有医疗舱做大改造，但我们的重伤救治能力将大幅提升。
+I'm terrified of the current state of the power system, Commander. Repairing it should be a top priority. We cannot bring most of the <i>Argo</i>'s other systems online until the power is stable. Also… I'd avoid touching any exposed deck plating. Just in case.	我对电力系统的现状感到恐惧，指挥官。修好它应当是最高优先事项。在电力稳定之前，我们无法让<i>阿戈</i>号的大部分其他系统上线。另外……我会避免触碰任何裸露的甲板板。以防万一。
+Notably, upgrading the power system will allow us to provide power to all three habitation pods, which means more room and more <i>Argo</i> systems operational.	值得注意的是，升级动力系统将使我们能向全部三个居住舱供电，这意味着更多空间，也能让更多<i>阿戈</i>号系统投入运转。
+This is a remarkable ship. I continue to be astonished at how <i>advanced</i> portions of the <i>Argo</i>'s infrastructure are. We're not even running the drive at half the power it can handle. More power means more thrust, Commander.	这是一艘了不起的船。我不断惊讶于<i>阿戈</i>号基础设施的某些部分有多么<i>先进</i>。我们连它推进器能承受的一半功率都没用到。更多功率意味着更大推力，指挥官。
+There's this game, Commander. No, hear me out, I'm serious! It's called DropShip Commander, and you pilot a Leopard in a bunch of battle scenarios. Now, I'm not saying this game will make me a better pilot. But I'm not saying it won't, either.	有这么个游戏，指挥官。不，听我说完，我是认真的！它叫《空投艇指挥官》，你在里面驾驶一艘豹式打一堆战斗剧本。我不是说这游戏能让我成为更好的飞行员。但我也不说它不能。
+Just look at this, a Candy Machine and deluxe set of AeroTech, you got to learn how Flyboys think, Boss!.	快瞧这个，一台糖果机和豪华版空战技术套装，头儿，你得学学那些飞行员是怎么想的！
+Manipulating of our people is surprisingly easy. I am not sure if this is worrisome or not.	操纵咱们的人真是出奇的容易. 我都不确定这算不算值得担忧的事了.
+I suspect a solid majority of the complaints I've received from the MechWarriors are simple idleness. With fitness facilities, I could solve that idleness for them, Commander. If you take my meaning.	我怀疑我收到的机甲战士投诉中有相当一部分只是闲得慌。指挥官，如果有机身训练设施，我就能替他们解决这份闲情。你懂我的意思。
+I've looked over Gamma Pod, Commander, and most of the original plumbing is intact. With a small amount of effort, we could repair the hydroponics and have fresh herbs and vegetables instead of reconstituted paste in the galley. Just a thought.	我看过伽马舱了，指挥官，大部分原有管道都还完好。只需花点小力气，我们就能修好水培系统，让厨房里有新鲜香草和蔬菜，而不是复原糊。只是个想法。
+I've looked over the Hydroponic Gardens in Gamma Pod, Commander, and there's several key areas we could greatly improve and expand upon.	我看过伽马舱的水培花园了，指挥官，有几处关键区域我们可以大幅改进和扩展。
+I swear to the gods, trying to read a technical readout in that lounge is impossible. Commander, I need to keep up with the latest tech to do my job, and I can't do it while the MechWarriors are playing beer pong over my head.	我向诸神发誓，在那间休息室里读技术资料根本不可能。指挥官，我需要跟上最新技术才能干好我的活，而机师们在我头顶上玩啤酒乒乓时我做不到。
+A JumpShip pilot told me there's an off-the-books digital distribution service. They get tri-vid and books from DropShips and sell them under the table. It would be more interesting than the decade-old 'Mech magazines Yang keeps putting in the library, anyway.	一名跃迁舰飞行员告诉我，有个不记账的数字分发服务。他们从空投艇上弄到全息影像和书籍，私下出售。不管怎么说，总比杨老往图书室里放的那些十年前的机甲杂志有意思。
+I've just had to chase another card game out of the mess hall so the staff could clean up, Commander. The crew needs somewhere to relax that isn't also where we're trying to serve meals.	指挥官，我刚又不得不把一局牌局从食堂赶出去，好让员工打扫。船员需要一个既能放松、又不是我们努力上菜的地方。
+The, uh, the engineers were wondering if they could schedule a regular tri-vid event. There's this show, about mercenaries during the civil war, and their 'Mechs are supposed to be historically accurate. I'd— uh, they'd like a space to watch stuff like that.	那个，呃，工程师们想知道能不能安排一个定期的三录节目。有个剧，讲内战时期的雇佣兵，里面的机甲据说是历史准确的。我想——呃，他们想找个地方看这类东西。
+Yeah, Boss, with all the Rustgut some of the Boys keep trying to make i thought we should maybe add some less toxic choices for everyone.	是啊，头儿，看着弟兄们老试着酿那锈肠子私酒，我就琢磨着咱该给大家弄点毒性没那么大的选择.
+Commander. Come on. LOW-GRAVITY SWIMMING POOL. I don't know what there even is to discuss here.	指挥官。拜托。低重力游泳池。我不明白这里有什么可讨论的。
+Our internal storage is having enough roadblocks as is, Commander. I can't make it from Engineering to the Mech Bay without tripping over our loose ends and spares. We're managing so much poorly placed inventory right now that crews are losing productivity just trying to find the tools and resources they need.	我们的内部仓储已经够多阻碍了，指挥官。我从工程部走到机甲库，一路上都会被散落的零碎和备件绊倒。眼下我们管理着这么多摆放不当的库存，光是找工具和材料，各班组的生产力就在流失。
+'Mechs assembling 'Mechs so that our 'Mechs can go to battle properly equipped. It might sound silly, but the <i>Argo</i> is a big ship and every bit of efficiency helps us.	让机甲来组装机甲，这样我们的机甲才能装备齐全地上战场。这听起来也许傻，但<i>阿戈</i>号是艘大船，每一点效率都对我们有帮助。
+I'm not suggesting that we have robots take everyone's jobs, but it's a fact that machines don't sleep, breathe, eat or complain. Some of our guys could strive to be a little more like that every now and again.	我不是建议让机器人接管所有人的工作，但事实是机器不睡觉、不呼吸、不吃饭、也不抱怨。我们有些人可以时不时努力更像那样一点。
+Commander, have you seen these simulator pods? They're fantastic! I take back everything bad I've ever said about the <i>Argo</i>. We gotta get these things running ASAP.	指挥官，你见过这些模拟器舱了吗？它们太棒了！我收回我说过关于<i>阿戈</i>号的一切坏话。我们得尽快让这些东西运转起来。
+Farah just told me that the simulators in Beta Pod can network with the others. You know what that means? It means ship-wide tournaments. It means MechWarriors getting stomped in simulated battle by yours truly. We <i>need</i> these simulators, Commander.	法拉刚告诉我，贝塔舱的模拟器可以与其他舱的联网。你知道这意味着什么吗？意味着全舰锦标赛。意味着机师们会在模拟战里被我本人痛揍。我们<i>需要</i>这些模拟器，指挥官。
+I've got a design for my simulator team's insignia ready to go, Commander. We're gonna get shirts made—and maybe even warm-up jackets.	我给模拟器小队设计的徽章图案已经准备好了，指挥官。我们要做T恤——也许还做热身夹克。
+Hostile Acquisitions	敌意收购
+Intercepted Evacuation	拦截撤离
+Lost Supplies	丢失的补给
+Easy Pickings	唾手可得
+Burden of Proof	举证责任
+Terrorist Convoy	恐怖分子车队
+Thorny Problem	棘手的问题
+Backyard Barbecue	后院烧烤
+Covert Supplies	秘密补给
+Logistical Breakdown	后勤崩溃
+Witness Tampering	恐吓证人
+Snitches Get Stitches	告密者必有代价
+Rolling Metal	轧制金属
+Last Chance	最后的机会
+Supply Interdiction	拦截补给
+Weapon Shipment	武器运输队
+Professional Courtesy	职场礼数
+Stolen Goods	赃物
+Dead or Alive	生或死
+Frontier Justice	边地的正义
+Key Personnel	关键人员
+Recruitment Drive	征兵行动
+Escaping Spy	逃跑的间谍
+He Does His Own Stunts	他亲自上阵
+Code of Silence	沉默法则
+An Eye For An Eye	以眼还眼
+Thorn In The Side	芒刺在背
+War Criminal	战犯
+Weakest Link	最弱的一环
+False Security	虚假的安全感
+Hard Target	硬目标
+Heart of Darkness	黑暗之心
+The Price of Freedom	自由的代价
+Contested Will	有争议的法令
+Logistical Base Capture	夺取后勤基地
+Nine-Tenths of the Law	占有即所有
+Ordnance Depot Capture	军火补给站夺取行动
+Swift Reclamation	火速回收
+The B Team	B队
+Stealing is a Form of Flattery	偷窃是种“恭维”
+Manufacturing Facility	制造设施
+Ripe for the Picking	下手的好机会
+Surveillance Outpost	监视哨所
+Clandestine Research	秘密研究
+Capturing Production	夺取生产设施
+Mech Factory	机甲工厂
+Professional Facility Management	专业设施管理
+Pulling Linchpins	拔掉关键支点
+Steal the Prototype	窃取原型
+Covert Surveillance	秘密监视
+Synthetic Plague	人造瘟疫
+Ammunition Convoy	弹药车队
+Civilian Extraction	撤出平民
+Insurrection Protection	叛乱保护
+The Price of Discretion	谨慎的代价
+Show of Force	武力展示
+Supply Convoy	补给车队
+Secure the Assets	确保资产安全
+Blown Operation	破坏行动
+Grand Theft Auto	侠盗猎车手
+Hostile Acquisition	敌意收购
+Man of the People	人民之子
+Penitent Justice	忏悔的正义
+Unexpected Guests	不速之客
+Witness Protection	证人保护
+Save the Prototype	挽救原型
+The Prisoner	囚犯
+Job Offer	工作邀约
+Professional Lifestyle	职场生活方式
+Scientific Emergency	科学突发事件
+Holo-Vid Propaganda	全息影像宣传
+BattleMech Repair Base	战斗机甲维修基地
+All Quiet On The Western Front	西线无战事
+Frontal Assault	正面强攻
+Titan Attack	泰坦攻击
+Caught In The Act	被抓现行
+Make A Stash	秘密储备点
+Cease and Desist	停止并终止
+Sending a Message	传达信息
+Stop the Signal	中断信号
+Supply Base	补给基地
+Turn The Tables	扭转局势
+Incomplete Intelligence	不完整的情报
+Hide the Evidence	掩盖证据
+Broken Chain	断链
+Territorial Claims	领土主张
+Leave A Mark	留下标记
+Blood Feud	血仇
+Leave No Trace	不留痕迹
+Asset Retrieval	回收资产
+Payroll Seizure	夺取军饷
+Biological Sample	生化样本
+Brilliant Minds	杰出头脑
+Intelligence Agent	情报特工
+Lost Heir	失踪的继承人
+Black Site	黑狱
+Lost Contact	失联
+Copyright Violations	侵犯版权
+Professional Exchange	职业交流
+Aggressive Intrusion	咄咄逼人的闯入
+Gone To Ground	转入地下
+Letter of Marque	逮捕令
+Maginot Line	马奇诺防线
+Mopping Up	扫荡
+Nosy Neighbors	爱管闲事的邻居
+Seek and Destroy	搜索与消灭
+Supply Lines	补给线
+Trap Sprung	触发陷阱
+Clean Out The Mercs	清除雇佣兵
+Forward Observers	前沿观察员
+Hot Landing	热着陆
+Interrupted Exercise	被打断的演习
+Raiding Party	突袭小队
+Stubborn Surrender	强弩之末
+Take the Bait	愿者上钩
+A Favor to Regret	需要懊悔的帮助
+Flushing Them Out	清剿行动
+Hard Contact	硬接触
+Hostile Insertion	敌对空降
+Insurance Policy	保险单
+Pride and Vanity	傲慢和虚荣
+Search Denial	拒绝搜索
+Secure Borders	肃清边境
+Heavy Lure	重饵
+An Urgent Matter	紧急事件
+Test Drive	试驾
+Flying Tigers	飞虎队
+Training Day	训练日
+Bounty Hunting	赏金猎人
+Clash of Titans	泰坦之战
+Defeat In Detail	逐个击破
+Hostile Territory	敌对领土
+Joint Operation	联合行动
+Show The Flag	展示存在
+Tag Team	二人组
+Hot Pursuit	紧急追击
+Intercepted Salvage	遭拦截的战利品
+Nothing Personal	与个人无关
+The Gauntlet	严酷考验
+1x1 Offseason Duel	1×1 休赛期决斗
+4x4 Mech Battle	4×4 机甲对战
+4x4 Capture the Flag	4×4 夺旗战
+4x4 Free For All Battle	4×4 自由近战
+8x8 Mech Battle	8×8 机甲对战
+8x8 Capture the Flag	8×8 夺旗战
+Assault Championship: Match 3 of 7	突击锦标赛：第3场，共7场
+Assault Championship: Semifinal	突击锦标赛：半决赛
+Assault Championship: Match 2 of 7	突击锦标赛：第2场，共7场
+Assault Championship: Quarterfinal	突击锦标赛：四分之一决赛
+Assault Championship: Match 1 of 7	突击锦标赛：第1场，共7场
+Assault Championship: Match 4 of 7	突击锦标赛：第4场，共7场
+Assault Championship: Final	突击锦标赛：决赛
+4x4 Assault Mech Battle	4x4 突击机甲对战
+4x4 Assault Mech Capture the Flag	4x4 突击机甲夺旗战
+4x4 Assault Free For All Battle	4x4 突击近战
+Solaris Assault League	索拉里斯突击联赛
+Assault Tank Championship: Match 3 of 7	突击坦克锦标赛：第3场，共7场
+Assault Tank Championship: Semifinal	突击坦克锦标赛：半决赛
+Assault Tank Championship: Match 2 of 7	突击坦克锦标赛：第2场，共7场
+Assault Tank Championship: Quarterfinal	突击坦克锦标赛：四分之一决赛
+Assault Tank Championship: Match 1 of 7	突击坦克锦标赛：第1场，共7场
+Assault Tank Championship: Match 4 of 7	突击坦克锦标赛：第4场，共7场
+Assault Tank Championship: Final	突击坦克锦标赛：决赛
+Solaris Assault Tank League	索拉里斯突击坦克联赛
+Heavy Championship: Match 3 of 7	重型锦标赛：第3场，共7场
+Heavy Championship: Semifinal	重型火箭 Championship: Semifinal
+Heavy Championship: Match 2 of 7	重型锦标赛：第2场，共7场
+Heavy Championship: Quarterfinal	重型锦标赛：四分之一决赛
+Heavy Championship: Match 1 of 7	重型锦标赛：第1场，共7场
+Heavy Championship: Match 4 of 7	重型锦标赛：第4场，共7场
+4x4 Heavy Mech Battle	4x4 重型机甲对战
+4x4 Heavy Mech Capture the Flag	4x4 重型机甲夺旗战
+4x4 Heavy Free For All Battle	4x4 重型近战
+Solaris Heavy League	索拉里斯重型联赛
+Heavy Tank Championship: Match 3 of 7	重型坦克锦标赛：第3场，共7场
+Heavy Tank Championship: Match 2 of 7	重型坦克锦标赛：第2场，共7场
+Heavy Tank Championship: Quarterfinal	重型坦克锦标赛：四分之一决赛
+Heavy Tank Championship: Match 1 of 7	重型坦克锦标赛：第1场，共7场
+Heavy Tank Championship: Match 4 of 7	重型坦克锦标赛：第4场，共7场
+Heavy Tank Championship: Final	重型坦克锦标赛：决赛
+Solaris Heavy Tank League	索拉里斯重型坦克联赛
+Light Championship: Match 3 of 7	轻型 Championship: Match 3 of 7
+Light Championship: Semifinal	轻型 Championship: Semifinal
+Light Championship: Match 2 of 7	轻型 Championship: Match 2 of 7
+Light Championship: Quarterfinal	轻型 Championship: Quarterfinal
+Light Championship: Match 1 of 7	轻型 Championship: Match 1 of 7
+Light Championship: Match 4 of 7	轻型 Championship: Match 4 of 7
+Light Championship: Final	轻型 Championship: Final
+4x4 Light Mech Battle	4x4 轻型机甲对战
+4x4 Light Mech Capture the Flag	4x4 轻型机甲夺旗战
+4x4 Light Free For All Battle	4x4 轻型近战
+Solaris Light League	索拉里斯轻型联赛
+Solaris Light Tank League	索拉里斯轻型坦克联赛
+Medium Championship: Match 3 of 7	中型锦标赛：第 3 场（共 7 场）
+Medium Championship: Semifinal	中型锦标赛：半决赛
+Medium Championship: Match 2 of 7	中型锦标赛：第 2 场（共 7 场）
+Medium Championship: Quarterfinal	中型锦标赛：四分之一决赛
+Medium Championship: Match 1 of 7	中型锦标赛：第 1 场（共 7 场）
+Medium Championship: Match 4 of 7	中型锦标赛：第 4 场（共 7 场）
+Medium Championship: Final	中型锦标赛：决赛
+4x4 Medium Mech Battle	4x4 中型机甲对战
+4x4 Medium Mech Capture the Flag	4x4 中型机甲夺旗战
+4x4 Medium Free For All Battle	4x4 中型近战
+Solaris Medium League	索拉里斯中型联赛
+Medium Tank Championship: Semifinal	中型坦克锦标赛：半决赛
+Medium Tank Championship: Quarterfinal	中型坦克锦标赛：四分之一决赛
+Solaris Medium Tank League	索拉里斯中型坦克联赛
+You have qualified for Solaris Assault Championship. 128 mechwarriors will participate in the play-off to become the Champion in the weight class for mechs from 80 to 100 tons.	你已获得索拉里斯突击锦标赛资格。128名机甲战士将参加附加赛，争夺80至100吨机甲重量级的冠军。
+You have qualified for Solaris Assault Tank Championship. 128 tank crews will participate in the play-off to become the Champion in the weight class for mechs from 80 to 100 tons.	你已取得索拉里斯突击坦克锦标赛资格。128组坦克乘员将参加季后赛，争夺80至100吨机甲重量级的冠军。
+You have qualified for Solaris Heavy Championship. 128 mechwarriors will participate in the play-off to become the Champion in the weight class for mechs from 60 to 75 tons.	你已取得索拉里斯重型锦标赛资格。128名机师将参加季后赛，争夺60至75吨机甲重量级的冠军。
+You have qualified for Solaris Heavy Tank Championship. 128 tank crews will participate in the play-off to become the Champion in the weight class for mechs from 60 to 75 tons.	你已取得索拉里斯重型坦克锦标赛资格。128组坦克乘员将参加季后赛，争夺60至75吨机甲重量级的冠军。
+You have qualified for Solaris Light Championship. 128 mechwarriors will participate in the play-off to become the Champion in the weight class for mechs under 35 tons.	你已取得索拉里斯轻型锦标赛资格。128名机师将参加季后赛，争夺35吨以下机甲重量级的冠军。
+You have qualified for Solaris Light Tank Championship. 128 tank crews will participate in the play-off to become the Champion in the weight class for tanks under 35 tons.	你已取得索拉里斯轻型坦克锦标赛资格。128组坦克乘员将参加季后赛，争夺35吨以下坦克重量级的冠军。
+You have qualified for Solaris Medium Championship. 128 mechwarriors will participate in the play-off to become the Champion in the weight class for mechs from 40 to 55 tons.	你已取得索拉里斯中型锦标赛资格。128名机师将参加季后赛，争夺40至55吨机甲重量级的冠军。
+You have qualified for Solaris Medium Tank Championship. 128 tank crews will participate in the play-off to become the Champion in the weight class for tanks from 40 to 55 tons.	你已取得索拉里斯中型坦克锦标赛资格。128组坦克乘员将参加季后赛，争夺40至55吨坦克重量级的冠军。
+Clever Girl	聪明的女孩
+Chapter 1 Verse 76	第一章第 76 节
+Chapter 1 Verse 76 III	第一章第 76 节 III
+Chapter 1 Verse 76 IV	第一章第 76 节 IV
+Clan Scouts	氏族侦察兵
+Clan Scouts III	氏族侦察兵 III
+Close the Gate	关上大门
+Close the Gate II	关上大门 II
+Close the Gate III	关上大门 III
+Close The Gate IV	关上大门 IV
+Close the Gate V	关上大门 V
+Evolving Situation	局势演变
+Evolving Situation III	局势演变 III
+Evolving Situation IV	局势演变 IV
+The Eyrie	鹰巢
+Fire for Effect	效力射
+Data Liberation	数据窃取
+Fortress Door	堡垒大门
+Fortress Door IV	堡垒大门 IV
+Fortress Door III	堡垒大门 III
+Large Military Building	大型军用建筑
+Large Military Building II	大型军事建筑 II
+Limited Gladiator	限定角斗士
+Limited Gladiator Team	限定角斗士队伍
+Limited Light Engagement	限定轻型交战
+Limited Medium Engagement	限定中型交战
+MoC III	卡诺帕斯 III
+Revelations II	启示录 II
+Return of the Steel Beast II	钢铁野兽归来 II
+Return of the Steel Beast III	钢铁野兽归来 III
+Return of the Steel Beast IV	钢铁野兽归来 IV
+Seven Pieces	七块碎片
+Seven Pieces III	七块碎片 III
+Seven Pieces IV	七块碎片 IV
+Defense: Itrom	防守: 伊特罗姆
+Destroy Reinforcement Capabilities	摧毁增援能力
+Defense: Panzyr	防守: 潘济尔
+Defense: Smithon	防守: 史密森
+Simple Greeting	简单问候
+Simple Greeting II	简单问候 II
+Solar Winds III	太阳风 III
+Solar Winds IV	太阳风 IV
+Special Delivery I	特殊快递 I
+Special Delivery II	特殊快递 II
+Special Delivery III	特殊快递 III
+Special Delivery IV	特殊快递 IV
+Succeeded Colony I	成功建立的殖民地 I
+SucceededColony II	成功建立的殖民地 II
+SucceededColony III	成功建立的殖民地 III
+Test Drive III	试驾 III
+Test Drive II	试驾 II
+Test Drive I	试驾 I
+Davion Alliance	戴维恩联盟
+Davion Alliance II	戴维恩联盟 II
+Davion Alliance III	戴维恩联盟 III
+Davion Alliance IV	戴维恩联盟 IV
+Kurita Alliance	栗田联盟
+Kurita Alliance II	栗田联盟 III
+Kurita Alliance III	栗田同盟 III
+Kurita Alliance IV	栗田联盟 IV
+Liao Alliance	廖氏联盟
+Liao Alliance II	廖氏联盟 II
+Liao Alliance III	廖氏联盟 III
+Liao Alliance IV	廖氏联盟 IV
+Marik Alliance	马里克联盟
+Marik Alliance II	马里克联盟 II
+Marik Alliance III	马里克联盟 III
+Marik Alliance IV	马里克联盟 IV
+Steiner Alliance	施泰纳联盟
+Steiner Alliance II	施泰纳联盟 II
+Steiner Alliance III	施泰纳联盟 III
+Steiner Alliance IV	施泰纳联盟 IV
+Extracurricular Activities	附带活动
+Extracurricular Activities II	附带活动 II
+Extracurricular Activities III	附带活动 III
+Operation: Flattened Earth	行动: 焦土
+Operation: Flattened Earth II	行动: 焦土 II
+Operation: Flattened Earth III	行动: 焦土 III
+The Steel Beast	钢铁野兽
+The Steel Beast II	钢铁野兽 II
+The Steel Beast III	钢铁野兽 III
+Criminal Minds	犯罪思维
+Criminal Minds II	犯罪思维 II
+Criminal Minds III	犯罪思维 III
+Headhunting II	斩首行动 II
+Bourbon & BattleMechs	波旁威士忌和战斗机甲
+Bourbon & BattleMechs II	波旁威士忌和战斗机甲II
+The Long Hunt	漫长的狩猎
+The Long Hunt II	漫长的狩猎 II
+The Long Hunt III	漫长的狩猎 III
+The Long Hunt IV	漫长的狩猎 IV
+Joint Venture	合资企业
+Joint Venture II	合资企业 II
+The Baying of Hounds	猎犬的狂吠
+The Baying of Hounds II	猎犬的狂吠 II
+The Baying of Hounds III	猎犬的狂吠 III
+The Opportunist	机会主义者
+The Opportunist II	机会主义者 II
+The Opportunist III	机会主义者 III
+White Lies	善意的谎言
+White Lies II	善意的谎言 II
+White Lies III	善意的谎言 III
+The Defector	叛逃者
+The Defector II	叛逃者 II
+Unwelcome Guests	不速之客
+Unwelcome Guests II	不速之客 II
+Words Found	找到的话
+Words Found II	找到的话 II
+Our allies in the Federated Suns have a special request for us. They insist that they can only give us details in person.	我们在恒星联邦的盟友有个特殊请求. 他们坚持只能当面告诉我们细节.
+Our allies in the Draconis Combine have a special request for us. They insist that they can only give us details in person.	我们在天龙联合体中的盟友有个特殊请求. 他们坚持只能当面告诉我们细节.
+Our allies in the Capellan Confederation have a special request for us. They insist that they can only give us details in person.	我们在卡佩拉联邦的盟友有个特殊请求. 他们坚持只能当面告诉我们细节.
+Our allies in the Free Worlds League have a special request for us. They insist that they can only give us details in person.	我们在自由世界联盟的盟友有个特殊请求. 他们坚持只能当面告诉我们细节.
+Sir, we have received a message from a peculiar lady known as Patricia Vincent. Her 'band' was captured by Taurian Pirates and she is paying handsomely to rescue them. She said this may be a purrfect contract for us.	长官，我们收到一位名叫帕特里夏·文森特的古怪女士的留言。她的\"乐队\"被陶里安海盗抓了，她愿意付大价钱把他们救出来。她说这对我们来说可能是一份\"完喵\"的合约。
+Our allies in the Lyran Commonwealth have a special request for us. They insist that they can only give us details in person.	我们在天琴共同体的盟友有个特殊请求. 他们坚持只能当面告诉我们细节.
+Pirates have set down on a Comstar controlled area, Comstar is asking for our help to remove them. This flashpoint is <b><color=#f0ff00>Long</color></b> 	海盗降落在康星控制区，康星请求我们协助清除他们。本闪点<b><color=#f0ff00>漫长</color></b>
+A Clan Scout Galaxy has been spotted near a far away asset. The local Government have pooled their resources and are begging for support.	一支氏族侦察星舰群出现在一处偏远资产附近. 当地政府已经集结了所有可用资源，恳求我们提供支援.
+This mission is not recommended unless you have 8 capable pilots and 6 capable mechs. This Flashpoint is <b><color=#ff0d00>VERY HARD</color></b> They may be weak to head shots	除非你有8名称职的飞行员和6台称职的机甲，否则不建议执行此任务。这个闪点<b><color=#ff0d00>非常困难</color></b>。他们可能对爆头比较脆弱
+This mission is not recommended unless you have 8 capable pilots and 6 capable mechs. This Flashpoint is <b><color=#ff0d00>VERY HARD</color></b> They may be weak to head shots. 	除非你有8名合格飞行员和6台可用机甲，否则不建议执行此任务。本闪点<b><color=#ff0d00>非常困难</color></b>他们可能对头部命中脆弱。
+Received a Secret communication off channel. The Pirate Queen needs our help. 	收到一条非公开的密语通讯。海盗女王需要我们的帮助。 
+An agent of the Combine government has gone rogue. He must be prevented from sharing what he knows, and I believe that a mercenary solution is in order. Kill the defector and you will be rewarded.	联合政府的一名特工已叛变. 必须阻止他泄露所知情报，我们认为雇佣兵是处理叛逃者的合适手段. 杀死叛逃者，你将获得丰厚的回报.
+Commander, I just received a message from Professor Pillow. He's eager to show us something he's been working on and wants us to visit his lab. It might be worth our time to see what he's been up to. \n\n<b><color=#f44336>THIS FLASHPOINT REQUIRES 4 PILOTS THAT ARE ABLE TO PILOT MECHS AND VEHICLES.</color></b>	指挥官，我刚收到枕头教授的消息。他急着向我们展示他一直在做的东西，想请我们去他的实验室。去看看他在搞什么也许值得。\n\n<b><color=#f44336>本闪点需要4名既能驾驶机甲又能驾驶车辆的飞行员。</color></b>
+I require your help on a personal matter, Commander. No other mercenary company will do. If you accept, further details will be provided upon your arrival at Brockway.	我需要你帮忙处理一件私人事务，指挥官. 我需要你的雇佣兵部队. 如果你接受，详情将在你抵达布罗克维后提供.
+Our Alliance with Clan JadeFalcon has proven lucrative. They would like our help with a SECRET project. \n\n<b><color=#f44336>THIS FLASHPOINT REQUIRES 4 LAM PILOTS.</color></b>	我们与翡翠猎鹰的同盟已被证明利润丰厚。他们想请我们协助一个秘密项目。\n\n<b><color=#f44336>本闪点需要4名LAM飞行员。</color></b>
+A seditionist group has taken root in the Capellan system of Cavalor. House Liao will handsomely reward any company that will root out and destroy these traitors to the Commonwealth.	一个煽动叛乱的组织已在卡佩拉的卡瓦罗尔上扎根. 任何能铲除并消灭这些共同体叛徒的佣兵公司都将获得廖氏家族的丰厚酬劳.
+The 'Queen' has requested our presence again. Claims we won't want to miss this. This Flashpoint is <b><color=#f0ff00>Long</color></b>	“女王”再次要求我们到场。她说我们不会想错过这个。这个闪点<b><color=#f0ff00>较长</color></b>
+A Solaris gladiator has murdered my nephew, Arjun. With your help, I will see his killer brought to justice, Commander—make him suffer and I'll make you rich.	一名索拉里斯角斗士谋杀了我的侄子阿尔琼。指挥官，在你的帮助下，我要让凶手受到审判——让他痛苦，我就让你富有。
+Seems that Jade Falcon may be dabbling in forbiden technology. We have been invited to test some of this equipment out. \n\n<b><color=#f44336>THIS FLASHPOINT REQUIRES 4 LAM PILOTS.</color></b>	看来翡翠猎鹰可能在涉足禁忌技术。我们受邀来测试其中一些装备。\n\n<b><color=#f44336>本闪点需要4名LAM飞行员。</color></b>
+House Liao requires your assistance in the dismantling of a prominent crime syndicate. Working in concert with Capellan ground forces, you will capture the OpFor's personnel and seize their financial assets.	廖家族需要你协助瓦解一个显赫的犯罪辛迪加。与卡佩兰地面部队协同行动，你将俘获敌对方的人员并查封他们的金融资产。
+House Davion seeks your assistance in a sensitive matter related to the security of our national borders. Expect a short deployment with exceptional salvage opportunities.	戴维恩家族就一项涉及我国边境安全的敏感事务，请求贵方协助. 预计为短期部署，且附带极佳的残骸打捞机会.
+Commander. My name is Justin Allard. You don't know me, but I've heard a great deal about you. There is a small matter that I could use your assistance with, if you're so inclined. Meet me at your earliest convenience and we'll talk.	指挥官。我叫贾斯汀·阿拉德。你不认识我，但我听过很多关于你的事。有件小事想请你帮忙，如果你愿意的话。你方便的时候来见我，我们谈谈。
+Locals have reported seeing a ''moving city'' obliterating other cities. Worried officials Have asked us to help protect a vital area.	当地人报告看到一座\"移动城市\"在摧毁其他城市。忧心的官员请我们帮忙保护一处关键地区。
+A whole new competition has emerged, Is your team ready for a fight? <b><color=#009933>EASY </color></b> difficulty 	一场全新的竞赛出现了，你的队伍准备好开打了吗？<b><color=#009933>简单 </color></b> 难度 
+A Mechwarrior has called you out. He must have seen you on local holovids. Sponsors are flocking to this fight. <b><color=#009933>EASY </color></b> difficulty 	一名机甲战士向你叫板。他一定是在当地全息影像上见过你。赞助商正涌向这场对决。<b><color=#009933>简单 </color></b> 难度 
+You have qualified for a Divisional Gladiatorial Fight. <b><color=#009933>EASY </color></b> difficulty 	你已获得分区角斗士对决资格。<b><color=#009933>简单 </color></b> 难度 
+You have qualified for a Divisional Gladiatorial Fight. b><color=#f0ff00>MEDIUM </color></b> difficulty 	你已获得分区角斗赛资格。难度 <b><color=#f0ff00>中</color></b>
+A whole new competition has emerged, Is your team ready for a fight? <b><color=#f0ff00>MEDIUM </color></b> difficulty 	一场全新的竞赛出现了，你的队伍准备好开打了吗？<b><color=#f0ff00>中型 </color></b> 难度 
+You have qualified for a Divisional Gladiatorial Fight. <b><color=#f0ff00>MEDIUM </color></b>difficulty. Divisional 	你已取得分区角斗赛资格。<b><color=#f0ff00>中等</color></b>难度。分区
+A Mechwarrior has called you out. He must have seen you on local holovids. Sponsors are flocking to this fight. <b><color=#f0ff00>MEDIUM </color></b>difficulty 	一名机甲战士向你叫板。他一定是在当地全息影像上见过你。赞助商正涌向这场对决。<b><color=#f0ff00>中型 </color></b>难度 
+You have qualified for a Divisional Gladiatorial Fight. <b><color=#f0ff00>MEDIUM </color></b> difficulty. Divisional	你已取得分区角斗赛资格。<b><color=#f0ff00>中等</color></b>难度。分区
+A Mechwarrior has called you out. He must have seen you on local holovids. Sponsors are flocking to this fight. <b><color=#f0ff00>MEDIUM </color></b> difficulty 	一名机甲战士向你叫板。他一定是在当地全息影像上见过你。赞助商正涌向这场对决。<b><color=#f0ff00>中型 </color></b> 难度 
+You have qualified for a Divisional Gladiatorial Fight. <b><color=#f0ff00>MEDIUM </color></b> Divisional	你已取得分区角斗赛资格。<b><color=#f0ff00>中型</color></b>分区
+A Mechwarrior has called you out. He must have seen you on local holovids. Sponsors are flocking to this fight. <b><color=#ff0d00>HARD </color></b> difficulty 	一名机甲战士向你叫板。他一定是在当地全息影像上见过你。赞助商正涌向这场对决。<b><color=#ff0d00>困难 </color></b> 难度 
+A whole new competition has emerged, Is your team ready for a fight? <b><color=#ff0d00>HARD </color></b> difficulty 	一场全新的竞赛出现了，你的队伍准备好开打了吗？<b><color=#ff0d00>困难 </color></b> 难度 
+You have qualified for a Divisional Gladiatorial Fight. <b><color=#ff0d00>HARD </color></b> difficulty. Division	你已取得分区角斗赛资格。<b><color=#ff0d00>困难</color></b>难度。分区
+You need to retrieve a valuable asset at night. Local atmospheric conditions are affecting our ability to land. We can drop one lance of up to 120t with a max mech weight of 40t. This has <b><color=#009933>EASY </color></b> difficulty 	你需要在夜间取回一件贵重资产。当地大气状况影响了我们的降落能力。我们可投放一支120吨以内的分队，单台机甲最大重量40吨。此任务难度为<b><color=#009933>简单</color></b>
+You need to retrieve a valuable asset at night. We can only land a single mech of up to 40t at the LZ due to local atmospheric conditions. This has <b><color=#ff0d00>HARD </color></b> Difficulty 	你需要在夜间取回一件贵重资产。由于当地大气状况，我们在着陆区只能投放单台不超过40吨的机甲。此任务难度为<b><color=#ff0d00>困难</color></b>
+You need to retrieve a valuable asset at night. Local atmospheric conditions are affecting our ability to land. We can drop one lance of up to 120t with a max mech weight of 40t. This has <b><color=#f0ff00>MEDIUM </color></b> Difficulty 	你需要在夜间取回一件贵重资产。当地大气状况影响了我们的降落能力。我们可投放一支120吨以内的分队，单台机甲最大重量40吨。此任务难度为<b><color=#f0ff00>中等</color></b>
+You need to destroy a forward base. Tectonic weight limits and vibro mines put a limit on our LZ. We can drop 220t with a max mech weight of 60t. This has <b><color=#009933>EASY </color></b> difficulty 	你需要摧毁一处前沿基地。构造重量限制和振动地雷限制了我方的着陆区。我们可投放220吨，单台机甲最大重量60吨。此任务难度为<b><color=#009933>简单</color></b>
+You need to destroy a forward base. Tectonic weight limits and vibro mines put a limit on our LZ. We can drop 200t with a max mech weight of 50t. This has <b><color=#ff0d00>HARD </color></b> difficulty 	你需要摧毁一处前沿基地。构造重量限制和振动地雷限制了我方的着陆区。我们可投放200吨，单台机甲最大重量50吨。此任务难度为<b><color=#ff0d00>困难</color></b>
+You need to destroy a forward base. Tectonic weight limits and vibro mines put a limit on our LZ. We can drop 210t with a max mech weight of 55t. This has <b><color=#f0ff00>MEDIUM </color></b> difficulty 	你需要摧毁一处前沿基地。构造重量限制和振动地雷限制了我方的着陆区。我们可投放210吨，单台机甲最大重量55吨。此任务难度为<b><color=#f0ff00>中等</color></b>
+A Davion lieutenant has committed terrible atrocities in the Combine system of Shaul Khala. I need you to hunt him down, Commander. He cannot be permitted to live after what he's done.	一名达维昂中尉在联合体的肖尔卡拉星系犯下了骇人暴行。我要你把他揪出来，指挥官。犯下那些事之后，他不能活下去。
+House Steiner requires your assistance in leading a Davion-Steiner convoy across a broad swathe of hostile terrain. Payment will be remitted upon the safe delivery of the convoy's payload.	斯坦纳家族需要你协助带领一支达维昂-施泰纳车队穿越一大片敌意地形。报酬将在车队货物安全送达后支付。
+You aren't gonna believe this, but Morgan Kell—<i>the</i> [[DM.BaseDescriptionDefs[LoreMorganKell]  Morgan Kell]], of the [[DM.BaseDescriptionDefs[LoreKellHounds]  Kell Hounds]]—wants us for a job. This isn't the sort of offer you say no to.	你不会相信，但摩根·凯尔——[[DM.BaseDescriptionDefs[LoreKellHounds]  凯尔猎犬]]的<i>那位</i>[[DM.BaseDescriptionDefs[LoreMorganKell]  摩根·凯尔]]——想请我们干活。这种邀约你可不会拒绝。
+We are getting word that we are to return to Strana Mechty for an ancient ritual.	我们收到消息，要返回斯特拉纳·梅克提参加一项古老仪式。
+It is finally time to take the fight back to the pirates.You should bring at least 6 pilots to this Flashpoint. 	终于到了把战斗打回海盗那边的时候了。你应当带至少6名飞行员参加这次闪点。
+Someone is causing Problems and blaming it on us. If we ignore this we may lose rep with the MRBC.Warning this Flashpoint is both <b><color=#f0ff00>Long</color></b> and <b><color=#ff0d00>HARD </color></b>	有人在制造麻烦并栽赃给我们。如果我们置之不理，我们可能会在MRBC那里失掉声望。警告：本闪点既<b><color=#f0ff00>漫长</color></b>又<b><color=#ff0d00>困难</color></b>
+House Davion requests your assistance in the transportation and custodial exchange of a high-profile prisoner. Payment will be remitted when the asset is in our hands.	戴维恩家族请求贵方协助运输与交接一名高度敏感的囚犯. 款项将在囚犯移交我方后支付.
+We have a new contract posted to us. It says (Big Raid, Easy loot.) How they got this across the secure lines of MRBC I am not sure. This Flashpoint is <b><color=#f0ff00>Long</color></b>.	我们收到了发布给我们的一份新合约。上面写着（大劫掠，轻松打捞）。我不知道他们是怎么把这东西通过MRBC的安全线路传过来的。本闪点<b><color=#f0ff00>漫长</color></b>。
+I require your assistance with a personal matter, Commander. Meet me at the specified location, and come quick—my family needs your help.	指挥官，我需要你帮我处理一件私事。到指定地点来见我，动作快些——我的家人需要你的帮助。
+A Potential Contract has arrived on our com center station, They are looking for a Group of mercs to siege a refinery station.	我们的通讯中心站收到一份潜在合约，他们在找一群雇佣兵去围攻一处炼油厂。
+A Potential Contract has arrived on our com center station, They are looking for a Group of mercs to siege a dropship platform, cutting off reinforcements.	我们的通讯中心站收到一份潜在合约，他们在找一群雇佣兵去围攻一处空投艇平台，切断增援。
+A Potential Contract has arrived on our com center station, They are looking for a Group of mercs to capture a munitions dump.	一份潜在合同已送达我们的通讯中心，他们在找一队佣兵去夺取一座弹药库。
+A Potential Contract has arrived on our com center station, They are looking for a Group of mercs to Protect the People on this planet.	我们的通讯中心站收到一份潜在合约，他们在找一群雇佣兵来保护这颗行星上的民众。
+A Potential Contract has arrived on our com center station, They are looking for a Group of mercs to Defend a Sieged Planet.	我们的通讯中心站收到一份潜在合约，他们在找一群雇佣兵去防守一颗被围困的行星。
+A Potential Contract has arrived on our com center station, They need help defending a dropship.	我们的通讯中心站收到一份潜在合约，他们需要帮助防守一艘空投艇。
+Comstar Has sent out a Contract looking for help.	通讯之星已发出合约，正在寻求帮助.
+It seems our Pirate allies have come across something they want our help with. This Flashpoint is <b><color=#f0ff00>Long</color></b>.	看来我们的海盗盟友碰上了点事，想请我们帮忙。本闪点<b><color=#f0ff00>漫长</color></b>。
+A delivery Company needs someone to finish the deliveries on a planet for the day. They promise decent wages, No rest and a Potty Bottle, whatever that is.	一家快递公司需要人手来完成当天在一颗星球上的送货任务. 他们承诺提供不错的报酬、没有休息时间，以及一个便携尿瓶——不管那是什么东西.
+Sir we are getting a contract offer from a Local group trying to break away from their Corporate Overlords.	长官，我们收到一份来自当地团体的合约要约，他们正试图摆脱企业霸主的控制.
+Comstar has requested our assitance with a project named Centaur.	通讯之星请求我们协助一个名为“半人马”的项目.
+House Marik requests your assistance in removing an unwelcome Steiner presence from its territory. Bring a light lance and your best pilots; in this deployment, speed will be of the essence.	马里克家族请求贵方协助清除施泰纳领土上的不速之客. 请带上一支轻型机甲编队与精锐机师. 在这次任务中，速度至关重要.
+One of Agent X's lancemates, Code named Duchess, has requested aid at a base she is defending.	X特工的一名分队队友，代号女公爵，在她驻守的一处基地请求援助。
+Of Unknown Origin	不明来源
+Of Unknown Origin II	不明来源 II
+Of Unknown Origin III	不明来源 III
+Hunting Season	狩猎季节
+Hourglass II	沙漏 II
+Standoff II	摊牌II
+Red Corsair IV	红海盗 IV
+Red Corsair II	红海盗 II
+Red Corsair III	红海盗 III
+Red Corsair	红海盗
+Commander. I have an important task for you, a rescue operation at the utmost edge of the Rimward Frontier. Meet me at Tarragona and I'll fill you in on the details.	指挥官。我有一项重要任务给你，一次在核心边疆最边缘的救援行动。到塔拉戈纳来见我，我会告诉你细节。
+This is exciting, Commander—our first real lead in the hunt for the <i>Dobrev</i>! If we find that derelict, we may find the answer to the single greatest mystery of our age!	这太令人兴奋了，指挥官——我们在追猎<i>多布雷夫</i>上得到了第一条真正的线索！如果我们找到那艘废船，也许就能找到我们这个时代最大谜团的答案！
+Our intel was right, Commander. Surface scans show that the <i>Dobrev</i> is moored at a makeshift spaceport near Appian's southern pole. We can take it, but we'll need to move fast.	我们的情报没错，指挥官。地表扫描显示<i>多布雷夫</i>停靠在阿皮亚南极附近的一处临时太空港。我们能拿下它，但必须行动迅速。
+This is a point of no return, Commander. When you pull the trigger on this drop, you may well be committing us to a confrontation with the Black Widow. We’d better be ready.	这是不归路，指挥官。当你为这次投放扣下扳机时，你很可能就是把我们推入与黑寡妇的正面冲突。我们最好准备好。
+Commander, we have a pirate with some high tech looting and plundering the planet. We need your help.	指挥官，有个海盗带着一些高科技在劫掠这颗行星。我们需要你的帮助。
++ 10% Dmg. After Jump	+10% 伤害于跳跃之后
+Covering Fire	防火
+Emergency Evacuation	紧急疏散
+High Tide	洪水
+Double Agent	双面间谍
+Double Agent II	双面间谍 II
+A House Divided	家族内讧
+A House Divided II	家族内讧 II
+One Man's Trash	他人之废
+One Man's Trash II	他人之废 II
+Red Hunt I	红色狩猎 I
+Red Hunt II	红色狩猎 II
+Red Hunt III	红色狩猎 III
+Hearts and Minds	民心
+Hearts and Minds II	民心 II
+Siegebreaker II	破围者 II
+Siegebreaker III	破围者 III
+Succession II	继承人 II
+Tournament of Champions	冠军锦标赛
+Tournament of Champions II	冠军锦标赛 II
+Prototype II	原型 II
+Prototype III	原型 III
+Prototype IV	原型 IV
+Yang Virtanen's Big Score	杨·维尔塔宁的大收获
+Yang Virtanen's Big Score II	杨·维尔塔宁的大收获 II
+The Capellan Confederation requires your assistance on a highly sensitive matter. Meet me at Flintoft, Commander. We'll discuss the details there.	卡佩兰联邦需要你协助一件高度敏感的事务。到弗林托夫特来见我，指挥官。我们到那里再谈细节。
+Commander, I need your help—my house's honor is at stake. Please, let's meet and discuss the details.	指挥官，我需要你的帮助——我家族的荣誉悬于一线。拜托，我们见面谈谈细节。
+Commander {COMMANDER.LastName}. You don't know me, but me and my associates have a job for you. A real <i>nice</i> one, with a big payout at the end. If you wanna talk about it, come meet me at Glentworth. I'll be waiting.	{COMMANDER.LastName}指挥官。你不认识我，但我和我的同伙有个活儿要给你。一件真正<i>不错</i>的活儿，最后有一大笔报酬。想谈的话，来格伦特沃斯见我。我会等着。
+Commander! I'm glad I was able to reach you. I have an opportunity for your company that pays extremely well. The only drawback is that it's located as far from civilization as it's possible to get without a JumpShip accident.	指挥官！很高兴能联系上你。我有个给你们公司的机会，报酬极其优厚。唯一的缺点是它的位置在不通跃迁舰事故就尽可能远离文明的地方。
+A pro-Capellan insurgent group called the Emerald Dawn threatens to destabilize Shaunavon's political landscape. House Davion will reward you handsomely to neutralize this terrorist threat.	一个名叫“翡翠黎明”的亲卡佩兰叛乱组织威胁要动摇肖纳冯的政治格局。戴维恩家族会为消除这一恐怖威胁付你丰厚的报酬。
+House Steiner has placed a Capellan city under military blockade. With your assistance, I intend to break the Lyran siege.	施泰纳家族在卡佩拉城市周围设置了军事封锁. 我希望在你的帮助下打破天琴的围攻.
+An associate of mine on Primus is in desperate need of assistance. If you're open to a little subcontracting, I'll make it worth your while.	我在普里穆斯的一位同伙急需帮助。如果你愿意接点转包活，我会让你觉得值。
+Your deeds on the field of battle have earned you an invitation to my Tournament of Champions. Join us, and take your place in the arena against the Periphery's fiercest warriors!	你在战场上的事迹为你赢得了我的冠军锦标赛的邀请。加入我们，在竞技场中对阵外缘最凶悍的战士，占据你的一席之地！
+I have a highly delicate contract that requires your immediate attention. The task at hand is sensitive to the point that it cannot be discussed over an open channel. Meet me in the Duchy of Andurien and I'll fill you in on the details.	我有一份高度敏感的合约需要你立即处理。此事敏感到了无法在公开频道上讨论的程度。到安杜里恩公国来见我，我会把细节告诉你。
+Hey, Boss. I've got a line on a really juicy opportunity out on Electra, but I need to check it out in person to be sure. Think you could authorize taking a little detour?	嘿，老大。我在伊莱克特拉上得到一条非常肥的机会的线索，但我得亲自去确认一下。你看能不能批准我们绕个小道？
+Flareup: Attack Planet	突发事件: 进攻星球
+Flareup: Defend Planet	突发事件: 行星防御
+Flareup: Raid Planet	突发事件: 突袭星球

@@ -56,5 +56,5 @@
   "OptionName": "太空",
   "OptionMusicTrigger": "",
   "OptionDescription": "你家族其余人死于一场离奇的[[DM.BaseDescriptionDefs[LoreJumpShip]  跃迁舰]]事故，此后你发现他们除了一堆债务什么都没留下。\n\n为偿还债务变卖一切之后，你独自出发，名下只剩家族祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting]  驾驶]]，+1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts]  胆识]]",
-  "BioDescription": "When you were young, you were always fascinated with space. Either you spent your life amongst the stars, or you wished you could.\r\n"
+  "BioDescription": "你小时候总是对太空着迷。你要么在群星之间度过了一生，要么曾渴望如此。\n"
 }

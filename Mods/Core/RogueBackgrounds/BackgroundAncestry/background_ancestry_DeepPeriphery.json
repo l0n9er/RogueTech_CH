@@ -63,5 +63,5 @@
   "OptionName": "深空外围",
   "OptionMusicTrigger": "deep",
   "OptionDescription": "来自[[DM.BaseDescriptionDefs[LoreDeepPeriphery]  深远外缘]]的机师很罕见，但更罕见的是愿意承认这种出身的机师。\n\n在[[DM.BaseDescriptionDefs[LoreRimwardPeriphery]  外缘]]最外侧的边缘之外，是大部人类文明都未曾测绘、未知的深空。人们对这些区域知之甚少，但它们远非无人居住。深远外缘散落着与人类其余部分隔绝的废弃殖民地与小前哨。在[[DM.BaseDescriptionDefs[LoreStarLeague]  星盟]]覆灭之后，[[DM.BaseDescriptionDefs[LoreKerensky]  亚历山大·克伦斯基]]将军率领[[DM.BaseDescriptionDefs[LoreSLDF]  星盟防卫部队]]的残部进入深远外缘，从此从[[DM.BaseDescriptionDefs[LoreInnerSphere]  内天体]]和成文史中消失。",
-  "BioDescription": "You were born and raised in the Deep Periphery. MechWarriors that hail from the Deep Periphery are rare, but even rarer is the MechWarrior who will admit to such an origin. Beyond the outermost edges of the Periphery lie depths of space that remain uncharted and unknown to most of human civilization, littered with abandoned colonies and small outposts.\r\n"
+  "BioDescription": "你出生并成长于深远外缘。来自深远外缘的机师很罕见，但更罕见的是愿意承认这种出身的机师。在外缘最外侧的边缘之外，是大部人类文明都未曾测绘、未知的深空，散落着被废弃的殖民地和小型前哨。\n"
 }

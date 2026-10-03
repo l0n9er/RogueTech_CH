@@ -1,0 +1,49 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_rec_pool2",
+    "Name": "升级版低重力泳池",
+    "Details": "升级版的低重力泳池，提供了更好的游泳、训练和休闲活动条件.",
+    "Icon": "uixSvgIcon_shipUpgrade_pool"
+  },
+  "Illustration": "uixTxrSpot_LowGPool",
+  "Location": "SHIP",
+  "Category": "RECREATION",
+  "AssignedCastDefId": "castDef_SumireDefault",
+  "AssignedCastDescription": "指挥官。拜托。低重力游泳池。我不明白这里有什么可讨论的。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_pod3",
+      "argoUpgrade_rec_pool"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 20,
+  "PurchaseCost": 400000,
+  "AdditionalCost": 8000,
+  "Tags": {
+    "items": [
+      "argo_rec_pool2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MedTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

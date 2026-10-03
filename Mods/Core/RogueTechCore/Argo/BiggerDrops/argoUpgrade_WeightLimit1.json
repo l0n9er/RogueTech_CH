@@ -1,0 +1,46 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_WeightLimit1",
+    "Name": "豹式: 甲板加固",
+    "Details": "好消息是，豹式发射时那些机甲大概不会从机架里掉出来，所以我们现在可以着手确保它们不会漏穿地板了。",
+    "Icon": "Tonnage_Upgrade_50t"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "这之后她看起来就不会像每晚都有一家子擅自占住者在里面开派对。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard",
+      "argoUpgrade_DropSlot1",
+      "argoUpgrade_VehicleSlot",
+      "argoUpgrade_drive1",
+      "argoUpgrade_WeightLimit"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 7,
+  "PurchaseCost": 220000,
+  "AdditionalCost": 6000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_Weightlimit1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_MaxTonnage",
+      "value": "50",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDDropTonnage"
+}

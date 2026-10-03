@@ -1,0 +1,47 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_rec_employee",
+    "Name": "本周最佳员工",
+    "Details": "设立“每周最佳员工”奖项：把他们的照片配上金色相框挂到墙上，再给一份小额奖金。这是激发自尊心的绝佳方式，只是别告诉他们这其实是个假奖项，人人迟早都会得。",
+    "Icon": "MWotW"
+  },
+  "Illustration": "uixTxrSpot_Lounge",
+  "Location": "SHIP",
+  "Category": "RECREATION",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "操纵咱们的人真是出奇的容易. 我都不确定这算不算值得担忧的事了.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_rec_hydroponics2",
+      "argoUpgrade_rec_pool2",
+      "argoUpgrade_rec_library2",
+      "argoUpgrade_rec_arcade2",
+      "argoUpgrade_rec_lounge3",
+      "argoUpgrade_rec_gym2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 5,
+  "PurchaseCost": 20000,
+  "AdditionalCost": 10000,
+  "Tags": {
+    "items": [
+      "argo_rec_employee"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "2",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

@@ -1,0 +1,58 @@
+{
+  "Description": {
+    "Id": "fp_SiegeDefendPanzer",
+    "Name": "行星围攻 - 防御",
+    "Details": "短拆分模板",
+    "Icon": "uixTxrSpot_ArgoDrive0"
+  },
+  "Weight": 2,
+  "InternalName": "limited gladiator 1",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 8,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [
+          "TemporarilyDisabled"
+        ],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "MercenaryReviewBoard"
+  ],
+  "TargetFaction": "NoFaction",
+  "AllowRefitTime": true,
+  "FlashpointLength": "SHORT",
+  "Repeatable": true,
+  "MilestoneSetID": "ms_fp_SiegeDefendPanzer",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "RT_FP_ThreeRogueItemsG",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "我们的通讯中心站收到一份潜在合约，他们在找一群雇佣兵去防守一颗被围困的行星。",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

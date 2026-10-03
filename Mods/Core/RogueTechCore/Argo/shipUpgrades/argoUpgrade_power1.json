@@ -1,0 +1,48 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_power1",
+    "Name": "修复后的电力管道",
+    "Details": "<i>阿戈</i>号的动力系统一团糟，能让舰上系统获得最低水平的电力、又不会不断跳闸和电压不足，已经算是个小小的奇迹。",
+    "Icon": "uixSvgIcon_shipUpgrade_power0"
+  },
+  "Illustration": "uixTxrSpot_EngineeringInnards",
+  "Location": "ENGINEERING",
+  "Category": "POWER_SYSTEM",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "我对电力系统的现状感到恐惧，指挥官。修好它应当是最高优先事项。在电力稳定之前，我们无法让<i>阿戈</i>号的大部分其他系统上线。另外……我会避免触碰任何裸露的甲板板。以防万一。",
+  "RequiredModules": {
+    "items": [],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 10,
+  "PurchaseCost": 90000,
+  "AdditionalCost": 350,
+  "Tags": {
+    "items": [
+      "argo_power1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MechTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [
+    {
+      "Type": "Ship_SetRepairState",
+      "value": "0",
+      "additionalValues": [
+        "Power"
+      ]
+    }
+  ]
+}

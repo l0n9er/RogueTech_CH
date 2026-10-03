@@ -1,0 +1,52 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_JunkyardLeopard",
+    "Name": "废弃豹式",
+    "Details": "我们设法找到有人在卖一艘报废的豹式，指挥官。卖家说它\"停车时还能跑\"。如果我们能让它重新完全运作，我们就能投送一些重金属了！",
+    "Icon": "uixSvgIcon_shipUpgrade_automation"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_DariusDefault",
+  "AssignedCastDescription": "指挥官，如果我们能让这东西投入运作，我们的战术灵活性将向前迈进一大步.",
+  "RequiredModules": {
+    "items": [],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 1,
+  "PurchaseCost": 2500000,
+  "AdditionalCost": 100000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MechTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_LeopardEnabled",
+      "value": "1",
+      "set": true
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_BAOnlySlots",
+      "value": "2",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDMechDrops"
+}

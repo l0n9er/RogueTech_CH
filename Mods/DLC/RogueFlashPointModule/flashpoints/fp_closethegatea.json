@@ -1,0 +1,61 @@
+{
+  "Description": {
+    "Id": "fp_closethegatea",
+    "Name": "关上大门",
+    "Details": "康星终于叫我们上门了。他们需要我们帮忙了结那个失控AI。本闪点<b><color=#ff0d00>非常困难</color></b>",
+    "Icon": "closethegates"
+  },
+  "Weight": 9000,
+  "InternalName": "closethegate",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 18,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [
+          "flashpoint_revelations_complete"
+        ],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [
+          "flashpoint_closethegate_complete"
+        ],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [
+        "planet_name_caesar'scrown"
+      ],
+      "tagSetSourceFile": "Tags/PlanetTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "ComStar"
+  ],
+  "TargetFaction": "NoFaction",
+  "AllowRefitTime": false,
+  "FlashpointLength": "LONG",
+  "Repeatable": true,
+  "MilestoneSetID": "ms_fp_closethegatea",
+  "UseAvailableTimeoutOverride": true,
+  "AvailableTimeout": 600,
+  "UseInProgressTimeoutOverride": true,
+  "InProgressTimeout": 600,
+  "RewardCollectionID": "RT_FP_ThreePirateItems3",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "除非你有8名称职的飞行员和6台称职的机甲，否则不建议执行此任务。这个闪点<b><color=#ff0d00>非常困难</color></b>。他们可能对爆头比较脆弱",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

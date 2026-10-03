@@ -1,0 +1,47 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_WeightLimit5",
+    "Name": "豹式: 改进引擎调校",
+    "Details": "引擎的工作还在继续，指挥官。我们几乎把那些引擎恢复到额定输出了。再微调一下就行。",
+    "Icon": "Tonnage_Upgrade_50t"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "调校好引擎，直接让它们热机空降，头儿.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard",
+      "argoUpgrade_DropSlot3",
+      "argoUpgrade_VehicleSlot1",
+      "argoUpgrade_drive2",
+      "argoUpgrade_WeightLimit4",
+      "argoUpgrade_storage"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 11,
+  "PurchaseCost": 300000,
+  "AdditionalCost": 10000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_Weightlimit5"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_MaxTonnage",
+      "value": "50",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDDropTonnage"
+}

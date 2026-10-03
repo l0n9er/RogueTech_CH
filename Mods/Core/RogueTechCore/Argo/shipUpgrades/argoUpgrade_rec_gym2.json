@@ -1,0 +1,49 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_rec_gym2",
+    "Name": "升级版健身房",
+    "Details": "既然我们让<i>阿戈</i>号的健身房运作起来了，我们可以加一些更好的设备和淋浴间。",
+    "Icon": "uixSvgIcon_shipUpgrade_gym"
+  },
+  "Illustration": "uixTxrSpot_Gym",
+  "Location": "SHIP",
+  "Category": "RECREATION",
+  "AssignedCastDefId": "castDef_DariusDefault",
+  "AssignedCastDescription": "我怀疑我收到的机甲战士投诉中有相当一部分只是闲得慌。指挥官，如果有机身训练设施，我就能替他们解决这份闲情。你懂我的意思。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_pod2",
+      "argoUpgrade_rec_gym"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 15,
+  "PurchaseCost": 225000,
+  "AdditionalCost": 1400,
+  "Tags": {
+    "items": [
+      "argo_rec_gym2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MedTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

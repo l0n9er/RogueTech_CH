@@ -1,0 +1,44 @@
+{
+  "Description": {
+    "Id": "fp_greed",
+    "Name": "犯罪思维",
+    "Details": "被自己的组织背叛",
+    "Icon": ""
+  },
+  "Weight": 200,
+  "InternalName": "greed",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 6,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Liao"
+  ],
+  "TargetFaction": "Valkyrate",
+  "AllowRefitTime": false,
+  "FlashpointLength": "MEDIUM",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_greed",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_Weapon_uncommon",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "廖家族需要你协助瓦解一个显赫的犯罪辛迪加。与卡佩兰地面部队协同行动，你将俘获敌对方的人员并查封他们的金融资产。",
+  "FlashpointDescriberCastDefId": "castDef_LiaoRepDefault"
+}

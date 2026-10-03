@@ -1,0 +1,63 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_trainingModule1",
+    "Name": "1号训练模块",
+    "Details": "这套联网战斗模拟舱让机甲战士能够彼此进行模拟机甲对战，参与其中的机甲战士可获得经验.\n\n<b><color=#F79232>每位总经验值低于200，000的机甲战士每天将获得30点经验值.</color></b>\n\n<b><color=#F79232>偏好度衰减最低至5点</color></b>",
+    "Icon": "uixSvgIcon_shipUpgrade_training1"
+  },
+  "Illustration": "uixTxrSpot_TrainingModules",
+  "Location": "SHIP",
+  "Category": "TRAINING",
+  "AssignedCastDefId": "castDef_SumireDefault",
+  "AssignedCastDescription": "指挥官，你见过这些模拟器舱了吗？它们太棒了！我收回我说过关于<i>阿戈</i>号的一切坏话。我们得尽快让这些东西运转起来。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_power1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 10,
+  "PurchaseCost": 90000,
+  "AdditionalCost": 400,
+  "Tags": {
+    "items": [
+      "argo_trainingModule1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "ExperiencePerDay",
+      "value": "30",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "ExperiencePerDayCap",
+      "value": "200000",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MaLowestDecay",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

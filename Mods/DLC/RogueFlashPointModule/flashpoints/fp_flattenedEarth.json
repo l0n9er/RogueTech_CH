@@ -1,0 +1,44 @@
+{
+  "Description": {
+    "Id": "fp_flattenedEarth",
+    "Name": "行动: 焦土",
+    "Details": "被自己的组织背叛",
+    "Icon": ""
+  },
+  "Weight": 200,
+  "InternalName": "flattenedEarth",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 10,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Liao"
+  ],
+  "TargetFaction": "RazorbackMercs",
+  "AllowRefitTime": false,
+  "FlashpointLength": "MEDIUM",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_flattenedEarth",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_FP_generic_SLDF",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "一个煽动叛乱的组织已在卡佩拉的卡瓦罗尔上扎根. 任何能铲除并消灭这些共同体叛徒的佣兵公司都将获得廖氏家族的丰厚酬劳.",
+  "FlashpointDescriberCastDefId": "castDef_LiaoRepDefault"
+}

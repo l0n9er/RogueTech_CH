@@ -56,5 +56,5 @@
   "OptionName": "生存",
   "OptionMusicTrigger": "",
   "OptionDescription": "作为贵族家族的继承人，你从小要什么有什么。而结果证明……你受不了那种被娇养的高贵生活。\n\n最终，某个夜里你带着家族祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  黑杰克]]偷偷离开，出发去寻找属于自己的新生活。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting]  驾驶]]，+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics]  战术]]",
-  "BioDescription": "In your youth, while others your age had myriad interests, you fought tooth and nail to justify your own existence. Life was tough, so you had to be tougher.\r\n"
+  "BioDescription": "在你年少时，当同龄人有形形色色的兴趣，你却拼死拼活地证明自己存在的价值。生活很艰难，所以你不得不更坚韧。\n"
 }

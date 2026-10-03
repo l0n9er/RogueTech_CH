@@ -1,0 +1,45 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_WeightLimit",
+    "Name": "豹式: 关键维修",
+    "Details": "指挥官，那艘穿梭机被扔在废品场里任由生锈。豹式基础结构的大部分，除了锈迹和希望之外几乎什么都不剩。我的技师可以开工修掉最严重的损伤，但我现在就警告你，要完成全部工作将是一个漫长的过程。",
+    "Icon": "Tonnage_Upgrade_50t"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "这小家伙有很多活要干，但我们应付得来。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard",
+      "argoUpgrade_DropSlot",
+      "argoUpgrade_VehicleSlot",
+      "argoUpgrade_drive1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 6,
+  "PurchaseCost": 200000,
+  "AdditionalCost": 5000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_Weightlimit"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_MaxTonnage",
+      "value": "50",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDDropTonnage"
+}

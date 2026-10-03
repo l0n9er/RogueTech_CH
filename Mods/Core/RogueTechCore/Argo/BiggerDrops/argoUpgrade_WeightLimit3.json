@@ -1,0 +1,47 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_WeightLimit3",
+    "Name": "豹式: 引擎支架更换",
+    "Details": "指挥官，结果引擎支架几乎完全锈穿了。我们得先重建它们，才能开始修引擎，否则在过大应力下它们会把自己扯出来。",
+    "Icon": "Tonnage_Upgrade_50t"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "说实话，我很惊讶到现在都还没出事，老板。没人向我报告这件事。如果你接下来几周碰巧看到我的哪位技师被派去清理化粪池，我保证这完全无关。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard",
+      "argoUpgrade_DropSlot2",
+      "argoUpgrade_VehicleSlot",
+      "argoUpgrade_drive1",
+      "argoUpgrade_WeightLimit2",
+      "argoUpgrade_mechBay_scaffolding"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 9,
+  "PurchaseCost": 260000,
+  "AdditionalCost": 8000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_Weightlimit3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_MaxTonnage",
+      "value": "50",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDDropTonnage"
+}

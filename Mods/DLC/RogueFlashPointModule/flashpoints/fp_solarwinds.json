@@ -1,0 +1,60 @@
+{
+  "Description": {
+    "Id": "fp_solarwinds",
+    "Name": "Solar Winds. This Flashpoint is <b><color=#f0ff00>Long</color></b>",
+    "Details": "海盗三部曲第二部",
+    "Icon": "solarwinds"
+  },
+  "Weight": 9000,
+  "InternalName": "solarwinds",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 10,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [
+          "flashpoint_SevenPieces_complete"
+        ],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [
+          "flashpoint_solarwinds_complete"
+        ],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Valkyrate"
+  ],
+  "TargetFaction": "Locals",
+  "AllowRefitTime": false,
+  "FlashpointLength": "LONG",
+  "Repeatable": true,
+  "MilestoneSetID": "ms_fp_solarwinds",
+  "UseAvailableTimeoutOverride": true,
+  "AvailableTimeout": 600,
+  "UseInProgressTimeoutOverride": true,
+  "InProgressTimeout": 600,
+  "RewardCollectionID": "RT_FP_ThreePirateItems2",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "看来我们的海盗盟友碰上了点事，想请我们帮忙。本闪点<b><color=#f0ff00>漫长</color></b>。",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

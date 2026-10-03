@@ -1,0 +1,81 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_medBay2",
+    "Name": "2号医务室",
+    "Details": "这处扩建的野战医院允许两名医疗技师一起工作，意味着能治疗更多病人. 相关费用包含一名额外的熟练医疗技师的薪水，用于治疗受伤的机甲战士.",
+    "Icon": "uixSvgIcon_shipUpgrade_medbay2"
+  },
+  "Illustration": "uixTxrSpot_MedBay",
+  "Location": "SHIP",
+  "Category": "MED_BAY",
+  "AssignedCastDefId": "castDef_DariusDefault",
+  "AssignedCastDescription": "指挥官，现有的医疗舱勉强跟得上，但也只是勉强。没人因为得不到治疗而死，但我们的医护兵超负荷了。贝塔舱有一间完整的额外医疗舱，闲置未用，等着翻新并重新通电。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_medBay1",
+      "argoUpgrade_pod2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 15,
+  "PurchaseCost": 900000,
+  "AdditionalCost": 13500,
+  "Tags": {
+    "items": [
+      "argo_medBay2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MedTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MedTechMultiplier_Extravagant",
+      "value": "0.15",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MedTechMultiplier_Generous",
+      "value": "0.05",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MedTechMultiplier_Extravagant_Display",
+      "value": "15",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MedTechMultiplier_Generous_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "IncapacitatedDeathChance",
+      "value": "-0.02",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "LethalDeathChance",
+      "value": "-0.02",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

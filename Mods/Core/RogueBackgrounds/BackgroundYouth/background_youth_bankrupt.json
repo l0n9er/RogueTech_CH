@@ -56,5 +56,5 @@
   "OptionName": "赌博",
   "OptionMusicTrigger": "",
   "OptionDescription": "随着你长大，你看着家族的财富、收入与影响力慢慢枯竭——直到一无所有。你的父母被绝望逼到绝境，自尽身亡。\n\n只剩家族祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  黑杰克]]算作你的东西，你出发为自己开创一种新生活。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics]  战术]]，+1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts]  胆识]]",
-  "BioDescription": "For almost all your life, you've been drawn to games of chance. Be it simple monetary gambling, or risking your life on the field of battle.\r\n"
+  "BioDescription": "你几乎一生都被机会游戏吸引。无论是简单的金钱赌博，还是把性命押在战场上。\n"
 }

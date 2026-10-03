@@ -1,0 +1,49 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_rec_lounge3",
+    "Name": "酒吧",
+    "Details": "休息室里有个不错的吧台，还有精选的各种饮品.",
+    "Icon": "uixSvgIcon_shipUpgrade_loungeUpgrade"
+  },
+  "Illustration": "uixTxrSpot_Lounge",
+  "Location": "SHIP",
+  "Category": "RECREATION",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "是啊，头儿，看着弟兄们老试着酿那锈肠子私酒，我就琢磨着咱该给大家弄点毒性没那么大的选择.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_rec_lounge2",
+      "argoUpgrade_power2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 10,
+  "PurchaseCost": 250000,
+  "AdditionalCost": 2000,
+  "Tags": {
+    "items": [
+      "argo_rec_lounge3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "2",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MechTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

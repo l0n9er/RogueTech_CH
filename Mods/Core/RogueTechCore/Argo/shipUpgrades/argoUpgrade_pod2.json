@@ -1,0 +1,66 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_pod2",
+    "Name": "贝塔舱",
+    "Details": "Beta 舱段修复后，包含一处显然曾是水培设施的场所，位于 <i>Argo</i> 的脊柱附近，其正上方还有一座低重力健身房。两者都没能挺过硬真空和恒星辐射的侵袭，但它们诱人地昭示着 <i>Argo</i> 曾经拥有的奢华配置。\n\n <b><color=#F79232>偏好衰减前 +10 天。</color></b>",
+    "Icon": "uixSvgIcon_shipUpgrade_podBeta"
+  },
+  "Illustration": "uixTxrSpot_ArgoPod",
+  "Location": "SHIP",
+  "Category": "HABITAT_POD",
+  "AssignedCastDefId": "castDef_DariusDefault",
+  "AssignedCastDescription": "船员们在舰上平面图里看到了贝塔舱的娱乐设施，指挥官，他们满嘴都是这个。更实际地说，我们还能让贝塔舱的医疗设施重新上线。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_pod1",
+      "argoUpgrade_power1",
+      "argoUpgrade_structure1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 10,
+  "PurchaseCost": 900000,
+  "AdditionalCost": 2000,
+  "Tags": {
+    "items": [
+      "argo_pod2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BarracksPods",
+      "value": "2",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "BarracksPods_Display",
+      "value": "16",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MaSimDaysDecayModulator",
+      "value": "10",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [
+    {
+      "Type": "Ship_SetRepairState",
+      "value": "1",
+      "additionalValues": [
+        "Pod"
+      ]
+    }
+  ]
+}

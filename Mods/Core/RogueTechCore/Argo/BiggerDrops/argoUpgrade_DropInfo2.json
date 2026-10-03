@@ -1,0 +1,49 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_DropInfo2",
+    "Name": "气象监测系统",
+    "Details": "通过进一步升级我们的传感器系统，并将其与一系列自主卫星相连，就有可能监测整个恒星系的气象系统及异常地质特征.",
+    "Icon": "SensorICON_02"
+  },
+  "Illustration": "uixTxrSpot_ArgoPod",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_DariusDefault",
+  "AssignedCastDescription": "希望有了这次升级，我的情报对战场状况的把握会精准得多. 但愿吧.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_DropInfo1",
+      "argoUpgrade_power2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 25,
+  "PurchaseCost": 4523000,
+  "AdditionalCost": 55000,
+  "Tags": {
+    "items": [
+      "argo_info2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Boolean",
+      "name": "Intel_Show_Mood",
+      "value": "True",
+      "set": true
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "Intel_Show_Mood_Display",
+      "value": "1",
+      "set": true
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "RTExtra2"
+}

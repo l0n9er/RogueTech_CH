@@ -1,0 +1,61 @@
+{
+  "Description": {
+    "Id": "fp_EvolvingSituation",
+    "Name": "局势演变",
+    "Details": "地狱战马的忠诚FP",
+    "Icon": "EvolvingSituation"
+  },
+  "Weight": 99999,
+  "InternalName": "EvolvingSituation",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 14,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [
+          "ALLIED_FACTION_ClanHellsHorses"
+        ],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [
+          "flashpoint_EvolvingSituation_complete"
+        ],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [
+        "planet_faction_ClanHellsHorses"
+      ],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "ClanHellsHorses"
+  ],
+  "TargetFaction": "Locals",
+  "AllowRefitTime": true,
+  "FlashpointLength": "LONG",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_EvolvingSituation",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "RT_FP_Pillow",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "指挥官，我刚收到枕头教授的消息。他急着向我们展示他一直在做的东西，想请我们去他的实验室。去看看他在搞什么也许值得。\n\n<b><color=#f44336>本闪点需要4名既能驾驶机甲又能驾驶车辆的飞行员。</color></b>",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

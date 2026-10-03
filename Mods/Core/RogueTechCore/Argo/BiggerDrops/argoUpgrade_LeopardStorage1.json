@@ -1,0 +1,69 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_LeopardStorage1",
+    "Name": "豹式: 弹药库",
+    "Details": "豹式空投艇上腾出的空间使得弹药与替换零件的存储更加便捷.",
+    "Icon": "uixSvgIcon_shipUpgrade_automation"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "事到如今，我想只有通讯之星敢说能在一个地方拥有比我们更好的通讯基础设施了.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard",
+      "argoUpgrade_DropSlot3",
+      "argoUpgrade_VehicleSlot1",
+      "argoUpgrade_LeopardStorage",
+      "argoUpgrade_WeightLimit4",
+      "argoUpgrade_storage3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 9,
+  "PurchaseCost": 450000,
+  "AdditionalCost": 7500,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_LeopardStorage1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Single",
+      "name": "IBLS_MechbayUpkeepModifier",
+      "value": "0.75",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "IBLS_MechbayUpkeepModifier_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "IBLS_CargoStorageModifier",
+      "value": "0.75",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "IBLS_CargoStorageModifier_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDMechControl"
+}

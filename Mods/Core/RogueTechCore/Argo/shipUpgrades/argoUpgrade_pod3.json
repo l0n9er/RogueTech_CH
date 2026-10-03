@@ -1,0 +1,66 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_pod3",
+    "Name": "伽玛舱",
+    "Details": "Gamma 舱段几乎就是一张白纸，只有其内部支撑结构完好无损。重建该舱段的居住甲板后，仍会留下大量空间供其他设施使用。\n\n <b><color=#F79232>偏好衰减前 +10 天。</color></b>",
+    "Icon": "uixSvgIcon_shipUpgrade_podGamma"
+  },
+  "Illustration": "uixTxrSpot_ArgoPod",
+  "Location": "SHIP",
+  "Category": "HABITAT_POD",
+  "AssignedCastDefId": "castDef_DariusDefault",
+  "AssignedCastDescription": "指挥官，关于伽玛舱的新设施已经有6份请求了，从游泳池到空投艇大小的充气城堡. 有份实际一点的记录是，我们可以开始利用伽玛舱的医疗设施.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_pod2",
+      "argoUpgrade_power2",
+      "argoUpgrade_structure2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 20,
+  "PurchaseCost": 2250000,
+  "AdditionalCost": 3000,
+  "Tags": {
+    "items": [
+      "argo_pod3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BarracksPods",
+      "value": "3",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "BarracksPods_Display",
+      "value": "24",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MaSimDaysDecayModulator",
+      "value": "10",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [
+    {
+      "Type": "Ship_SetRepairState",
+      "value": "2",
+      "additionalValues": [
+        "Pod"
+      ]
+    }
+  ]
+}

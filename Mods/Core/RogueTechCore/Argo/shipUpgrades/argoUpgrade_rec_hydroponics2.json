@@ -1,0 +1,49 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_rec_hydroponics2",
+    "Name": "升级版水培花园",
+    "Details": "更多的水培作物不仅意味着更清新的空气和用餐时更丰富的种类，还能进一步降低我们的月度开销！",
+    "Icon": "uixSvgIcon_shipUpgrade_hydroponics"
+  },
+  "Illustration": "uixTxrSpot_Hydroponics",
+  "Location": "SHIP",
+  "Category": "RECREATION",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "我看过伽马舱的水培花园了，指挥官，有几处关键区域我们可以大幅改进和扩展。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_pod2",
+      "argoUpgrade_rec_hydroponics"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 20,
+  "PurchaseCost": 200000,
+  "AdditionalCost": -2000,
+  "Tags": {
+    "items": [
+      "argo_rec_hydroponics2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "Morale",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MedTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

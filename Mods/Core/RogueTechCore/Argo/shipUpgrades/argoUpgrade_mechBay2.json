@@ -1,0 +1,83 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_mechBay2",
+    "Name": "2号机甲舱",
+    "Details": "修复的电力管道使六个额外的机甲舱位得以通电并投入使用. 这也让机甲维修舱的更多自动化系统恢复上线，从而减轻了杨的工作负担.\n\n<b><color=#F79232>启用第二个维修舱位，允许以50%的效率同时维修第二台机甲.</color></b>",
+    "Icon": "uixSvgIcon_shipUpgrade_mechbay2"
+  },
+  "Illustration": "uixTxrSpot_MechBay",
+  "Location": "MECH_BAY",
+  "Category": "MECH_BAY",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "我们这里多出了不少空间，指挥官。只是里面堆满了垃圾和海盗的破烂，一半的墙还不见了。我可以把我的工程师从机甲维护岗上调走，大概能让另外六个机甲机库上线。你一句话就行。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_mechBay1",
+      "argoUpgrade_power1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 10,
+  "PurchaseCost": 700000,
+  "AdditionalCost": 2000,
+  "Tags": {
+    "items": [
+      "argo_mechBay2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MechBayPods",
+      "value": "2",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MechBayPods_Display",
+      "value": "12",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "MechTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Extravagant",
+      "value": "0.15",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Extravagant_Display",
+      "value": "15",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Generous",
+      "value": "0.05",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Generous_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

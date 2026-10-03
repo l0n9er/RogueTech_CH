@@ -56,5 +56,5 @@
   "OptionName": "科技",
   "OptionMusicTrigger": "",
   "OptionDescription": "你的家族遭到背叛、权力根基被毁。你击败了背叛者，但你是家族中唯一的幸存者。\n\n名下只剩家族祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]，你出发去为自己开辟新生活。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery]  炮术]]，+1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts]  胆识]]",
-  "BioDescription": "In your spare time, you used to live and breathe technology. Whether you were tinkering with various systems, or scouring through every TechManual under the sun, you always found the technology that made the universe ticks to be fascinating.\r\n"
+  "BioDescription": "在空闲时间，你过去总是活在技术里。无论你是在鼓捣各种系统，还是翻遍天下所有技术手册，你总觉得让宇宙运转的技术令人着迷。\n"
 }

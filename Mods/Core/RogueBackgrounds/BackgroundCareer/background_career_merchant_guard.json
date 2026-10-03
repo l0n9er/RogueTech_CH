@@ -65,5 +65,5 @@
   "OptionMusicTrigger": "",
   "OptionDescription": "你受雇于一家小型贸易行会，为其商队在内层星域与外围地区之间跑贸易时提供安保。生活大体平淡，但你得以在偶尔与海盗和不配合的地方政府的冲突中派上机甲战士的用场。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting]  驾驶]]",
   "Intro": "在为前往[[DM.BaseDescriptionDefs[LoreAuriganReach]  奥里根边区]]边缘一处小型前哨的车队护航时，你遭到海盗袭击并被弃之等死。拉朱恰好正在访问首府城市，接收到了你的求救信号。救出你之后，他邀请你加入[[DM.BaseDescriptionDefs[LoreHouseArano]  阿然诺家族]]皇家卫队。\n\n就这样，你与旧日的导师重逢，为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿然诺女士]]加冕当天的守卫任务保养你的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]……",
-  "BioDescription": "You've spent most of your lift running some kind of grift. Hell, even getting MechWarrior training was something of a happy accident. A shame that your Lyran mentor at the time wasn't too thrilled when you tried to pay him D-Bills. Once all that was settled (it wasn't), you left (fled) your way to brighter prospects, sprinkling a little cash here and there to grease the wheels and buy your way to the head of a small mercenary company. What is it they say? War is business?\r\n"
+  "BioDescription": "你大部分时间都在搞某种骗局。见鬼，连机师训练都算是场愉快的意外。可惜当你试图用D币付钱给你当时的莱兰导师时，他并不太高兴。等这一切都算了结（其实没了结）之后，你离开（逃离）了，奔向前程更光明的去处，这里撒点钱、那里撒点钱来润滑车轮，一路买到了一个小雇佣兵公司的头把交椅。人们怎么说来着？战争就是生意？\n"
 }

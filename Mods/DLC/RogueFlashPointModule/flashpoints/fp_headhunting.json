@@ -1,0 +1,44 @@
+{
+  "Description": {
+    "Id": "fp_headhunting",
+    "Name": "斩首行动",
+    "Details": "被自己的组织背叛",
+    "Icon": ""
+  },
+  "Weight": 200,
+  "InternalName": "headhunting",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 8,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": ""
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Davion"
+  ],
+  "TargetFaction": "FlakJackals",
+  "AllowRefitTime": true,
+  "FlashpointLength": "SHORT",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_headhunting",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_FP_generic_SLDF",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "戴维恩家族就一项涉及我国边境安全的敏感事务，请求贵方协助. 预计为短期部署，且附带极佳的残骸打捞机会.",
+  "FlashpointDescriberCastDefId": "castDef_DavionRepDefault"
+}

@@ -1,0 +1,43 @@
+{
+  "Description": {
+    "Id": "fp_morganKell",
+    "Name": "The Braying of Hounds",
+    "Details": "被自己的组织背叛",
+    "Icon": ""
+  },
+  "Weight": 200,
+  "InternalName": "morganKell",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 9,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "KellHounds"
+  ],
+  "TargetFaction": "HostileMercenaries",
+  "AllowRefitTime": false,
+  "FlashpointLength": "MEDIUM",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_morganKell",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_FP_generic_SLDF",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "你不会相信，但摩根·凯尔——[[DM.BaseDescriptionDefs[LoreKellHounds]  凯尔猎犬]]的<i>那位</i>[[DM.BaseDescriptionDefs[LoreMorganKell]  摩根·凯尔]]——想请我们干活。这种邀约你可不会拒绝。",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

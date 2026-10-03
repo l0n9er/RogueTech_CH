@@ -1,0 +1,47 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_WeightLimit7",
+    "Name": "豹式: 加固结构框架",
+    "Details": "好消息是我们快到终点线了。老实说，老大，我从没想过我们能走到这一步。我一直在拖延，因为需要的时间与金钱，但舰船的脊骨要么是在它过去服役期间，要么是在废品场里腐烂时被弄弯了。我们得把整艘船拆开，露出结构骨架才能完成这项工作，但做完之后它会像新的一样！",
+    "Icon": "Tonnage_Upgrade_50t"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "我真希望在我们开始之前就知道你会把它做完，老大。要是我们一开始就这么干，本可以省下不少时间和钱。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard",
+      "argoUpgrade_DropSlot3",
+      "argoUpgrade_VehicleSlot1",
+      "argoUpgrade_drive2",
+      "argoUpgrade_WeightLimit6",
+      "argoUpgrade_storage3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 13,
+  "PurchaseCost": 340000,
+  "AdditionalCost": 12000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_Weightlimit7"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_MaxTonnage",
+      "value": "50",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDDropTonnage"
+}

@@ -63,5 +63,5 @@
   "OptionName": "自由世界联盟（马里克）",
   "OptionMusicTrigger": "marik",
   "OptionDescription": "来自[[DM.Factions[faction_Marik]  自由世界联盟]]的机甲战士往往是充满激情、坚韧不拔的战士，把正义与平等置于一切之上。\n\n作为[[DM.BaseDescriptionDefs[LoreInnerSphere]  内层星域]]各[[DM.BaseDescriptionDefs[LoreSuccessorState]  继承国]]中最古老、理论上最民主的一个，自由世界联盟实际上是众多小贵族家族的广泛联盟。在联盟历史的大部分时间里，它由一位总上将依军事管制统治，而按传统这位总上将出自[[DM.BaseDescriptionDefs[LoreHouseMarik]  马里克家族]]。各组成区域的文化多样性与相对独立性，既是自由世界联盟最大的优势，也是其最大的弱点。",
-  "BioDescription": "You were born and raised in the Free Worlds League. MechWarriors who hail from the Free Worlds League tend to be passionate, enduring fighters who value justice and equality above all else. The cultural diversity and independence of the Free Worlds League is at once the greatest strength of the Free Worlds League, and its greatest weaknesses.\r\n"
+  "BioDescription": "你出生并成长于自由世界联盟。出身于自由世界联盟的机师往往热忱而坚韧，把正义与平等看得高于一切。自由世界联盟的文化多样性与独立性既是它最大的优势，也是它最大的弱点。\n"
 }

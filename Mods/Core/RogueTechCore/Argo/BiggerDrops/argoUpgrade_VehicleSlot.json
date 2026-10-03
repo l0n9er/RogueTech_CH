@@ -1,0 +1,42 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_VehicleSlot",
+    "Name": "豹式: 升级通讯网络",
+    "Details": "指挥官，指挥控制系统原本并非为支持一支轻型连规模的机甲而设计。若要维持与机师的通讯，我们就得升级通讯网络以应对额外的带宽需求。",
+    "Icon": "uixSvgIcon_shipUpgrade_automation"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "改善我们指挥与控制系统之间的网络连接，应该能减轻一部分负担.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 6,
+  "PurchaseCost": 300000,
+  "AdditionalCost": 6000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_VehicleSlot"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_CuVehicleCount",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDMechControl"
+}

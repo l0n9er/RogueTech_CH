@@ -1,0 +1,44 @@
+{
+  "Description": {
+    "Id": "fp_longRoad",
+    "Name": "合资企业",
+    "Details": "初始选择模板.",
+    "Icon": ""
+  },
+  "Weight": 200,
+  "InternalName": "longRoad",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 6,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Steiner"
+  ],
+  "TargetFaction": "Liao",
+  "AllowRefitTime": false,
+  "FlashpointLength": "SHORT",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_longRoad",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_FP_generic_SLDF",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "斯坦纳家族需要你协助带领一支达维昂-施泰纳车队穿越一大片敌意地形。报酬将在车队货物安全送达后支付。",
+  "FlashpointDescriberCastDefId": "castDef_SteinerRepDefault"
+}

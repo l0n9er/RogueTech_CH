@@ -1,0 +1,44 @@
+{
+  "Description": {
+    "Id": "fp_justinAllard",
+    "Name": "波旁威士忌和战斗机甲",
+    "Details": "短拆分模板",
+    "Icon": ""
+  },
+  "Weight": 200,
+  "InternalName": "justinAllard",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 7,
+  "Requirements": [],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetNameTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Davion"
+  ],
+  "TargetFaction": "MasonsMarauders",
+  "AllowRefitTime": true,
+  "FlashpointLength": "SHORT",
+  "Repeatable": false,
+  "MilestoneSetID": "ms_fp_justinAllard",
+  "UseAvailableTimeoutOverride": false,
+  "AvailableTimeout": 0,
+  "UseInProgressTimeoutOverride": false,
+  "InProgressTimeout": 0,
+  "RewardCollectionID": "itemCollection_loot_FP_generic_SLDF",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "Light",
+  "FlashpointShortDescription": "指挥官。我叫贾斯汀·阿拉德。你不认识我，但我听过很多关于你的事。有件小事想请你帮忙，如果你愿意的话。你方便的时候来见我，我们谈谈。",
+  "FlashpointDescriberCastDefId": "castDef_FP_justinAllard_AllardDefault"
+}

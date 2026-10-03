@@ -1,0 +1,47 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_WeightLimit2",
+    "Name": "豹式: 基础结构修复",
+    "Details": "飞船内部现在大致可用了，但基础结构仍有大量工作需要完成.",
+    "Icon": "Tonnage_Upgrade_50t"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "内部现在可以住人了。倒不是说我一直住在里面……总之，现在我们能开始处理那些我们看不见的问题了。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard",
+      "argoUpgrade_DropSlot1",
+      "argoUpgrade_VehicleSlot",
+      "argoUpgrade_drive1",
+      "argoUpgrade_WeightLimit1",
+      "argoUpgrade_mechBay_refitHarness"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 8,
+  "PurchaseCost": 240000,
+  "AdditionalCost": 7000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_Weightlimit2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_MaxTonnage",
+      "value": "50",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDDropTonnage"
+}

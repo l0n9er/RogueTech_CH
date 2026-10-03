@@ -1,0 +1,49 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_DropSlot2",
+    "Name": "豹式: 3号空降舱",
+    "Details": "现在完成一半了，老大。它真的开始看起来像一艘像样的空投艇了。我可以开始从头制造部件，来组装最后两个机架。同时生产两套部件应该能帮我们省一点时间和钱。",
+    "Icon": "uixSvgIcon_shipUpgrade_automation"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "托架可以完成，但苏米尔有些顾虑. 头儿，在尝试投入一整支额外小队前，您应该先和她谈谈.",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_DropSlot1",
+      "argoUpgrade_mechBay2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 8,
+  "PurchaseCost": 700000,
+  "AdditionalCost": 12000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_Dropslot2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_AdditionalMechSlots",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "BiggerDrops_AdditionalPlayerMechSlots",
+      "value": "1",
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDMechDrops"
+}

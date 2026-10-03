@@ -1,0 +1,68 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_LeopardStorage",
+    "Name": "豹式: 利用存储区域",
+    "Details": "对豹式机甲舱的进一步修复能更高效地储存单位与装备。",
+    "Icon": "uixSvgIcon_shipUpgrade_automation"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "UNKNOWN",
+  "AssignedCastDefId": "castDef_FarahDefault",
+  "AssignedCastDescription": "指挥官，如今能处理这种原始数据带宽的处理器已属失落科技。抱歉，这不会便宜。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_JunkyardLeopard",
+      "argoUpgrade_DropSlot",
+      "argoUpgrade_VehicleSlot",
+      "argoUpgrade_WeightLimit2",
+      "argoUpgrade_storage3"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 8,
+  "PurchaseCost": 400000,
+  "AdditionalCost": 7000,
+  "Tags": {
+    "items": [
+      "JunkyardLeopard_LeopardStorage"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Single",
+      "name": "IBLS_MechbayUpkeepModifier",
+      "value": "0.8",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "IBLS_MechbayUpkeepModifier_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "IBLS_CargoStorageModifier",
+      "value": "0.8",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Int32",
+      "name": "IBLS_CargoStorageModifier_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": [],
+  "shipUpgradeCategoryID": "BDMechControl"
+}

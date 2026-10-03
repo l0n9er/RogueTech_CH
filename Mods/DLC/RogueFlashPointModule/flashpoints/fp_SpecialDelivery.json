@@ -1,0 +1,58 @@
+{
+  "Description": {
+    "Id": "fp_SpecialDelivery",
+    "Name": "特殊快递",
+    "Details": "通讯之星终于来叫我们了。他们需要我们帮忙收拾那台失控的AI。这个闪点<b><color=#ff0d00>非常困难</color></b>",
+    "Icon": "SpecialDelivery"
+  },
+  "Weight": 909909,
+  "InternalName": "SpecialDelivery",
+  "PublishState": "PUBLISHED",
+  "Difficulty": 5,
+  "Requirements": [
+    {
+      "Scope": "Company",
+      "RequirementTags": {
+        "items": [],
+        "tagSetSourceFile": "Tags/CompanyTags"
+      },
+      "ExclusionTags": {
+        "items": [
+          "flashpoint_SpecialDelivery_complete"
+        ],
+        "tagSetSourceFile": ""
+      }
+    }
+  ],
+  "LocationRequirements": {
+    "Scope": "StarSystem",
+    "RequirementTags": {
+      "items": [],
+      "tagSetSourceFile": "Tags/PlanetTags"
+    },
+    "ExclusionTags": {
+      "items": [
+        "planet_name_solaris",
+        "planet_pop_none"
+      ],
+      "tagSetSourceFile": ""
+    }
+  },
+  "PotentialEmployers": [
+    "Locals"
+  ],
+  "TargetFaction": "NoFaction",
+  "AllowRefitTime": false,
+  "FlashpointLength": "LONG",
+  "Repeatable": true,
+  "MilestoneSetID": "ms_fp_SpecialDelivery",
+  "UseAvailableTimeoutOverride": true,
+  "AvailableTimeout": 600,
+  "UseInProgressTimeoutOverride": true,
+  "InProgressTimeout": 600,
+  "RewardCollectionID": "RT_FP_specialdeliveryitems",
+  "UnitDropTonnageHint": "None",
+  "LanceDropTonnageHint": "None",
+  "FlashpointShortDescription": "一家快递公司需要人手来完成当天在一颗星球上的送货任务. 他们承诺提供不错的报酬、没有休息时间，以及一个便携尿瓶——不管那是什么东西.",
+  "FlashpointDescriberCastDefId": "castDef_DariusDefault"
+}

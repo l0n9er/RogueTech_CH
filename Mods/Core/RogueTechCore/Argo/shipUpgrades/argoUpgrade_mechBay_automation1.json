@@ -1,0 +1,69 @@
+{
+  "Description": {
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": true,
+    "UIName": "",
+    "Id": "argoUpgrade_mechBay_automation1",
+    "Name": "自动化系统",
+    "Details": "<i>阿戈</i>号机甲库的许多系统原本只应与精密的星盟时代自动化配合使用。让那种自动化哪怕部分重新上线，都是对杨技能的大幅加成。<b><color=#F79232>使第二个维修舱能以100%效率工作。</color></b>",
+    "Icon": "uixSvgIcon_shipUpgrade_automation"
+  },
+  "Illustration": "uixTxrSpot_YangWorking",
+  "Location": "MECH_BAY",
+  "Category": "REPAIR_REFIT",
+  "AssignedCastDefId": "castDef_YangDefault",
+  "AssignedCastDescription": "这些材料没法替我把活干了，但已经很接近了。你想让这里的事快点推进，就给我资源让这些机器重新上线。",
+  "RequiredModules": {
+    "items": [
+      "argoUpgrade_power1",
+      "argoUpgrade_mechBay2"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Requirements": [],
+  "TechCost": 6,
+  "PurchaseCost": 350000,
+  "AdditionalCost": 6500,
+  "Tags": {
+    "items": [
+      "argo_mechBay_automation1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "Stats": [
+    {
+      "typeString": "System.Int32",
+      "name": "MechTechSkill",
+      "value": "1",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Restrictive",
+      "value": "0.05",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Spartan",
+      "value": "0.05",
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Restrictive_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    },
+    {
+      "typeString": "System.Single",
+      "name": "MT_MechTechMultiplier_Spartan_Display",
+      "value": "5",
+      "set": true,
+      "valueConstant": ""
+    }
+  ],
+  "Actions": []
+}

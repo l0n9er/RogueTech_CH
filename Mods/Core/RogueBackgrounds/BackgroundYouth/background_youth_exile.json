@@ -56,5 +56,5 @@
   "OptionName": "历史",
   "OptionMusicTrigger": "",
   "OptionDescription": "你曾是你家族中大有前途的年轻继承人，却犯下了不可饶恕的过错，被判终身流放。\n\n你带着家族祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  黑杰克]]偷偷离开，出发去寻找属于自己的新生活。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery]  射击]]，+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics]  战术]]",
-  "BioDescription": "You have ever been looking to the past, perhaps to a fault. Any period of history, be it pre-spaceflight or as recent as the Age of War, has always piqued your interest. Despite not having a formal education in the field, your knowledge of some eras rivals even the most accredited historians.\r\n"
+  "BioDescription": "你始终回望过去，或许已近成癖。任何一段历史时期——无论是前太空时代，还是近至战火时代——总能激起你的兴趣。尽管你并未在该领域受过正规教育，你对某些时代的了解甚至堪与最权威的历史学家比肩。\n"
 }

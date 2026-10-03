@@ -63,5 +63,5 @@
   "OptionName": "天龙联合体（栗田）",
   "OptionMusicTrigger": "kurita",
   "OptionDescription": "出身于[[DM.Factions[faction_Kurita]  联合体]]的机师往往是凶猛、自律、不屈不挠的战士，无论战场上面对何种劣势。\n\n尽管龙尼斯联合体与任何庞大的星际帝国一样族群多元，它也是最文化统一的政权之一。在数百年的统治中，开国的[[DM.BaseDescriptionDefs[LoreHouseKurita]  栗田家族]]成功将联合体的人民融合为单一文化，一种深受中世纪日本社会塑造的文化。虽然有些人——尤其显著的是被征服的[[DM.BaseDescriptionDefs[LoreRaselhague]  拉萨尔哈格公国]]后裔——仍对龙尼斯社会的单一性感到不满，但总体而言，这造就了比[[DM.BaseDescriptionDefs[LoreInnerSphere]  内天体]]其他大贵族家族更具凝聚力的民众与军队。",
-  "BioDescription": "You were born and raised in the Draconis Combine. MechWarriors who hail from the Combine tend to be fierce, disciplined, and relentless fighters. Over centuries of rule, House Kurita has united the Combine into a single culture, heavily molded around medieval Japanese society.\r\n"
+  "BioDescription": "你出生并成长于龙尼斯联合体。出身于联合体的机师往往是凶猛、自律、不屈不挠的战士。在数百年的统治中，栗田家族把联合体统一为单一文化，深受中世纪日本社会塑造。\n"
 }
