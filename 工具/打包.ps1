@@ -3,8 +3,8 @@ $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 
 $packRoot = Split-Path $PSScriptRoot -Parent
-# 文件名带日期后缀, 便于区分版本; 旧包一并清掉, 只保留最新一个
-$stamp = (Get-Date).ToString('yyyyMMdd')
+# 文件名带日期+时间后缀(精确到分), 便于区分版本; 旧包一并清掉, 只保留最新一个
+$stamp = (Get-Date).ToString('yyyyMMdd-HHmm')
 $zip = Join-Path $packRoot ('RT汉化包_' + $stamp + '.zip')
 
 # 需要排除的目录（相对包根）
