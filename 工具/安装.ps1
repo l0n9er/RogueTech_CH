@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/15] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/16] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -265,13 +265,26 @@ foreach ($pair in @(
 }
 Ok "完成"
 
-# ---------- 9) 装备分类显示名 ----------
-Step 12 "汉化装备分类显示名"
+# ---------- 9c) Quirk 特性显示名 ----------
+# Quirk_*.json 的 Description.Name 是显示名(装备特性栏), 包内不含这些定义
+# 文件, 只能靠词典在目标机应用。Name 字段在别处可能是内部标识符, 所以
+# 限定只处理 Quirks 目录下的文件。
+Step 12 "补译 Quirk 特性显示名"
+$quirkDict = Join-Path $PSScriptRoot 'dict-quirk.tsv'
+if ([IO.File]::Exists($quirkDict)) {
+    RunTool 'apply-quirk.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                '-pairs', $quirkDict,
+                                '-backupRoot', (Join-Path $packRoot 'backup\Mods-quirk'))
+}
+Ok "完成"
+
+# ---------- 10) 装备分类显示名 ----------
+Step 13 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
-# ---------- 10) 控制字符与标点空格 ----------
-Step 13 "清理控制字符、标点空格与插值占位符"
+# ---------- 11) 控制字符与标点空格 ----------
+Step 14 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
@@ -279,14 +292,14 @@ RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 11) 术语归一化与格式修复 ----------
-Step 14 "术语归一化与格式修复"
+Step 15 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 12) 校验 ----------
-Step 15 "校验"
+Step 16 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }

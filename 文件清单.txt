@@ -40,17 +40,26 @@ BattleTech_Data\StreamingAssets\data\VersionManifest.csv  游戏资源清单（2
 安装.bat                             一键安装（双击即可）
 还原.bat                             一键还原（双击即可，用最新备份按目录结构覆盖回游戏）
 工具\安装.ps1                        安装脚本：自动找游戏目录、先备份再覆盖、
-                                     备份保留原目录结构，游戏在运行则拒绝执行，共 13 个步骤
+                                     备份保留原目录结构，游戏在运行则拒绝执行，共 16 个步骤
                                      含写入模组本地化表与数据文件、禁用启动器文件校验
 工具\还原.ps1                        还原脚本：把 backup\<时间戳>\ 按相对路径覆盖回游戏
 
 【工具】（正常无需手动运行，安装脚本会自动调用）
 工具\fold-apply.ps1                  数据字段汉化（Details / YangsThoughts / StockRole）
-工具\dict-all.tsv                    翻译词典（供上面脚本使用）
+工具\dict-all.tsv                    翻译词典（99,636 条，供上面脚本使用）
 工具\apply-bonus.ps1                 装备特性说明补译（BonusDescriptions 的 Short/Long/Full）
-工具\dict-bonus.tsv                  装备特性说明中英对照表（332 条）
+工具\dict-bonus.tsv                  装备特性说明中英对照表（746 条）
 工具\apply-words.ps1                 对话/战斗字幕汉化（就地改写 words 字段）
-工具\dict-words.tsv                  对话台词中英对照表（141 条高频台词）
+工具\dict-words.tsv                  对话台词中英对照表（6,121 条）
+工具\apply-fields.ps1                通用字段补译（title / description / UIName）
+工具\dict-title.tsv                  任务标题中英对照表（21 条）
+工具\dict-desc.tsv                   目标描述中英对照表（29 条）
+工具\dict-uiname.tsv                 物品界面名对照表（29 条）
+工具\apply-statdesc.ps1              游戏本体状态说明模板汉化（simGameStatDesc 的
+                                     Result 字段，不查 CSV、需就地改写 JSON）
+工具\dict-statdesc.tsv               状态说明模板中英对照表（85 条）
+工具\apply-quirk.ps1                 Quirk 特性显示名补译（Description.Name 字段）
+工具\dict-quirk.tsv                  Quirk 特性名中英对照表（17 条）
 工具\apply-category-zh.ps1           装备分类显示名汉化
 工具\fix-ctl.ps1                     修复 U+001F 控制字符（方框问题根因）
 工具\cleanup.ps1                     清理标点多余空格（占位符受保护）
