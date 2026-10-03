@@ -5144,3 +5144,978 @@ You've earned your million C-Bills, Commander. More than that, you've earned my 
 You've given us ample opportunity to see what kind of man you are, Lees. If you're expecting us to shed a tear over your fate, I'm afraid that you're sadly mistaken.	你给了我们一个绝佳机会，看清你是个什么样的人，利斯。如果你指望我们来挽救你的命运，恐怕你大错特错了。
 You've got that right, Professor. I'm Basilisk Jackson, and I'm the meanest MechJock on this or any other planet! I'm gonna put these fools in the ground!	你说得对，教授。我是巴吉里斯克·杰克逊，全星系最彪悍的机甲骑手！看我把这些蠢货全送进坟场！
 You've soaked up a lot of fire that would've gone into us, Carnby. Get your people out while you can, and we'll handle it from here.	你替我们承受了太多本该落向我们头顶的火力，Carnby。趁现在还能走，带上你的人撤吧。接下来就交给我们了。
+Commander, I've got eyes on another {TEAM_TAR.FactionDef.Demonym} lance. I repeat, a fresh wave of hostiles has entered the AO.	指挥官，我又发现一支{TEAM_TAR.FactionDef.Demonym}小队。重复，又一波敌人进入战区。
+Commander, Looks like several flights of Land Air 'Mechs are tussling. Let's help them test their 'Mechs	指挥官，看样子有几队陆空机甲正在缠斗。咱们去帮他们测试一下机甲吧
+Commander, more hostile blips are coming in...stay alert	指挥官，又有敌方光点正在接近……保持警惕
+Commander, more hostiles detected.  They're committing heavily against the plant.	指挥官，探测到更多敌人。他们正大举进攻那座工厂。
+Commander, multiple bogies detected --- trajectory leads straight to Alpha Base.  Immediate response required!	指挥官，探测到多个不明目标——轨迹直指阿尔法基地。需要立即响应！
+Commander, multiple contacts detected --- an entire company is is closing in on Charlie Base!.\n\r\nWe definitely stirred things up here.  Judging by the response, it's like a whole battalion showed up for since the beginning of our diversionary exercise alone.	指挥官，探测到多个目标——整整一个连正逼近查理基地！\n\r\n咱们这里确实捅了马蜂窝。从敌方的反应来看，光是我们这次牵制行动开始以来，就像来了整整一个营。
+Commander, sensors are reading multiple contacts approaching from multiple vectors. Looks like the attackers have reinforcements. 	指挥官，传感器读数显示多个目标正从多个方向逼近。看来攻击方有增援。
+Commander, Target_Lance_01b has entered the AO.	指挥官，Target_Lance_01b 已进入战区。
+Commander, the {TEAM_EMP.FactionDef.Demonym} agrees that with the final evacuees cleared out, holding the base is nonessential and, frankly, untenable.  We should focus on the withdrawing convoys' safety.	指挥官，{TEAM_EMP.FactionDef.Demonym}同意，最后一批撤离人员已经撤走，守住基地既无必要，坦白说也守不住。我们应该把重点放在撤离车队的安危上。
+Commander, the area has been cleared. I'm going to land immediately. Hold position.	指挥官，区域已清空。我准备立即着陆。原地待命。
+Commander, the cargo terminals, designated as Alpha and Bravo, are currently handling critical supply shipments for the front.  If either terminal falls, the entire logistics chain for this sector is compromised.	指挥官，代号阿尔法和布拉沃的货运终端目前正在处理运往前线的关键补给。任何一座终端失守，整个战区的后勤链就会断裂。
+Commander, the facilities' defenses are destroyed.	指挥官，设施防御已被摧毁。
+Commander, the lab facilities' defenses are destroyed.	指挥官，实验室设施的防御已被摧毁。
+Commander, the target is bugging out! Finish this now!	指挥官，目标正在逃跑！现在了结它！
+Commander, there are two critical facilities under threat: the ordnance plant and the munitions depot.  Our employers reports that the {TEAM_TAR.FactionDef.Demonym}s intend to strike both simultaneously.	指挥官，有两处关键设施受到威胁：军械厂和弹药库。我们的雇主报告说，{TEAM_TAR.FactionDef.Demonym}打算同时袭击这两处。
+Commander, they're going to be gunning for this this base. You'll need to get their attention.	指挥官，他们会冲着这座基地来。你得把他们的注意力吸引过来。
+Commander, this is it; when we destroy this facility, we can rest easy and evacuate the planet at will.	指挥官，就是现在；摧毁这座设施后，我们就能高枕无忧，随时撤离这颗星球。
+Commander, this isn't good. Watch out for those base defenses!	指挥官，情况不妙。小心那些基地防御！
+Commander, we've defended the assets as promised.  Bonus: the strategy works --- just not quite the way I pictured it.\n\r\nStill, fantastic job all around.	指挥官，我们如约守住了资产。额外收获：这套策略奏效了——只是和我预想的不太一样。\n\r\n不过，各位干得非常出色。
+Commander, we've got incoming! Scopes show bogies headed straight for Alpha Base!	指挥官，有敌人来袭！雷达显示不明目标直奔阿尔法基地！
+Commander, we've spotted bogies heading towards Alpha Station.	指挥官，我们发现不明目标正朝阿尔法站飞去。
+Commander, you are go for hot drop.  Objective is a disused {TEAM_EMP.FactionDef.ShortName} forward base at this grid.  Secure and hold until relief arrives.	指挥官，可以热降了。目标是此网格上一处废弃的{TEAM_EMP.FactionDef.ShortName}前线基地。占领并坚守至援军抵达。
+Commander. This mission is over if our friends go down. I suggest that you protect what's left of Bravo Lance at all costs.	指挥官。如果我们的朋友倒下，这次任务就完了。我建议不惜一切代价保护布拉沃小队剩余的成员。
+Confirmed --- enemy forces in the AO have been completely eliminated.  Outstanding work.	确认——战区内敌军已全部清除。干得漂亮。
+Confirmed.  Additional {TEAM_TAR.FactionDef.Demonym} lance inbound.  You must continue defending the facility.	确认。又一支{TEAM_TAR.FactionDef.Demonym}小队正在接近。你必须继续守住设施。
+Contact!  Multiple hostile signatures approaching the sensor array.  First enemy lance confirmed.	接敌！多个敌方信号正逼近传感器阵列。确认第一支敌军小队。
+Contact!  Verified signatures --- {TEAM_TAR.FactionDef.Demonym} lance approaching!	接敌！信号已核实——{TEAM_TAR.FactionDef.Demonym}小队正在逼近！
+Copy, Darius.  I'm on station at Alpha.  We'll make them pay for every gained ground.	收到，达里乌斯。我在阿尔法就位。我们要让他们为每一寸土地付出代价。
+Copy, Firebreak Control.  We'll keep the sensor array online.	收到，防火带控制中心。我们会保持传感器阵列在线。
+Copy.  All units, tighten the line.  We hold here, no matter what drops out of the sky.	收到。各单位，收紧防线。不管天上掉下什么，我们都守在这里。
+Critical alert!  Power generation capacity has fallen below operational requirements.\n\r\nMission failed. Break contact and retreat.	紧急警报！发电能力已低于运行需求。\n\r\n任务失败。脱离接触并撤退。
+Damn. I'll get the salvage crews ready. We'll need to think long and hard about what we can do better next time.	该死。我去让打捞队做好准备。我们得好好想想下次怎么做得更好。
+Darius it's Farah: They got a good read on the beacons. The ship should be able to handle this.	达里乌斯，我是法拉：他们准确读取了信标。飞船应该能应付。
+Defend the base while personnel are evacuating, Commander.\n\r\nThe convoy will head out as soon as it's ready and make sure they're protected no matter what.	指挥官，人员撤离期间守住基地。\n\r\n车队一准备好就会出发，务必不惜一切保护他们。
+Defensive contract complete.  Good work, team;  {TEAM_EMP.FactionDef.Demonym} command will be pleased.	防御合同完成。干得好，各位；{TEAM_EMP.FactionDef.Demonym}指挥部会很高兴的。
+Depot's attackers have been neutralized.  One less problem to worry about.	仓库的袭击者已被消灭。又少了一个麻烦。
+Drop pods incoming, Commander! 	指挥官，空投舱来袭！
+Egan is rumoured to have modified his Pike with aftermarket upgrades. Be ready for a surprise or 2.	据说伊根用改装件改造了他的 Pike。准备好迎接一两个惊喜吧。
+Enemy formation destroyed.  Bravo plant remains operational.	敌方编队已摧毁。布拉沃工厂仍在运转。
+Enemy Reinforcements on your six, get ready for contact.	敌人援军出现在你六点方向，准备接敌。
+Enemy signatures confirmed.  Second assault group inbound to the depot.\n\r\nLooks like the intelligence reports were accurate.	敌方信号已确认。第二波突击队正赶往仓库。\n\r\n看来情报报告是准确的。
+Engage and delay; hold the line.	接敌并拖延；守住防线。
+Excellent job, Commander.  All hostile units in area has been neutralized.  We'd be able to evacuate before the additional enemy reinforcements arrive.	干得好，指挥官。区域内所有敌方单位已被清除。我们能在更多敌军增援抵达前撤离。
+Excellent work, Commander --- the facility is secure.\n\r\nNot bad for a botched drop.	干得漂亮，指挥官——设施已安全。\n\r\n对一次搞砸的空降来说，这成绩不赖。
+Excellent work, Commander. Let's open this thing and see what's inside.	干得好，指挥官。咱们打开这东西看看里面是什么。
+Excellent work, Commander. Our people safely reached extraction, and I have Sumire moments away from your position for a pick up. Be ready.	干得好，指挥官。我们的人已安全抵达撤离点，苏米尔马上就到你的位置接人。做好准备。
+Excellent work, fourth lance destroyed.	干得漂亮，第四小队已摧毁。
+Excellent, and both facilities are fully operational.\n\r\nThe {TEAM_TAR.FactionDef.Demonym} raiders committed a company, and then some, and achieved nothing.	很好，两座设施都完好运转。\n\r\n{TEAM_TAR.FactionDef.Demonym}袭击者投入了一个连还多的兵力，却一无所获。
+Expect {TEAM_TAR.FactionDef.Demonym} coordinated strikes.  Attacker commanders know they only need to destroy one relay station to cripple the network.	预计{TEAM_TAR.FactionDef.Demonym}会发动协同打击。敌方指挥官清楚，只要摧毁一座中继站就能瘫痪整个网络。
+Expect heavy resistance once our units are in position; they'll try to drive you away so they can interrupt the targeting signals.	我方单位就位后预计会遇到顽强抵抗；他们会试图把你们赶走，好中断制导信号。
+Expect serious resistance, remember we still need to take down The Muscle after this. Oliveira out.	预计会遇到顽强抵抗，记住这之后我们还得干掉"肌肉"。奥利维拉完毕。
+Fantastic work, Commander. We've got a clear route to the storage facility.	干得太棒了，指挥官。通往仓储设施的路线已经畅通。
+Farah this is Darius: Confirmed. Shot, out.	法拉，我是达里乌斯：确认。射击完毕。
+Fifth lance is scrap metal.  Enemy strength around Alpha relay is diminishing.	第五小队已成废铁。阿尔法中继站周边的敌军力量正在减弱。
+Final {TEAM_TGT.FactionDef.Demonym} wave confirmed on the field, Commander --- expect a sustained attack.	确认最后一批{TEAM_TGT.FactionDef.Demonym}波次已入场，指挥官——预计会是一场持久战。
+Finally! We thought you both had chickened out.	总算来了！我们还以为你们俩都临阵脱逃了。
+Find the vehicles and neutralize them quickly. I read some very fast movers. Don't let them get away.	找到那些载具并迅速消灭。我读到几个速度很快的目标。别让它们跑了。
+First hostile lance eliminated.  Alpha relay perimeter's secure, for the moment.	第一支敌军小队已消灭。阿尔法中继站周边暂时安全。
+First raider lance eliminated.	第一支袭击者小队已消灭。
+Form defensive positions!  Don't let them reach the facility!	布置防御阵地！别让他们靠近设施！
+Friendly automated defenses are providing covering fire, but they can only delay the enemy assault for so long.	友方自动防御正在提供掩护火力，但他们只能拖延敌军进攻这么久。
+Friendly units are moving in to hit the enemy.  Link up with them and try to stall the enemy advance as long as you can.  Just don't push too far out there, Commander --- stay sharp.  Good luck.	友军正在推进打击敌人。与他们汇合并尽可能拖延敌军推进。只是别冲得太远，指挥官——保持警觉。祝好运。
+Front lines? Lucky us. We've been sent by {TEAM_EMP.FactionDef.ShortName} to aid and assist. How are you all doing in there? What's the sitrep?	前线？真幸运。我们是被{TEAM_EMP.FactionDef.ShortName}派来支援协助的。你们里面情况怎么样？战况如何？
+Get them clear, keep them covered, hold until they're picked up. Then get out.	把他们救出来，提供掩护，坚守到他们被接走。然后撤离。
+Getting word that the pilot has sworn revenge, and he also thanks us for the time.	有消息说那名飞行员发誓要报仇，他还感谢我们给了他时间。
+Glad you did it, Commander but time to run! Reports of this duel are reaching touman.	干得好，指挥官，但该跑了！这场决斗的报道已经传遍各大电台。
+Good hunting, Commander.  Protect those facilities.	祝好运，指挥官。保护好那些设施。
+Good job, Commander! That should put to rest any doubts on our skill.	干得好，指挥官！这下应该能打消对我们实力的所有质疑了。
+Good work.  Enemy reinforcements near Alpha have been destroyed.	干得好。阿尔法附近的敌方增援已被摧毁。
+Got a new contact—Leopard-class, {TEAM_TAR.FactionDef.Demonym} markings. Could be making a pickup?	有新接触——豹级，{TEAM_TAR.FactionDef.Demonym}涂装。可能是在接人？
+Got 'em. Commander, I have eyes on a {TEAM_TAR_ALLY.FactionDef.Demonym} lance moving towards your position.	收到。指挥官，我看到一支{TEAM_TAR_ALLY.FactionDef.Demonym}小队正朝你的位置移动。
+Great job, Commander! Now they can re-establish their data relay.	干得好，指挥官！现在他们可以重建数据中继了。
+Great job, Commander. We're clear on the contract, and head off to the rally point if you're good to go.	干得好，指挥官。合同已经完成，准备好了就前往集结点。
+Great work, Commander! I'll make sure that all the paperwork is prepped for the next bracket.	干得漂亮，指挥官！我会确保下一轮的所有文书都准备妥当。
+Greetings, Commander. We have rallied the stragglers. Let's destroy this Forsaken Planet	你好，指挥官。我们已集结了散兵。让我们摧毁这颗被遗弃的星球
+Guess what boss, more Scorpions.	猜猜怎么着，头儿，又是蝎子。
+Guys, gals, and non-binary pals! Hareton Splimby back once more with our next installment in the saga of {COMPANY.CompanyName}! They started from the bottom, smashed through three brutal matches, and have earned their place in Solaris City!	各位先生、女士和非二元性别朋友们！哈雷顿·斯普林比再次归来，带来{COMPANY.CompanyName}传奇的新篇章！他们从底层起步，连闯三场恶战，终于在索拉里斯城赢得了一席之地！
+Hah! That was a great show, Commander. Great job!	哈！这场表演真精彩，指挥官。干得好！
+Hail Mechwarrior, I have been ordered to get some extra training with you before my Trial of Position.	你好，机甲战士，我奉命在你这里接受一些额外训练，为我的位置考核做准备。
+Halton town - Commander {MC.PlayerLances.Commander.DisplayName} of {COMPANY.CompanyName} merc company on assignment for {TEAM_EMP.FactionDef.Name}. We've been asked to contact Henriette Bosh. Do you know her whereabouts?	哈尔顿镇——{COMPANY.CompanyName}佣兵团的指挥官{MC.PlayerLances.Commander.DisplayName}，受{TEAM_EMP.FactionDef.Name}指派执行任务。我们奉命联系亨丽埃特·博什。你知道她在哪儿吗？
+Hareton Splimby coming to you live from the armoured commentary bunker! Welcome one and all to the beginning of the seasonal Assault 'Mech championship here in the Tennesee Valley! To our combatants: good luck!	哈雷顿·斯普林比从装甲解说掩体现场直播！欢迎各位来到田纳西谷本季突击机甲冠军赛的开幕之战！各位选手：祝好运！
+Hark {COMMANDER.Name} here are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys  are here too. Don't that beat it all. This is the secondary objective version.	喂，{COMMANDER.Name}，这里还有意想不到的{TEAM_TAR_ALLY.FactionDef.Demonym}坏家伙。真是活见鬼。这是次要目标版本。
+Hark {COMMANDER.Name} here are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys are here too. Don't that beat it all. This is the primary objective version.	喂，{COMMANDER.Name}，这里还有意想不到的{TEAM_TAR_ALLY.FactionDef.Demonym}坏家伙。真是活见鬼。这是主要目标版本。
+Hark {COMMANDER.Name} there are unexpected {TEAM_TAR_ALLY.FactionDef.Demonym} bad guys here too. Don't that beat it all. This is the secondary objective version.	喂，{COMMANDER.Name}，这里也有意想不到的{TEAM_TAR_ALLY.FactionDef.Demonym}坏家伙。真是活见鬼。这是次要目标版本。
+He should get over his shock in a week or so, Commander. He might be sore for a bit longer.	他大概一周左右就能从震惊中恢复过来，指挥官。身体可能会酸痛得久一些。
+Heads up, Commander! The target vehicles have begun to arrive at their destination; they'll extract when the last survivor reaches it.	注意，指挥官！目标载具已开始抵达目的地；最后一名幸存者抵达后他们就会撤离。
+Heads up, Commander. We've got incoming Drop Pods. I've tracked their trajectory and marked their LZ on your screen.	注意，指挥官。我们有空投舱来袭。我已追踪其轨迹并在你屏幕上标出了着陆区。
+Heads up, fresh hostiles just crossed sensor range.  Another strike force is joining the attack.	注意，新的敌方目标刚进入传感器范围。又一支打击部队加入了进攻。
+Here is the assigned evac zone for the convoys.	这是车队指定的撤离区。
+Here we are folks! The Assault 'Mech championship final! I'm your host - the gracious Hareton Splimby! For those of you who live under rocks - hey, I don't judge! - we have our rising stars from {COMPANY.CompanyName}, led by the accomplished Commander {COMMANDER.LastName}.	各位观众，我们来了！突击机甲冠军赛决赛！我是你们的主持人——温文尔雅的哈雷顿·斯普林比！对于那些与世隔绝的观众——嘿，我不评判！——我们有来自{COMPANY.CompanyName}的新星，由技艺精湛的{COMMANDER.LastName}指挥官率领。
+He's big! He's mean! He's Hareton Splimby, and he's on your screen! Welcome back, arena fans! I'm comfy in my commentary bunker and we're just about to kick off the third match of {COMPANY.CompanyName} versus the world in our seasonal Assault 'Mech championship!	他块头大！他心够狠！他是哈雷顿·斯普林比，就在你的屏幕上！欢迎回来，竞技场粉丝们！我在解说掩体里舒舒服服，我们即将开始本季突击机甲冠军赛中{COMPANY.CompanyName}对阵全世界的第三场比赛！
+Hey! That base's automated turrets are spinning up. Lucky us!	嘿！那座基地的自动炮塔正在启动。咱们真走运！
+Hey, Darius—I'm seeing new heat signatures on the field. Our mystery tangoes, I'm guessing?	嘿，达里乌斯——我在战场上看到新的热信号。我猜是我们那些神秘目标？
+Hey, next time let's try landing together, yeah?	嘿，下次咱们试试一起降落，行吗？
+Hold the line.  Protect Alpha and Bravo at all costs until relief forces arrive.	守住防线。不惜一切代价保护阿尔法和布拉沃，直到援军抵达。
+Hopefully we can extract the items we need.	希望我们能提取到需要的物品。
+Hostile reinforcements eliminated.  Alpha still standing	敌方增援已消灭。阿尔法仍在坚守
+Hot drop went bad, you've scattered forces.  Regroup if able, but priority is unchanged: defend the facility.	热降出了岔子，你的部队被打散了。如果可能就重新集结，但优先事项不变：守住设施。
+How did these guys get the jump on us? We've been getting too much bad intel. This is now officially a hot zone. Let's continue our investigation. Expect more OpFor, Commander.	这些家伙怎么偷袭到我们的？我们收到的坏情报太多了。这里现在正式成为热点区域。我们继续调查。预计会遇到更多敌军，指挥官。
+I am putting a stop to this, call off the run. Abort Mission.	我要终止这件事，取消行动。中止任务。
+I can hear the cheers from the barracks already. Nice work, Commander.	我已经能听到兵营里传来的欢呼声了。干得好，指挥官。
+I don't see how that's a party.	我看不出这有什么好庆祝的。
+I don't think that's how that saying goes.\n\nWhatever. We'll need to revise our approach for next time, Commander.	我觉得那句话不是这么说的。\n\n算了。我们得为下次调整方案了，指挥官。
+I doubt that match will be forgotten quickly. Great work, Commander. I'll see you back on the bridge.	我怀疑那场比赛很快就会被遗忘。干得好，指挥官。舰桥上见。
+I got eyes on a merchant convoy fleeing your area, musta' left just before you kicked the nest. I'm almost to my objective, they're all yours if you want 'em.	我看到一支商队正在逃离你的区域，肯定是在你捅马蜂窝之前刚走的。我快到目标了，想要的话他们全归你。
+I hate to say it, but fresh hostiles are closing in on your location.	我不想这么说，但新的敌人正逼近你的位置。
+I hope these amateurs know how to read a 10 digit grid coordinate…	希望这些业余选手会读十位网格坐标……
+I knew this whole setup was sketchy. Gonna have words with the {TEAM_EMP.FactionDef.Demonym} rep about sending us in without complete intel.	我就知道这整件事很可疑。得去找{TEAM_EMP.FactionDef.Demonym}代表理论理论，他们在情报不完整的情况下把我们送了进去。
+I let the Locals know we're near the warehouse we "detected." I've asked for engineer support to check for explosives and other traps.	我通知了当地人我们就在那个"探测到"的仓库附近。我已经请求工程支援来检查爆炸物和其他陷阱。
+I read another Lance inbound, careful not to get caught in an ambush.	我读到又一支小队正在接近，小心别中了埋伏。
+I think we've just rained on the festival celebrations with this loss.	我想我们这次失利给庆典泼了盆冷水。
+I wonder what will happen here next. Too many things ComStar is sweeping under the rug. Someday this will all come open at the seams.	我想知道这里接下来会发生什么。ComStar 掩盖的事情太多了。总有一天真相会浮出水面。
+If all goes well, our employeer will get the data he needs.	如果一切顺利，我们的雇主会拿到他需要的数据。
+If all goes well, our employer will get the data he needs.	如果一切顺利，我们的雇主会拿到他需要的数据。
+If either station is destroyed, the grid collapses.\n\r\nExpect attacks from multiple directions and at irregular intervals.  Do not abandon your assigned station unless absolutely necessary.	任何一座电站被摧毁，电网就会崩溃。\n\r\n预计会遭到来自多个方向、间隔不规律的攻击。除非万不得已，不要放弃你负责的电站。
+If the propaganda agent's in this region, we need to find and take it out.  Then we can evac.	如果宣传人员在这个区域，我们得找到并干掉它。然后就能撤离了。
+If you take out that convoy, I'm authorized to let you keep what you kill.	如果你干掉那支车队，我获准让你保留所击杀的一切。
+I'll keep an eye out from up here.	我在上面帮你盯着。
+I'm heading back at top speed once we're all on board.	等所有人都上船，我就全速返航。
+I'm heading back at top speed.	我正全速返航。
+I'm pulling you out. The Muscle's forces are too strong.	我正在把你撤出来。"肌肉"的部队太强了。
+I'm seeing another lance of Scorpions hanging back near the enemy base.	我看到又一支蝎子小队缩在敌方基地附近。
+I'm sorry, Commander.  We've done our best.	抱歉，指挥官。我们已经尽力了。
+I'm taking heavy losses at the spaceport, I can't divert my DropShip to assist.	我在太空港损失惨重，无法抽调运输舰来支援。
+In the name of {TEAM_TAR.FactionDef.ShortName} I hereby challenge you to this Trial of Possession for {TGT_SYSTEM.name}! We'll fight with what we have here. Bargained well and done!	以{TEAM_TAR.FactionDef.ShortName}之名，我在此向你发起对{TGT_SYSTEM.name}的占有权试炼挑战！我们就用手头的兵力一决胜负。议定即成！
+In the name of {TEAM_TAR.FactionDef.ShortName} I hereby challenge you to this war for {TGT_SYSTEM.name}! To the victor the spoils!	以{TEAM_TAR.FactionDef.ShortName}之名，我在此向你发起对{TGT_SYSTEM.name}的战争挑战！胜者通吃！
+Incoming Leopard and it's coming in hot.	豹式运输舰来袭，而且是高速突入。
+Initial batch of convoys are ready to depart.	首批车队已准备出发。
+Is everything ok down there, Commander? Looks like those turrets were hacked. Something is definitely not right here. Let's move on to the next base.	下面一切正常吗，指挥官？看来那些炮塔被人入侵了。这里肯定不对劲。我们继续前往下一个基地。
+It may be a dissussion for generations beyond ours, I just wonder if we could have done things differently.	这或许会成为后世世代争论的话题，我只是在想，我们当初是否能做得不一样。
+It's 1/4, you got a League leading tank crew as an opponent, you have to do your best. Good luck!	现在是四分之一决赛，你的对手是联赛顶尖的坦克车组，你得拿出全力。祝好运！
+It's 1/4, you got League leading mechwarrior as an opponent, you have to do your best. Good luck!	现在是四分之一决赛，你的对手是联赛顶尖的机甲战士，你得拿出全力。祝好运！
+It's 1/4, you got League leading Vehicle crew as an opponent, you have to do your best. Good luck!	现在是四分之一决赛，你的对手是联赛顶尖的载具车组，你得拿出全力。祝好运！
+It's me again, Commander! I'm going to try and activate the turrets... ***BANG***	又是我，指挥官！我这就去试着启动炮塔……***砰***
+It's me again, Commander! I've managed to activate our base defenses. Locked them all shortly before we lost control. Give them hell!	又是我，指挥官！我成功启动了基地防御。在失去控制前我把它们全锁上了。给敌人点颜色看看！
+It's no good, Commander. Stand by for extraction and we'll get you out of there.	不行了，指挥官。准备撤离，我们会把你救出来。
+It's unfortunate how this has turned out but we can't back down now. Sort these {TEAM_TAR.FactionDef.Demonym} Warriors out then let's get out of here.	事情变成这样很遗憾，但我们现在不能退缩。把这些{TEAM_TAR.FactionDef.Demonym}战士解决掉，然后我们就撤。
+Job done and we've saved some stuck up Governor their job. Time to get some rest, Commander.	任务完成，我们还替某个傲慢的总督保住了饭碗。该休息了，指挥官。
+Keep both facilities operational until reinforcements arrives.  No matter what happens, those bases must survive.	守住两座设施，直到援军抵达。不管发生什么，这些基地都必须存活下来。
+Ladies and Gentlemen welcome to the 1/16 of the Solaris Assault Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯突击坦克锦标赛十六分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/16 of the Solaris Heavy Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型机甲锦标赛十六分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/16 of the Solaris Heavy Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型坦克锦标赛十六分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/16 of the Solaris Light Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯轻型机甲锦标赛十六分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/16 of the Solaris Medium Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型机甲锦标赛十六分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/16 of the Solaris Medium Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型坦克锦标赛十六分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/32 of the Solaris Assault Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯突击坦克锦标赛三十二分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/32 of the Solaris Heavy Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型机甲锦标赛三十二分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/32 of the Solaris Heavy Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型坦克锦标赛三十二分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/32 of the Solaris Light Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯轻型机甲锦标赛三十二分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/32 of the Solaris Medium Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型机甲锦标赛三十二分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/32 of the Solaris Medium Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型坦克锦标赛三十二分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/4 of the Solaris Assault Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯突击坦克锦标赛四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/4 of the Solaris Heavy Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型机甲锦标赛四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/4 of the Solaris Heavy Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型坦克锦标赛四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/4 of the Solaris Light Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯轻型机甲锦标赛四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/4 of the Solaris Medium Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型机甲锦标赛四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/4 of the Solaris Medium Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型坦克锦标赛四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/64 of the Solaris Assault Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯突击坦克锦标赛六十四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/64 of the Solaris Heavy Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型机甲锦标赛六十四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/64 of the Solaris Light Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯轻型机甲锦标赛六十四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/64 of the Solaris Medium Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型机甲锦标赛六十四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/64 of the Solaris Medium Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型坦克锦标赛六十四分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/8 of the Solaris Assault Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯突击坦克锦标赛八分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/8 of the Solaris Heavy Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型机甲锦标赛八分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/8 of the Solaris Heavy Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型坦克锦标赛八分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/8 of the Solaris Light Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯轻型机甲锦标赛八分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/8 of the Solaris Medium Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型机甲锦标赛八分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the 1/8 of the Solaris Medium Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型坦克锦标赛八分之一决赛！战斗开始！
+Ladies and Gentlemen welcome to the FINAL of the Solaris Assault Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯突击坦克锦标赛总决赛！战斗开始！
+Ladies and Gentlemen welcome to the FINAL of the Solaris Heavy Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型机甲锦标赛总决赛！战斗开始！
+Ladies and Gentlemen welcome to the FINAL of the Solaris Heavy Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型坦克锦标赛总决赛！战斗开始！
+Ladies and Gentlemen welcome to the FINAL of the Solaris Light Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯轻型机甲锦标赛总决赛！战斗开始！
+Ladies and Gentlemen welcome to the FINAL of the Solaris Medium Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型机甲锦标赛总决赛！战斗开始！
+Ladies and Gentlemen welcome to the FINAL of the Solaris Medium Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型坦克锦标赛总决赛！战斗开始！
+Ladies and Gentlemen welcome to the opener of the Solaris Heavy Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型坦克锦标赛揭幕战！战斗开始！
+Ladies and Gentlemen welcome to the semi-final of the Solaris Assault Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯突击坦克锦标赛半决赛！战斗开始！
+Ladies and Gentlemen welcome to the semi-final of the Solaris Heavy Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯重型机甲锦标赛半决赛！战斗开始！
+Ladies and Gentlemen welcome to the semi-final of the Solaris Light Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯轻型机甲锦标赛半决赛！战斗开始！
+Ladies and Gentlemen welcome to the semi-final of the Solaris Medium Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型机甲锦标赛半决赛！战斗开始！
+Ladies and Gentlemen welcome to the semi-final of the Solaris Medium Tank Championship! Let the fight begin!	女士们先生们，欢迎来到索拉里斯中型坦克锦标赛半决赛！战斗开始！
+Landing site secure. Let's do what we agreed, Commander. Scout out that data relay and take it from there. Good luck.	着陆点已安全。按我们说好的来，指挥官。侦察那座数据中继站，再从那里展开行动。祝好运。
+Last confirmed contact at Bravo has been destroyed.	布拉沃最后确认的接触目标已被摧毁。
+Let's dust off and finish the fight.	咱们撤吧，把这场仗打完。
+Let's get out of here as soon as we can.	尽快离开这里。
+Let's get you out of here, Commander. It couldn't be helped.	我们把你救出去，指挥官。这已经无能为力了。
+Let's make this a good show but make no mistake. We're winning this!	让我们把这场戏演得精彩些，但别搞错。这场我们赢定了！
+Let's shoot down some birdies.	打几只小鸟下来。
+Like Ikaros, {COMPANY.CompanyName} flew too close to the sun. And I, Hareton Splimby, playing the part of Daidalos, watch them plummet into the sea. Alas, brave MechWarriors! Next time!	就像伊卡洛斯一样，{COMPANY.CompanyName}飞得离太阳太近了。而我，哈雷顿·斯普林比，扮演代达罗斯，看着他们坠入大海。唉，勇敢的机甲战士们！下次吧！
+Listen up --- scattered or not, we hold that base.  That's the contract.	听着——不管是否被打散，我们都要守住那座基地。这是合同要求。
+Locals got some of the captured goods online. Let's see how they like a taste of their own medicine.	当地人让一些缴获的装备上线了。看看他们喜不喜欢尝尝自己的药。
+Long walk ahead, but I'm coming.  Hold the line without me.	前路漫漫，但我会赶来的。没有我也要守住防线。
+Look out, people! We've got another reinforcement lance on the field!	小心，各位！战场上又来了一支增援小队！
+Looks like {COMPANY.CompanyName} made it out of the frying pan, but didn't survive the fire! Pack it up, folks, we're done here!	看来{COMPANY.CompanyName}逃出了油锅，却没能在火里活下来！收拾东西吧，各位，我们结束了！
+Looks like that was more than we bargained for. Time to lick our wounds and rethink our approach next season.	看来这超出了我们的预期。是时候舔舐伤口，重新考虑下赛季的策略了。
+Looks like the {TEAM_TAR.FactionDef.Demonym} are dead set on taking over {TEAM_EMP.FactionDef.Demonym}'s territory.  A small group of {TEAM_EMP.FactionDef.Demonym}-aligned troops is holding down a key spot, and it's our job to back them up.  Link up with them and push back any {TEAM_TAR.FactionDef.Demonym} forces that come your way.	看来{TEAM_TAR.FactionDef.Demonym}铁了心要夺取{TEAM_EMP.FactionDef.Demonym}的领地。一小股亲{TEAM_EMP.FactionDef.Demonym}部队正守着关键位置，我们的任务就是支援他们。与他们汇合，击退一切来犯的{TEAM_TAR.FactionDef.Demonym}部队。
+Looks like the crew has seized some light vehicles to make their escape. We'll need to run interference for them 'til they reach their pickup point.	看来船员们抢了几辆轻型载具准备逃跑。我们得为他们提供掩护，直到他们抵达接应点。
+Looks like those expert duelists are waiting for you. Good luck, Commander.	看来那些决斗高手正在等你。祝好运，指挥官。
+Looks like we cleaned the whole battlefield.	看来我们把整个战场都清理干净了。
+Looks like you've made an impression, our pilot is are making their way towards the extraction point now. Keep them alive!	看来你给他们留下了深刻印象，我们的飞行员正前往撤离点。让他们活着！
+Main objectives' complete, Commander.  When you're ready to leave the fray, fallback to this designated rally point.	主要目标已完成，指挥官。准备好撤离时，退到此指定集结点。
+MAYDAY! MAYDAY! The Argo is under attack!	求救！求救！Argo 号遭到攻击！
+Mercenary Commander, reinforcements are incoming, they are about halfway there. Maintain position and you will be relieved and reinforced shortly.	佣兵指挥官，援军正在赶来，大约走到一半了。坚守阵地，很快就会有人来接替你并补充兵力。
+Mission accomplished. The target mechs have been totaled	任务完成。目标机甲已被全歼
+Mission failure confirmed.  Enemy forces have seized or destroyed the objective.  All remaining units are ordered to exfiltrate immediately if able.	任务失败已确认。敌军已夺取或摧毁目标。所有剩余单位若能撤离，立即撤离。
+More {TEAM_TAR.FactionDef.Demonym} forces on the field.	战场上出现更多{TEAM_TAR.FactionDef.Demonym}部队。
+More contacts emerging!\n\r\nEnemy raiders are making one last attempt to cripple the cargo terminals.	更多目标出现！\n\r\n敌方袭击者正做最后一次尝试，企图摧毁货运终端。
+More contacts moving in, brace yourselves.	更多目标正在逼近，做好准备。
+More enemies entering our operations area...	更多敌人进入我们的作战区域……
+More enemy units detected near Alpha.  They're determined to break that power station.\n\r\nThose power stations are the backbone of the regional grid.  If either one falls, thousands lose power and this contract goes up in smoke.	阿尔法附近探测到更多敌方单位。他们决心摧毁那座发电站。\n\r\n那些发电站是区域电网的支柱。任何一座失守，数千人就会断电，这份合同也就泡汤了。
+More hostile units coming your way, Commander.	更多敌方单位正朝你方逼近，指挥官。
+More units have decided to join the party.	更多单位决定加入这场聚会。
+Move on up and ''encourage'' the owners to loan them a vehicle.	上去"劝说"车主借他们一辆载具。
+Move up, but be careful. He knows we're coming for him.	推进，但要小心。他知道我们冲他来了。
+Ms. Bosh, {TEAM_EMP.FactionDef.Name} wish you well. We'll have you out of here momentarily.	博什女士，{TEAM_EMP.FactionDef.Name}祝你好运。我们马上就带你离开这里。
+Multiple blips confirmed.  Another enemy lance has arrived, COmmander	确认多个目标。又一支敌军小队抵达了，指挥官
+My <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.UnitName}</b></color> is grounded and mobile.  We're closest to <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color>, linking up now.	我的<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.UnitName}</b></color>已着陆并可行动。我们离<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color>最近，正在汇合。
+New contacts near Alpha!  This wasn't a diversion, another lance is joining the assault.	阿尔法附近出现新目标！这不是佯攻，又一支小队加入了进攻。
+New contacts near Bravo Terminal.  {MC.PlayerLances.TeamPilot_Random_1.DisplayName}, hostile lance advancing on loading yards.	布拉沃终端附近出现新目标。{MC.PlayerLances.TeamPilot_Random_1.DisplayName}，敌军小队正朝装卸场推进。
+New contacts, multiple units entering the AO!	新目标，多个单位正在进入战区！
+Next time, maybe drop us where we're actually supposed to be.	下次也许把我们空投到真正该去的地方。
+Nice shooting.  That's one wave handled.	射得好。这一波解决了。
+No complaints.  More targets means we're doing something right.	没意见。目标越多说明我们做得越对。
+No fallback.  No retreat.  We hold here.	不后退。不撤退。我们守在这里。
+No problem. The employeer will be pleased that you made it through.	没问题。雇主会很高兴你挺过来了。
+No problem. The employer will be pleased that you made it through.	没问题。雇主会很高兴你挺过来了。
+No time for cold feet, Commander. Let's get a move on and give the crowd one hell of a show.	没时间临阵退缩了，指挥官。我们动起来，给观众献上一场精彩表演。
+No wonder the data steam cut off. This place has been slagged. Maybe there's more we can find out in the main compound.	难怪数据流断了。这地方已经被夷为平地。也许主建筑群里还能找到更多线索。
+No you will not, Sir. We must pick up my dog at Henry's just across from us. I absolutely will not go with you unless little poo-poo comes too.	不行，先生。我们必须去亨利家接我的狗，就在对面。除非小噗噗也一起去，否则我绝对不走。
+No! We were so close. So very close. We will need to get far away from here.	不！我们差一点就成了。就差那么一点。我们得离这里远远的。
+Not bad for a "scattered deployment," huh?	对一次"分散部署"来说，这成绩不赖吧？
+Nothing more to do here Commander, lets go home.	这里没什么可做的了，指挥官，我们回家吧。
+Nothing more to do here Commander, let's go home.	这里没什么可做的了，指挥官，我们回家吧。
+Ohh! I felt that from here!! {COMPANY.CompanyName} tried so hard, and got so far! But in the end, it didn't make a difference! They are OUT!	噢！我在这里都感觉到了！！{COMPANY.CompanyName}拼尽全力，走得那么远！但最终，一切都没能改变！他们出局了！
+Once the DropShip enters orbit and lines up for its attack run, we'll have a limited timeframe before the AI detects her and dispatches interceptors. You'll need to prioritize accordingly.	一旦运输舰进入轨道并进入攻击航线，我们在 AI 发现她并派出拦截机之前只有有限的时间。你得相应地安排优先级。
+Once we've got the ammo transports underway we need to keep up with them and protect them.	弹药运输车一旦上路，我们就得跟上并保护它们。
+Once you've reached the facility and pick up the mercs, move to the extraction LZ.	抵达设施接上佣兵后，前往撤离点。
+Oof, that is D.O.A! Dead On Arrival! {COMPANY.CompanyName} is out of the running!	哎哟，那是 D.O.A！送达即死！{COMPANY.CompanyName}出局了！
+Opfors elimated near the array.  Perimeter is holding.	阵列附近的敌军已清除。周边防线守住了。
+Ordnance plant's defensive turrets are down!  It's now relying entirely on you for protection.	军械厂的防御炮塔已瘫痪！现在它完全依赖你们的保护。
+Our ally's Lance is down! Without them, our mission is over.	我方盟友小队倒下了！没有他们，我们的任务就完了。
+Our employeer needs your help Commander. Their test flight has been pinned down and it looks like they have become primary targets.	我们的雇主需要你的帮助，指挥官。他们的试飞队被围困了，看来他们已成首要目标。
+Our employer didn't include that detail. Completing this contract could have serious consequences, Commander.	我们的雇主没有提到这个细节。完成这份合同可能会带来严重后果，指挥官。
+Our employer needs your help Commander. Their test flight has been pinned down and it looks like they have become primary targets.	我们的雇主需要你的帮助，指挥官。他们的试飞队被围困了，看来他们已成首要目标。
+Our employer wants us to kill those guys. This mission isn't ending until they die.	我们的雇主想让我们干掉那些家伙。不把他们杀掉，这次任务就不算结束。
+Our employers can't expect to win this every year I suppose.	我想我们的雇主不可能年年都赢。
+Our employers have won this every year for the past four years. No pressure, Commander.	我们的雇主过去四年每年都赢了。别有压力，指挥官。
+Our employers need us to keep an eye out for the propaganda agent, as this is one possible escape route it might take.	我们的雇主需要我们留意那名宣传人员，因为这是它可能选择的逃跑路线之一。
+Our pilot is away. Good work, Commander.	我们的飞行员脱险了。干得好，指挥官。
+Outstanding work, team.\n\r\nGood shooting.  {TEAM_EMP.FactionDef.Name} appreciates decisive action.	干得漂亮，各位。\n\r\n射得好。{TEAM_EMP.FactionDef.Name}欣赏果断的行动。
+Outstanding work.  You held against multiple hostile lances under compromised deployment conditions.  Payment will reflect your performance.	干得漂亮。在部署条件不利的情况下，你们顶住了多支敌军小队的进攻。报酬会体现你们的表现。
+Press the attack, but don't leave yourself exposed. We still need to secure our prize after this. Oliveira out.	继续进攻，但别把自己暴露出去。这之后我们还得确保拿到战利品。奥利维拉完毕。
+Q-Ship this is Darius: Good effect on target. Base Destroyed.	Q-Ship，我是达里乌斯：命中目标，效果良好。基地已摧毁。
+Ready yourself, Mercs. We've got a reputation to uphold and an appetite to satisfy.	准备好，佣兵们。我们有声誉要维护，也有胃口要满足。
+Red alert status for unknown forces? They've got their defenses fully primed. What's going on?!	对不明势力发布红色警戒？他们的防御全开。到底怎么回事？！
+Reinforcements have arrived.  The facility is safe.\n\r\nExcellent work, Commander.  Our employer's research can continue as planned.	援军已抵达。设施安全了。\n\r\n干得好，指挥官。我们雇主的研究可以按计划继续了。
+Reiterating mission priority: hold the facility.  {TEAM_TAR.FactionDef.Demonym} forces are en route.  You just need to keep it intact...\n\r\n...we are not chasing kills --- we are defending this base.	重申任务优先级：守住设施。{TEAM_TAR.FactionDef.Demonym}部队正在赶来。你只需要保持它完好……\n\r\n……我们不是来追杀敌人的——我们是在守卫这座基地。
+Reiterating primary objective: defend the base structures.  If those fall, this contract fails.	重申主要目标：保护基地建筑。这些建筑一旦倒下，合同就失败了。
+Roger, re-calculating defensive posture.	收到，重新计算防御姿态。
+Scopes show another opfor entering combat perimeter.	雷达显示又一支敌军进入战斗周边区域。
+Scratch another lance.  Alpha perimeter remains intact.	又解决一支小队。阿尔法周边依然完好。
+Second enemy lance is down.  Nothing moving except wreckage.	第二支敌军小队已倒下。除了残骸，没有东西在移动。
+Sensors just lit up, new enemy formations entering AO.	传感器刚刚亮起，新的敌方编队正在进入战区。
+She's right, Commander. This mission is over if our friends go down. I suggest that you protect what's left of our ally's Lance at all costs.	她说得对，指挥官。如果我们的朋友倒下，这次任务就完了。我建议不惜一切代价保护我方盟友小队剩余的成员。
+Shit. Turrets spinning up, Commander.	该死。炮塔正在启动，指挥官。
+Shots away! Impact in 30.  You might want to get clear, they're making guesses…	已发射！30 秒后命中。你最好避开，他们只是在估算……
+So close! And yet so far! {COMPANY.CompanyName} falls and they are <i>not</i> getting back up, folks!	就差一点！可还是差那么远！{COMPANY.CompanyName}倒下了，他们<i>不会</i>再站起来了，各位！
+So many C-bills wasted here today.	今天在这里浪费了这么多 C 币。
+So you're the rubbish my father is sending to train against? Just like the other servants... pitiful.	所以你就是我父亲派来陪练的废物？和其他仆人一样……可悲。
+So...our defense held long enough for the {TEAM_EMP.FactionDef.Demonym} reinforcements to reach the field.\n\r\nI'm hearing they're adding this battle to the lineup for their next reenactment festival.	所以……我们的防御坚持得够久，让{TEAM_EMP.FactionDef.Demonym}援军赶到了战场。\n\r\n我听说他们要把这场战斗加入下一届重演节的节目单。
+Some units are finally working, but they won't withstand the opposition for long.	有些单位终于能用了，但它们撑不了多久。
+Sorry about this, but they offered us a lot of money. I found my jackpot.	抱歉，但他们给了我们很多钱。我找到了自己的头奖。
+Sounds like a deal. Sumire, call up the Major and get a grid on that convoy.	听起来成交。苏米尔，呼叫少校，把车队的网格坐标调出来。
+Speaking of which, we've got contact.  Sensors have picked up bogies approaching and moving on the ordnance plant.	说到这个，我们有接触了。传感器探测到不明目标正在接近并扑向军械厂。
+Stand fast Commander {COMMANDER.LastName}!	坚守阵地，{COMMANDER.LastName}指挥官！
+Standing by, securing the missile battery perimeter.	待命，守卫导弹阵地周边。
+Static defense at Alpha are down, Commander.	阿尔法的固定防御已瘫痪，指挥官。
+Sumire has already done a flyby and determined that our target is likely to be a short distance from you.	苏米尔已经飞过一趟，确认目标很可能就在离你不远的地方。
+Sumire reports movement, assume there are a mobile enemy force in the AO.	苏米尔报告有动静，推测战区内有敌方机动部队。
+Sweep the area, find any enemy guns and bunkers and destroy them.	扫荡该区域，找到所有敌方火炮和掩体并摧毁它们。
+Thanks Commander. Ms. Bosh is here and...	谢谢，指挥官。博什女士到了，还有……
+That certainly could've gone better. Still, we gave it our all. Getting this far is cause to celebrate all by itself.	本来确实可以做得更好。不过我们已竭尽全力。能走到这一步本身就值得庆祝。
+That drop was worse than expected.  Listen carefully: your mission has NOT changed.\n\r\nYou are to DEFEND THE REPAIR FACILITY.  This base is critical.  {TEAM_EMP.FactionDef.Demonym} forces are en route but delayed.	那次空降比预想的更糟。仔细听：你的任务没有改变。\n\r\n你要守住维修设施。这座基地至关重要。{TEAM_EMP.FactionDef.Demonym}部队正在赶来，但被延误了。
+That drop was...less than ideal.  Adjusting tactical map now.  Be advised: hostile {TEAM_TAR.FactionDef.Demonym} forces are already advancing.	那次空降……不太理想。正在调整战术地图。注意：敌军{TEAM_TAR.FactionDef.Demonym}部队已经在推进。
+That had to hurt! {COMPANY.CompanyName} are down and out!	那一定很疼！{COMPANY.CompanyName}出局了！
+That makes six separate assaults.  They're getting desperate.	这已经是第六波独立进攻了。他们越来越绝望了。
+That puts us through into the finals, Commander!	这让我们挺进决赛，指挥官！
+That should do the job.  Unfortunately, we lack the time necessary to salvage any equipment properly.	这应该够了。可惜我们没时间妥善打捞任何装备。
+That sorts you out. Thanks for unlocking those turrets for us.	这样你就搞定了。谢谢你帮我们解锁那些炮塔。
+That was not a clean drop.  Sound off!	这次空降不够干净。报数！
+That was unexpected, Commander. I don't think his Dad will pay up since we've just subjected him to a few years of bragging.	真没想到，指挥官。我想他父亲不会付钱了，因为我们刚让他承受了几年的吹嘘。
+That was unfortunate. We'll need to come up with a better approach for next season.	真不幸。我们得为下个赛季想出更好的办法。
+That's a battalion's worth out there...I'm really excited to see what we're pulling in for salvage!	外面有一个营的兵力……我真期待看看我们能捞回多少战利品！
+That's a textbook defense operation.  Full mission success.\n\r\nDavion Command will be pleased.	教科书式的防御作战。任务圆满成功。\n\r\n达维昂指挥部会很高兴的。
+That's exactly what they're counting on.  Expect multiple attack waves designed to split your attention.\n\r\nGood hunting.	这正是他们指望的。预计会有多波进攻，意图分散你的注意力。\n\r\n祝你好运。
+That's got it, primary target damaged. Keep on those ones.	搞定了，主要目标受损。继续盯着那些目标。
+That's it, mech recovering our Secondary Target is scraped. S&R will look for what's left. Focus on the Primary.	就是这样，回收次要目标的机甲已被打废。搜救队会去找残骸。集中对付主要目标。
+That's it, the 'Mech carrying the painter's masterpiece is scrapped. We have failed that objective. Focus on getting the artist to safety.	就是这样，载着画家杰作的机甲已报废。那个目标失败了。集中精力把艺术家救到安全地带。
+That's it, the 'Mech recovering the Strugglers is scrapped. We have lost this one.	就是这样，回收滞留者的机甲已报废。这一项我们失败了。
+That's the last evacuee contingent.	这是最后一批撤离人员。
+That's the last of the first lance, targets eliminated.	第一支小队到此为止，目标已消灭。
+That's the secondary target lance down. Our employer will be pleased. 	次要目标小队倒下了。我们的雇主会很高兴。
+That's what happens when someone pays for quality mercenaries.	这就是花钱请精锐佣兵的结果。
+The {TEAM_TAR.FactionDef.Demonym} Warrior awaits yor advance.	{TEAM_TAR.FactionDef.Demonym}战士正等着你推进。
+The ammo transports are secure, Commander. Well done.	弹药运输车已安全，指挥官。干得好。
+The ammunition depot is just up ahead, Commander.	弹药库就在前面，指挥官。
+The base is destroyed. This should put an end to the Black Market on Tiverton.	基地已摧毁。这下应该能终结蒂弗顿的黑市了。
+The base is guarded by anti-air turrets, a heavy quick reaction force and I see more en route at your 9 o'clock. Knock out those AA turrets ASAP or else you're not coming home.	基地由防空炮塔和一支出色的快速反应部队守卫，我还看到九点钟方向有更多援军赶来。尽快干掉那些防空炮塔，否则你就回不了家了。
+The base with our personnel is just ahead.	关押我方人员的基地就在前面。
+The contract required both facilities to survive.  Mission objectives have failed.	合同要求两座设施都必须存活。任务目标已失败。
+The Convoy pickup point is up ahead.	车队接应点就在前面。
+The convoy's almost escaped, Commander. Once they get out of range, that data is as good as gone.	车队快逃掉了，指挥官。一旦他们脱离射程，那份数据就再也找不回来了。
+The crowd is cheering for you two, Commander.	观众们正在为你们俩欢呼，指挥官。
+The employer is fumbling the deployment of their vanguard units.  Hold the line --- whether they show up or not.	雇主在部署先头部队时手忙脚乱。守住防线——不管他们来不来。
+The facility looks unoccupied save for some automated turrets, Commander. If we can bust those defenses and get inside the perimeter, my friend can send in his rescue team to take control.	设施看起来无人驻守，只有一些自动炮塔，指挥官。如果我们能打掉这些防御并进入基地周边，我朋友就能派他的救援队进去接管。
+The good news is that once you take out the base they captured they'll have nothing more to fight for here, so they'll probably stop landing more forces.	好消息是，一旦你拿下他们占领的基地，他们在这里就没什么可争的了，所以他们大概不会再继续投送兵力。
+The Government Q-Ship has one shot to destroy the installation. We're here to mark the target so that can happen.	政府 Q-Ship 只有一次机会摧毁那座设施。我们来这里就是为了标定目标，好让它开火。
+The loss of that data cache and relay station is bad news for {TEAM_EMP.FactionDef.ShortName}. Let's figure out our next step.	数据缓存和中继站丢失，对{TEAM_EMP.FactionDef.ShortName}来说是个坏消息。我们来想想下一步。
+The loss of that position will come at a bad time for {TEAM_EMP.FactionDef.ShortName}. No good news for us either.	丢掉那个位置对{TEAM_EMP.FactionDef.ShortName}来说时机很糟。对我们也不是什么好消息。
+The 'Mech bays have been hit, Yang is taking fire. Darius has everyone arming for a counter-attack. Get back now!	机甲库遭到攻击，杨正在挨打。达里乌斯已让所有人武装起来准备反击。快回来！
+The ordnance plant forges the shells. The depot stores the ammunition. Lose either facility and the entire regional supply chain collapses.	军械厂铸造炮弹。仓库储存弹药。任何一座设施失守，整个区域供应链就会崩溃。
+The plant's running, the depot's secure, and the enemy's burning.	工厂在运转，仓库安全，敌人正在燃烧。
+The religious zealots have gotten their pound of flesh today, one way or another.	宗教狂热分子今天无论如何都拿到他们那一磅肉了。
+The remaining plant can't support both population centers.  Humanitarian projections are catastrophic.	剩下的工厂无法支撑两座人口中心。人道主义预测是灾难性的。
+The retreating pirates disabled the point defense turrets. The {TEAM_EMP.FactionDef.Demonym} convoy of engineers can try to bring them back online.	撤退的海盗瘫痪了近防炮塔。{TEAM_EMP.FactionDef.Demonym}的工程师车队可以尝试让它们重新上线。
+The seasonal Assault 'Mech tournament is beginning to enter its twilight hours, folks! Figuratively, of course. It's still bright and sunny down on the faux streets of the arena, and it's just as well! We've got another exciting new match coming your way!	各位，本季突击机甲锦标赛正开始进入黄昏时分！当然是比喻。竞技场的仿造街道上依然阳光明媚，这正好！又一场激动人心的新比赛即将开始！
+The target mechs should be just ahead. Watch out for their escort too.	目标机甲应该就在前面。也要小心他们的护卫。
+The target vehicles should be just ahead. Be careful Commander, who knows what they're packing.	目标载具应该就在前面。小心，指挥官，谁知道他们带了什么。
+The target vehicles should be just ahead. Be careful commander, who knows what they're packing.	目标载具应该就在前面。小心，指挥官，谁知道他们带了什么。
+Then they're going to have to come through us first.	那他们就得先从我们身上碾过去。
+There goes another one; BRavo is defenseless, protect it with our units.	又倒下一个；布拉沃毫无防备，用我们的单位保护它。
+There may be hostiles in the area. We need to punch through and secure the base.	该区域可能有敌人。我们得杀出重围并占领基地。
+These brothers are a lot better than we gave them credit for.	这些兄弟比我们以为的要强得多。
+These early matches should be a good gauge of what we're getting ourselves into. Don't underestimate your opponent just because it's early, though; everyone starts somewhere.	这些早期比赛应该能很好地衡量我们卷入了什么。不过别因为比赛早段就低估对手；每个人都是从某个起点开始的。
+These guys aren't inexperienced so watch out and good luck, Commander.	这些家伙不是新手，所以小心，祝好运，指挥官。
+These raiders are more coordinated than expected.  They're not just charging, they're probing our defenses.	这些袭击者比预想的更有协调性。他们不只是一味冲锋，而是在试探我们的防御。
+These warriors are a lot better than we gave them credit for.	这些战士比我们以为的要强得多。
+They are very fragile, don't let them take fire. Good luck, Commander.	他们非常脆弱，别让他们挨打。祝好运，指挥官。
+They certainly took out all their toys for us. We just got a lead on The Muscle's position.	他们确实把所有的玩具都拿出来对付我们了。我们刚得到"肌肉"位置的线索。
+They know we're here, Commander. Expect significant enemy forces.	他们知道我们在这里，指挥官。预计会遇到大量敌军。
+They seem worried we won't take them, and are saying the APC has some valuable cargo we're welcome to in return for transport off world.	他们似乎担心我们不肯接，还说那辆装甲运兵车里有值钱的货物，只要我们送他们离开这颗星球就归我们。
+They'll cover this side.  You focus on those beacons for the Q-Ship.	他们会掩护这一侧。你专心为 Q-Ship 标定那些信标。
+They're all dead... now get what 'mechs you have to the extraction point and we'll pull you out. Move quickly.	他们都死了……现在带着你手头的机甲赶往撤离点，我们会把你拉出来。动作快点。
+They're finished, Commander. Don't let us down now.	他们完了，指挥官。别让我们失望。
+They're in this area, and they've powered up—must have seen us coming in on our Leopard.	他们就在这个区域，而且已经启动——一定是看到我们乘坐豹式运输舰降落了。
+They're stacking pressure on both relay stations.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color> engaging.	他们正在向两座中继站施压。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.DisplayName}</b></color>正在接敌。
+They're stacking pressure on both sites.	他们正在向两处站点施压。
+Think you dezgra Mercs can defeat US?	你以为你们这些无底线的佣兵能打败我们？
+Think you Mercfaces canna beat us twos? Hella no. Eat lead.	你以为你们这些佣兵脸能打赢我们俩？才怪。吃子弹吧。
+Third lance neutralized.  Relay stations' remain intact.	第三支小队已清除。中继站依然完好。
+This is a convoy escort mission. We need to take a predetermined position, rendezvous with the convoy, and get it to its destination in one piece.	这是一次车队护航任务。我们需要占领预定位置，与车队会合，并把它完整护送到目的地。
+This is a disaster. Commander, The Muscle is too strong.	这是一场灾难。指挥官，"肌肉"太强了。
+This is not ideal.  Raiders are advancing sooner than expected.  You must hold the base perimeter despite your scattered positions.	这不太理想。袭击者比预期更早推进。尽管阵地分散，你必须守住基地周边。
+This is the area to which we tracked a black market lance.	这就是我们追踪一支黑市小队到达的区域。
+This is the map grid we're tasked with clearing.	这就是我们奉命清剿的地图网格。
+This isn't good, Commander. You're surrounded!	情况不妙，指挥官。你被包围了！
+This isn't how it should have turned out, Commander. Let's get going. Nothing more we can do.	事情本不该变成这样，指挥官。我们走吧。无能为力了。
+This isn't worth the pay. We're getting you guys out. Hold tight.	这不值得这份报酬。我们送你们出去。坚持住。
+This match is the same rules as always, folks! Can our rising stars keep up their ascent? Let's find out!	各位，这场比赛规则一如既往！我们的新星能继续保持上升势头吗？让我们拭目以待！
+This might be a real easy job but it's a job all the same. Knock him about a bit then finish things up. His Clan will be happier than he will be.	这也许是份很轻松的工作，但终归是份工作。把他揍一顿，然后了结。他的氏族会比他更高兴。
+This might be a real easy job but it's a job all the same. Knock him about a bit then finish things up. His Dad will be happier than he'll be.	这也许是份很轻松的工作，但终归是份工作。把他揍一顿，然后了结。他父亲会比他更高兴。
+This might be one contract where failing is better for our rep than completing it.	这也许是唯一一份失败反而比完成更有利于我们声誉的合同。
+This situation has gone from bad to worse. I'm pulling you out, Commander.	情况已经从糟糕变成更糟。我正在把你撤出来，指挥官。
+This solar flare arrived while you were in transit. The radiation out there is deadly to unprotected electronics, Commander, and not great for... well, anything. Your sensors are virtually useless, and 'Mechs are going to be even hotter than normal for a vacuum.\n\nCome back safe, you hear me?	这次太阳耀斑在你航行途中爆发。外面的辐射对没有防护的电子设备是致命的，指挥官，对……好吧，对任何东西都不友好。你的传感器几乎没用，机甲在真空里会比平常更热。\n\n平安回来，听到了吗？
+Those are MASH trucks, they're transporting wounded!	那些是 MASH 卡车，他们在运送伤员！
+Those purification plants are the only clean-water source for thousands of civilians.  The enemy doesn't need to kill you, they only need to destroy a facility.	那些净水厂是数千平民唯一的清洁水源。敌人不需要杀死你们，他们只需要摧毁一座设施。
+Three points make a triangle around the target base. Set up beacons and get clear.	三个点围绕目标基地构成三角形。布置信标，然后撤离。
+Three! Two! One! That BattleMech is down for the count! {COMPANY.CompanyName} move through to the next round!	三！二！一！那台战斗机甲倒下了！{COMPANY.CompanyName}挺进下一轮！
+Time for a fight. Light them up, pilots.	该打一场了。开火，飞行员们。
+Time to show this pilot a thing or two.	是时候给这名飞行员上一两课了。
+Timing's important, here. We must reach the extraction point before we're outnumbered. LZ is on the far side of the installation.	时机很重要。我们必须在被敌人数量压制前抵达撤离点。着陆场在设施的另一侧。
+Turrets coming online and they're turning to face you. Careful, Commander.	炮塔正在上线，而且正转向你。小心，指挥官。
+Turrets coming online. They're friendly!	炮塔正在上线。它们是友军！
+Two 'Mechs enter, but only one can leave! Let's see which MechWarrior has what it takes to bring home the Assault 'Mech championship in THREE, TWO, ONE! Start the match!!	两台机甲进场，只有一台能离开！让我们看看哪位机甲战士能捧回突击机甲冠军，三、二、一！比赛开始！！
+Uh, Commander? We've got an incoming bogey. Looks like the reinforcements that weren't supposed to show up.	呃，指挥官？我们有一个不明目标接近。看来是不该出现的援军。
+Uh, have you ever seen an angry ant colony? There's a few Companies of light tanks out there.	呃，你见过发怒的蚁群吗？外面有几个连的轻型坦克。
+Understood, Darius.  My <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.UnitName}</b></color> is on station around the ordnanceplant.  Any {TEAM_TAR.FactionDef.ShortName} mech that comes within weapons range is getting turned into scrap.	明白，达里乌斯。我的<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_1.UnitName}</b></color>已在军械厂周边就位。任何进入武器射程的{TEAM_TAR.FactionDef.ShortName}机甲都会被拆成废铁。
+Understood.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color>, hold the base perimeter.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color>, move to reinforce.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color> --- make best speed but don't get yourself killed.	明白。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color>，守住基地周边。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color>，前去增援。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color>——以最快速度前进，但别把命搭上。
+Understood.  New plan...we hold the line even if we're scattered.\n\r\n<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color>, you and your <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.UnitName}</b></color> stick with me --- <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color>, screen the midpoint.\n\r\n<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color>, move fast; we'll need your firepower.	明白。新方案……即使被打散，我们也要守住防线。\n\r\n<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color>，你和你的<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.UnitName}</b></color>跟着我——<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color>，掩护中点。\n\r\n<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color>，快速机动；我们需要你的火力。
+Understood.  Scatter drop confirmedd across all units.  No time for regroup.\n\r\nObjective is the fort, defend it regardless of position.  Move to contact and establish overlapping fields of fire.	明白。确认所有单位分散空降。没时间重新集结。\n\r\n目标是堡垒，无论身处何地都要守住它。推进接敌，建立交叉火力网。
+Understood.  We guard the relays, not our kill counts.	明白。我们守卫中继站，而不是击杀数。
+Unidentified BattleMech lance. Declare yourself. You are violating a {TEAM_EMP.FactionDef.Demonym} militarised zone	不明机甲小队。报上名来。你们正在侵入{TEAM_EMP.FactionDef.Demonym}军事管制区
+Vanguard opfors eliminated.  Good shooting.	先头敌军已清除。射得好。
+Wait, wait! Commander, something is wrong!	等等，等等！指挥官，出问题了！
+War Games, of sorts. But in the air.	算是某种战争演习。不过在空中的。
+Warning commander, sensors are reading multiple contacts dropping.  Looks like the attacking force has brought additional reinforcements.	警告，指挥官，传感器读数显示多个目标正在空降。看来进攻方带来了额外增援。
+Warning!  Alpha relay defensive turrets have been destroyed.	警告！阿尔法中继站的防御炮塔已被摧毁。
+Warning, Commander! The target mechs have begun to arrive at their destination; not much time left before they escape!	警告，指挥官！目标机甲已开始抵达目的地；离它们逃脱没多少时间了！
+Warning, Commander! The target vehicles have begun to arrive at their destination; not much time left before they escape!	警告，指挥官！目标载具已开始抵达目的地；离它们逃脱没多少时间了！
+Warning, sensor array defenders; more enemy bogies moving to reinforce the assault.	警告，传感器阵列守军；更多敌方目标正前往增援。
+Way to go, Commander! I even managed to record that for the crew's holovid room!	干得好，指挥官！我还把这段录下来，放进船员的影像室了！
+Way to go, Commander! Lets drive them out of the system!	干得好，指挥官！让我们把他们赶出这个星系！
+We couldn't stop them.  Facility is lost	我们没能阻止他们。设施失守
+We detected The Muscles DropShip is feeling! Tiverton is free from these criminals and pirates once and for all.	我们探测到"肌肉"的运输舰正在撤离！蒂弗顿终于摆脱了这些罪犯和海盗。
+We did our best but it looks like history got one over on us today.	我们已尽力，但看来今天历史跟我们开了个玩笑。
+We either came at the right time or the worst time. Good job on dispatching that assault. I fear that's not the last of them though. Expect more OpFor, Commander.	我们要么来得正是时候，要么来得最不是时候。干掉那支突击队干得好。不过我担心那还不是最后一批。预计会遇到更多敌军，指挥官。
+We first noticed our data streams were being interrupted then had the odd scout probe our defenses. You arrived right on time for the main event it seems.	我们最初注意到数据流被中断，然后有奇怪的侦察兵来试探我们的防御。看来你正好赶上了正戏。
+We gave it our best shot, Commander. Meet me for a debriefing when you're back aboard.	我们已竭尽全力，指挥官。回船上后找我做个简报。
+We just lost a member of our Ally's Lance, Commander. I'm marking their ejection pod for post-mission recovery.	我们刚刚失去了盟友小队的一名成员，指挥官。我正在标记他们的弹射舱，供任务后回收。
+We know the truth, we will be back. Today, everyone gets to feel like they won, even if we've all lost something.	我们知道真相，我们会回来的。今天，每个人都觉得自己赢了，即使我们都失去了些什么。
+We should be able to pack up and head home	我们应该能收拾东西回家了
+We took down the swarm, well done Commander.	我们干掉了那波蜂群，干得好，指挥官。
+We were told to expect interference. Time to shut you out.	有人警告过我们会受到干扰。是时候把你们排除在外了。
+We will lick our wounds Commander. Hopefully this doesn't reflect to poorly on our service.	我们会舔舐伤口，指挥官。希望这不会太影响我们的服务评价。
+Weapons free, pilots! Let's take them down fast.	自由开火，飞行员们！快速干掉他们。
+Weapons free.  Let's make them regret it.	自由开火。让他们后悔。
+Welcome back, folks! Hareton Splimby here bringing another match from our seasonal Assault 'Mech championship to your screens! In case you missed it, {COMPANY.CompanyName} cinched a win in their first round and have moved onto the next bracket!	欢迎回来，各位！哈雷顿·斯普林比在这里，为你们带来本季突击机甲锦标赛的又一场比赛！如果你错过了，{COMPANY.CompanyName}在第一轮拿下胜利，已经晋级下一轮！
+Welcome back, guys, gals, and non-binary pals! I'm your charming commentator, Hareton Splimby, and we're here at the penultimate match of the seasonal Assault 'Mech championship!	欢迎回来，先生们、女士们和非二元性别朋友们！我是你们迷人的解说员哈雷顿·斯普林比，我们正处在赛季突击机甲锦标赛的倒数第二场比赛！
+Welcome to mercenary work.  All units, defensive posture.  Protect the base.	欢迎来到佣兵这一行。所有单位，防御姿态。保护基地。
+Well at least it was not a Trial of Possession.	至少这不是一场占有权试炼。
+Well done, Commander. That sure put a hole in {TEAM_TAR.FactionDef.Name} defenses.	干得好，指挥官。这确实在{TEAM_TAR.FactionDef.Name}的防线上开了个洞。
+Well done, Commander. That's it for the cabal leadership on Tiverton. Let's go get paid.	干得好，指挥官。蒂弗顿的密会领导层到此为止。我们去领钱吧。
+Well done, Commander. That's it for the cabal on Tiverton. Let's go get paid.	干得好，指挥官。蒂弗顿的密会到此为止。我们去领钱吧。
+Well what can you say, even young Sibko pilots are a force to deal with.	你能说什么呢，就连年轻的 Sibko 飞行员也是不容小觑的力量。
+Well, looks like we won't be getting paid today.	好吧，看来我们今天拿不到报酬了。
+Well, maybe everything is okay.	好吧，也许一切正常。
+Well, that didn't go as planned.	好吧，计划赶不上变化。
+Well, that is something we don't see every day. We're out of here.	好吧，这可不是每天都能见到的。我们撤。
+Well, that was a disaster. That was a one in a million opportunity. Let's debrief back in orbit, Commander.	好吧，那是一场灾难。那是百万分之一的机会。回轨道上做简报吧，指挥官。
+Well, that's unfortunate. We left the AI intact and failed to retrieve the ,Mercs. I doubt we have had a darker hour.	好吧，真不幸。我们没动 AI，也没能救回那些佣兵。我想我们没经历过比这更黑暗的时刻。
+Well, they did say they weren't going to acknowledge a loss. See how that works out. Let's get you back to the dropship, Commander.	好吧，他们说过不会承认失败。看看结果如何。我们送你回运输舰，指挥官。
+Well... at least we didn't go down without a fight. Let's hope the holo-cams got your good side, Commander.	好吧……至少我们没有不战而降。希望全息摄影机拍到了你的好角度，指挥官。
+Well... we can't baby sit when the baby isn't here. No baby, sitting no money.	好吧……孩子不在，我们也当不了保姆。没孩子，没得看，没钱拿。
+We're going in blind, Commander—no time to prepare terrain intel. Meyer, can you see the target lance?	我们要盲降了，指挥官——没时间准备地形情报。迈耶，你能看到目标小队吗？
+We're picking up 'Mech engine signatures nearby, it's showtime.	我们探测到附近有机甲引擎信号，好戏开场了。
+We're ravenous, Mercs. We're going to chew through your mechs, then enjoy the feast!	我们饿极了，佣兵们。我们要嚼碎你们的机甲，然后享受盛宴！
+We're under serious fire out here, Argo. We need support!	我们这边火力太猛了，Argo。我们需要支援！
+We've come up short, though to be fair, any other commanders facing an enemy force this large would've ended up the same way	我们功亏一篑，不过平心而论，任何其他指挥官面对这么庞大的敌军也会是同样的下场
+We've got reports of hostile signatures.  Raiders are moving on to Bravo facility.	我们收到敌方信号报告。袭击者正扑向布拉沃设施。
+We've got some unexpected readings from long-range surveillance - we might have company.	远程监视传回一些异常读数——我们可能有伴了。
+We've got them, Commander. My friend will be pleased.	我们抓到他们了，指挥官。我的朋友会很高兴。
+We've lost the intel, Commander. We'll send in a recovery team later; for now, focus on getting our pilot out safely.	我们丢了情报，指挥官。稍后我们会派回收队；现在先专注把我们的飞行员安全带出来。
+We've lost the intel, Commander. We'll send in a recovery team later; for now, focus on getting our pilot to safety.	我们丢了情报，指挥官。稍后我们会派回收队；现在先专注把我们的飞行员带到安全地带。
+What a finish!! Guys, gals, and — as ever — non-binary pals, we have ourselves a new Assault 'Mech seasonal champion!\n\nJerry!! Get a camera drone down there, stat!\n\nDon't go anywhere, folks! We'll be right back with an interview after a short commercial break!	多么精彩的收尾！！先生们、女士们，以及一如既往的非二元性别朋友们，我们迎来了新的突击机甲赛季冠军！\n\n杰瑞！！立刻派一架摄像无人机下去！\n\n别走开，各位！广告之后我们马上回来做采访！
+What's going on, Commander?! Why would they be firing at us?	怎么回事，指挥官？！他们为什么朝我们开火？
+What's this?! The turrets are activating. Incoming fire, Commander!	这是什么？！炮塔正在启动。有火力来袭，指挥官！
+Whoa! {COMPANY.CompanyName} got blown away! That sure was a rude awakening to how things work in Solaris City!	哇！{COMPANY.CompanyName}被轰飞了！这真是让人痛切地认识到索拉里斯城的生存法则！
+Without both facilities operational, the shipment cannot be completed. The contract has failed.	两座设施缺一不可，这批货就无法完成。合同已失败。
+Without both sites operational, regional wartime production cannot continue.\n\r\nAll units, withdraw immediately.  Contract objective failed	两处站点缺一不可，区域战时生产无法继续。\n\r\n所有单位，立即撤退。合同目标失败
+Wow!  We were only meant to hold the line, and you've wiped out every {TEAM_TAR.FactionDef.Demonym}'s force.  That's fantastic, boss --- proof it can be done!	哇！我们本来只需要守住防线，你却把{TEAM_TAR.FactionDef.Demonym}的部队全歼了。太棒了，头儿——这证明了这是可行的！
+Y'all understand this is just business.	你们都明白，这只是生意。
+Yeah, rub it in, why don't you ...\n\nI'll see you back on the ship, Commander.	是啊，尽管挖苦我吧……\n\n船上见，指挥官。
+Yep, we're dug in and ready.  If they want the depot, they'll have to come through us first.	没错，我们已经挖好工事准备就绪。他们想要仓库，就得先从我们身上碾过去。
+Yer DropShip pilot was able to catch'em on the last leg. We could use a hot shot like her in the Goons. Good huntin'	你的运输舰飞行员在最后一段路上逮住了他们。我们"高恩"队正需要她这样的高手。狩猎愉快
+YES!! Hah! I can't believe it! I ... I mean, ahem. Good work, Commander. Never doubted you for a second.	耶！！哈！我简直不敢相信！我……我是说，咳咳。干得好，指挥官。我从未怀疑过你。
+You did it! Time to organise the party. We can't let all this go to waste!	你做到了！该组织庆功宴了。不能让这一切白白浪费！
+You heard Darius.  No regroup --- we hold where we stand.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color>, stick close.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color>, screen the gap.  <color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color>...survive and move in when you can.	你听到达里乌斯了。不重新集结——我们原地坚守。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_4.DisplayName}</b></color>，跟紧。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_3.DisplayName}</b></color>，封锁缺口。<color=#99ebff><b>{MC.PlayerLances.TeamPilot_Position_2.DisplayName}</b></color>……活下来，有机会就靠拢。
+You heard them.  We hold this ground, no matter how scattered we are.	你听到他们了。不管被打得多散，我们都要守住这片阵地。
+You might be thinking "gee, isn't he all Splimbyed out?"\n\nThe answer is no. I am <i>never</i> done Splimbying. Do not <i>ever</i> doubt me again.	你可能在想"哎呀，他是不是斯普林比够了？"\n\n答案是：没有。我<i>永远</i>不会停止斯普林比。别再<i>怀疑</i>我。
+You're coming up on the AI facility, Commander.	你正在接近 AI 设施，指挥官。
+You're coming up on the storage facility now, Commander.	你现在正接近仓储设施，指挥官。
+You're in position. The Mercs are loading up now.	你已就位。佣兵们正在装载。
+You've defeated all that they've thrown at us!  Great job, Commander.\n\r\nIn the future someone will study the strategy you've employed here and possibly name them after you!	你击败了他们派来的一切！干得好，指挥官。\n\r\n将来会有人研究你在这里采用的战术，说不定还会以你的名字命名！
+You've got to be kidding me.  I just got within range!	你一定是在开玩笑。我刚进入射程！
+You've protected millions of C-bills worth of military supplies and preserved a critical logistics corridor.  Outstanding performance...mission complete.	你保护了价值数百万 C 币的军用物资，保住了一条关键后勤走廊。表现出色……任务完成。
+You've reached the extraction point for our people. Hold there are keep them safe until we can get them out.	你已抵达我方人员的撤离点。守住那里，保护他们，直到我们把他们救出来。
+You've successfully repelled every attacker!\n\r\nThe locals want this battle to be the centerpiece of the next event.	你成功击退了每一波进攻者！\n\r\n当地人想让这场战斗成为下一届活动的核心节目。
+ Commander, I'm picking up something concerning. It appears that our designs have been stolen and are being used by the enemy. We need to take action to address this immediately.	指挥官，我探测到一些令人担忧的情况。看来我们的设计被窃取，正被敌人使用。我们必须立即采取行动解决这个问题。
+"Conflict zone." You're talking about our home… or what's left of it. In the blink of an eye, we've gone from regular people to war refugees. We've got your client to thank for that.	"冲突区"。你说的是我们的家……或者说曾经的家。转眼之间，我们就从普通人变成了战争难民。这都得拜你的客户所赐。
+"Last stand"? Unlikely. They're hired guns, not zealots.\r\n\r\nThey're probably just trying to hold the wreck long enough for Baumann's salvage teams to finish looting it.	"最后一战"？不太可能。他们是雇佣兵，不是狂信徒。\r\n\r\n他们大概只是想守住残骸，拖到鲍曼的打捞队把东西搜刮完。
+////For the time being, it appears to be. That said, I suggest that you engage and destroy her lancemates as quickly as possible.\r\n\r\nThe Black Widow is already inflicting ruinous damage on my combat drones. I won't be able to keep her occupied forever.////	////目前看来是的。话虽如此，我建议你尽快接敌并摧毁她的僚机。\r\n\r\n黑寡妇已经在重创我的战斗无人机。我撑不了太久。////
+{COMMANDER.LastName}! Y'know, you really should've looked that gift horse in the mouth.\r\n\r\nWait. Is that who I think it is? Is there a goddamned <i>arachnid</i> on the field?!	{COMMANDER.LastName}！你知道的，你真该看看那匹礼物马的嘴里有什么。\r\n\r\n等等。那是我想的那个人吗？战场上居然有一只该死的<i>蛛形纲</i>？！
+{COMMANDER.LastName}. Commander of {COMPANY.CompanyName}.\r\n\r\nThat's good. Now I have a face to associate with the name. And your name has become quite familiar to me of late.	{COMMANDER.LastName}。{COMPANY.CompanyName}的指挥官。\r\n\r\n很好。现在这个名字有了一张脸。而你最近的名字对我来说越来越耳熟了。
+{COMPANY.CompanyName}. You're here.\r\n\r\nBig mistake. Mr. Baumann wants your heads, and we intend to deliver.	{COMPANY.CompanyName}。你们来了。\r\n\r\n大错特错。鲍曼先生要你们的脑袋，我们打算照办。
+… [static] …ello? Hello, do you copy? This is the <i>Invidious</i>. We copy and are standing on station. See you in a few.	……[静电]……喂？喂，收到吗？这里是<i>Invidious</i>号。我们收到，正在站点待命。一会儿见。
+…And Bravo. Collapsing the tunnels will force them to backtrack out of the mountain passes and use the main approach instead. This will give you an advantage in positioning, and will buy you valuable time.\n	……还有布拉沃。炸塌隧道会迫使他们从山口原路撤回，改走主通道。这会让你在布阵上占据优势，还能争取到宝贵时间。\n
+…Well, that seems pretty straightforward.	……好吧，看来挺直截了当的。
+…What a terrible waste. Very well, Commander Elliathy, my mercenaries will bring you the death that you so evidently long for. Destroy them all, Commander. Leave no survivors.	……真是可怕的浪费。很好，埃利亚西指挥官，我的佣兵会带给你显然渴望的死亡。把他们全杀掉，指挥官。不留活口。
+00010010010010001110010010*static*!	00010010010010001110010010*静电*！
+00010100100101010001011100101001010*static*!	00010100100101010001011100101001010*静电*！
+0100011001001101001001010*static*!	0100011001001101001001010*静电*！
+1010101110001110101101*static*!	1010101110001110101101*静电*！
+101010111110101101010*static*!	101010111110101101010*静电*！
+1100110110100110101100110101*static*!	1100110110100110101100110101*静电*！
+According to our intel, the [[DM.BaseDescriptionDefs[LoreBaumannGroup],Baumann Group]]'s cavalry lance should be patrolling through this AO. Get in there, hit 'em hard, and wipe 'em out. When the cavalry lance is on ice, you'll be clear to advance on Baumann's distribution center.	根据我们的情报，[[DM.BaseDescriptionDefs[LoreBaumannGroup],鲍曼集团]]的骑兵小队应该正巡逻穿过这个战区。进去，狠狠打击，把他们消灭。骑兵小队被解决后，你就可以放心向鲍曼的配送中心推进了。
+Ah, Commander, this is it! If my calculations are correct, the target should be right around here. The anticipation is thrilling, isn't it?	啊，指挥官，就是这里！如果我的计算没错，目标应该就在这附近。这种期待感真令人激动，不是吗？
+Ah, my apologies, Commander. It appears my intel was incomplete. To be frank, we're still not entirely sure about the test data.	啊，抱歉，指挥官。看来我的情报不完整。坦白说，我们对测试数据仍不太确定。
+Alas, you have only my beauty to blame for this loss. I concede only because my hair is a mess!	唉，这次失利你只能怪我的美貌。我认输只是因为我的头发乱了！
+Alas, you only have my beauty to blame for this loss. I concede only because my hair is a mess!	唉，这次失利你只能怪我的美貌。我认输只是因为我的头发乱了！
+All Agressor APCs are down, Commander! Hold tight—we're bringing the turrets online now!	所有 Agressor 装甲运兵车都倒下了，指挥官！坚持住——我们马上让炮塔上线！
+All communication cut, great work Commander.\r	通讯已切断，干得好，指挥官。\r
+All right, Commander. I've just set you down in front of the Baumann Group's abandoned spaceport. Farah, Yang, and their team should already be inside.\r\n\r\nCan you confirm that, Yang?	好了，指挥官。我刚把你降落在鲍曼集团废弃太空港前。法拉、杨和他们的队伍应该已经在里面了。\r\n\r\n你能确认吗，杨？
+All ye needs ta do be galleon these beepin' things in th' general area o' where we tell ye. Ole Fred could hit a flea off o' a strung out Dalmatian.	你只需要把这些烦人的东西，运到我们告诉你的大致区域。老弗雷德能一枪打中一条伸懒腰的斑点狗身上的跳蚤。
+And so, the table is set. At one end, battle-hardened mercenaries. \r\nAt the other, some poorly paid stand ins.\r\n Thanks for bringing them Darius!	就这样，牌局摆好了。一端是身经百战的佣兵。\r\n另一端是一群拿钱不多的替身。\r\n 谢了，达里乌斯，把他们带来了！
+And to think, Binton and Modge have been at each other's throats over this vault for months. People have <i>died</i> for this. How do we break it to them they were fighting over garbage?	想想看，宾顿和莫奇为了这个金库争了几个月。有人为此<i>丧命</i>。我们要怎么告诉他们，他们争的是一堆垃圾？
+And we're gonna have to keep you that way. Don't get too comfortable down there, Commander… I've got two unidentified DropShips on an approach trajectory. They'll be touching down within the next few minutes.	我们得让你保持这样。别在下面太放松，指挥官……我发现两艘身份不明的运输舰正在接近。它们会在几分钟内着陆。
+And you've walked even <i>more</i> radioactive sand into the Leopard's Mech Bay. [sigh] C'mon, Commander… let's get you home.	你还在豹式的机甲库里留下<i>更多</i>放射性沙子。[叹气] 来吧，指挥官……我们带你回家。
+And, uh, Boss? Moving forward, let's keep our eyes open for another Hatchetman or three. I can think of <i>so many</i> things I could do with a chassis like that…	还有，呃，头儿？以后咱们多留意一两台 Hatchetman。用那种底盘我能想出<i>太多</i>点子……
+Any Agressor 'Mechs that you encounter are likely to enter battle in a damaged state. If our sappers do their jobs and collapse the tunnels, those that are forced to reroute will be even worse for wear.	你遇到的任何 Agressor 机甲很可能都带伤参战。如果我们的工兵干得漂亮，炸塌隧道，那些被迫绕路的会更惨。
+Any delay will allow the clanners to take the Capital!! We paid you everything we had. We expect you to do your job.	任何拖延都会让氏族拿下首都！！我们把一切都付给你们了。我们指望你们履行职责。
+Any hostiles that you fail to engage will almost certainly target the fuel tanks. If they manage to take one out, the resulting explosion will wipe out everything nearby—DropShips, refugees, you name it. You can see a fuel tank's estimated blast radius in red on your screen. 	任何你没有接战的敌人几乎肯定会去攻击燃料罐。如果他们打爆一个，爆炸会摧毁附近的一切——运输舰、难民，一切。你可以在屏幕上看到燃料罐的红色爆炸半径。 
+Appreciate the warning, but we'll take our chances.\r\n\r\nSecure the base, Commander. Take down anyone that stands in your way.	感谢提醒，但我们愿意冒这个险。\r\n\r\n占领基地，指挥官。放倒任何挡路的人。
+Are you kidding me. I just bought a vintage copy of Holo Pac Man. Now thats gone as well.	你在开玩笑吧。我刚买了一盘复古版全息吃豆人。现在也没了。
+As we speak, the Agressors have several waves of APCs—complete with BattleMech escorts—en route to the spaceport's Command Center. If they succeed in taking it, they'll lock down our supply ships, and the people of this planet will starve.	就在我们说话时，Agressor 已经派出数波装甲运兵车——还有战斗机甲护航——正赶往太空港指挥中心。如果他们拿下它，就会封锁我们的补给船，这颗星球上的人会饿死。
+Best of luck with that, pal—I'll be long gone before you get here. I'm done with this condo, I'm done with Louth Abbey, I'm done with this entire gods-damned <i>system</i>.	祝你好运，伙计——等你到这儿，我早就走远了。我受够了这套公寓，受够了劳斯修道院，受够了这个该死的<i>星系</i>。
+Better move fast. I just intercepted a communication aimed at Notker Baumann's JumpShip. Apparently, the distribution center is under attack… yeah, that's confirmed, I'm picking up signs of explosions and laser fire.	最好快点。我刚截获一段发给诺特克·鲍曼跳跃船的通讯。看来配送中心正遭到攻击……对，确认了，我探测到爆炸和激光射击的迹象。
+Blessed silence.\r\n\r\nWell. For my part, I'm looking forward to getting my hands on this Baumann Group's computer systems. Anyone feel like placing bets on what I'll find in there?	神圣的寂静。\r\n\r\n好吧。就我而言，我很期待拿到鲍曼集团的计算机系统。有人想赌一把我会在里面发现什么吗？
+Bounty Hunter.\r\n\r\nYou betrayed me on Nova Roma. Murdered my MechWarriors on Le Blanc. You've earned yourself a slow death twice over—and this time, I'm going to deliver.	赏金猎人。\r\n\r\n你在新罗马背叛了我。在白朗谋杀我的机甲战士。你已经欠下两次慢死了——这一次，我会亲手兑现。
+By the way, if you are in the red triangle marked area when we shoot, You can expect to loose a mech or two.	顺便说一句，如果我们开火时你在红色三角标记区域内，预计会损失一两台机甲。
+By the way, if you are in the red triangle marked area when we shoot, you can expect to lose a 'Mech or two.	顺便说一句，如果我们开火时你在红色三角标记区域内，预计会损失一两台机甲。
+Can't risk it—the AO's too hot. You're just going to have to deal with this problem before moving on to the next. With luck, the OpFor's hired guns and whoever these new assholes are will soften one another up before we get there.	不能冒险——战区太危险了。你只能先解决这个问题，再继续下一个。运气好的话，敌方雇佣兵和这帮新来的混蛋会先互相削弱，等我们赶到。
+Can't say I didn't warn you, Commander. Such a shame. We could've taken Horvat down <i>together</i>. Instead, you're walking away with nothing but a couple of dead pilots.	别说我没警告过你，指挥官。真遗憾。我们本来可以<i>一起</i>拿下霍尔瓦特。现在你却只能带着几具飞行员的尸体离开。
+Capturing more than one silo will help turn the tide for our employer, though even one will help...	占领多个发射井有助于扭转我们雇主的局面，哪怕只有一个也有帮助……
+Caravan Ready to roll out commander.	商队准备出发了，指挥官。
+Chargin'... errr! DOUBLE chargin' the capacitors!	充能……呃！给电容器双重充能！
+Clear them out and push forward commander.	清剿他们，向前推进，指挥官。
+Commander, I have fantastic news and some challenging news. Firstly, bravo! The enemy target has been reduced to a heap of salvage and scrap. Your shooting skills are excellent!	指挥官，我有好消息，也有坏消息。首先，恭喜！敌方目标已经被打成废铁。你的射击技术非常出色！
+Commander, If you don't get that target painted for them, they'll miss their opportunity to take a shot. The Locals have already scrambled their orbital defenses; we will not get a second chance at this.	指挥官，如果你不替他们把目标标定好，他们就会错失开火的机会。当地人已经启动了轨道防御；我们不会有第二次机会。
+Commander, I'm getting a signal from the {TEAM_EMP.FactionDef.Demonym} DropShip. They need to start their run <i>now</i>. You're almost out of time down there.	指挥官，我收到{TEAM_EMP.FactionDef.Demonym}运输舰的信号。他们需要<i>现在</i>就开始攻击。你在下面快没时间了。
+Commander, I'm looking at this data, and this bunker… is commanded by Lieutenant Colonel Song. They're a crack shot with their Awesome's PPCs—best in the CCAF, I've heard.	指挥官，我正在看这份数据，这座掩体……由宋中校指挥。她用"Awesome"的 PPC 百发百中——我听说她是 CCAF 里最厉害的。
+Commander, my DropShip is inbound. As in, <i>right now</i>. If you don't get that target painted for them, they'll miss their opportunity to take a shot. The FedSuns have already scrambled their orbital defenses; we will not get a second chance at this.	指挥官，我的运输舰正在接近。是<i>马上</i>就到。如果你不替他们标定目标，他们就会错失开火机会。联邦太阳军已经启动了轨道防御；我们不会有第二次机会。
+Commander, my DropShip is inbound. As in, <i>right now</i>. If you don't get that target painted for them, this entire operation could fall apart. The FedSuns have already scrambled their orbital defenses; we will not get a second chance at this.	指挥官，我的运输舰正在接近。<i>马上</i>就到。如果你不替他们标定目标，整个行动就会崩盘。联邦太阳军已经启动了轨道防御；我们不会有第二次机会。
+Commander, my DropShip is inbound. As in, right now. If you don't get that target painted for them, they'll miss their opportunity to take a shot.	指挥官，我的运输舰正在接近。马上就到。如果你不替他们标定目标，他们就会错失开火机会。
+Commander, our window of opportunity for this strike is closing. At least half of our time has expired. You'll need to move like a cat that's seen a cucumber if you want to accomplish this..	指挥官，这次打击的机会窗口正在关闭。至少一半时间已经过去。想完成任务，你就得像见到黄瓜的猫一样迅速行动。
+Commander, our window of oppurtunity for this strike is closing. At least half of our time has expired. You will need to move quickly if you are to accomplish this.	指挥官，这次打击的机会窗口正在关闭。至少一半时间已经过去。想完成任务，你得迅速行动。
+Commander, this is Grayson Carlyle. That was a hell of an ass kicking. Glad we were in salvaged 'Mechs. Listen, I don't have a bone to pick with you; I just need what's in that facility. I've got reinforcements landing shortly and— [static]	指挥官，我是格雷森·卡莱尔。刚才那顿揍可真够狠。幸好我们开的是打捞来的机甲。听着，我跟你没仇；我只要那设施里的东西。我的援军马上就着陆，而且——[静电]
+Commander, this is it; destroying this facility will ensure no more nekos or citizens can be captured. Normal prisons are incapable of holding us for long, so once this is blasted into oblivion they'll have no place to keep us	指挥官，就是现在；摧毁这座设施就能确保再也不会有猫娘或平民被抓。普通监狱关不住我们多久，所以一旦这里被炸成废墟，他们就没地方关我们了
+Commander, to fire this orbital weapon, we're going to need precise targeting. A glancing shot won't penetrate the bunker and reach the LosTech.	指挥官，要发射这件轨道武器，我们需要精确制导。擦边一击无法穿透掩体打到失传科技。
+Commander, volunteer forces on station. Thanks for clearing those defenses to make way for us.	指挥官，志愿部队已就位。谢谢你清掉那些防御，为我们开路。
+Commander, we are sending out the care package, don't hang them from your mirror.	指挥官，我们这就发出补给包，别把它挂在后视镜上。
+Commander, we have DEST units closing on our position. Is the base down? Are we ready to engage? Commander— [static]	指挥官，我们有 DEST 部队正在逼近我们的位置。基地拿下了吗？可以接战了吗？指挥官——[静电]
+Commander, we have flushed them out and now they are traveling by convoy.	指挥官，我们把他们逼出来了，现在他们正乘车队转移。
+Commander, we're getting an incoming transmission from an unknown DropShip. It isn't one of Baumann's, so it must belong to whoever's hitting the distribution center.\r\n\r\nOh, shit…	指挥官，我们收到一艘不明运输舰的通讯。它不是鲍曼的，所以肯定属于袭击配送中心的那伙人。\r\n\r\n哦，糟了……
+Commander, we've picked up additional contacts headed in your direction. Pirates aren't planning to let anyone leave this planet alive. Punch through and get our people clear.	指挥官，我们探测到更多目标正朝你方前进。海盗不打算让任何人活着离开这颗星球。杀出重围，把我们的人救出来。
+Commander, we've picked up additional contacts headed in your direction. The pirates are not planning to let her leave this planet alive. Punch through and get the Queen clear.	指挥官，我们探测到更多目标正朝你方前进。海盗不打算让她活着离开这颗星球。杀出重围，把女王救出来。
+Commander, you're entering the area where our scouts last reported the weebs skulking about	指挥官，你正进入我们的侦察兵最后报告那些宅男鬼鬼祟祟出没的区域
+Conduct unbecoming of an officer. Fraternization—with her husband, if you care about such matters. But the most serious charge was assaulting a fellow officer. For what it's worth, I regret my part in what happened, but that doesn't change the past.	有失军官身份的行为。与她的丈夫私通——如果你在意这些的话。但最严重的指控是袭击同僚军官。不管怎样，我对自己在其中扮演的角色感到后悔，但这改变不了过去。
+Convoy has reached the extraction zone.	车队已抵达撤离区。
+COORDINATES RECEIVED, STRIKE COMMENCING.	坐标已收到，开始打击。
+Damn it. Nothing's ever as easy as it should be. All right, Sumire—keep the bastard on hold. When our people are all present and accounted for, we'll have words with him. Shugo Yamaguchi, I suggest that you stay on the line as well.	该死。事情从来没有应该的那么容易。好吧，苏米尔——让那混蛋等着。等我方人员全部到齐清点完毕，我们再跟他算账。山口修吾，我建议你也别挂断。
+Desperate times are nothing new for us—things have been grim since your uncle's coup, and we've made it this far. As long as you keep the supply shipments coming in, we'll find a way to hold out.	艰难时期对我们来说不算新鲜——自你叔叔政变以来局势一直很严峻，我们也撑到了现在。只要你保证补给不断，我们就能想办法坚持下去。
+Dhawan wanted to provoke me in to attacking House Steiner—an entity that he views as synonymous with the moneyed elite. Without your help, he probably would have succeeded, and I'd have been lured into a blood-feud with a juggernaut. I may not have survived such a conflict.	达万想激我去攻击施泰纳家族——他视其为金钱精英的代名词。没有你的帮助，他很可能就成功了，我会被拖入与一个庞然大物的血仇。那样的话，我未必能活下来。
+Don't worry, Darius. I've got a plan. We'll use the QuadMechs to scout ahead and gather intel. We'll hit them hard and fast when the time is right. It'll be a cakewalk!	别担心，达里乌斯。我有计划。我们用四足机甲前出侦察、收集情报。时机成熟时，我们快速重击他们。小菜一碟！
+Don't worry, Doc. We won't leave Momma Bear hanging, and we won't let the <i>Dobrev</i> escape. We can't—the rest of our mystery 'Mech is hidden away on that ship.	别担心，医生。我们不会丢下熊妈妈，也不会让<i>多布雷夫</i>号逃走。我们不能——我们那台神秘机甲的其余部分还藏在那艘船上。
+Even if he doesn't, the hit to <i>our</i> reputation will be enormous. Imagine us running away on the highlight reel of the next season of <i>Bounty Hunters</i>. You think anyone would want to hire us after that?	就算他不付，<i>我们</i>声誉的损失也是巨大的。想象一下我们在下一季<i>赏金猎人</i>精彩集锦里逃跑的样子。你觉得那之后还有人会雇我们吗？
+Excellent. I've already received authorization from Cavanaugh Theater Command to move on to our next target, and I don't intend to keep them waiting. Prepare your MechWarriors, Commander—they will be deploying immediately.	很好。我已经收到卡瓦诺战区指挥部的授权，可以向下一个目标推进，我不想让他们等。准备好你的机甲战士，指挥官——他们马上就会出动。
+Expect heavy resistance once your units are in position; they will try to drive you away.	我方单位就位后预计会遇到顽强抵抗；他们会试图把你们赶走。
+Expect him to pull a fast one on you. Watch him like a hawk.	小心他给你使诈。像鹰一样盯住他。
+Expect Mercenary Reinforcements shortly.	预计佣兵援军很快抵达。
+Expect more bad scallywags too.	也准备好迎接更多坏蛋。
+Eyes open, there might be dirty trickery afoot.	睁大眼睛，可能有肮脏的诡计。
+Fantastic! Their screams are music to my ears! Uh... Great work team. Let's debrief aboard the ship and start planning our next move. This atrocity cannot be allowed to occur ever again, and it's up to us to prevent it.	太棒了！他们的尖叫在我耳中如同音乐！呃……干得好，各位。回船上做简报，开始规划下一步。这种暴行绝不能再次发生，阻止它就看我们的了。
+Fantastic, another goose chase.	太棒了，又是一场徒劳的追逐。
+Farm them when they come out of there, don't give them a chance to fire!	他们出来就收割他们，别给他们开火的机会！
+Fascinating! I'm detecting power fluctuations in the turrets ahead. They're about to power up and target us. Be careful, Commander!	有意思！我探测到前方炮塔有功率波动。它们即将启动并瞄准我们。小心，指挥官！
+Feel free to make an example out of him Commander!	尽管拿他杀鸡儆猴，指挥官！
+Finally! Me plunder be so close. Jus' 'ave ta make a new door or two ta get it out.	终于！我的财宝近在咫尺。只需要再开一两个门就能把它弄出来。
+Fine, I have this one! Dropping.	好，这个我来！空降。
+First salvage right is always nice.	首次打捞权总是好的。
+Gods. Leave it to Corbu to find the two mercs on Glentworth who'd try to intimidate us with a vegetable metaphor. Please, Commander—for the sake of a grateful universe—let's put these jackasses in the ground.	天哪。也就科尔布能在格伦特沃斯找出两个用蔬菜比喻来恐吓我们的佣兵。求你了，指挥官——为了感恩的宇宙——把这两个蠢货埋进土里。
+Good job, Commander. We've got Hironaka right where we want him… and speak of the devil, he's hailing us now.	干得好，指挥官。弘中现在就在我们想要的位置……说曹操曹操到，他正在呼叫我们。
+Good luck, Commander—the Agressors aren't going to make this easy. Protect our ships. Help them get our people home safe.	祝好运，指挥官——Agressor 不会让这事变轻松。保护我们的船。帮他们把我们的人安全送回家。
+Good work, push through to these coordinates. I will keep you updated as we make our way through.	干得好，推进到这些坐标。我们一路前进时我会随时更新。
+Great job. You gave us just the opportunity we needed to stop them dead cold. I do need you for a more simple task.	干得漂亮。你给了我们阻止他们的绝佳机会。不过我还有件更简单的任务需要你。
+Great the base defenses are back up. Those should help. 	很好，基地防御恢复了。那些应该能派上用场。
+Great!  The base defenses are back up. Those should help. 	很好！基地防御恢复了。那些应该能派上用场。
+Great, this took you long enough. What, Jimmy is alive? and Fred is helping him? So many secrets and so little time...	很好，你花的时间够久了。什么，吉米还活着？弗雷德在帮他？秘密太多，时间太少……
+Great. My minions got bad intel again. Sending you coordinates of a heavy lance moving. Hopefully she is there.	很好。我的手下又拿到坏情报了。把一支重型小队移动的坐标发给你。希望她在那儿。
+Ground control,—we've lost you! [loud clanging] Nav support is off-line—where are the damned tugs?! [louder clanging] [alarm klaxon begins to blare]	地面控制——我们失去你的信号了！[巨响] 导航支援离线了——该死的拖船在哪儿？！[更响的撞击声][警报声响起]
+HA HA HA! Burn them all, Commander!	哈哈哈！把他们全烧了，指挥官！
+Ha! I have been waiting for this all week.	哈！我等这一周了。
+HAH, burn in hell Sybil, burn in hell.	哈哈，在地狱里烧吧，西比尔，在地狱里烧吧。
+HAHAHAHA, AWWRK! Ok I figured it out, we can't just jump directly there, but nothing will stop us from riding the solar winds in. Oh this is going to be fun!	哈哈哈哈哈，嘎嘎！好，我想明白了，我们不能直接跳到那里，但没什么能阻止我们乘着太阳风进去。哦，这一定会很有趣！
+Hang on a second. I'm getting a comm message over an unknown channel. Baumann again, I'm sure, but… wait. Motherf—\r\n\r\nThis can't be happening. It just… <i>can't</i>!	等一下。我收到一条未知频道的通讯。肯定又是鲍曼，不过……等等。妈的——\r\n\r\n这不可能发生。它……<i>不可能</i>！
+Hate to interrupt, but the party's about to get started down there. I've got a lance of hostile 'Mechs converging on the spaceport.\r\n\r\nThe Black Widow herself is nowhere to be seen, so I guess that Yang's "let's throw the Moderbjörn's drones at her" plan is working out.	不想打断，但下面的派对要开始了。我有一支敌军机甲小队正扑向太空港。\r\n\r\n黑寡妇本人不见踪影，所以我猜杨那个"把 Moderbjörn 的无人机全扔向她"的计划奏效了。
+He can laugh all he likes. If we live through this, I'm counting it a win. Now buckle in, everyone—I'm getting us the hell out of here!	他爱怎么笑就怎么笑。如果我们能活下来，我就算赢了。现在都系好安全带——我带大家离开这鬼地方！
+He has issued a zellbrigen. He is challenging the Red Corsair and us to a duel right here on the planet. We are instructed to hold position or we will be fired upon.	他发出了 zellbrigen 挑战。他要在这颗星球上向红海盗和我们发起决斗。我们奉命原地待命，否则就会遭到攻击。
+Here we are, XO—scenic New Jakobstad, the shiniest combat zone on Fagerholm. I've got Bravo Lance on the comms, and their Drop Pods are prepared to launch. Are you reading us, Ombra?	我们到了，执行官——风景如画的新雅各布施塔特，法格霍尔姆最闪亮的战区。布拉沃小队已在通讯上，他们的空投舱准备发射。能收到吗，翁布拉？
+Hey, uh, Boss… just a heads-up. I'm picking up a DropShip on the Leopard's long-range sensors. Looks to me like the bad guys just called in the cavalry.	嘿，呃，头儿……提醒一下。我在豹式的远程传感器上探测到一艘运输舰。看来坏家伙们叫来了骑兵。
+Hold your tongue or I will have you gagged, you miserable swine. And Commander—thank you. My family is in your debt.	闭嘴，否则我就把你嘴堵上，你这可怜的猪猡。还有，指挥官——谢谢你。我们全家欠你的。
+Hopefully those brutes haven't damaged anything important. Ugh!	希望那些畜生没弄坏什么重要的东西。呃！
+Hostiles down! For the moment, the AO is clear.\r\n\r\nCan't imagine it'll stay that way for long, though. Moderbjörn, do you still have eyes on the Black Widow?	敌人倒下！目前战区已清空。\r\n\r\n不过我想这维持不了多久。Moderbjörn，你还能看到黑寡妇吗？
+Hostiles incoming through a side canyon! Looks like they had to backtrack from Tunnel Alpha… they're looking pretty chewed up.	敌人从侧峡谷杀来！看来他们不得不从阿尔法隧道原路折返……看起来被打得很惨。
+Hostiles incoming through Tunnel Alpha! Take them out!\r\n	敌人正从阿尔法隧道杀来！干掉他们！\r\n
+House Marik is hitting us a hell of a lot harder than we're hitting them. I'm pulling us out of this—we're done.	马里克的攻势比我们猛烈得多。我决定撤出——我们完了。
+How did they even manage to get their hands on the blueprints? That's confidential information! We need to shut them down and retrieve that data immediately!	他们究竟是怎么拿到蓝图的？那是机密信息！我们必须阻止他们并立即夺回数据！
+Hurry or all will be lost, target the Mercs!	快点，否则一切就完了，瞄准那些佣兵！
+Hurry, I am sick of this nonsense.	快点，我受够这种荒唐事了。
+I can't help it if my fans admire me so much and want to partake. This isn't a feeling you're familiar with is it?	我的粉丝这么崇拜我、想参与其中，我也没办法。这种感觉你不熟悉吧？
+I can't help it if my fans are ravinous for some action. I can't help I am beautiful.	我的粉丝渴望点刺激，我也没办法。我这么美，我也没办法。
+I could kill you <i>now</i> if I wanted to. But shooting a downed foe isn't sporting, and I'd prefer to let you stew in your own humiliation. Now run along before I change my mind.	只要我愿意，<i>现在</i>就能杀了你。但射杀倒地的敌人不够体面，我宁愿让你在自己的屈辱里煎熬。趁我还没改变主意，快滚吧。
+I curse you for this, Marina Liao—now and forever, I curse you and the Chancellor both. You seek to <i>murder us</i> for our beliefs, and we have done <i>nothing</i> to you.	我为此诅咒你，廖玛丽娜——从今往后，永远诅咒你和议长。你们想因为我们的信仰<i>谋杀我们</i>，而我们对你们<i>什么</i>都没做。
+I don't want to say "I told you so," but… I think we just got double-crossed. They're after Carlyle, but I bet we're acceptable collateral damage.	我不想说"我早告诉过你"，但是……我觉得我们刚被摆了一道。他们的目标是卡莱尔，但我打赌我们也算可接受的附带损失。
+I have marked the three regions where you will need to place the targeting beacons. The beacons take time to place, so you will need to keep a unit nearby to defend them.	我已标出三处需要放置制导信标的区域。信标放置需要时间，所以你得留一支部队在附近防守。
+I hear you just handed my friends a regulation ass-kicking.\r\n\r\nSuppose I should thank you for that. It'll give me something new to rib 'em about at our celebration party.	听说你刚把我的朋友们狠狠地揍了一顿。\r\n\r\n我想我该谢谢你。这给了我新的把柄，好在庆功宴上打趣他们。
+I honestly do not understand how it can be this difficult to kill One. Single. Person. AWK!	我真不明白，杀一个人怎么就这么难。嘎！
+I just got word that Garrilac wasn't in it. Sumire's got him on tight beam… the call will be on your viewscreen when you're ready.	我刚得到消息，加里拉克不在里面。苏米尔用定向通讯联系上他了……你准备好时通话会显示在你的屏幕上。
+I just got word we have a new contender! \r\nWho paid for them?  Nobody knows! \r\nWhy are they fighting?  Nobody cares! \r\nEveryone just wants to see the 'Mech destruction. And I can't blame them!	我刚得到消息，我们有了一位新挑战者！\r\n谁出钱雇的？没人知道！\r\n他们为什么而战？没人在乎！\r\n大家只想看机甲被摧毁。我也不能怪他们！
+I just got word we have a new contender! \r\nWho paid for them? Nobody knows! \r\nWhy are they fighting? Nobody cares! \r\nEveryone just wants to see the 'Mech destruction. And I can't blame them!	我刚得到消息，我们有了一位新挑战者！\r\n谁出钱雇的？没人知道！\r\n他们为什么而战？没人在乎！\r\n大家只想看机甲被摧毁。我也不能怪他们！
+I shall leave you to it, Mr. Oliveira. Let none of you forget—this woman is an honorless war profiteer. Show her no mercy!	我就交给你了，奥利维拉先生。你们都别忘了——这个女人是无耻的战争贩子。别对她手下留情！
+I swear, Corbu, if you split with <i>my</i> treasure…	我发誓，科尔布，你要是敢分<i>我的</i>财宝……
+I take no pleasure in this, Lady Arano… but we're under orders. You can end this by surrendering to Commodore Ostergaard. Until you do, your people will suffer for you. 	我对此并不感到愉快，阿拉诺女士……但我们奉命行事。你向奥斯特高准将投降就能结束这一切。在那之前，你的人民会替你受苦。
+I thank you for your support, Commander {COMMANDER.LastName}. We are almost done here.	感谢你的支持，{COMMANDER.LastName}指挥官。我们这边快结束了。
+I think we can pull out— [static] —oh, hell. [static]	我想我们可以撤了——[静电]——哦，该死。[静电]
+I understand your concern for safety, Commander, but the potential of this data is too great to ignore. Move forward and bring back the research.	我理解你对安全的担忧，指挥官，但这份数据的潜力太大，不容忽视。继续推进，把研究带回来。
+I want you to go in with guns blazing and pull the whole structure down on top of Lees. Bury that rat bastard under a ton of rubble—he's more than earned it.	我要你火力全开地杀进去，把整座建筑都掀到利斯头上。把那个老鼠混蛋埋在成吨的瓦砾下——他早就该有此下场了。
+I want you to go in with guns blazing and pull the whole structure down on top of the Pirates.  By all means they have more than earned it.	我要你火力全开地杀进去，把整座建筑都掀到海盗头上。他们绝对早就该有此下场了。
+I warned you, {COMMANDER.LastName}—you can't kill me. Better MechWarriors than you have tried. Now, because I'm in a magnanimous mood, I'll let you take what's left of your lance off the field… just as soon as you pay us what you owe us. Pleasure doing business with you.	我警告过你，{COMMANDER.LastName}——你杀不了我。比你强的机甲战士都试过。现在，因为我心情宽宏，我会让你带着残部离开战场……只要你把欠我们的付清。合作愉快。
+I will be in contact with you shortly.	我很快会与你联系。
+I will finally put this behind me. By killing the bitch who stole my minions.	我终于能把这一切抛在身后了。杀了那个偷走我手下的婊子。
+I will grind your 'Mechs up and use them as MULCH	我要把你的机甲碾碎，拿去当覆盖物
+I will have words for her remains.	我会找她的残骸算账。
+I will make Sybil pay for trying to take her minions back!	我要让西比尔为试图夺回她的手下付出代价！
+I wish you luck, I really do… not that it'll do you much good. I'm gonna drill your pilots, one by one, right through their little cockpits. And you're gonna watch me do it.	祝你好运，真心的……虽然对你没什么用。我会一个接一个地打穿你飞行员的座舱。而你要看着我这么做。
+I… but… this is <i>incredible</i>! They must've been sitting dormant on that platform for centuries. See how <i>new</i> they all look?	我……但是……这太<i>不可思议</i>了！它们一定在那平台上沉睡了好几个世纪。你看它们看起来多<i>新</i>？
+If you can get my datapad though, we will even have more information to play with. Always the possibility I missed something.	不过如果你能拿到我的数据板，我们就有更多信息可以研究。我总有可能漏掉什么。
+If you can stop <i>all</i> of the Agressors APCs from reaching the command center, my people will get this spaceport's turrets up and running for you.	如果你能阻止<i>所有</i> Agressor 装甲运兵车抵达指挥中心，我的人就能让这座太空港的炮塔重新运转起来。
+If you're finished with this little diversion, you still have a job to do. So get to it, Commander—my patience is wearing thin.	如果你玩够了这场小插曲，你还有活儿要干。那就去干吧，指挥官——我的耐心快耗尽了。
+I'll take chaos over concentrated fire any day. Plus, Lady Marina said that she's got reinforcements en route to help us. So… go team, I guess?	我宁愿要混乱，也不要集中火力。再说，玛丽娜女士说她的援军正在赶来帮忙。所以……加油吧，我猜？
+I'll take chaos over concentrated fire any day. Plus, the Magistracy is supposed to have reinforcements en route to help us. So… go team, I guess?	我宁愿要混乱，也不要集中火力。再说，卡诺帕斯女权国应该也有援军正在赶来帮忙。所以……加油吧，我猜？
+I'll take chaos over concentrated fire any day. Plus, the Taurians are supposed to have reinforcements en route to help us. So… go team, I guess?	我宁愿要混乱，也不要集中火力。再说，金牛座人应该也有援军正在赶来帮忙。所以……加油吧，我猜？
+I'm afraid that we won't be able to make a move if any of them get through; I just don't have the numbers to go up against their infantry in a ground fight. Best of luck, Commander.	恐怕只要他们有一个漏网，我们就动不了；我手头的兵力不足以在地面战中对抗他们的步兵。祝好运，指挥官。
+I'm landing a team of APC transports at your location, Commander. We'll load the citizens into them after the area has been scourged of mercenary filth... excluding your lance, naturally	我正派一队装甲运兵车前往你的位置，指挥官。等这片区域清除了佣兵渣滓后，我们就把平民装上车……当然，你的小队除外
+I'm no great lover of bloodshed, Mr. Oliveira. But neither am I squeamish about its necessity.\r\n\r\nTruth be told, this call was for my own benefit. I hate ordering the deaths of people I haven't looked in the eye. It feels so… <i>impersonal</i>.	我并非嗜血之人，奥利维拉先生。但我也不会因为必要而畏缩。\r\n\r\n说实话，这通电话是为我自己打的。我讨厌下令杀死我未曾直视过眼睛的人。那感觉太……<i>没有人情味</i>。
+I'm no great lover of bloodshed, Mr. Oliveira. But neither am I squeamish about its necessity.\r\n\r\nWhen my mercenaries are finished with you, I'll see that you're given a proper burial. A sign of respect from one businessperson to another.	我并非嗜血之人，奥利维拉先生。但我也不会因为必要而畏缩。\r\n\r\n等我的佣兵解决掉你们，我会确保你们得到体面的安葬。这是生意人对生意人的尊重。
+I'm seeing Agressor units coming in through a side canyon. They look damaged… the trip back from what's left of Tunnel Bravo seems to have taken its toll.	我看到 Agressor 部队正从侧峡谷涌入。他们看起来伤痕累累……从布拉沃隧道残骸折返的路程显然让他们吃尽了苦头。
+I'm seeing another drop of a Agressor APC on radar.\n	我在雷达上又看到一辆 Agressor 装甲运兵车空投。\n
+I'm sorry Commander, it seems that we will need to regroup and reconsider our approach. Our mission has unfortunately not been successful	抱歉，指挥官，看来我们得重新集结并重新考虑方案。我们的任务不幸未能成功
+I'm sorry you thought you stood a chance. It's sad, really... You know I've studied the 'Mech for over 20 years... mastering the most advanced fighting techniques in the verse.	抱歉，让你以为自己有机会。真可悲……你知道我研究机甲二十多年了……精通这世上最先进的战斗技巧。
+I'm sorry, Commander. These Lyrans are animals. They're hitting way harder than we can handle. Our lance is shattered—we can't go on.	抱歉，指挥官。这些天琴人就是野兽。他们的攻势远超我们的承受能力。我们的小队被打散了——无法继续。
+I'm well aware of that, and I thank you for doing what's right—as your XO said, most mercenaries wouldn't. We'll be waiting for you at the rendezvous point. Zapata out.	我很清楚，也感谢你做了正确的事——就像你的执行官说的，大多数佣兵不会。我们会在集结点等你。萨帕塔完毕。
+Impressive work, Commander… this should make evacuating the Volkovites a lot easier. And for what it's worth, I respect the hell out of the fact that you were willing to turn your back on House Liao to help these people.	干得漂亮，指挥官……这应该能让沃尔科夫人的撤离轻松不少。而且不管怎样，我很敬佩你愿意背弃廖家来帮助这些人。
+In the next few minutes I'm going to take out every one of you, and then I'll have my sweet neko pets. You guys won't even make me flinch	接下来的几分钟里，我会把你们一个个解决掉，然后我就有可爱的猫娘宠物了。你们连让我皱一下眉头都做不到
+Indeed they will, Gigante. Indeed they will. Contestants, I call upon you to <i>destroy</i> your rivals! Smash their BattleMechs without hesitation or mercy, for only one of you may be crowned champion!	的确会，吉甘特。的确会。选手们，我号召你们<i>摧毁</i>对手！毫不犹豫、毫不留情地砸碎他们的战斗机甲，因为你们中只有一人能加冕冠军！
+Inner Sphere needs this intel {COMMANDER.FirstName}, I'll be recording this fight for broadcast, so try to put on a good show. Give 'em the business. Oliveira out.	内天体需要这份情报，{COMMANDER.FirstName}，我会录下这场战斗用于转播，所以尽量打得好看些。给他们点厉害瞧瞧。奥利维拉完毕。
+Instruments are next to useless with this much interference. You will have to rely on your own eyesight and being up close and personal with the enemies to get target locks.	干扰这么强，仪器几乎没用。你得靠自己的眼睛，贴近敌人才能锁定目标。
+Is that what you think? How adorable.\r\n\r\nLet's get this over with, {COMMANDER.LastName}. I promise I'll make it quick.	你是这么想的？真可爱。\r\n\r\n我们了结吧，{COMMANDER.LastName}。我保证会很快。
+It appears to be part of the Neko Holding Facility. We can't stop them. They'll keep coming until we crack this base, so hurry up.	它似乎是猫娘收容设施的一部分。我们阻止不了他们。他们会不断涌来，直到我们攻破这座基地，所以快点。
+It appears to be subterranean, and hardened. We can't take it out, they will keep coming until the artillery lands. So move quickly.	它似乎是地下设施，而且加固过。我们打不掉它，他们会不断涌来，直到炮火落地。所以动作快点。
+It doesn't matter, Meyer—we need to take our haul and go. Sparrow, you've got yourself a deal. And if anyone asks you what happened here, you tell 'em that Subcommander Boris Tianyu attacked his own mercenaries over a contract dispute.	无所谓，迈耶——我们得带上收获走人。斯派洛，成交。如果有人问起这里发生了什么，你就告诉他们，鲍里斯·田宇少校因为合同纠纷袭击了自己的佣兵。
+It's a rare gift we Nyans have, and while we're able to perform without our gear... this is special to us, you've done a lot of good here.	这是我们猫娘一族罕见的天赋，虽然我们没有装备也能表演……这对我们很特别，你在这里做了很多好事。
+It's getting pretty rough in here, Boss… I can hear the sound of buildings going down all around me. You've gotta stop those idiots before they pull this whole structure down on our people's heads.	这里情况越来越糟，头儿……我能听到四周建筑倒塌的声音。你得阻止那些蠢货，别让他们把整座建筑砸到我们的人头上。
+It's no good, Commander… there's nothing more that we can do for the local population. I'm pulling our people out.	不行了，指挥官……我们为当地平民无能为力了。我要把我的人撤出来。
+I've got bad news for the lot of you. You're standing between <i>me</i> and </i>my treasure</i>, and that's a <i>bad</i> place for you to be. Now, smashing your 'Mechs won't be <i>quite</i> as satisfying as dunking your heads in a bucket of blood limpets, but given the circumstances, I'm willing to settle.	我给你们所有人带来了坏消息。你们挡在<i>我</i>和</i>我的财宝</i>之间，那对你们来说是个<i>糟糕</i>的位置。打碎你们的机甲虽然不如把你们的头按进一桶血帽贝里<i>那么</i>解气，但鉴于眼下情况，我愿意将就。
+I've highlighted several optional objectives for you on this mission, Commander. Saving some of the ammunition that's already packaged for transport will earn us a bonus payment. If we manage to preserve the bulk of the ammunition, we will receive a second, cumulative payment. Finally, We will receive a bounty for any Target transports we manage to destroy during the engagement.	指挥官，我在这项任务中为你标出了几个可选目标。保住一些已打包待运的弹药能为我们赢得额外报酬。如果我们能保住大部分弹药，还能获得第二笔累计付款。最后，战斗中每摧毁一辆目标运输车，我们都能获得赏金。
+I've tried. He's "indisposed." You'd better get back up here anyway, though… I've got something you need to see.	我试过了。他"身体不适"。不过你最好还是回上面来……我有东西你得看看。
+Just finished! Come pick us up, and we’ll get the hell out of here!	刚完成！来接我们，我们离开这鬼地方！
+Kell is a fool to challenge me. Don't screw up. Just make sure we win this and all will be worth your time.	凯尔挑战我是愚蠢的。别搞砸。确保我们赢下这场，一切就都值得你花时间。
+Key structures for are marked for complete ruination. Hopefully we don't end up damaging important data or equipment in the process, we could really use it.	关键建筑已标记为彻底摧毁。希望我们别在这个过程中损坏重要数据或设备，我们真的很需要它。
+Let's save the small talk for later, eh? We still need to get Persephone and her people off-planet, and House Liao is bound to have another strike team en route. You need to get them to safety, and you need to do it now.	闲聊留到以后吧，好吗？我们还得把珀耳塞福涅和她的人送出这颗星球，廖家肯定还有一支打击队在路上。你得把他们送到安全地带，而且必须现在就行动。
+Lets talk about this in a more secure location.	我们换个更安全的地方谈。
+Like th' Albatross, ye be jinxed.	就像信天翁一样，你被诅咒了。
+Lock and load, we've got company!	装弹上膛，我们有伴了！
+Long-range scans provided to us by our contractor shows Agressor forces converging on this location along three separate vectors.	承包商提供的远程扫描显示，Agressor 部队正沿三条不同路线向此处集结。
+Looks like more of the same, I just want a glass of Bourbon after this.	看来又是老一套，这之后我只想来杯波本。
+Looks like our scouts reported back correctly for once without getting distracted. Heavy turrets keeping us away, get rid of them so we can move in.	看来我们的侦察兵终于报告准确了一次，没被分心。重型炮塔把我们挡在外面，干掉它们，我们好推进。
+Looks like our surprise visitor is having some problems. \r\nScratch that they have been eliminated.	看来我们那位不速之客遇到了些麻烦。\r\n等等，他们已被消灭。
+Looks like our surprise visitor is having some problems. \r\nScratch that, they have been eliminated.	看来我们那位不速之客遇到了些麻烦。\r\n等等，他们已被消灭。
+Looks like pirates and their loyalties are as deep as the Kraken.	看来海盗和他们的忠诚深得像海妖。
+Looks like someone is going to have a long night tonight. \r\nThat is just how the cookie crumbles. \r\nDuncan Fisher here, I hope that everyone has a better day than the Commander!	看来今晚有人要熬长夜了。\r\n世事就是这么无常。\r\n我是邓肯·费舍尔，希望各位今天过得都比指挥官好！
+Looks like the crew has seized some light vehicles to make their escape. We'll need to run interference for them 'til they reach their pickup point.	看来船员们抢了几辆轻型载具准备逃跑。我们得为他们提供掩护，直到他们抵达接应点。
+Looks like the target has noticed us.	看来目标注意到我们了。
+Looks like these are fresh 'Mechs commander, be careful.	看来这些是崭新的机甲，指挥官，小心。
+Looks like they are asking for help in a rescue mission. They are sending coordinates now.	看来他们在请求执行救援任务。他们正在发送坐标。
+Looks like they have a motorpool.	看来他们有个车辆调度场。
+Looks like they have dropped two lances here. I have eyes on one of them.	看来他们在这里空投了两支小队。我看到了其中一支。
+Me neither, but it's refreshing to work for someone who's <i>obviously</i> sketchy for a change. I mean, most of our clients are just as bad, but they're much better at hiding it.	我也一样，但偶尔为一个<i>明显</i>可疑的人干活反倒让人耳目一新。我是说，我们大多数客户也一样坏，只是更善于掩饰。
+Men Lojowen is <i>my</i> island, Binton. If I catch either of you near that vault, you'll only <i>wish</i> you were dead. I've got a bucket of Proserpinan blood limpets and a vivid imagination, and I'm feeling eager to use 'em.	洛乔文是<i>我的</i>岛，宾顿。要是我抓到你们任何一个靠近那个金库，你们只会<i>恨不得</i>自己死了。我有一桶普洛塞庇娜血帽贝和一个鲜活的想象力，而且我迫不及待想用上它们。
+Mercenary Commander, we've received word of the assault on your position. Reinforcements are incoming, they are about halfway there. Maintain position and you will be relieved and reinforced in short order.	佣兵指挥官，我们收到你方遭袭的消息。援军正在赶来，大约走到一半了。坚守阵地，很快就会有人来接替你并补充兵力。
+Mercenary Commander: this is the Draconis [[DM.BaseDescriptionDefs[LoreISF],Internal Security Force]]. We are interdicting this world in pursuit of the wanted criminal Grayson Carlyle. Do not attempt to enter orbit, or you will be fired on.	佣兵指挥官：这里是德拉科尼斯[[DM.BaseDescriptionDefs[LoreISF],内务安全部队]]。我们正封锁这颗星球，追捕通缉犯格雷森·卡莱尔。不要试图进入轨道，否则将遭到攻击。
+Might wanna hold off on that gloating, Yang—we've got a problem. You remember that Achilles-class DropShip we saw in Wallo's hangar? The one that was up on blocks, and nowhere near ready for launch?	也许先别急着得意，杨——我们有麻烦了。你还记得我们在瓦洛机库里看到的那艘阿喀琉斯级运输舰吗？就是那艘架在垫块上、远未准备好发射的？
+Mission accomplished, Commander. But it's always a shame to see so much destruction. Let's hope they'll think twice before setting up another base here..	任务完成，指挥官。但看到这么多破坏总是令人遗憾。希望他们再在这里设基地前会三思。
+Mom… don't do this. Please, you're going to get yourself killed. Or you're going to kill the one person who can save us from bankruptcy.	妈……别这样。求你了，你会害死自己的。或者你会杀死唯一能救我们免于破产的人。
+My goodness I had no idea such vile people could congregate in these numbers. They're swarming out of the garages now.	天哪，我真没想到这么卑劣的人能聚集成这种规模。他们正从车库里蜂拥而出。
+My mother was right—you can no more trust a Singh than you can a serpent! This attack on my holdings will not stand, do you hear me?! I will <i>destroy</i> you for what you've done today!	我母亲说得对——辛格家的人跟毒蛇一样不可信！这次袭击我的产业绝不能容忍，听到了吗？！我要为你们今天的所作所为<i>摧毁</i>你们！
+My sensors picked up a weird signal coming from an object in geosynchronous orbit. Sort of a blip… it was there, but then…\r\n\r\nHold up. I've got eyes on our targets. Zeta Lance is on the move, and it's heading this way.	我的传感器探测到来自地球同步轨道某个物体的奇怪信号。有点像光点……它在那里，但接着……\r\n\r\n等等。我看到目标了。泽塔小队正在移动，朝这边来了。
+Never could stand peas, the little green bastards. Why, I feel ill just thinking about 'em. <i>Violently</i> ill, if you catch my meaning.	我一直受不了豌豆，那些绿色的小混蛋。唉，光是想想就不舒服。<i>剧烈地</i>不适，如果你懂我意思。
+Nice job, kids. Never seen a company dig its own grave as enthusiastically as you just did.\r\n\r\nYou're all dead now, by the way. When Notker Baumann gets wind of what you've done—	干得好，孩子们。从没见过哪家公司像你们刚才那样热情地自掘坟墓。\r\n\r\n顺便说一句，你们现在都死定了。等诺特克·鲍曼得知你们的所作所为——
+Nicely done, Commander {COMMANDER.LastName}—I knew that I could count on you. My personal DropShip is currently en route to New Rennes, where Tiesa Norkus— [static]	干得好，{COMMANDER.LastName}指挥官——我就知道能指望你。我的私人运输舰正前往新雷恩，蒂萨·诺库斯在那里——[静电]
+Nicely done, Commander—you've just sent the Zhao siblings a hell of a message. When they cut and run, we'll deliver the postscript.	干得漂亮，指挥官——你刚给赵家兄妹送去一个可怕的消息。等他们逃跑时，我们会送上附言。
+No time to waste move up to the next area. Those ComStar Loons are nearby I can smell em.	没时间浪费了，推进到下一个区域。那些彗星疯子就在附近，我能闻到他们的味道。
+No… he wouldn't. If your people are going to escape, these BattleMechs will have to be dealt with.	不……他不会的。如果你们的人想逃出去，这些战斗机甲就必须解决掉。
+Not many Loot Boxes there, shame.	那里的战利品箱不多，可惜。
+Nothing can withstand my elegance!	没有什么能抵挡我的优雅！
+Nothing more to do here Commander, let's go home.	这里没什么可做的了，指挥官，我们回家吧。
+Now that the nut is cracked, let see what is inside.	既然坚果已经敲开，看看里面是什么。
+Now that's what I call a heist! Four beautiful 'Mechs, and all for the bargain price of two short combat drops and a couple of pissed-off rich guys. Honestly, Boss, you should let me plan our deployments more often.	这才叫我说的抢劫！四台漂亮的机甲，代价只是两次短暂的空降作战和两个气急败坏的富人。说实话，头儿，你该让我多负责规划部署。
+Now you are going to try and steal from me as well? You have some balls, Commander!	现在你还想从我这里偷东西？你胆子不小，指挥官！
+Objective secured, Lets get to the secondary pickup site as quickly as we can.	目标已占领，尽快前往次要接应点。
+OH goody, reinforcements! They are lootboxes when you kill them!	哦太好了，援军！杀了他们就是战利品箱！
+OH goody, Reinforcements. They are lootboxes when you kill them!	哦太好了，援军。杀了他们就是战利品箱！
+Oh, come on. They're vehicles! How much trouble could they be? Just step on them and keep going—you're nearly there!	哦，得了吧。它们只是载具！能有多大麻烦？踩过去继续前进——你就快到了！
+Oh, th' Warden tells us that they 'ave me booty in th' base I was goin' ta blow sky high anyway.	哦，"典狱长"告诉我们，我的财宝就在那座我本来就打算炸上天的基地里。
+Okay, Commander, I've set our lance down just outside the Baumann Group's visual range.\r\n\r\nDefenses will probably run on the heavy side, so I'd recommend approaching with caution.	好的，指挥官，我把我们的小队降落在鲍曼集团视野之外。\r\n\r\n防御大概会偏重，所以我建议谨慎接近。
+On the other hand, if we fight him and win, we'll be famous. We could jack up our rates.\r\n\r\nHell with it, we're pushing forward. If the Bounty Hunter wants a piece of us, we'll give it to him. Let's see how good this guy really is.	另一方面，如果我们跟他打并赢了，我们就会出名。我们还能顺势涨价。\r\n\r\n管他呢，我们继续推进。赏金猎人想要分一杯羹，我们就给他。看看这家伙到底有多强。
+Once the Dropship enters orbit and lines up for its attack run, we will have a limited timeframe before the Clan detects her and dispatches interceptors. You will need to prioritize accordingly.	一旦运输舰进入轨道并进入攻击航线，我们在氏族发现她并派出拦截机之前只有有限的时间。你得相应地安排优先级。
+Once you break her out you will have to get to the extraction site. Remember, the vehicles will not move unless you are close to them.	把她救出来后，你得赶到撤离点。记住，除非你靠近，那些载具不会移动。
+Once you clear the area and move up, they'll embark again.	清空区域并推进后，他们会再次登车。
+Once you clear the area and move up, they'll embark again. We have to assume that the Federated Suns believe we still have the stasis tubes—and they'll be shooting to kill.	清空区域并推进后，他们会再次登车。我们必须假定联邦太阳军认为静止舱还在我们手上——而且他们会开枪杀人。
+Once you clear the area and move up, they'll embark again. We have to assume that the Federated Suns know what our cargo is—and they'll be shooting to kill.	清空区域并推进后，他们会再次登车。我们必须假定联邦太阳军知道我们的货物是什么——而且他们会开枪杀人。
+Once you clear the area and move up, they'll embark again. We have to assume that the Pirates know what our cargo is—and they'll be shooting to kill.	清空区域并推进后，他们会再次登车。我们必须假定海盗知道我们的货物是什么——而且他们会开枪杀人。
+Once you place all the beepy things, sit back and enjoy the show.	把所有那些滴滴响的东西放好后，就坐下来看好戏吧。
+Once you've reached the facility and extracted what you need, move to the LZ.	抵达设施并提取你需要的物品后，前往着陆场。
+Once you've reached the facility and searched it top to bottom, move to the extract location. We've got transport arranged and waiting.	抵达设施并彻底搜查后，前往撤离点。我们已经安排好运输工具在等着。
+One down. Keep engaging those threats and we'll be out of here in no time.	解决一个。继续接敌，我们很快就能离开这里。
+One group is moving along the main approach…	一组正沿主通道移动……
+One of the flanking lances snuck through. Be prepared for a fight	一支侧翼小队溜了进来。准备战斗
+Oooh, we have the base coordinates. This is going to be fun!	哦，我们拿到基地坐标了。这下有趣了！
+OOOOHH... such pretty fireworks. Got to love a good base busting in the morning.	哦哦哦……好漂亮的烟花。早上来一场漂亮的基地爆破真是享受。
+Opening COMs, looks like we have a serious situation here.	打开通讯，看来这里情况严重。
+Our advanced recon tactics scouts have marked three zones in which beacons must be placed to ensure top efficiency and total destruction of the facility.	我们的高级侦察战术侦察兵标出了三处必须放置信标的区域，以确保最高效率和彻底摧毁设施。
+Our friends provided by our contractor have provided us with Combat Engineers to collapse the passes, but Taurian units in the area will destroy them if they get the chance. Go in with guns blazing and attract their attention. Any enemies that you fail to engage will make short work of our engineers.	承包商为我们提供的友军派来了战斗工兵来炸塌山口，但该区域的金牛座部队一有机会就会摧毁他们。火力全开地杀进去，吸引他们的注意力。任何你没有接战的敌人都会迅速解决我们的工兵。
+Our ground teams report that none of the vehicles were occupied; they were all remotely piloted—in other words, decoys. How aggravating.	我们的地面小组报告，所有载具都无人驾驶；它们全是遥控的——换句话说，是诱饵。真恼人。
+Our mission parameters have changed: defend this facility, standard garrison unit combat pay.	我们的任务参数变了：守住这座设施，按标准驻防单位发放战斗津贴。
+Our scouts reported additional forces supporting their leader. They desperately want their pets, this won't be an easy fight. Prepare for action!	我们的侦察兵报告，有额外部队支援他们的首领。他们迫切想要回他们的宠物，这不会是场轻松的仗。准备行动！
+Quickly! The gun is reaching critical mass. I don't want it to prematurely shoot off	快！主炮正在接近临界质量。我不想让它提前走火
+Ready to roll out, Commander! Keep the hostiles off of us—we can get Stieglitz-Bradford's payload from Point A to Point B, but we aren't equipped to fight.	准备出发，指挥官！别让敌人靠近我们——我们能把斯蒂格利茨-布拉德福德的有效载荷从 A 点运到 B 点，但我们没有作战能力。
+Reeeee! All Mercenary forces, converge on their positions. They're trying to break our property!	嘶——！所有佣兵部队，向他们的位置集结。他们想破坏我们的财产！
+Remember that when you cut us our check. And, uh, if it wouldn't be too much trouble… maybe ask your Maskirovka pals to take it easy on that prisoner. She's already been through a lot.	记得给我们开支票时算上这个。还有，呃，如果不太麻烦的话……也许请你的 Maskirovka 朋友们对那名囚犯手下留情。她已经受了很多苦。
+Remember!  They are only reinforcements 'til you kill them. Then they are loot boxes.	记住！他们只是援军，直到你杀了他们。然后他们就是战利品箱。
+Return to the Argo, I got some revenge to dish out. I am sending coordinates to the next mission now.	回 Argo 号，我有些仇要报。我现在把下一个任务的坐标发过去。
+Roger that, Force Commander Singh—consecutive deployments it is. We'll adjust our tactics accordingly.	收到，辛格部队指挥官——连续部署是吧。我们会相应调整战术。
+Roger that, Mr. Oliveira—in your position, you'd better believe I'd do the same. Drinks are on us when we get out of here. Carronade out.	收到，奥利维拉先生——换作你，你最好相信我也会这么做。等我们离开这里，酒钱我们请。Carronade 完毕。
+Roger that, Oliveira—we are all packed up and ready to roll. We're under orders to beeline it to the Mech Bay as soon as you reach the rendezvous point, so I hope that your MechWarriors can keep up.	收到，奥利维拉——我们已收拾完毕准备出发。我们奉命在你抵达集结点后立即直奔机甲库，所以希望你的机甲战士能跟上。
+Sappers are outbound for Tunnel Alpha, Commander. Keep the bad guys off of us, and we'll do our part.\n	工兵正前往阿尔法隧道，指挥官。别让坏人靠近我们，我们会尽自己的职责。\n
+Says the man who just humiliated himself and the DCMS on the battlefield. You're in a lot more trouble than we are, Chu-i Hironaka… but you've got more immediate worries.	这话出自一个刚在战场上让自己和 DCMS 蒙羞的人。你的麻烦比我们大得多，弘中中尉……不过你有更紧迫的烦恼。
+So we go after Jimmy again? No time to restock, I would assume.	所以我们又要去追吉米了？我猜没时间补给了。
+Solaris has signaled they will take his dice only if you can't get him out of there.	索拉里斯已经发话，只有你救不出他，他们才会收下他的骰子。
+Solaris Stable Gladiators are on the ground in the area of operation.	索拉里斯马厩角斗士已在作战区域着陆。
+Someone has to know where Sybil is holing up. Guess no one here knows. I heard where another group of her cronies are hiding.	总有人知道西比尔藏在哪儿。看来这里没人知道。我听说她另一群手下的藏身之处。
+Sometimes you have to do things yourself, Dropping.	有时候你得亲自动手。空降。
+Son of a— [series of muffled explosions][static]	妈的——[一连串沉闷的爆炸声][静电]
+Son of a lily-livered, horned toad looking, masochistic barber's uncle! Jimmy is in that base up ahead. Push on now, Commander!	妈的，这个胆小如鼠、长得像角蟾、受虐狂理发师的叔叔！吉米就在前面那座基地里。现在推进，指挥官！
+Soon... I have to talk to Jac- Agent X first, *Coughs, Wheezing*.	很快……我得先跟杰——X 特工谈谈，*咳嗽，喘息*。
+Sorry to butt in, but we just received a message from the 'Queen'. I hate to say it, but it looks authentic.	抱歉插一句，我们刚收到"女王"的消息。我不想这么说，但看起来是真的。
+Sorry, not as funny as I thought it would be.	抱歉，没我想的那么好笑。
+Sounds like a deal. Sumire, link up with the 'Queen' and get us up to the Argos.	听起来成交。苏米尔，与"女王"会合，把我们带到 Argos 号上。
+Speaking off the record, I understand your position completely. I don't always agree with Capellan law, but it is my duty to enforce it. As I told Persephone Volkov, it was nothing personal… it almost never is.	私下说，我完全理解你的处境。我并不总是认同天朝法律，但执行它是我的职责。正如我对珀耳塞福涅·沃尔科夫说的，这无关私人恩怨……几乎从来都不是。
+Stepping in the drop area may be good for polls, but it won't be good for your 'Mech repair costs.	踏进空投区也许对民调有好处，但对你的机甲维修费可没好处。
+Superb job Commander. There are... well there really are quite a few appreciative citizens of Canopus here. You have our gratitude	干得太棒了，指挥官。这里有……嗯，确实有不少心怀感激的卡诺帕斯公民。我们感谢你
+Take control of the facility and destroy any mercenary scum you encounter. Our scouts will search and rescue. Best of luck, Commander.	占领设施，摧毁你遇到的任何佣兵渣滓。我们的侦察兵会负责搜救。祝好运，指挥官。
+Thanks for the assist, we're clear. ATTN RYAN	谢谢支援，我们安全了。注意 RYAN
+That last building <i>must</i> remain standing, Commander! Keep fighting and push through—your client demands it!	最后一栋建筑<i>必须</i>保持屹立，指挥官！继续战斗，向前推进——你的客户要求如此！
+That looks like the last of 'em—I'm not seeing any more blips on my radar. Nothing left to do but circle back to the repair bay and wait.	看来那是最后一批了——我在雷达上看不到更多光点。没事可做，只能返回维修舱等待。
+That was an… unwise… display of disrespect, Commander Elliathy. I'd encourage you to change your tone before the Chancellor orders your death as well.	那是一次……不明智的……无礼表现，埃利亚西指挥官。我劝你在议长也下令处死你之前改改语气。
+That would make it a relic of the Star League.\r\n\r\nSumire, I need you to send me those readings right away.	那将是星际联盟的遗物。\r\n\r\n苏米尔，我需要你立刻把那些读数发给我。
+That's <i>another</i> DEST lance on the field. Christ, Carlyle, what did you do to these people to piss them off this much?	战场上又出现<i>一支</i> DEST 小队。天哪，卡莱尔，你到底对这些人做了什么，把他们惹成这样？
+That's a complete success, Commander. This facility is crumbling in on itself... what little remains anyhow. They won't be rebuilding this in a hurry.	彻底成功，指挥官。这座设施正在自行崩塌……不管还剩下多少。他们短时间内没法重建了。
+That's a damn shame, but if you wanna hide behind human shields, we're in no position to stop you. What we <i>can</i> do is keep you from making any more victims.	真遗憾，但如果你想躲在人盾后面，我们也没办法阻止你。我们<i>能</i>做的，就是阻止你制造更多受害者。
+That's both passes blocked! Nicely done, Commander—you've derailed their attack plan. Now go capitalize on it!	两处山口都封住了！干得漂亮，指挥官——你打乱了他们的进攻计划。现在去扩大战果！
+That's confirmed, Commander. I'm seeing hostile 'Mech signatures in the AO. I can't get a proper reading on their details, you'll have to get sensors on for further information	确认了，指挥官。我在战区看到敌方机甲信号。我无法准确读取细节，你得用传感器获取更多信息
+That's done it, Commander. I'll scoop up Zeta Lance's combat computers.\r\n\r\nWhen Farah locates Captain Magorian's bunker, we'll be off to the races.	搞定了，指挥官。我会收集泽塔小队的战斗计算机。\r\n\r\n等法拉定位到马戈里安上尉的掩体，我们就出发。
+That's going to be the [[DM.BaseDescriptionDefs[LoreDEST],DEST]] units. They'll shoot first and… they won't ask any questions at all, actually.	那会是[[DM.BaseDescriptionDefs[LoreDEST],DEST]]部队。他们会先开枪，然后……其实他们根本不会问任何问题。
+That's it, {COMMANDER.FirstName}—we're done here. Kell's gonna have to find someone else to soak up fire for him.	就是这样，{COMMANDER.FirstName}——我们结束了。凯尔得另找人来替他挡子弹了。
+That's it, Commander {COMMANDER.LastName}—our payload has been secured. On behalf of my entire crew, thank you. We never would've made it here without you.	就是这样，{COMMANDER.LastName}指挥官——我们的有效载荷已安全。我代表全体船员感谢你。没有你我们根本到不了这里。
+That's it, Commander {COMMANDER.LastName}—the last of the Razorback Company units is down. Elliathy is dead, and the path to the Volkovite compound is clear.	就是这样，{COMMANDER.LastName}指挥官——剃刀背连最后一支部队也倒下了。埃利亚西死了，通往沃尔科夫人营地的路已经畅通。
+That's it, mech recovering our Secondary Target is scraped. S&R will look for what's left. Focus on the Primary.	就是这样，回收次要目标的机甲已被打废。搜救队会去找残骸。集中对付主要目标。
+That's it. There's no way we can complete te mission nyao!	就是这样。我们喵法完成任务了！
+That's our cue, {COMMANDER.FirstName}—it's time to get to work. Hold the factory, and don't give Bisset an inch. It's important to our client that the OpFor fail by every conceivable measure before you break him.	该我们上场了，{COMMANDER.FirstName}——开工吧。守住工厂，寸土不让。我们的客户希望在你击溃他之前，让敌军在各方面都彻底失败。
+That's our cue, {COMMANDER.FirstName}—it's time to get to work. Hold the factory, and don't give Bisset an inch. It's important to Stieglitz-Bradford that he fail in his mission before you break him.	该我们上场了，{COMMANDER.FirstName}——开工吧。守住工厂，寸土不让。斯蒂格利茨-布拉德福德希望在你击溃他之前，让他的任务彻底失败。
+That's that, Commander—the patrol's down, and there's nothin' left to fight. You're as skilled as Lady Marina said you'd be.	就是这样，指挥官——巡逻队倒下了，没剩下什么可打的。你的本领正如玛丽娜女士所说。
+That's that. I taught her a lesson. Now to try and reclaim what is mine. Oh and Commander Sybil is not a nice lady. Expect her men to be out for your head. Don't worry though I have a plan.	就这样。我给她上了一课。现在去夺回属于我的东西。哦，还有，西比尔指挥官可不是什么好人。她的人会来取你项上人头。不过别担心，我有计划。
+That's the theory, and we're going to investigate it. But first, we engage the clamps.\r\n\r\nYou know what to do, Commander. I'll leave you to it.	理论上是这样，我们这就去调查。但首先，我们要对付那些夹具。\r\n\r\n你知道该怎么做，指挥官。交给你了。
+That's very kind of you, Sam. Hell, it's downright cordial. I'll try to keep this little exchange in mind the next time we meet. Because there <i>will</i> be a next time, Sam. And when it comes, <i>I'll</i> be the one holding the cards.	你真好心，山姆。简直是殷勤。下次见面时我会记着这次小小的交易。因为<i>一定会</i>有下次，山姆。到那时，<i>我</i>才是掌握主动权的人。
+The <i>Eyrie</i> cannot stay in orbit for very long, Commander; the Local Government will certainly wonder why a ComStar DropShip is loitering around their planet. That means there is a time constraint on your operation.	<i>Eyrie</i>号不能在轨道上停留太久，指挥官；当地政府肯定会奇怪一艘 ComStar 运输舰为何在他们星球附近徘徊。这意味着你的行动有时间限制。
+The Agressors are closing in on that barracks! If they take it, our wounded soldiers will be slaughtered!\r	Agressor 正在逼近那座兵营！如果他们拿下它，我们的伤兵会被屠杀！\r
+The Agressors have been going after fuel processors and refineries throughout the badlands, Commander. The fission plants that power our cities rely on the materials that are produced and refined here—uranium, deuterium for heavy water, you name it.	Agressor 一直在袭击整个荒地的燃料加工厂和炼油厂，指挥官。为我们城市供电的裂变电厂依赖这里生产和提炼的材料——铀、重水用的氘，你能想到的都有。
+The Agressors have been hitting us hard, Commander {COMMANDER.LastName}—the 2nd is nearly gone. But I do still have a few noncombatant personnel left under my command, and we'll do what we can to defend the planet.	Agressor 一直在重创我们，{COMMANDER.LastName}指挥官——第二团几乎打光了。但我手下还有一些非战斗人员，我们会尽力保卫这颗星球。
+The Agressors have just dropped a transport full of commandos! If they make it to our barracks, my injured soldiers are as good as dead. Please, Commander—stop them if you can!	Agressor 刚空投了一整船突击队！如果他们抵达我们的兵营，我的伤兵就死定了。求你了，指挥官——如果可能，阻止他们！
+The badlands are a gold mine of rare-earth metals and fissile materials. The enemy has seized control of our employer's largest processor and refinery, and they're getting ready to move a year's supply of exotic materials offworld.	荒地是稀土金属和裂变材料的金矿。敌人已经夺取了我们雇主最大的加工厂和炼油厂，正准备把够用一年的稀有材料运出星球。
+The base is lost, everyone lets head off world. We have new orders	基地失守了，所有人准备撤离星球。我们有新命令
+The base is reporting a heavy amount of attackers. Hope your humanitarian trip helps you sleep better at night. You know I have things I have to protect as well.	基地报告遭到大量攻击。希望你的人道主义之行能让你晚上睡得更安稳。你知道我也有必须保护的东西。
+The base is well defended, just as the ISF reported. If they keep it up like this, we might suspect them of… reliability.	基地防御严密，正如 ISF 报告的那样。如果他们一直这么能干，我们恐怕要怀疑他们……可靠了。
+The Bounty Hunter. As in, THE [[DM.BaseDescriptionDefs[LoreBountyHunter],Bounty Hunter]]. The one with the Holovid show and the action figures and the quadruple-digit kill count.\r\n\r\nI'm putting him through.	赏金猎人。就是那个[[DM.BaseDescriptionDefs[LoreBountyHunter],赏金猎人]]。有全息节目、动作人偶和四位数击杀记录的那个。\r\n\r\n我这就接他进来。
+The bulk of our Employer's army is entrenched in the capital, exchanging fire with what's left of the target's defense force. The battle is leaning in our Employer's favor, but they're running low on ammunition. This is where we come in.	我们雇主的主力部队盘踞在首都，与目标残存的防御部队交火。战局对我们雇主有利，但他们弹药快耗尽了。这就是我们上场的时候。
+The Dropship is destroyed and the space port is ours. Impressive, Commander.	运输舰已摧毁，太空港归我们了。干得漂亮，指挥官。
+The DropShips seem to have lost Navigation Lock.	运输舰似乎失去了导航锁定。
+The facility is heavily guarded, and if any of those munitions crates come under fire, the resulting explosion will deal heavy damage to anything caught in the blast. This includes target units.	设施戒备森严，如果任何弹药箱遭到射击，爆炸会对爆炸范围内的一切造成严重伤害。这也包括目标单位。
+The facility's transmission capabilities are neutralized, Commander. Well do—	设施的传输能力已被瘫痪，指挥官。干得漂——
+The facility's transmission capabilities are neutralized, Commander. Well done.—	设施的传输能力已被瘫痪，指挥官。干得漂亮。——
+The Forward Base is ours! Do you have what you need Agent X?	前进基地是我们的了！你拿到需要的东西了吗，X 特工？
+The goddamned [[DM.BaseDescriptionDefs[LoreBlackWidow],Black Widow]], that's who!\r\n\r\nDid I miss something, Commander? When did our search for the <i>Dobrev</i> turn into a meet-and-greet with Natasha-effing-Kerensky?	该死的[[DM.BaseDescriptionDefs[LoreBlackWidow],黑寡妇]]，就是她！\r\n\r\n我是不是漏了什么，指挥官？我们搜寻<i>多布雷夫</i>号的行动什么时候变成了和娜塔莎·克伦斯基本人的见面会？
+The hold full of contraband we just lifted says otherwise. I'd be happy to chat about it after we're all back in orbit. Drop me a line, {COMMANDER.LastName}… I'll be waiting.	我们刚搬走的满满一船违禁品可不是这么说的。等我们回到轨道上，我很乐意聊聊这事。给我留个信，{COMMANDER.LastName}……我等着。
+The Khan is down and their remaining forces are without a commander. All that is left is the cleanup. Well done, Commander.	可汗倒下了，残余部队群龙无首。剩下的就是打扫战场。干得好，指挥官。
+The Khan is down, Commander. A Leopard is on standby for pickup.	可汗倒下了，指挥官。一艘豹式运输舰已待命接应。
+The mercenary unit has fallen, Fall back and regroup.	佣兵部队已倒下，撤退并重新集结。
+The munitions factory that our {TEAM_EMP.FactionDef.Demonym} employers want us to take out is highlighted on your map. Intel says to expect light to moderate resistance.	我们{TEAM_EMP.FactionDef.Demonym}雇主想要我们摧毁的弹药厂已在地图上标出。情报显示预计会遇到轻到中度抵抗。
+The outcome was foregone. I merely carried out the inevitable.	结果早已注定。我只是执行了不可避免之事。
+The Pirates are not planning to let anyone leave this planet alive. Punch through and get our people clear.	海盗不打算让任何人活着离开这颗星球。杀出重围，把我们的人救出来。
+The Pirates forward base is just ahead of you, Commander.	海盗前进基地就在你前方，指挥官。
+The Pirates forward base should be just ahead of your lance, Commander.	海盗前进基地应该就在你的小队前方，指挥官。
+The Pirates have been extremely persistent..	海盗极其顽固。
+The planet is a hot commodity right now. We need time to refit and repair.	这颗星球现在是抢手货。我们需要时间整备和维修。
+The radiation is interfering with enemy long-range communications.	辐射正在干扰敌人的远程通讯。
+The Red Corsair is hailing us aboard the Argo, Commander.	红海盗正在 Argo 号上呼叫我们，指挥官。
+The smallest dog barks the loudest. I'll quiet you down soon enough.\r\n\r\nBlack Widow Company, you have a new target. Spare the metal, but kill the meat. Kerensky out.	最小的狗叫得最响。我很快会让你安静下来。\r\n\r\n黑寡妇公司，你们有新目标了。留铁，杀人。克伦斯基完毕。
+The spaceport in front of you is packed wall-to-wall with civilians, most of them refugees from the capital. The Agressors have been targeting them as enemy combatants. I need your help to keep those people safe until we can evac them to safety.	你面前的太空港挤满了平民，大多是来自首都的难民。Agressor 一直把他们当作敌方战斗人员。我需要你帮忙保护这些人，直到我们把他们撤离到安全地带。
+The spaceport's turrets are down, and the defenders are in no position to repel an attack of this magnitude. It's on us to stop them. You will defend the spaceport against the agressors and prevent their troop transports from reaching the command center.\r	太空港的炮塔已瘫痪，守军无力抵挡这种规模的进攻。阻止他们就看我们的了。你要守住太空港，抵挡 Agressor，阻止他们的运兵车抵达指挥中心。\r
+The structure before you is a munitions dump that the target stole from our Employer. we need to take it back. Find all hostile units and eliminate them; combat support staff will handle the rest.	你面前的结构是目标从我们雇主那里偷来的弹药库。我们要夺回来。找到所有敌方单位并消灭他们；战斗支援人员会处理剩下的事。
+The target is damaged, Commander! Keep it up!	目标受损，指挥官！继续保持！
+The target vehicles should be just ahead. Be careful Commander, who knows what they're packing.	目标载具应该就在前面。小心，指挥官，谁知道他们带了什么。
+The team's aboard, and the DropShip is away. Congratulations, Commander. This operation has been a resounding success.	队伍已登舰，运输舰已出发。恭喜，指挥官。这次行动大获成功。
+The Turrets have been hacked! Quickly destroy them!	炮塔被入侵了！快摧毁它们！
+Then it's go time. Yang, Dr. Murad, get in there. We've got our window to search the <i>Dobrev</i>, but it's already beginning to close.\r\n\r\nModerbjörn, how long do you think it'll take to find your charts on the ship's nav computer?	那就开工。杨、穆拉德博士，进去。我们有窗口搜查<i>多布雷夫</i>号，但窗口已经开始关闭。\r\n\r\nModerbjörn，你觉得在飞船导航计算机上找到你的星图需要多久？
+Then our job here is done. Dr. Murad, get the Moderbjörn its computer access—codes, files, whatever it needs. Everyone else: let's move Captain Magorian onto the Leopard. We're getting the hell out of here.	那我们这里的任务就完成了。穆拉德博士，给 Moderbjörn 开通计算机权限——密码、文件，它需要的都给。其他人：把马戈里安上尉送上豹式。我们离开这鬼地方。
+There are many hazards out here that can damage a BattleMech: radioactive sandstorms, corrosive vapors, rivers of hydrofluoric acid… and over the course of their campaign, the Taurians have been exposed to them all.	这外面有许多能损坏战斗机甲的危险：放射性沙暴、腐蚀性蒸汽、氢氟酸河流……在整场战役中，金牛座人全都遭遇过。
+There it is, Boss—we've found the Black Caldera armory. This is where we'll find the Raven—assuming we can get to it, that is.	找到了，头儿——我们找到了黑火山口军械库。我们会在那里找到渡鸦——前提是我们能到那儿。
+There it is, the File Vault! I bet we can find some good information in there.	就是它，文件金库！我敢打赌我们能在里面找到有用的情报。
+There. A proper, <i>respectful</i> killing.\r\n\r\nYour company deserves no less.	好了。一次体面而<i>恭敬的</i>击杀。\r\n\r\n你的佣兵团当得起。
+There's our target, Boss. Remember, he's a sniper, and his 'Mech is outfitted with Star League–era weaponry. If you try to engage him at long range, things could get messy.	目标出现了，头儿。记住，他是狙击手，他的机甲装备着星际联盟时代的武器。如果你想在远距离接战，情况可能会很糟。
+There's our target, Boss. Remember, she's a brawler, and her 'Mech is outfitted with Star League–era weaponry. If she closes into CQC-range, things could get messy.	目标出现了，头儿。记住，她是近战型，她的机甲装备着星际联盟时代的武器。如果她逼近近战距离，情况可能会很糟。
+There's the bastard, sustain fire on that unit and take him down! He won't feel so tough under an extended barrage.	就是那混蛋，持续向他开火，把他干掉！在持续炮击下他就不会那么硬气了。
+These are Solahma units working for the Red Corsair. They are not sanctioned by Clan Wolf. I'm not sure how much time we have left, so quickly disable or destroy these pirate guards. Lord Commander Garillac and myself will handle the rest. I'm glad we are on the same team after all.	这些是为红海盗效力的 Solahma 部队。他们未获狼氏族批准。我不确定我们还剩多少时间，所以迅速瘫痪或摧毁这些海盗守卫。加里拉克总指挥官和我本人会处理剩下的事。很高兴我们终究是同一阵营。
+They are around here somewhere! Let's run these traitors into the ground.	他们就在这附近某处！让我们把这些叛徒彻底碾碎。
+They are around here somewhere, Lets run these traitors into the ground.	他们就在这附近某处，让我们把这些叛徒彻底碾碎。
+They are around here somewhere. Let's run these traitors into the ground.	他们就在这附近某处。让我们把这些叛徒彻底碾碎。
+They are not going to like this, Expect reinforcements.	他们不会喜欢这样。预计会有增援。
+They are not going to like this. Expect reinforcements.	他们不会喜欢这样。预计会有增援。
+They 'ave moved 'im ta th' secure prison facility. I needs ye ta get back in yer 'Mechs 'n destroy that galleon down now. I do nah 'ave time fer this.	他们把他转移到了安全监狱设施。我要你回到机甲里，立刻把下面那座建筑摧毁。我可没时间耗。
+They described it as quote: 'a moving building.' Needless to say this concerns us greatly.	他们形容它是："一栋会移动的建筑。"不用说，这让我们非常担忧。
+They do smell their own, it seems.	看来他们能闻出同类的味道。
+They have nearly finished wiring the silo to blow!	他们快把发射井的引爆线路接好了！
+They have vehicles guarding the base.	他们有载具守卫基地。
+They must 'ave moved it ta that Fire Base. Get th' explosives ready lads, we be raidin'.	他们一定把它转移到了那座火力基地。准备好炸药，兄弟们，我们要去突袭。
+They must have moved him to another facility, think they will take his lucky dice instead?	他们一定把他转移到了另一个设施，你觉得他们会拿走他的幸运骰子吗？
+They really want to hold on to that technology. It's a real shame we have to blow them up.	他们真的很想保住那项技术。真遗憾我们不得不炸掉他们。
+They were able to hijack a derelict spacecraft en route to its location, so it's a given that they've got resources. Go into this situation with your eyes open, {COMMANDER.FirstName}… keep your finger on the trigger, and tell your lance to do the same.	他们能劫持一艘废弃飞船前往目的地，所以肯定有资源。睁大眼睛进入这个局面，{COMMANDER.FirstName}……手指放在扳机上，也让你小队这么做。
+This complicates matters. Commander, if you have the opportunity, I'd take it as a personal favor if you would pick up my agent at the secondary facility, but… the data must come first.	这让事情更复杂了。指挥官，如果有机会，我希望你能顺便去次要设施接走我的特工，这算我私人欠你个人情，但是……数据必须优先。
+This contest is over, Commander… you were outmatched from the start. Now go. Slink away from this world and never return.	这场较量结束了，指挥官……你从一开始就不是对手。现在走吧。悄悄离开这颗星球，永远别再回来。
+This is a target acquisition run, Commander—we're going to mark House Steiner's unauthorized military base for destruction, and Marik artillery will handle the rest.	指挥官，这是一次目标标定行动——我们要标定施泰纳家族未经授权的军事基地以便摧毁，剩下的交给马里克炮兵。
+This is Base CO Donovan to all Claybrooke units! They're… they're attacking the base with assault-class 'Mechs! Focus your fire and bring them down!	我是基地指挥官多诺万，呼叫所有克莱布鲁克单位！他们……他们正用突击级机甲攻击基地！集中火力，放倒他们！
+This is it, Commander—our chance to break the siege. I hope that your people are ready for this, because we may never get another opportunity.	就是现在，指挥官——我们打破围困的机会。我希望你的人准备好了，因为我们可能再也得不到这样的机会。
+This is the target area, Commander. Move forward with caution, eliminate any defenders and capture the Neko Holding Facility. Please, keep the prisoners safe and remember we're sensitive!	这就是目标区域，指挥官。谨慎推进，消灭所有守军并占领猫娘收容设施。请保证囚犯安全，记住我们很敏感！
+This objective is a lost cause, Commander. Focus on Colonel Lees—he's the only thing that matters!	这个目标已经没救了，指挥官。集中对付利斯上校——只有他重要！
+This planet is a hot commodity right now. Let's head off world and recover.	这颗星球现在是抢手货。我们离开这里去休整。
+This planet is in desperate shape, Commander. Famine is a fact of life here, and the Agressors have targeted the spaceport we've been using to deliver emergency supplies.	这颗星球状况堪忧，指挥官。饥荒在这里是常态，而 Agressor 袭击了我们一直用来运送紧急物资的太空港。
+This prison be heavily guarded.	这座监狱戒备森严。
+This situation has gone from bad to worse. I'm pulling you out, Commander.	情况已经从糟糕变成更糟。我正在把你撤出来，指挥官。
+This thin' be o'er charged 'n ready ta fire. One 20 ton slug o' Nickel Ferrous incomin'.	这东西已经过载，随时会发射。一枚 20 吨的镍铁弹头即将来袭。
+Those cheating copycats! I can't believe they stole my design.	那些作弊的抄袭者！我简直不敢相信他们偷了我的设计。
+Those fans are quite ravenous.	那些粉丝真是贪得无厌。
+To be completely honest with you, I haven't the faintest idea what kind of research goes on here. Nevertheless, a credible threat has been made. Your opposition is a mercenary company using the rather grandiose name "[[DM.BaseDescriptionDefs[LoreGrayDeath],Gray Death Legion]]."	老实说，我完全不知道这里在进行什么研究。尽管如此，我们收到了可信的威胁。你的对手是一家佣兵团，用了相当夸张的名字"[[DM.BaseDescriptionDefs[LoreGrayDeath],灰死军团]]"。
+To win, shoot the enemy until it dies. Thats a Pro Tip!	要赢，就朝敌人开枪，直到它死掉。这是专业提示！
+To win, shoot the enemy until it dies. That's a Pro Tip!	要赢，就朝敌人开枪，直到它死掉。这是专业提示！
+Today may be a much better day than tomorrow, if what I found out is true.	今天可能比明天好得多，如果我查明的事情属实的话。
+Told you my minions are not to be trifled with. Go back home, Commander and know that I spared you this day. *sharpens knife*	告诉过你别小看我的手下。回家去吧，指挥官，知道我今天放过了你。*磨刀*
+Told you that you're nothing without cheating.	告诉过你，不作弊你什么都不是。
+Try to conserve armor, Commander.  We will need it at the firebase.	尽量节省装甲，指挥官。我们在火力基地会需要它。
+Uh, Boss... I'm seeing new energy signatures lighting up all over the factory. If their static defenses weren't online before, they are now.	呃，头儿……我看到工厂各处亮起新的能量信号。如果他们的固定防御之前没上线，现在都上线了。
+Understand that these people aren't trained mercenaries. They're a motley crew of Solaris gladiators, pirates, and highwaymen. Most don't belong on the battlefield at all, let alone in a BattleMech's cockpit… it should be a trivial matter for you to smash them flat.	要明白，这些人不是训练有素的佣兵。他们是一群乌合之众，由索拉里斯角斗士、海盗和劫匪组成。大多数人根本不该上战场，更别说坐在战斗机甲的驾驶舱里……对你来说把他们碾平应该是轻而易举的事。
+Wait, wait! Commander, we just picked up a snippet of encoded comms chatter...  and there's something on the seismic sensors.	等等，等等！指挥官，我们刚截获一段加密通讯片段……地震传感器上也有异常。
+Warning, Commander! The target vehicles have begun to arrive at their destination; not much time left before they escape!	警告，指挥官！目标载具已开始抵达目的地；离它们逃脱没多少时间了！
+We are approaching the location.	我们正在接近目标位置。
+We are finished, Commander. You are on your own again.	我们完了，指挥官。你又得靠自己了。
+We are getting an incomming message from Morgan Kell, Commander. He would like to speak with us as soon as possible.	指挥官，我们收到摩根·凯尔的来电。他想尽快与我们通话。
+We are getting multiple contacts.	我们探测到多个目标。
+We are holding here for our own reinforcements. Get to your evac point and go! We will cover you.	我们在这里等待自己的援军。赶到你的撤离点走吧！我们掩护你。
+We are people as well. I think the major players think we are no more than numbers to be calculated later in some ledger.	我们也是人。我想那些大人物只把我们当成日后账本上计算的数字。
+We are sending Reinforcements,Hang In there Commander.	我们正在派遣援军，坚持住，指挥官。
+We are taking fire, quickly secure the LosTech!	我们正遭到攻击，快保护失传科技！
+We are under attack here, please send reinforcements!	我们这里遭到攻击，请派援军！
+We are working on a solution for that.	我们正在想办法解决。
+We 'ave this Gauss Rifle attached ta our DropShip wit' bungee cords 'n chewin' gum. Better give us a target soon.	我们把这门高斯步枪用弹力绳和口香糖绑在运输舰上了。最好快点给我们一个目标。
+We be firing, with or without those beacons.	不管有没有那些信标，我们都会开火。
+We be firing, with our without those beacons.	不管有没有那些信标，我们都会开火。
+We be headin' off now. Get out o' thar.	我们要出发了。滚出去。
+We can still salvage what we can, but we need to move quickly before the enemy regroups.	我们还能打捞一些东西，但必须在敌人重新集结前迅速行动。
+We cannot allow reinforcments to land, Commander. Take out the Command Center ASAP.	我们不能让援军着陆，指挥官。尽快干掉指挥中心。
+We can't sustain any more losses, Commander. Force Commander Singh won't be happy, but I don't have a choice—I'm pulling the plug.	我们不能再承受损失了，指挥官。辛格部队指挥官不会高兴，但我别无选择——我要中止行动。
+We couldn't hold out any longer. The enemy forces overpowered us, and we were forced to retreat. The mission has failed.	我们撑不住了。敌军压倒了我们，我们被迫撤退。任务失败。
+We don't have the C-Bills to replace that Commander.	我们没有 C 币来补充那位指挥官。
+We dug through th' pile but th' Piece ain't here.	我们翻遍了那堆东西，但那件东西不在。
+We got Jimmy alright, but he doesn't 'ave th' item we wanted. 'N we 'ave a raid ta plan fer.	我们找到吉米了，但他身上没有我们要的东西。而且我们还有一场突袭要策划。
+We have him! We <i>have</i> the villain. Even now he protests his innocence, but the evidence my forensics team found is unimpeachable. I will see him hang for his attacks on my family.	我们抓到他了！我们<i>抓到</i>那恶棍了。他到现在还坚称无辜，但我的法医团队找到的证据无可辩驳。我会看着他为袭击我家人而绞死。
+We have Red Corsair reinforcements inbound. Be carefull	红海盗的援军正在接近。小心
+We have secured the base. Guess who just showed up for the party? Morgan Kell of Clan Wolf just entered high orbit with six Overlord class dropships and probably two battalions of 'Mechs.	我们已占领基地。猜猜谁刚来参加派对？狼氏族的摩根·凯尔刚带着六艘霸王级运输舰和大概两个营的机甲进入高轨道。
+We have three of the late Lord Karosas' DropShips en route to assist with the evacuation. The captain of each vessel will call in on approach. Shepherd One will be heading for Docking Pad Alpha.	我们有已故卡罗萨斯勋爵的三艘运输舰正赶来协助撤离。每艘船的舰长会在接近时呼叫。牧羊人一号将前往阿尔法泊位。
+We know who you are, Bounty Hunter. I doubt there's a MechWarrior alive who doesn't.\r\n\r\nIf you don't mind my asking, what the hell are you doing here?	我们认识你，赏金猎人。我怀疑活着的机甲战士里没人不认识你。\r\n\r\n如果不介意我问一句，你到底来这里干什么？
+We need to get off this planet. This whole thing turned into a Charlie Foxtrot faster than breaking orbit makes your ears pop.	我们得离开这颗星球。整件事变成一团乱麻的速度比脱离轨道让耳朵嗡嗡响还快。
+We need to get these 'Mechs hosed down and decontaminated. C'mon, Commander… Yang's got a great big tub of boron, and he's just dying to use it.	我们得把这些机甲冲洗去污。来吧，指挥官……杨有一大桶硼砂，他正迫不及待想用。
+We need to meet up discuss what Jimmy brought back to us.	我们得碰头讨论吉米带回来的东西。
+We should be next to invisible on approach, Commander. Try and use this to our advantage.	我们在接近时应该几乎隐形，指挥官。尽量利用这一点。
+We should keep operations to a minimal until we get eyes on reinforcements.	在确认援军之前，我们应该把行动保持在最低限度。
+We should keep operations to a minimum 'till we get eyes on reinforcements.	在确认援军之前，我们应该把行动保持在最低限度。
+We should talk about a pay raise.	我们该谈谈加薪了。
+We were able to get here just in time. It looks like the prisoners were already being prepared for their new 'homes'. Some of them are in fairly rough shape.	我们及时赶到了。看来囚犯们已经在为他们的新"家"做准备了。有些人状况相当糟。
+We will recover any data and share it with you. Maybe some loot as well	我们会找回任何数据并与你分享。也许还有些战利品
+We will work in parallel to you and eliminate any opposition we come into contact with.	我们会与你并行行动，消灭一切遇到的抵抗。
+We'd like you to run a grid search in the area. Mark your heading as...	我们希望你对该区域进行网格搜索。把你的航向标记为……
+Welcome aboard, Max. You look like you've seen better days.	欢迎登舰，麦克斯。你看起来像是经历过更好的日子。
+Welcome Commander.  About 100 clicks east of here is where some civvies reported unusual activity.	欢迎，指挥官。这里以东约 100 公里处，有平民报告了异常活动。
+Welcome to the arena, Mercenary! Today, we test our skills.	欢迎来到竞技场，佣兵！今天，我们来检验一下自己的本领。
+Welcome to the badlands, Commander. The sands of this desert are rich in exotic elements that play havoc with electronic sensors and communications.	欢迎来到荒地，指挥官。这片沙漠的沙子里富含奇异元素，会严重干扰电子传感器和通讯。
+Well done! \r\nThat earns you 20xp, 5 gold, and a magical sword with a +1 enchantment! \r\n...that's a joke.	干得好！\r\n这为你赢得 20 点经验、5 枚金币，还有一把带 +1 附魔的魔法剑！\r\n……开个玩笑。
+Well done, Commander. A Maskirovka detachment has already taken possession of the prison and extracted the captive MIM agent. All in all, this was a clean, efficient operation—just the kind I like.	干得好，指挥官。一支 Maskirovka 分队已经接管监狱并救出了被俘的 MIM 特工。总而言之，这是一次干净利落的行动——正是我喜欢的那种。
+Well done, Commander—the base is ours. I've already instructed Ms. Meyer to deliver you any replacement BattleMechs or personnel that you may need before we continue our advance.	干得好，指挥官——基地归我们了。我已经指示迈耶女士在我们继续推进前，为你提供所需的替换战斗机甲或人员。
+Well done, Commander—the base is ours. We have succeeded in securing the Mech as well. We will meet up soon	干得好，指挥官——基地归我们了。我们也成功保住了那台机甲。我们很快会合
+We'll get ready to extract. Meanwhile, start loading our rescued nekos and citizens into transports	我们准备撤离。同时，开始把我们救出的猫娘和平民装上运输车
+Well said, Doctor Murad. Meet with me in orbit, Commander… I want to celebrate our victory, and there are matters of compensation to discuss.	说得好，穆拉德博士。到轨道上见我，指挥官……我想庆祝我们的胜利，还有些报酬的事要谈。
+Well, it looks like we'll have to destroy the base after all. It's a shame we couldn't get our hands on their data and research, but I suppose it can't be helped.	好吧，看来我们终究得摧毁基地。可惜没能拿到他们的数据和研究，但我想这也没办法。
+Well, there goes our bonus. Ignore the crates and focus on the enemy.	好吧，我们的奖金泡汤了。别管那些箱子，集中对付敌人。
+Well, we're here.  Let's go clean up a convoy.	好吧，我们到了。去清理一支车队吧。
+We're about half way there, ComStar reinforcements should arrive shortly.	我们大约走了一半，ComStar 援军应该很快就到。
+We're about halfway there, ComStar reinforcements should arrive shortly.	我们大约走了一半，ComStar 援军应该很快就到。
+We're all packed in and ready to move, Commander. Get us to safety—please.	我们都挤进来了，准备出发，指挥官。把我们送到安全地带——拜托了。
+We're also tracking additional enemy forces; expect them to rush back once they realise their cash cats are being rescued	我们还追踪到额外敌军；一旦他们意识到自己的摇钱树猫正在被救走，预计他们会赶回来
+We're done for here! See you later meow!	我们这里结束了！回头见喵！
+We're glad to be of assistance.	我们很高兴能帮上忙。
+We're going to make a killing selling the footage.	我们靠卖这段录像要发大财了。
+We're going to move up and engage them.	我们要推进并接敌。
+We've already seen how dedicated these mercenaries are, they must be recieving a small fortune for this job. It shows how much those weebs really desire some neko pets... repulsive!.	我们已经见识过这些佣兵有多卖命，他们干这活肯定拿了一大笔钱。这说明那些宅男有多想要猫娘宠物……真恶心！
+We've got hostiles inbound, coming through Tunnel Bravo! Go get them!\r\n	我们有敌人来袭，正从布拉沃隧道杀来！去干掉他们！\r\n
+We've got our gear back! Thank you, Commander, this is fantastic.	我们拿回装备了！谢谢你，指挥官，太棒了。
+We've got the data, Commander. Get it out of there quickly.	我们拿到数据了，指挥官。快把它带出去。
+We've got turrets powering up at the forward base, Commander. Take 'em out before they take you out!	指挥官，前进基地的炮塔正在启动。在它们干掉你之前先干掉它们！
+We've just accessed the facility's comms, and there's an inbound convoy requesting to speak with the base commander. What should we tell them?	我们刚接入设施的通讯，有一支车队要求与基地指挥官通话。我们该怎么回复他们？
+We've located one of the Pirate Lances, Commander. No sign of the other one.	我们定位了其中一支海盗小队，指挥官。另一支不见踪影。
+We've lost Jawad—and his data. I have to scrub the operation, Commander.	我们失去了贾瓦德——还有他的数据。我必须取消行动，指挥官。
+We've lost Tubbs and his dice. I have to scrub the operation, Commander.	我们失去了塔布斯和他的骰子。我必须取消行动，指挥官。
+We've set down Combat Engineers and they're securing the structure.	我们已经部署了战斗工兵，他们正在确保建筑安全。
+Wha? This was th' wrong convoy. That sneaky Jimmy he knew we would be hirin' ta flush 'im out...	啥？搞错车队了。那个狡猾的吉米，他知道我们会雇人来把他逼出来……
+What a complete and utter twat. Let's bash this bastard.	真是个彻头彻尾的混蛋。我们来揍扁这混蛋。
+What a day for a classic Brawl!\r\n Our Competitors know their value, and that's why they are here today.\r\n I hear that one of Gladiators was offered a cereal box deal and that's why he showed up.	多适合来一场经典斗殴的日子！\r\n 我们的选手清楚自己的价值，所以他们今天才会在这里。\r\n 我听说其中一位角斗士拿到了一份麦片盒代言合同，所以才现身。
+What a day for a classic Brawl!\r\n Our Competitors know their value, and that's why they are here today.\r\n I hear that one of the Gladiators was offered a cereal box deal and that's why he showed up.	多适合来一场经典斗殴的日子！\r\n 我们的选手清楚自己的价值，所以他们今天才会在这里。\r\n 我听说其中一位角斗士拿到了一份麦片盒代言合同，所以才现身。
+What a welcome diversion this is! Truly glorious. I had <i>intended</i> to challenge your MechWarriors when the Tournament was finished, as is my custom—to put them to the final test. Instead, you've provided me with a <i>full lance</i> of quarry to hunt down and slaughter. We'll enjoy this, won't we, Gigante?	这是多么令人愉快的消遣！真是光荣。我<i>本来打算</i>在锦标赛结束后挑战你的机甲战士，这是我的惯例——给他们最后的考验。结果你却给我送来了<i>整整一支小队</i>的猎物供我追杀宰割。我们会很享受的，对吧，吉甘特？
+What do you expect from Wo... ComStar.	你对 Wo……ComStar 还能有什么期待。
+What kind of opposition can we expect?	我们能遇到什么样的抵抗？
+What the— Boss, I've got multiple lock-ons coming from the surface. They've got me in their crosshairs. What the hell is this?	搞什么——头儿，我收到多个来自地表的锁定信号。他们把我套进了准星。这他妈是怎么回事？
+What the— boss, I've got multiple lock-ons coming from the surface. They've got me in their crosshairs. What the hell is this?	搞什么——头儿，我收到多个来自地表的锁定信号。他们把我套进了准星。这他妈是怎么回事？
+What the hell is— Combine forces, we're <i>on your side</i>. Stand down, we're the good guys!	搞什么鬼——合成国部队，我们<i>是你们这边的</i>。停火，我们是好人！
+What we are seing here today, will not be forgotten about! At least not until tomorrow.	我们今天在这里看到的一切，不会被遗忘！至少明天之前不会。
+What we are seing here today, will not be forgotten about! At least, not until tomorrow.	我们今天在这里看到的一切，不会被遗忘！至少，明天之前不会。
+What? But… he should be dead! Buried in a mountain of scrap!	什么？但他应该死了！被埋在成山的废铁下了！
+Whatever it's doing it will be mine!	不管它在做什么，它都会归我！
+Whatever the rationale, we've got an <i>extremely</i> juicy target right in front of us. With your lance's help, I intend to destroy that target. Deal?	不管理由是什么，我们面前有个<i>极其</i>诱人的目标。有你的小队协助，我打算摧毁那个目标。成交？
+What's coming for you is no laughing matter. I've hired a new strike team, Commander. They'll keep you company while my ground crew prepares the <i>Dobrev</i> for departure.	冲你来的可不是什么好笑的事。我雇了一支新的打击队，指挥官。他们会在我的地勤人员为<i>多布雷夫</i>号做好出发准备时陪你玩玩。
+What's this? An AI that can control mechs and vehicles? I simply have to have it! I mean... *ahem* we must destroy it for the betterment of the Inner Sphere.	这是什么？一个能控制机甲和载具的 AI？我非要得到它不可！我是说……*咳咳*为了内天体的福祉，我们必须摧毁它。
+When we get the Naval Gauss Rifle powered up we will only have a short time before something goes boom. Either the DropShip or the base...	等我们给舰载高斯步枪通上电，用不了多久就会有什么东西炸开。不是运输舰就是基地……
+When you place the beacon we will fire and the place will light up like a Christmas Tree. Be prepared to get to the extraction zone ASAP	你放好信标我们就开火，那地方会像圣诞树一样亮起来。准备好尽快赶到撤离区
+Whether or not this leads to any conclusive evidence is beyond me. However, it would be a great boon to have a point of interest.	这能否引出任何确凿证据，我不好说。不过，有个关注点是件大好事。
+While the Agressors won't suffer the same communications or sensory difficulties that the Directorate did, we still have the environment of the badlands working in our favor.	虽然 Agressor 不会像理事会那样遭遇通讯或感官困难，但荒地的环境仍然对我们有利。
+Whoa there, {COMMANDER.LastName}—you win. Let me collect what's left of my lance and I'll get out of Allard's hair.	哟，{COMMANDER.LastName}——你赢了。让我收拾残部，我就不打扰阿拉德了。
+Wow data reports are coming in, this is not a loot cache... Commander you are going to want to see this.	哇，数据报告传进来了，这不是战利品缓存……指挥官，你会想看看这个的。
+Wow look at all those wo... local government personnel. I bet they're hiding something nice inside.	哇，看看那些 Wo……当地政府人员。我打赌他们里面藏着好东西。
+Ye be such a failure. Ye didn' do anythin' I asked ye ta do. Ye went off on yer owns 'n now Jimmy got away...	你真是个废物。我让你做的事你一件没做。你自作主张，现在吉米跑了……
+Ye failed… now I 'ave ta do this by meself. I be nah pleased at all wit' these results.	你失败了……现在我得亲自出手。这结果让我一点都不满意。
+Yeah, it's a real waste. Now you're out a lance of 'Mechs, and the treasure, <i>and</i> a client. Because if Corbu hasn't gone into hiding already, he's a dead man.	是啊，真是浪费。现在你损失了一支机甲小队、那批财宝，<i>还有</i>一个客户。因为如果科尔布还没躲起来，他就是个死人了。
+Yeah, Meyer, we're here. But callin' this… whatever it is… a "spaceport" is awfully charitable of you. What we're standin' in is a chop shop, and a poorly organized one at that.	是啊，迈耶，我们到了。但把这里……不管它是什么……叫做"太空港"，你可真够宽厚的。我们站的地方是个拆车厂，还是个管理混乱的拆车厂。
+Yeah, the locals don't like you <i>at all</i>. They're coming in force to interrupt our 'Mechs at the targeting relays.	是啊，当地人<i>一点都不</i>喜欢你。他们正大举出动，要在制导中继站阻挠我们的机甲。
+Yeah, yeah, we get it. Just give me a second to block your transmission, aaand… done. There, that's better.	是啊是啊，我们懂了。给我一秒屏蔽你的通讯，然后……好了。这样好多了。
+Yeah, you do. I'd be pissed about it, too. But trust me, buddy… things could be a hell of a lot worse.	是啊，你会的。换我我也会生气。但相信我，伙计……情况本来可能糟糕得多。
+Yes!, Quick, let us get out of here. I will talk to you from aboard my dropship.	太好了！快，我们离开这里。我会从运输舰上跟你谈。
+Yes, And make sure you kill him extra dead this time. And Fred as well.	好，这次一定要确保把他彻底杀透。还有弗雷德。
+Yes, but not <i>too</i> much caution. We need to take the facility stat, so the Moderbjörn can lock down the <i>Dobrev</i>'s docking clamps.\r\n\r\nThis mission won't count for much if the ship runs off again.	好，但别<i>太</i>谨慎。我们需要立刻拿下设施，好让 Moderbjörn 锁死<i>多布雷夫</i>号的对接夹具。\r\n\r\n如果那艘船又跑了，这次任务就没什么意义了。
+Yes, Darius, I <i>know</i>. But the platform that launched those drones was SLDF. It's been sitting dormant for <i>three centuries</i>, and it just came back online <i>now</i>, while we're all fighting over a ship from the Great Beyond.\r\n\r\nFunny timing, don't you think?	是的，达里乌斯，我<i>知道</i>。但发射那些无人机的平台是 SLDF 的。它沉睡了<i>三个世纪</i>，偏偏在<i>现在</i>、在我们为那艘来自彼岸的飞船打得不可开交时重新上线。\r\n\r\n你不觉得这时间点很巧吗？
+Y'know, I actually feel a little bad about this. Most of the people have nothing to do with Mason Garrilac. Plus, we're blowing up a <i>lot</i> of good booze.	你知道，其实我对此有点内疚。大多数人跟梅森·加里拉克毫无关系。再说，我们要炸掉<i>好多</i>好酒。
+You <i>are</i> responsible, you son of a bitch! And by my hand, he will be <i>avenged</i>!	你<i>就是</i>罪魁祸首，你这混蛋！以我之手，他必得<i>昭雪</i>！
+You <i>will</i> do this, and you will approach your task with the skill and efficiency that I'd expect from a CCAF veteran. Compile a manifest, and leave everything else untouched. Tianyu out.	你<i>必须</i>完成这件事，而且要以我期待 CCAF 老兵应有的技巧和效率来完成。整理一份清单，其他一切保持原样。田宇完毕。
+You all suck, I'm going to bed.	你们都很烂，我睡觉去了。
+You are downloading the data right?	你在下载数据吧？
+You can say that again. I'm taking a look inside. Wallo's got something big in there, but I can't quite make out… oh. Oh, <i>wooooow</i>!	你可以再说一遍。我看看里面。瓦洛在里面藏了个大家伙，但我看不清……哦。哦，<i>哇哦</i>！
+You can't kill me, Oliveira. But your people are about to learn that. Mount up, Marauders… let's show these punks who they're dealing with.	你杀不了我，奥利维拉。但你的人很快就会明白这一点。上机甲，掠夺者们……让这些混混看看他们在跟谁打交道。
+You cheated me. Now I am going to prevent you from cheating anyone else.	你骗了我。现在我要阻止你再去骗别人。
+You did well, Commander. We'll forward you the winnings shortly.	你干得好，指挥官。我们很快会把奖金转给你。
+You Dishonorable Dezgra!  You dare refuse my Batchall	你这个无耻的无底线之徒！你竟敢拒绝我的 Batchall
+You don't know what you're doing by attacking this base. I will have to stop you now!	你根本不知道攻击这座基地意味着什么。我现在必须阻止你！
+You guys leave now and I wont have to fix this problem.	你们现在就走，我就不用解决这个问题了。
+You have saved us from extermination, Commander—and you've done so at great personal cost. Know that we will never forget it. Your name will live on in my sermons until the end of my days.	你从灭绝中救了我们，指挥官——而且付出了巨大的个人代价。要知道我们永远不会忘记。你的名字会在我的布道中流传到我生命的尽头。
+You may not understand it, but bringing a tad of entertainment to people on backwater worlds can really boost morale and help them feel like the Magistracy hasn't forgotten them.	你可能不理解，但给穷乡僻壤的人们带去一点娱乐，真的能大大提振士气，让他们觉得女权国没有忘记他们。
+You said something just like that on Le Blanc. Didn't stop me from kicking your friends' teeth down their damned throats, did it?\r\n\r\n"Most dangerous MechWarrior alive," my ass. You're a punk, Kerensky. And you're cluttering up <i>my</i> AO.	你在白朗也说过类似的话。可那并没有阻止我把你朋友的门牙踹进他们该死的喉咙里，对吧？\r\n\r\n"世上最危险的机甲战士"，呸。你就是个混混，克伦斯基。而且你正堵在<i>我的</i>战区里。
+You win, Commander {COMMANDER.LastName}—Ironwood Productions is officially crying uncle. The Holo-distribution facility is yours for as long as you need it. If you want to call out the Steel Beast, we can help you do that! In fact, we'd be happy to.	你赢了，{COMMANDER.LastName}指挥官——铁木制片公司正式认输。全息发行设施随你用多久都行。如果你想叫板钢铁巨兽，我们可以帮你！事实上，我们很乐意。
+You'd better put her through, Meyer. If there's one MechWarrior we don't wanna leave hanging, the Black Widow is it.\r\n\r\nThat goes for you too, Boss. Better get to the viewscreen, and you'd better do it now.	你最好接通她，迈耶。如果说有一个机甲战士我们不想晾着，那就是黑寡妇。\r\n\r\n你也是，头儿。最好去看屏幕，而且最好是现在就去。
+You'll be hearing from the Appeals Board about this travesty. You will not have the last word in this!	你会就这桩暴行收到申诉委员会的通知。这事不会由你说了算！
+You'll be on a short timetable, so splitting your lance is recommended. The OpFor will also have you badly outgunned. Thankfully, our employer has sent in Gwydion Company to assist… what's your ETA, Gwydion Actual?	你的时间很紧，所以建议你分兵。敌军火力也会远胜于你。幸运的是，我们的雇主派了格威迪恩连来协助……你的预计抵达时间是多久，格威迪恩实际？
+You'll need to move your 'Mechs up to place beacons in three positions around the bunker. I would try sprinting between beacon locations to keep your evasion up.	你需要把机甲推进到掩体周围三个位置放置信标。我建议在信标点之间冲刺移动，以保持闪避能力。
+Your day of reckoning is close at hand, Lees. For Abraham Kobayashi, and the hundreds of others you murdered on Shaul Khala. You're coming with me to the Combine, and there, you will <i>pay</i> for what you've done!	你清算的日子近在眼前了，利斯。为了亚伯拉罕·小林，也为了你在肖尔卡拉谋杀的数百人。你要跟我回合成国，在那里，你要为你的所作所为<i>付出代价</i>！
+Your main objective is the defense of the facility's primary refinery. If the Agressors manage to destroy it, it's only a matter of time before Itrom's entire power grid goes down. And if that happens, people will die.	你的主要目标是保护设施的主炼油厂。如果 Agressor 摧毁了它，伊特罗姆的整个电网崩溃只是时间问题。一旦发生，就会有人丧命。
+Your mercenary fought well, Lady Arano. But know that this has only just begun. None of us can return home until you have been captured or killed. And for every Agressor 'Mech that you destroy, ten more will rise to take its place.	你的佣兵打得不错，阿拉诺女士。但要知道，这才刚刚开始。在你被俘或被杀之前，我们谁都不能回家。而且你每摧毁一台 Agressor 机甲，就会有十台补上来。
+You're about to have company, Commander. Horvat and Gigante—their Drop Pods have almost reached the AO.	你很快就有伴了，指挥官。霍尔瓦特和吉甘特——他们的空投舱几乎已经抵达战区。
+You're coming for me, eh? Please, by all means—come close. This armory has turrets enough to tear your entire lance to pieces.	你是冲我来的，嗯？来吧，尽管靠近。这座军械库的炮塔足够把你的整支小队撕成碎片。
+You're here… and look, you've brought friends! You're a LIAR and a CHEAT, and you're gonna REAP THE STEEL BEAST'S WHIRLWIND!	你来了……看，你还带了朋友！你是个骗子、一个作弊者，你要承受钢铁巨兽的旋风！
+You're quite persistent, Commander {COMMANDER.LastName}.\r\n\r\nLike a bad rash, I just can't seem to get rid of you.	你可真执着，{COMMANDER.LastName}指挥官。\r\n\r\n像一场顽固的皮疹，我怎么都甩不掉你。
+You've done it, Commander. Dobrescu is dead—and with him, any reason for the Lyrans to continue this siege. On my orders, what remains of the planetary authority will begin receiving and distributing aid to the people of Gauthier immediately.	你做到了，指挥官。多布雷库死了——随着他死去，天琴人继续围攻的理由也消失了。按我的命令，行星当局的残余将立即开始接收并向高蒂尔的民众分发援助物资。
+You've done it, Commander—you've driven them off! And you've saved all of our lives. I'll see to it that this food gets distributed to the people who need it.	你做到了，指挥官——你把他们打退了！你救了我们所有人的命。我会确保这批食物分发给需要的人。
+You've sent them <i>here</i>, to the Red Roost? My poor, deluded sister. My bodyguards will crush them, and I will drink in the spectacle like a fine port wine. And then, when I tell Mother what you've done, <i>she</i> will—	你把它们派到<i>这里</i>来了，红鸡舍？我可怜的、被蒙蔽的妹妹。我的保镖会碾碎他们，我会像品上等波特酒一样品味这场奇观。然后，等我告诉母亲你的所作所为，<i>她</i>会——
+Zeta Lance should be somewhere just ahead of you, Commander. They're…\r\n\r\nHuh. That's strange.	泽塔小队应该就在你前方某处，指挥官。他们……\r\n\r\n嗯。真奇怪。
