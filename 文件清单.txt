@@ -1,4 +1,4 @@
-BATTLETECH / RogueTech 简体中文补丁 v25 —— 文件清单
+BATTLETECH / RogueTech 简体中文补丁 v26 —— 文件清单
 
 【核心】（游戏真正读取的东西）
 strings_zh-CN.csv                    翻译总表：61,788 行 / 61,415 键

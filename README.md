@@ -1,11 +1,11 @@
 # BATTLETECH / RogueTech 简体中文补丁
 
-给 **BATTLETECH**（含全部 DLC）与 **RogueTech** 大型模组包使用的简体中文汉化补丁。目前我仅兼容steam版本
+给 **BATTLETECH**（含全部 DLC）与 **RogueTech** 大型模组包使用的简体中文汉化补丁。**目前仅支持 Steam 版**（GOG 版的程序集与 Steam 版不通用）。
 
 面向已经装好 RogueTech 的玩家：解压、双击 `安装.bat`、重启游戏即可。
 
-> **当前版本：v25**
-> 适配 RogueTech 主分支（截至 2026-09）。游戏或 RogueTech 更新后需要重新安装（见下方"重要提醒"）。
+> **当前版本：v26**
+> 适配 RogueTech 主分支（截至 2026-10）。游戏或 RogueTech 更新后需要重新安装（见下方"重要提醒"）。
 
 ---
 
@@ -24,6 +24,9 @@
 | 装备分类显示名 | 机库与商店的筛选分类 |
 | AI 能力与特征 | 驾驶员特质、光环、环境效果说明 |
 | 任务目标标题 | 合约中的可见目标 |
+| **合约简报正文** | 合约界面的 shortDescription / longDescription 整段说明 |
+| **游戏本体状态说明** | 士气、技师点、伤势等 simGameStatDesc 模板 |
+| **装备特性名与说明** | Quirk 特性名、BonusDescriptions 的特性标签 |
 | **界面硬编码文字** | 25 个汉化 DLL（机库、改装、合约等界面标签） |
 
 术语以 **官方中文术语表**（terms-13908.json，2,952 条）与项目自建术语表为准，
@@ -40,7 +43,9 @@
 
 ### 前置条件
 
-- 已安装 **BATTLETECH**（Steam 或 GOG 版）与 **RogueTech** 模组包
+- 已安装 **BATTLETECH**（**Steam 版**）与 **RogueTech** 模组包
+  > 注意：补丁内含的汉化 DLL 只有 Steam 版。GOG 版与 Steam 版的程序集
+  > 不通用，直接套用会导致游戏无法启动，因此本补丁**目前只支持 Steam 版**。
 - Windows + PowerShell 5.1（系统自带）
 - **游戏必须完全退出**（游戏运行时会占用模组文件，无法替换）
 
@@ -52,7 +57,7 @@
 
 3. **双击 `安装.bat`**
 
-   脚本会自动完成 16 个步骤。安装耗时约 **4~6 分钟**，请等它跑完再关窗口。
+   脚本会自动完成 16 个步骤。安装耗时约 **2~3 分钟**，请等它跑完再关窗口。
    其中第 6 步会把 RogueTech 启动器的 `SafeLaunchDisabled` 改为 `true`，
    跳过它的模组文件哈希校验 —— 否则启动器会把汉化判为"篡改"并用英文
    原版覆盖回去，这是汉化"装了没效果"的主要原因。
@@ -155,6 +160,15 @@ Mods_Core_RogueTechCore_Localization.json
 - 极少数第三方 DLL 中未覆盖到的字符串——本补丁已收录 25 个汉化 DLL
   覆盖主要界面，但若有遗漏，欢迎提交截图反馈。
 
+另外，以下几类名称**有意保留英文原文**，属设计选择而非遗漏：
+
+- **内部标识符**：`unitTypes` 的单位类型名、`Categories` 的分类名。
+  译了会直接导致游戏故障（曾出现过四足机甲无法使用的事故）。
+- **型号与厂商代码**：如 `AC/10`、`Atlas AS7-D`、`Coventry`。
+- **国际通用军用缩写**：如 VTOL、SLDF、CASE、LBX、C3。
+- **英文回退源**：本地化表中的 `CULTURE_EN_US` 字段，是游戏的语言兜底，
+  必须保持英文。
+
 ---
 
 ## 常见问题
@@ -205,16 +219,25 @@ Mods\                             已汉化的模组数据 + 汉化 DLL（整套
 RtCache\                          启动器缓存副本
 可选-模组形式\                     把汉化做成 ModTek 模组（可选）
 工具\                             安装脚本（一般无需手动运行）
-  ├─ 安装.ps1                     主安装脚本
+  ├─ 安装.ps1                     主安装脚本（16 步）
+  ├─ 还原.ps1                     按备份还原
   ├─ find-game.ps1                游戏目录自动探测
-  ├─ dict-all.tsv                 翻译词典
-  ├─ fold-apply.ps1               数据字段汉化
+  ├─ fold-apply.ps1               数据字段汉化（Details / YangsThoughts / StockRole）
+  ├─ apply-words.ps1              对话与战斗字幕
+  ├─ apply-bonus.ps1              装备特性说明（Short / Long / Full）
+  ├─ apply-fields.ps1             通用字段补译（title / description / UIName / 合约简报）
+  ├─ apply-statdesc.ps1           游戏本体状态说明模板
+  ├─ apply-quirk.ps1              Quirk 特性显示名
   ├─ apply-category-zh.ps1        装备分类显示名汉化
-  ├─ fix-ctl.ps1                  修复控制字符
+  ├─ fix-ctl.ps1                  修复控制字符（U+001F）
   ├─ cleanup.ps1                  清理标点多余空格
   ├─ apply-norm.ps1               术语归一化与格式修复
   ├─ norm-csv.ps1                 规范化总表标点
-  └─ qa-check.ps1                 汉化质量自检
+  ├─ check-registry.ps1           内部标识符校验（防误译导致故障）
+  ├─ fix-launcher-safe.ps1        禁用启动器哈希校验
+  ├─ qa-check.ps1                 汉化质量自检
+  ├─ 打包.ps1                     重新生成发布 zip
+  └─ dict-*.tsv                   各字段中英对照词典（9 个）
 ```
 
 > 包内的 25 个汉化 DLL 按原始相对路径存放，安装脚本会逐个写入游戏对应位置。
