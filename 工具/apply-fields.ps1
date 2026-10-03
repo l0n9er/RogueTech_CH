@@ -3,6 +3,7 @@
     [string]$pairs = "",
     [string]$fields = "words",
     [string]$backupRoot = "",
+    [switch]$IncludeModJson,
     [switch]$DryRun
 )
 <#
@@ -54,7 +55,9 @@ $excl = @($BS + '.modtek' + $BS, 'ModSaves')
 $files = Get-ChildItem $mods -Recurse -File -Filter '*.json' | Where-Object {
     $p = $_.FullName; $bad = $false
     foreach ($e in $excl) { if ($p -like ('*' + $e + '*')) { $bad = $true } }
-    if ($_.Name -in @('mod.json', 'modstate.json')) { $bad = $true }
+    # mod.json 默认跳过(多为元数据); -IncludeModJson 时放行(个别模组的
+    # description 等字段是玩家可见的 mod 设置说明, 需要汉化)
+    if (-not $IncludeModJson -and $_.Name -in @('mod.json', 'modstate.json')) { $bad = $true }
     -not $bad
 }
 

@@ -266,6 +266,15 @@ foreach ($pair in @(
                                      '-backupRoot', (Join-Path $packRoot 'backup\Mods-fields'))
     }
 }
+# 个别模组 mod.json 的 description 是玩家可见的设置说明, 需 -IncludeModJson 放行
+$descExtra = Join-Path $PSScriptRoot 'dict-desc-extra.tsv'
+if ([IO.File]::Exists($descExtra)) {
+    RunTool 'apply-fields.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                 '-pairs', $descExtra,
+                                 '-fields', 'description',
+                                 '-IncludeModJson',
+                                 '-backupRoot', (Join-Path $packRoot 'backup\Mods-fields'))
+}
 Ok "完成"
 
 # ---------- 9c) Quirk 特性显示名 ----------
