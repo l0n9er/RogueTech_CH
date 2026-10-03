@@ -1,0 +1,69 @@
+{
+  "Description": {
+    "Id": "background_career_inheritor",
+    "Name": "继承者",
+    "Details": "它本该进博物馆，现在却归你了。\n特性：[[DM.BaseDescriptionDefs[QuirkLucky]  幸运]]、[[DM.BaseDescriptionDefs[QuirkNoble]  贵族]]\n单位：随机稀有机甲",
+    "Icon": "envTxrHrld_startMerchantGuard",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_career_inheritor",
+        "pilot_lucky",
+        "pilot_noble"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": [
+      {
+        "Scope": "Company",
+        "EventID": "CommanderGearEventInheritor",
+        "MinDaysWait": 1,
+        "MaxDaysWait": 1,
+        "Probability": 100
+      }
+    ],
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 2,
+  "UIOrdering": 6,
+  "OptionName": "继承者",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "你也许已经很多年没跟叔祖父说过话，但你一定给他留下了印象，或者你只是家族里剩下的唯一一个。他的去世没有留给你他的钱，却留给你一些关于他生意伙伴的信息、他那台刚从封存中取出的珍贵机甲，以及一个出人头地的请求。",
+  "Intro": "经过一些训练与大量人脉运作，你来到了[[DM.BaseDescriptionDefs[LoreAuriganReach]  奥里根边区]]边缘，而你最近的那份合同在那里惨败。拉朱恰好正在访问该星球，接收到了你的求救信号。救出你之后，他邀请你加入[[DM.BaseDescriptionDefs[LoreHouseArano]  阿然诺家族]]皇家卫队。\n\n就这样，你与旧日的导师重逢，为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿然诺女士]]加冕当天的守卫任务保养你的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]……",
+  "BioDescription": "You took to plying yourself as a mercenary and found yourself traveling the [[DM.BaseDescriptionDefs[LoreInnerSphere]  Inner Sphere]]. While you're not the best pilot, you've been lucky enough to make it this far and a gift from a distant relative might prove to be the break you were looking for.\r\n"
+}

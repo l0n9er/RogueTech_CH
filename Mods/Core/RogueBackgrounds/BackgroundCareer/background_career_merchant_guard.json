@@ -1,0 +1,69 @@
+{
+  "Description": {
+    "Id": "background_career_merchant_guard",
+    "Name": "非常合法的商人",
+    "Details": "香蕉摊里永远有钱可赚。\n特性：[[DM.BaseDescriptionDefs[QuirkDishonest]  不诚实]]、[[DM.BaseDescriptionDefs[QuirkMerchant]  商人]]\n装备：3 百万 [[DM.BaseDescriptionDefs[LoreCBill]  C-Bill]]（或等值当地货币）",
+    "Icon": "envTxrHrld_startMerchantGuard",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_career_merchant",
+        "pilot_dishonest",
+        "pilot_merchant"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": [
+      {
+        "Scope": "Company",
+        "EventID": "CommanderGearEventMerchant",
+        "MinDaysWait": 1,
+        "MaxDaysWait": 1,
+        "Probability": 100
+      }
+    ],
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 2,
+  "UIOrdering": 5,
+  "OptionName": "非常合法的商人",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "你受雇于一家小型贸易行会，为其商队在内层星域与外围地区之间跑贸易时提供安保。生活大体平淡，但你得以在偶尔与海盗和不配合的地方政府的冲突中派上机甲战士的用场。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting]  驾驶]]",
+  "Intro": "在为前往[[DM.BaseDescriptionDefs[LoreAuriganReach]  奥里根边区]]边缘一处小型前哨的车队护航时，你遭到海盗袭击并被弃之等死。拉朱恰好正在访问首府城市，接收到了你的求救信号。救出你之后，他邀请你加入[[DM.BaseDescriptionDefs[LoreHouseArano]  阿然诺家族]]皇家卫队。\n\n就这样，你与旧日的导师重逢，为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿然诺女士]]加冕当天的守卫任务保养你的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]……",
+  "BioDescription": "You've spent most of your lift running some kind of grift. Hell, even getting MechWarrior training was something of a happy accident. A shame that your Lyran mentor at the time wasn't too thrilled when you tried to pay him D-Bills. Once all that was settled (it wasn't), you left (fled) your way to brighter prospects, sprinkling a little cash here and there to grease the wheels and buy your way to the head of a small mercenary company. What is it they say? War is business?\r\n"
+}

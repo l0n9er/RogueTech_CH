@@ -1,0 +1,69 @@
+{
+  "Description": {
+    "Id": "background_career_gladiator",
+    "Name": "索拉里斯角斗士",
+    "Details": "一位 [[DM.BaseDescriptionDefs[LoreSolaris7]  Solaris 7]] 角斗士，随时准备开打。\n特质：[[DM.BaseDescriptionDefs[QuirkGladiator]  角斗士]]，[[DM.BaseDescriptionDefs[QuirkHonest]  诚实]]\n装备：各式 [[DM.BaseDescriptionDefs[StarterBundleGladiator]  角斗士装备]]。",
+    "Icon": "envTxrHrld_startGladiator",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_career_gladiator",
+        "pilot_gladiator",
+        "pilot_honest"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": [
+      {
+        "Scope": "Company",
+        "EventID": "CommanderGearEventGladiator",
+        "MinDaysWait": 1,
+        "MaxDaysWait": 1,
+        "Probability": 100
+      }
+    ],
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 2,
+  "UIOrdering": 2,
+  "OptionName": "索拉里斯角斗士",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "你把自己作为机甲战士的技艺带到了著名的竞技场星球[[DM.BaseDescriptionDefs[LoreSolaris7]  索拉里斯VII]]。在那里你以角斗士为生，在小竞技场为观众搏杀，靠一份份薪水勉强度日。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery]  炮术]]",
+  "Intro": "你曾是个低级别冠军，时运不济，再输一场就要沦落街头，直到拉朱听说了你。他一路跋涉到[[DM.BaseDescriptionDefs[LoreSolaris7]  索拉里斯]]，给你提供了一个回到[[DM.BaseDescriptionDefs[LoreAuriganReach]  奥里根边境]]的机会，以及一份在[[DM.BaseDescriptionDefs[LoreHouseArano]  阿拉诺家族]]皇家卫队的工作。\n\n于是就这样，你发现自己与昔日的导师重聚，正在为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿拉诺女士]]加冕日的守卫任务准备你那台祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  黑杰克]]……",
+  "BioDescription": "Eager to escape your past, you took your Blackjack and your skills as a MechWarrior to the famed arena planet of Solaris VII. There, you eked out a living as a gladiator, fighting for the crowd in minor arenas, getting by from paycheck to paycheck.\r\n"
+}

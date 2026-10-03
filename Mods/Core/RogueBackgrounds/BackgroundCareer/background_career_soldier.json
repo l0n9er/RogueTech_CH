@@ -1,0 +1,70 @@
+{
+  "Description": {
+    "Id": "background_career_soldier",
+    "Name": "入伍机甲战士",
+    "Details": "战争。战争从未改变。但老天，我们真希望它会变。\n特性：[[DM.BaseDescriptionDefs[QuirkBrave]  勇敢]]、[[DM.BaseDescriptionDefs[QuirkMilitary]  退伍军人]]\n装备：各式 [[DM.BaseDescriptionDefs[StarterBundleSoldier]  失落科技武器]]",
+    "Icon": "envTxrHrld_startSoldier",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_career_soldier",
+        "pilot_military",
+        "pilot_brave",
+        "can_pilot_battle_armor"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": [
+      {
+        "Scope": "Company",
+        "EventID": "CommanderGearEventSoldier",
+        "MinDaysWait": 1,
+        "MaxDaysWait": 1,
+        "Probability": 100
+      }
+    ],
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 2,
+  "UIOrdering": 0,
+  "OptionName": "入伍机甲战士",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "前途未卜的你前往 [[DM.BaseDescriptionDefs[LoreCoromodir]  Coromodir]]——[[DM.BaseDescriptionDefs[LoreAuriganCoalition]  Aurigan Coalition]] 的首都，并加入了联盟军队。你很快在军阶中步步高升，以可靠的机甲战士之名崭露头角。士兵的生活并不光鲜，却正合你意。\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery]  Gunnery]]",
+  "Intro": "在一次不幸的任务中，你被困在敌后，与小队失去了联系。拉朱恰好正在附近巡逻，他发起了一场大胆的营救。当发现救出的正是你之后，他把你带进了[[DM.BaseDescriptionDefs[LoreHouseArano]  阿然诺家族]]皇家卫队。\n\n就这样，你与旧日的导师重逢，为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿然诺女士]]加冕当天的守卫任务保养你的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]……",
+  "BioDescription": "You signed up for your local militia as soon as you came of age. While it wasn't glamorous, the life of a soldier suited you just fine. Things took a turn for the worse several years deep, however, and you found yourself burnt out on a gruelling campaign against local pirates who were conspicuously more armed than intelligence would've had you believe. You toughed through it, but swore you'd never commit to ops that you weren't in control of any longer, and founded your own mercenary company far away from the little speck you once called home.\r\n"
+}

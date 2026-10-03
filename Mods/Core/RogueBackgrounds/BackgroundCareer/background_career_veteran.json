@@ -1,0 +1,69 @@
+{
+  "Description": {
+    "Id": "background_career_veteran",
+    "Name": "突击队老兵",
+    "Details": "你从 [[DM.BaseDescriptionDefs[LoreDAMOCLES]  达摩克利斯行动]] 中活了下来。剩下的不过是小儿科。\n特性：[[DM.BaseDescriptionDefs[QuirkMilitary]  退伍军人]]、[[DM.BaseDescriptionDefs[QuirkLucky]  幸运]]\n单位：随机 [[DM.BaseDescriptionDefs[LoreBushwacker]  Bushwacker]]",
+    "Icon": "envTxrHrld_startFreelancer",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_career_veteran",
+        "pilot_military",
+        "pilot_lucky"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": [
+      {
+        "Scope": "Company",
+        "EventID": "CommanderGearEventVeteran",
+        "MinDaysWait": 1,
+        "MaxDaysWait": 1,
+        "Probability": 100
+      }
+    ],
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 2,
+  "UIOrdering": 4,
+  "OptionName": "突击队老兵",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "你以自由身游荡于[[DM.BaseDescriptionDefs[LoreRimwardPeriphery]  Rimward Periphery]]，作为一名受雇的机甲战士，接下一切能找到的零散合同。那是种孤独的生活——但随着你逐渐适应了漂泊的日子，你发现自己能靠着帮助边疆的人们过上不错的生活。\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics]  Tactics]]",
+  "Intro": "在为[[DM.BaseDescriptionDefs[LoreAuriganReach]  奥里根边区]]边缘的某地政府执行例行巡逻时，你遭到海盗袭击并被弃之等死。拉朱恰好正在访问首府城市，接收到了你的求救信号。救出你之后，他邀请你加入[[DM.BaseDescriptionDefs[LoreHouseArano]  阿然诺家族]]皇家卫队。\n\n就这样，你与旧日的导师重逢，为[[DM.BaseDescriptionDefs[LoreKameaArano]  卡美娅·阿然诺女士]]加冕当天的守卫任务保养你的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]……",
+  "BioDescription": "Through many years of exceptional service, you found yourself shortlisted for a strike against Clan Smoke Jaguar - Operation DAMOCLES. Along with three other Second Star League veterans, you fought your way through the Smoke Jaguar chain of command, salvaging what 'Mechs you could along the way. In the final confrontation with the would-be leader of the Clan, your salvaged 'Mech was destroyed, but you were ultimately successful. Now, with your Bushwacker in tow, you think it's time for something a little quieter.\r\n"
+}

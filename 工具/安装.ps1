@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/19] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/20] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -347,10 +347,29 @@ if ([IO.File]::Exists($cfDict)) {
                                  '-backupRoot', (Join-Path $packRoot 'backup\Mods-cf'))
 }
 Ok "完成"
+
+# ---------- 9g) 角色创建背景与合约结束评价 ----------
+# RogueBackgrounds 的 OptionName/OptionDescription/Intro 是角色创建界面里
+# 背景选项的标题与说明; 各派系 faction_*.json 的 MissionSuccessStatement /
+# GoodFaithFailureStatement / BadFaithFailureStatement 是任务结束时雇主对
+# 你的评价。两类都是直接显示 JSON 里的字符串。
+# 译文取自各模组 Localization/ZH 表(已是 JSON 转义形式, 含 0x1F 占位符),
+# 所以用 -JsonValue 避免二次转义。
+Step 15 "汉化角色背景与合约评价"
+$bgDict = Join-Path $PSScriptRoot 'dict-bg.tsv'
+if ([IO.File]::Exists($bgDict)) {
+    RunTool 'apply-fields.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                 '-pairs', $bgDict,
+                                 '-fields', 'OptionName,OptionDescription,Intro,MissionSuccessStatement,GoodFaithFailureStatement,BadFaithFailureStatement',
+                                 '-pathLike', 'RogueBackgrounds,RogueTechCore\Factions',
+                                 '-JsonValue',
+                                 '-backupRoot', (Join-Path $packRoot 'backup\Mods-bg'))
+}
+Ok "完成"
 # Quirk_*.json 的 Description.Name 是显示名(装备特性栏), 包内不含这些定义
 # 文件, 只能靠词典在目标机应用。Name 字段在别处可能是内部标识符, 所以
 # 限定只处理 Quirks 目录下的文件。
-Step 15 "补译 Quirk 特性显示名"
+Step 16 "补译 Quirk 特性显示名"
 $quirkDict = Join-Path $PSScriptRoot 'dict-quirk.tsv'
 if ([IO.File]::Exists($quirkDict)) {
     RunTool 'apply-quirk.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
@@ -360,12 +379,12 @@ if ([IO.File]::Exists($quirkDict)) {
 Ok "完成"
 
 # ---------- 10) 装备分类显示名 ----------
-Step 16 "汉化装备分类显示名"
+Step 17 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
 # ---------- 11) 控制字符与标点空格 ----------
-Step 17 "清理控制字符、标点空格与插值占位符"
+Step 18 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
@@ -373,14 +392,14 @@ RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 11) 术语归一化与格式修复 ----------
-Step 18 "术语归一化与格式修复"
+Step 19 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 12) 校验 ----------
-Step 19 "校验"
+Step 20 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }

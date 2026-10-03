@@ -5,6 +5,7 @@
     [string]$backupRoot = "",
     [string]$pathLike = "",
     [switch]$IncludeModJson,
+    [switch]$JsonValue,
     [switch]$DryRun
 )
 <#
@@ -15,6 +16,10 @@
 
   对照表格式: 英文原文 <TAB> 中文译文 (UTF-8)
   保护: 已含中文的跳过; JSON 校验失败则跳过; 改前备份
+
+  -JsonValue: 译文已是 JSON 转义形式(如从 Localization.json 的
+  CULTURE_ZH_CN 提取的文本, 内含 \r\n 字面), 此时只转义双引号,
+  不再做反斜杠翻倍与换行转义, 否则会写成 \\r\\n 而显示成字面反斜杠。
 #>
 $ErrorActionPreference = 'Stop'
 $BS = [string][char]92
@@ -51,6 +56,7 @@ $enc = New-Object Text.UTF8Encoding $false
 $stats = @{ files = 0; changed = 0; repl = 0 }
 $script:map = $map
 $script:stats = $stats
+$script:jsonValue = $JsonValue.IsPresent
 
 $excl = @($BS + '.modtek' + $BS, 'ModSaves')
 $files = Get-ChildItem $mods -Recurse -File -Filter '*.json' | Where-Object {
@@ -86,8 +92,14 @@ foreach ($f in $files) {
         if (-not $script:map.ContainsKey($val)) { return $m.Value }
         $zh = $script:map[$val]
         $script:stats.repl++
-        $e = $zh.Replace($BS, $BS + $BS).Replace('"', $BS + '"')
-        $e = $e.Replace("`n", $BS + 'n').Replace("`r", $BS + 'r').Replace("`t", $BS + 't')
+        if ($script:jsonValue) {
+            # 译文已是 JSON 转义形式, 只需处理双引号(不能翻倍反斜杠,
+            # 否则 \r\n 会变成 \\r\\n 在游戏里显示成字面反斜杠)
+            $e = $zh.Replace('"', $BS + '"')
+        } else {
+            $e = $zh.Replace($BS, $BS + $BS).Replace('"', $BS + '"')
+            $e = $e.Replace("`n", $BS + 'n').Replace("`r", $BS + 'r').Replace("`t", $BS + 't')
+        }
         return '"' + $fld + '": "' + $e + '"'
     })
     if ($new -eq $orig) { continue }

@@ -1,0 +1,67 @@
+{
+  "Description": {
+    "Id": "background_ancestry_Marik",
+    "Name": "马里克",
+    "Details": "你出生并成长于[[DM.Factions[faction_Marik]  自由世界联盟]]。",
+    "Icon": "uixTxrLogo_Marik",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_ancestry_marik",
+        "pilot_vehicle_crew",
+        "can_pilot_generic_vehicle",
+        "can_pilot_generic_mech"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": {
+      "items": [
+        "can_pilot_vtol",
+        "can_pilot_landairmech"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 2,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 2,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 4,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 2,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": null,
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 0,
+  "UIOrdering": 4,
+  "OptionName": "自由世界联盟（马里克）",
+  "OptionMusicTrigger": "marik",
+  "OptionDescription": "来自[[DM.Factions[faction_Marik]  自由世界联盟]]的机甲战士往往是充满激情、坚韧不拔的战士，把正义与平等置于一切之上。\n\n作为[[DM.BaseDescriptionDefs[LoreInnerSphere]  内层星域]]各[[DM.BaseDescriptionDefs[LoreSuccessorState]  继承国]]中最古老、理论上最民主的一个，自由世界联盟实际上是众多小贵族家族的广泛联盟。在联盟历史的大部分时间里，它由一位总上将依军事管制统治，而按传统这位总上将出自[[DM.BaseDescriptionDefs[LoreHouseMarik]  马里克家族]]。各组成区域的文化多样性与相对独立性，既是自由世界联盟最大的优势，也是其最大的弱点。",
+  "BioDescription": "You were born and raised in the Free Worlds League. MechWarriors who hail from the Free Worlds League tend to be passionate, enduring fighters who value justice and equality above all else. The cultural diversity and independence of the Free Worlds League is at once the greatest strength of the Free Worlds League, and its greatest weaknesses.\r\n"
+}

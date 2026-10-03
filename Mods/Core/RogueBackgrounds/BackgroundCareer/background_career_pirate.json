@@ -1,0 +1,69 @@
+{
+  "Description": {
+    "Id": "background_career_pirate",
+    "Name": "军官",
+    "Details": "总得有人管着这帮孩子。\n特性：[[DM.BaseDescriptionDefs[QuirkCommand]  指挥官]]、[[DM.BaseDescriptionDefs[QuirkOfficer]  军官]]\n单位：可选 [[DM.BaseDescriptionDefs[StarterBundleOfficer]  指挥车辆]]",
+    "Icon": "envTxrHrld_startPirate",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_career_officer",
+        "pilot_officer",
+        "pilot_command"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": [
+      {
+        "Scope": "Company",
+        "EventID": "CommanderGearEventOfficer",
+        "MinDaysWait": 1,
+        "MaxDaysWait": 1,
+        "Probability": 100
+      }
+    ],
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 2,
+  "UIOrdering": 1,
+  "OptionName": "军官",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "厌倦了活在他人权威之下的日子，你混进了[[DM.BaseDescriptionDefs[LoreRimwardPeriphery]  Rimward Periphery]]当地的一伙海盗帮派。这帮人桀骜难驯，却也相当能干——在外围地区游荡，让你这支队伍有了稳定的猎物来源：防御薄弱的商队和补给站。突袭偶尔会演变成正面交战，但你很快就明白，成功的海盗行当多半靠的是在对的时间出现在对的地点、摆出对的威胁，再加上一场像样的武力展示。\r\n\r\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts]  Guts]]",
+  "Intro": "在边疆漂泊多年之后，你的部队终于耗尽了运气，你被关进了[[DM.BaseDescriptionDefs[LoreAuriganCoalition]  Aurigan Coalition]]的监狱。得知你遭遇不幸，Raju将你从狱中拉了出来，在他的指导下给了你第二次机会。经过艰苦的康复训练，你证明了自己的价值，被吸纳入[[DM.BaseDescriptionDefs[LoreHouseArano]  House Arano]]皇家卫队。\r\n\r\n就这样，你与昔日的导师重逢，为自己的祖传[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  Blackjack]]做好护卫准备，迎接[[DM.BaseDescriptionDefs[LoreKameaArano]  Lady Kamea Arano]]的加冕典礼……",
+  "BioDescription": "The school of hard knocks is for people who think that the only way to the top of the food chain is brute force. Officer training school is for the people who <i>know</i> the only way to the top of the food chain is brute force <i>applied by people under your command</i>. You graduated, did a brief stint in the organised military, dropped out, had a jaunt through the private sector, and now you find yourself at the head of your own mercenary company, with a whole slew of people ready to do the brute force for you.\r\n"
+}

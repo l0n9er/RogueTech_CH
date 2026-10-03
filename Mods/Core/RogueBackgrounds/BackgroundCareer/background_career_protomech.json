@@ -1,0 +1,69 @@
+{
+  "Description": {
+    "Id": "background_career_protomech",
+    "Name": "ProtoMech Test Subject",
+    "Details": "它们是机甲！但要<i>小一号</i>！\n特性：[[DM.BaseDescriptionDefs[QuirkMechWarrior]  机甲战士]]、[[DM.BaseDescriptionDefs[QuirkNeuralImplants]  神经植入体]]\n单位：随机 [[DM.BaseDescriptionDefs[ConceptProtoMech]  原型机甲]]",
+    "Icon": "envTxrHrld_startMercenary",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_career_protomech",
+        "pilot_NeuralImplants",
+        "pilot_mechwarrior"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": [
+      {
+        "Scope": "Company",
+        "EventID": "CommanderGearEventProtomech",
+        "MinDaysWait": 1,
+        "MaxDaysWait": 1,
+        "Probability": 100
+      }
+    ],
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 2,
+  "UIOrdering": 7,
+  "OptionName": "原型机甲机师测试对象",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "你是科学家种姓把机甲战士改造成原机甲飞行员的一次尝试。",
+  "Intro": "你是科学家种姓把机甲战士改造成原机甲飞行员的一次尝试。",
+  "BioDescription": "In the Clans' mad scramble to find suitable pilots for the ProtoMech project, you were among those selected for experimentation. While you failed to meet the frankly absurd conditions of the program, you became adept at piloting the unusual machines. Discarded once you were deemed useless, you took to the great expanse of space and landed yourself a comfortable job at the head of a mercenary company, ready to put your unconventional skills to use.\r\n"
+}

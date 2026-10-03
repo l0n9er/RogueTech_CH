@@ -1,0 +1,60 @@
+{
+  "Description": {
+    "Id": "background_youth_loner",
+    "Name": "孤独者",
+    "Details": "你一路横冲直撞走过人生，只信得过唯一靠得住的枪——你自己的。\n特性：[[DM.BaseDescriptionDefs[QuirkReckless]  鲁莽]]、[[DM.BaseDescriptionDefs[QuirkBrave]  勇敢]]",
+    "Icon": "uixTxrLogo_backgroundLoner",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_youth_loner",
+        "pilot_brave",
+        "pilot_reckless"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": null,
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 1,
+  "UIOrdering": 1,
+  "OptionName": "生存",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "作为贵族家族的继承人，你从小要什么有什么。而结果证明……你受不了那种被娇养的高贵生活。\n\n最终，某个夜里你带着家族祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  黑杰克]]偷偷离开，出发去寻找属于自己的新生活。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting]  驾驶]]，+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics]  战术]]",
+  "BioDescription": "In your youth, while others your age had myriad interests, you fought tooth and nail to justify your own existence. Life was tough, so you had to be tougher.\r\n"
+}

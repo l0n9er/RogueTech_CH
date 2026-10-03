@@ -1,0 +1,60 @@
+{
+  "Description": {
+    "Id": "background_youth_betrayed",
+    "Name": "技师",
+    "Details": "硬件和软件对你来说从来都那么简单。\n特性：[[DM.BaseDescriptionDefs[QuirkLosTech]  失落科技经验]]、[[DM.BaseDescriptionDefs[QuirkTech]  技师]]",
+    "Icon": "uixTxrLogo_backgroundBetrayed",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_youth_tech",
+        "pilot_tech",
+        "pilot_lostech"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": null,
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 1,
+  "UIOrdering": 4,
+  "OptionName": "科技",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "你的家族遭到背叛、权力根基被毁。你击败了背叛者，但你是家族中唯一的幸存者。\n\n名下只剩家族祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  二十一点]]，你出发去为自己开辟新生活。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery]  炮术]]，+1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts]  胆识]]",
+  "BioDescription": "In your spare time, you used to live and breathe technology. Whether you were tinkering with various systems, or scouring through every TechManual under the sun, you always found the technology that made the universe ticks to be fascinating.\r\n"
+}

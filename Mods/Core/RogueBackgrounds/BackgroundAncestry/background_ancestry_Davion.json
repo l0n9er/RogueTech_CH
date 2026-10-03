@@ -1,0 +1,67 @@
+{
+  "Description": {
+    "Id": "background_ancestry_Davion",
+    "Name": "戴维恩",
+    "Details": "你出生并成长于[[DM.Factions[faction_Davion]  联邦太阳]]。",
+    "Icon": "uixTxrLogo_Davion",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_ancestry_davion",
+        "pilot_vehicle_crew",
+        "can_pilot_generic_vehicle",
+        "can_pilot_generic_mech"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": {
+      "items": [
+        "can_pilot_vtol",
+        "can_pilot_landairmech"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 2,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 3,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 2,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 3,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": null,
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 0,
+  "UIOrdering": 1,
+  "OptionName": "恒星联邦（戴维恩）",
+  "OptionMusicTrigger": "davion",
+  "OptionDescription": "出身于[[DM.Factions[faction_Davion]  联邦太阳]]的机师往往比太空中其他区域的同行拥有更精湛的技能和更好的装备。他们常把自己视为正义的战士与自由的捍卫者——有时过于如此。\n\n尽管在[[DM.BaseDescriptionDefs[LoreFirstSuccessionWar]  第一次继承战争]]中几乎被[[DM.Factions[faction_Kurita]  龙尼斯联合体]]灭国，这个由著名的[[DM.BaseDescriptionDefs[LoreHouseDavion]  达维昂家族]]统治的君主立宪国如今可以说是五大[[DM.BaseDescriptionDefs[LoreSuccessorState]  继承国]]中最强大的。凭借高超的军事行动与巧妙的外交，达维昂家族在过去两个世纪里大幅增加了其控制的星系数量。",
+  "BioDescription": "You were born and raised in the Federation. MechWarriors who hail from the Federated Suns tend to possess more finely honed skills and better equipment than their counterparts from other regions of space. They often see themselves as righteous warriors and champions of liberty - sometimes to a fault.\r\n"
+}

@@ -1,0 +1,67 @@
+{
+    "Description" : {
+        "Id" : "background_ancestry_Taurians",
+        "Name" : "金牛人",
+        "Details": "你出生并成长于[[DM.Factions[faction_TaurianConcordat]  陶里安协约国]]。",
+        "Icon" : "uixTxrLogo_TaurianConcordat",
+        "Cost" : 0,
+        "Rarity" : 0,
+        "Purchasable" : false
+    },
+    "Results" : {
+        "Scope" : "Commander",
+        "Requirements" : null,
+        "AddedTags" : {
+            "items" : [
+                "commander_ancestry_taurian",
+                "pilot_vehicle_crew",
+                "can_pilot_generic_vehicle",
+                "can_pilot_generic_mech"
+            ],
+            "tagSetSourceFile" : ""
+        },
+        "RemovedTags" : {
+          "items": [
+            "can_pilot_vtol",
+            "can_pilot_landairmech"
+          ],
+          "tagSetSourceFile": ""
+        },
+        "Stats" : [
+            {
+                "typeString" : "System.Int32",
+                "name" : "Piloting",
+                "value" : 2,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Gunnery",
+                "value" : 2,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Tactics",
+                "value" : 2,
+                "valueConstant" : ""
+            },
+            {
+                "typeString" : "System.Int32",
+                "name" : "Guts",
+                "value" : 4,
+                "valueConstant" : ""
+            }
+        ],
+        "Actions" : null,
+        "ForceEvents" : null,
+        "TemporaryResult" : false,
+        "ResultDuration" : 0
+    },
+    "BackgroundSection" : 0,
+	"UIOrdering" : 8,
+	"OptionName": "金牛协约国",
+	"OptionMusicTrigger" : "concordat",
+	"OptionDescription": "出身于[[DM.Factions[faction_TaurianConcordat]  陶里安协约国]]的机师往往固执而好斗。他们容易发怒，但依然是技艺娴熟、洞察敏锐的战斗者。\n\n陶里安协约国建立时是[[DM.BaseDescriptionDefs[LoreHouseCalderon]  卡尔德隆家族]]领导下的君主立宪国，也是[[DM.BaseDescriptionDefs[LoreRimwardPeriphery]  外缘星区]]最强的军事力量。它同时是人类文明中最古老的幸存政权之一，其成立远早于[[DM.BaseDescriptionDefs[LoreStarLeague]  星盟]]的建立。陶里安公民享有《协约国宪章》保障的广泛自由，并以通过义务服役来捍卫这些自由为荣。陶里安协约国与[[DM.BaseDescriptionDefs[LoreInnerSphere]  内天体]]长期敌对，尤其是与[[DM.Factions[faction_Davion]  联邦太阳]]。",
+	"BioDescription" : "Decades ago, your family came to the Aurigan Reach from the Taurian Concordat. MechWarriors who hail from the Taurian Concordat tend to be stubborn and aggressive but are nonetheless skilled and perceptive combatants. Founded as a constitutional monarchy under the leadership of House Calderon, the Taurian Concordat is the strongest military power of the Rimward Periphery.\r\n"
+}

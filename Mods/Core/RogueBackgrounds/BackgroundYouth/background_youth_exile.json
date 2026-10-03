@@ -1,0 +1,60 @@
+{
+  "Description": {
+    "Id": "background_youth_exile",
+    "Name": "历史",
+    "Details": "很久以前，你常读那些很久以前的故事。\n特性：[[DM.BaseDescriptionDefs[QuirkBookish]  书呆子]]、[[DM.BaseDescriptionDefs[QuirkLosTech]  失落科技经验]]",
+    "Icon": "uixTxrLogo_backgroundExiled",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_youth_history",
+        "pilot_bookish",
+        "pilot_lostech"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": null,
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 0,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 0,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": null,
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 1,
+  "UIOrdering": 0,
+  "OptionName": "历史",
+  "OptionMusicTrigger": "",
+  "OptionDescription": "你曾是你家族中大有前途的年轻继承人，却犯下了不可饶恕的过错，被判终身流放。\n\n你带着家族祖传的[[DM.BaseDescriptionDefs[LoreAncestralBlackjack]  黑杰克]]偷偷离开，出发去寻找属于自己的新生活。\n\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery]  射击]]，+1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics]  战术]]",
+  "BioDescription": "You have ever been looking to the past, perhaps to a fault. Any period of history, be it pre-spaceflight or as recent as the Age of War, has always piqued your interest. Despite not having a formal education in the field, your knowledge of some eras rivals even the most accredited historians.\r\n"
+}

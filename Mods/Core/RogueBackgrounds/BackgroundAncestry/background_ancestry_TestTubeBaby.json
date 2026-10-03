@@ -1,0 +1,67 @@
+{
+  "Description": {
+    "Id": "background_ancestry_TestTubeBaby",
+    "Name": "真生者",
+    "Details": "你生来就是[[DM.BaseDescriptionDefs[LoreTrueborn]  真血]]的[[DM.BaseDescriptionDefs[LoreClans]  氏族]]成员。\n+1 [[DM.BaseDescriptionDefs[StatMechWarriorAll]  全部技能]]。\n无法指挥[[DM.BaseDescriptionDefs[ConceptVehicle]  车辆]]。",
+    "Icon": "uixTxrLogo_ClansGeneric",
+    "Cost": 0,
+    "Rarity": 0,
+    "Purchasable": false
+  },
+  "Results": {
+    "Scope": "Commander",
+    "Requirements": null,
+    "AddedTags": {
+      "items": [
+        "commander_ancestry_trueborn",
+        "can_pilot_generic_mech"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "RemovedTags": {
+      "items": [
+        "pilot_vehicle_crew",
+        "can_pilot_generic_vehicle",
+        "can_pilot_vtol",
+        "can_pilot_landairmech"
+      ],
+      "tagSetSourceFile": ""
+    },
+    "Stats": [
+      {
+        "typeString": "System.Int32",
+        "name": "Piloting",
+        "value": 3,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Gunnery",
+        "value": 3,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Tactics",
+        "value": 3,
+        "valueConstant": ""
+      },
+      {
+        "typeString": "System.Int32",
+        "name": "Guts",
+        "value": 3,
+        "valueConstant": ""
+      }
+    ],
+    "Actions": null,
+    "ForceEvents": null,
+    "TemporaryResult": false,
+    "ResultDuration": 0
+  },
+  "BackgroundSection": 0,
+  "UIOrdering": 12,
+  "OptionName": "氏族实验室(真生者)",
+  "OptionMusicTrigger": "deep",
+  "OptionDescription": "TESTING",
+  "BioDescription": "You were created a [[DM.BaseDescriptionDefs[LoreTrueborn]  trueborn]] member of the [[DM.BaseDescriptionDefs[LoreClans]  Clans]]. Washed out from the eugenics program, you are still determined to earn your place in the Remembrance."
+}
