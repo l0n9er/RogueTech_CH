@@ -58,6 +58,25 @@ $rules = @(
 
 # 保护: HTML 标签、[[...]] 占位符(内部可含 {...})、{...} 占位符、转义序列
 $guard = [regex]'(<[^>]*>|\[\[.*?\]\]|\{[^{}]*\}|\\r|\\n|\\t)'
+# 快筛: 由全部规则自身拼成一个交替正则(保留各规则原有的元字符),
+# 先问一次"这段文本有没有可能命中任何规则", 没有就直接返回,
+# 省掉逐条 IsMatch 的开销(原先每段文本要跑 28 次匹配)。
+# 注意: 不能用 [regex]::Escape 处理字面量规则, 否则会丢掉 \s \1 等语义。
+$ruleHint = [regex](($rules | ForEach-Object { '(?:' + $_.rx.ToString() + ')' }) -join '|')
+
+# 文件级预筛用的字面量清单: 覆盖 $rules 里所有"固定串"规则(变体写法取最短的
+# 覆盖串, 如"内骨骼钢"已涵盖"内骨骼钢复合结构"/"内骨骼钢结构"; "格斗"涵盖
+# "格斗者")。String.Contains 是 SIMD 加速的, 比在 193MB 上跑正则快得多。
+$needles = @(
+    '作动器','执行机构','内天體','屬於','战斗機甲','一門',
+    '境内外域边境的的伍德拜恩','我会给你你该得的','旨在在不增加引擎吨位',
+    '四个各自寻的的弹丸','较为次要的的跳跃能力','我们所看到的的一切',
+    '一支可以撇清关系的的','内骨骼钢','运输舰','空降舰','载具','混战',
+    '长程导弹','短程导弹','跳跃喷射器','跳跃舰','跃迁船','执行器','驾驶员',
+    '格斗','亲和','TODO','nonetheless','and Keep Test Drive Mech Alive'
+)
+# 标点类规则(空格+标点 / 标点+空格 / 重复标点)无法用 Contains, 单独用轻量正则
+$filePunctRx = [regex]'(\s+[，。、：；！？”》）】《]|[，。、：；！？“（【《]\s+(?=\S)|([，。、；：？])\1|！{4,})'
 $encNoBom = New-Object Text.UTF8Encoding $false
 $auditEnc = New-Object Text.UTF8Encoding $true
 if ([string]::IsNullOrWhiteSpace($audit)) {
@@ -81,16 +100,18 @@ function Fix-Text([string]$text, [string]$src) {
     foreach ($p in $parts) {
         if ($p[0] -eq 'G') { [void]$out.Append($p[1]); continue }
         $seg = $p[1]
+        # 快筛: 未命中则任何规则都不可能改动它, 直接原样输出
+        if (-not $ruleHint.IsMatch($seg)) { [void]$out.Append($seg); continue }
+        # 命中快筛说明"可能有规则生效", 但多数情况只是一两个词。逐条 Replace 并
+        # 用返回值是否变化判断, 省掉原先多跑一遍的 IsMatch($seg)。
         foreach ($r in $rules) {
-            if ($r.rx.IsMatch($seg)) {
-                $b = $seg
-                $seg = $r.rx.Replace($seg, $r.to)
-                if ($seg -ne $b) {
-                    $script:n++
-                    $s = ($b -replace "`r", ' ' -replace "`n", ' ')
-                    if ($s.Length -gt 70) { $s = $s.Substring(0, 70) }
-                    $aw.WriteLine($src + "`t" + $r.n + "`t" + $s)
-                }
+            $b = $seg
+            $seg = $r.rx.Replace($seg, $r.to)
+            if ($seg -ne $b) {
+                $script:n++
+                $s = ($b -replace "`r", ' ' -replace "`n", ' ')
+                if ($s.Length -gt 70) { $s = $s.Substring(0, 70) }
+                $aw.WriteLine($src + "`t" + $r.n + "`t" + $s)
             }
         }
         [void]$out.Append($seg)
@@ -98,8 +119,10 @@ function Fix-Text([string]$text, [string]$src) {
     return $out.ToString()
 }
 
-# 覆盖全部已知文本字段(含之前遗漏的 CULTURE_ZH_CN)
-$fldList = @('Details','YangsThoughts','StockRole','levelName','decription','DisplayName','ErrorMessage','title','description','Text','CULTURE_ZH_CN','UIName','Name','Original','Commentary')
+# 覆盖全部已知文本字段(含之前遗漏的 CULTURE_ZH_CN 与 words)
+# words 曾长期缺席, 导致对话/字幕里的"运输舰""载具""混战"等术语始终没被
+# 归一化(实测残留 228/31/11 处), 而脚本每次都报 hits=0 看不出问题。
+$fldList = @('words','Details','YangsThoughts','StockRole','levelName','decription','DisplayName','ErrorMessage','title','description','Text','CULTURE_ZH_CN','UIName','Name','Original','Commentary','Short','Long','Full','BonusValueA','BonusValueB')
 $flds = [string]::Join('|', $fldList)
 $fieldRx = [regex]('"(' + $flds + ')"\s*:\s*"((?:[^"' + $BS + $BS + ']|' + $BS + $BS + '.)*)"')
 $excl = @($BS + '.modtek' + $BS, 'ModSaves', $BS + 'unitTypes' + $BS)
@@ -123,6 +146,15 @@ foreach ($f in $files) {
     $stats.files++
     $script:rel = $f.FullName.Substring($mods.Length).TrimStart($BS)
     $orig = [IO.File]::ReadAllText($f.FullName, [Text.Encoding]::UTF8)
+    # 廉价预筛: 全部规则只作用于含中文的文本, 无中文的文件不必跑大正则。
+    # (更激进的"关键词预筛"实测反而更慢 —— 在 193MB 上跑交替正则比重跑
+    #  字段正则还贵, 故只保留这一级。)
+    if ($orig -notmatch '[\u4e00-\u9fff]') { continue }
+    # 文件级预筛: 用 Contains 找规则字面量(极快), 标点类规则再补一次轻量正则。
+    # 两者都不命中时, $fieldRx 无论如何都不会改动任何内容, 可安全跳过。
+    $hit = $false
+    foreach ($nd in $needles) { if ($orig.Contains($nd)) { $hit = $true; break } }
+    if (-not $hit) { if (-not $filePunctRx.IsMatch($orig)) { continue } }
     $new = $fieldRx.Replace($orig, $eval)
     if ($new -eq $orig) { continue }
     if (-not $DryRun) {
