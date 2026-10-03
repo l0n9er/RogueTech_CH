@@ -83,6 +83,10 @@ BattleTech_Data\StreamingAssets\data\VersionManifest.csv  游戏资源清单（2
                                      当前结果：对话 50% 句子保留英文式"我们/你们"
                                      主语、28% 超过 40 字，属可打磨项，不影响可读性。
 
+【维护用】（不参与安装）
+工具\打包.ps1                        重新生成发布 zip（文件名自动带日期后缀
+                                     RT汉化包_YYYYMMDD.zip，并清理旧包）
+
 【可选】
 可选-模组形式\CustomLocalization-ZH-CN\   把翻译总表做成 ModTek 模组
                                           （复制到 <游戏目录>\Mods\Options\Localization\）
