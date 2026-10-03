@@ -76,6 +76,13 @@ BattleTech_Data\StreamingAssets\data\VersionManifest.csv  游戏资源清单（2
 工具\affinity-zh.tsv                 亲和名称中英对照
 工具\affinity-names-extra.tsv        手工补译的亲和名称
 
+【译文风格体检】（不参与安装，供后续打磨用）
+工具\_style_audit.pl                 统计译文里的"翻译腔"标记（被动式、代词冗余、
+                                     连词显化、长句、"的"密度等），输出占比报告。
+                                     用法：perl _style_audit.pl dict-words.tsv 对话 0
+                                     当前结果：对话 50% 句子保留英文式"我们/你们"
+                                     主语、28% 超过 40 字，属可打磨项，不影响可读性。
+
 【可选】
 可选-模组形式\CustomLocalization-ZH-CN\   把翻译总表做成 ModTek 模组
                                           （复制到 <游戏目录>\Mods\Options\Localization\）
