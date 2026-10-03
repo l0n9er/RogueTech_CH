@@ -1,0 +1,454 @@
+{
+    "Logging": {
+        "DefaultLogLevel": "Debug",
+        "TraceEnabled": true
+    },
+    "MechLab": {
+        "TabsConfigFile": "RogueTechTabs.json"
+    },
+    "MechBay": {
+        "DefaultSortOrder": [
+            "!ChassisTonnage",
+            "ChassisVariantName",
+            "MechName",
+            "ChassisCost"
+        ]
+    },
+    "TagManager": {
+        "Enabled": true,
+        "LostechStockWeaponVariantFix": false,
+        "SkirmishOverloadWarningCount": 10000,
+        "SkirmishOptionsShow": true,
+        "SkirmishOptionsDefault": {
+            "Label": "<null>",
+            "Components": {
+                "ContainsAny": null,
+                "NotContainsAny": [
+                    "VanillaOverride"
+                ]
+            },
+            "Mechs": {
+                "ContainsAny": [
+                    "unit_release"
+                ],
+                "NotContainsAny": [
+                    "unit_override",
+                    "unit_vehicle"
+                ]
+            },
+            "Pilots": {
+                "ContainsAny": [
+                    "pilot_release_skirmish"
+                ],
+                "NotContainsAny": null
+            },
+            "Lances": {
+                "ContainsAny": [
+                    "lance_bracket_skirmish"
+                ],
+                "NotContainsAny": null
+            }
+        },
+        "SkirmishDefault": {
+            "Label": "默认",
+            "Components": {
+                "ContainsAny": [
+                    "component_type_stock",
+                    "component_type_variant",
+                    "component_type_lostech"
+                ],
+                "NotContainsAny": [
+                    "BLACKLISTED"
+                ]
+            },
+            "Mechs": {
+                "ContainsAny": null,
+                "NotContainsAny": [
+                    "BLACKLISTED",
+                    "unit_unlocked"
+                ]
+            },
+            "Pilots": {
+                "ContainsAny": [
+                    "pilot_release_skirmish"
+                ],
+                "NotContainsAny": null
+            },
+            "Lances": {
+                "ContainsAny": [
+                    "lance_bracket_skirmish"
+                ],
+                "NotContainsAny": null
+            }
+        },
+        "SkirmishOptionsPresets": [],
+        "SkirmishOptionsComponentGroup": {
+            "Label": "组件",
+            "Options": [
+                {
+                    "Label": "无",
+                    "ContainsAny": [],
+                    "NotContainsAny": [],
+                    "OptionActive": false,
+                    "OptionBreakLineBefore": false
+                },
+                {
+                    "Label": "普通",
+                    "ContainsAny": null,
+                    "NotContainsAny": [
+                        "BLACKLISTED",
+                        "VanillaOverride"
+                    ],
+                    "OptionActive": true,
+                    "OptionBreakLineBefore": false
+                },
+                {
+                    "Label": "+黑名单",
+                    "ContainsAny": null,
+                    "NotContainsAny": [
+                        "VanillaOverride"
+                    ],
+                    "OptionActive": false,
+                    "OptionBreakLineBefore": false
+                }
+            ]
+        },
+        "SkirmishOptionsMechGroups": [
+            {
+                "Label": "科技基础",
+                "Options": [
+                    {
+                        "Label": "内天体",
+                        "ContainsAny": null,
+                        "NotContainsAny": [
+                            "unit_clan",
+                            "unit_omni",
+                            "unit_primitive",
+                            "unit_prototype"
+                        ]
+                    },
+                    {
+                        "Label": "氏族",
+                        "ContainsAny": [
+                            "unit_clan"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "万能配装",
+                        "ContainsAny": [
+                            "unit_omni"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "原始科技",
+                        "ContainsAny": [
+                            "unit_primitive"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "原型",
+                        "ContainsAny": [
+                            "unit_prototype"
+                        ],
+                        "NotContainsAny": null
+                    }
+                ]
+            },
+            {
+                "Label": "吨位",
+                "Options": [
+                    {
+                        "Label": "轻型",
+                        "ContainsAny": [
+                            "unit_light"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "中型",
+                        "ContainsAny": [
+                            "unit_medium"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "重型",
+                        "ContainsAny": [
+                            "unit_heavy"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "袭击",
+                        "ContainsAny": [
+                            "unit_assault"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "超重型",
+                        "ContainsAny": [
+                            "unit_superheavy_mech"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "其他",
+                        "ContainsAny": null,
+                        "NotContainsAny": [
+                            "unit_light",
+                            "unit_medium",
+                            "unit_heavy",
+                            "unit_assault",
+                            "unit_superheavy_mech"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Label": "机甲类型",
+                "Options": [
+                    {
+                        "Label": "战斗机甲",
+                        "ContainsAny": null,
+                        "NotContainsAny": [
+                            "unit_industrial",
+                            "unit_protomech",
+                            "unit_quad",
+                            "unit_LAM",
+                            "unit_vehicle",
+                            "unit_battlearmor",
+                            "unit_mech_squad"
+                        ]
+                    },
+                    {
+                        "Label": "工业",
+                        "ContainsAny": [
+                            "unit_industrial"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "原型机甲",
+                        "ContainsAny": [
+                            "unit_protomech"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "战斗装甲",
+                        "ContainsAny": [
+                            "unit_battlearmor"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "多人机甲",
+                        "ContainsAny": [
+                            "unit_mech_squad"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "四足",
+                        "ContainsAny": [
+                            "unit_quad"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "陆空两用机甲",
+                        "ContainsAny": [
+                            "unit_LAM"
+                        ],
+                        "NotContainsAny": null
+                    }
+                ]
+            },
+            {
+                "Label": "稀有度",
+                "Options": [
+                    {
+                        "Label": "普通",
+                        "ContainsAny": null,
+                        "NotContainsAny": [
+                            "unit_elite",
+                            "unit_unique",
+                            "unit_legendary"
+                        ]
+                    },
+                    {
+                        "Label": "精英",
+                        "ContainsAny": [
+                            "unit_elite"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "独特",
+                        "ContainsAny": [
+                            "unit_unique"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "传奇",
+                        "ContainsAny": [
+                            "unit_legendary"
+                        ],
+                        "NotContainsAny": null
+                    }
+                ]
+            },
+            {
+                "Label": "时代",
+                "Options": [
+                    {
+                        "Label": "氏族入侵",
+                        "ContainsAny": [
+                            "unit_era_clan_invasion"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "内战",
+                        "ContainsAny": [
+                            "unit_era_civil_war"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "布雷克圣言会圣战",
+                        "ContainsAny": [
+                            "unit_era_jihad"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "共和国",
+                        "ContainsAny": [
+                            "unit_era_republic"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "黑暗时代",
+                        "ContainsAny": [
+                            "unit_era_dark_ages"
+                        ],
+                        "NotContainsAny": null
+                    },
+                    {
+                        "Label": "未知",
+                        "ContainsAny": null,
+                        "NotContainsAny": [
+                            "unit_era_clan_invasion",
+                            "unit_era_civil_war",
+                            "unit_era_jihad",
+                            "unit_era_republic",
+                            "unit_era_dark_ages"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Label": "扩展模组",
+                "Options": [
+                    {
+                        "Label": "基础",
+                        "ContainsAny": null,
+                        "NotContainsAny": [
+                            "unit_dlc"
+                        ],
+                        "OptionActive": false,
+                        "OptionBreakLineBefore": false
+                    },
+                    {
+                        "Label": "扩展模组",
+                        "ContainsAny": [
+                            "unit_dlc"
+                        ],
+                        "NotContainsAny": null,
+                        "OptionActive": false,
+                        "OptionBreakLineBefore": false
+                    }
+                ]
+            },
+            {
+                "Label": "来源",
+                "Options": [
+                    {
+                        "Label": "核心",
+                        "ContainsAny": [
+                            "unit_core"
+                        ],
+                        "NotContainsAny": null,
+                        "OptionActive": false,
+                        "OptionBreakLineBefore": false
+                    },
+                    {
+                        "Label": "各个时代",
+                        "ContainsAny": [
+                            "unit_optional_era"
+                        ],
+                        "NotContainsAny": null,
+                        "OptionActive": false,
+                        "OptionBreakLineBefore": false
+                    },
+                    {
+                        "Label": "扩展模组",
+                        "ContainsAny": null,
+                        "NotContainsAny": [
+                            "unit_core",
+                            "unit_optional_era"
+                        ],
+                        "OptionActive": false,
+                        "OptionBreakLineBefore": false
+                    }
+                ]
+            },
+            {
+                "Label": "可用性",
+                "Options": [
+                    {
+                        "Label": "普通",
+                        "ContainsAny": null,
+                        "NotContainsAny": [
+                            "BLACKLISTED"
+                        ],
+                        "OptionActive": false,
+                        "OptionBreakLineBefore": false
+                    },
+                    {
+                        "Label": "无法获取",
+                        "ContainsAny": [
+                            "BLACKLISTED"
+                        ],
+                        "NotContainsAny": null,
+                        "OptionActive": false,
+                        "OptionBreakLineBefore": false
+                    }
+                ]
+            }
+        ],
+        "Components": {
+            "Whitelist": [],
+            "Blacklist": []
+        },
+        "Mechs": {
+            "Whitelist": [],
+            "Blacklist": []
+        },
+        "Pilots": {
+            "Whitelist": [],
+            "Blacklist": []
+        },
+        "Lances": {
+            "Whitelist": [],
+            "Blacklist": []
+        }
+    }
+}

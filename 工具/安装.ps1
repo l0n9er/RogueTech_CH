@@ -14,7 +14,7 @@ try {
 } catch { }
 
 function Say($m)  { Write-Host $m }
-function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/18] " + $m) }
+function Step($n, $m) { Write-Host ""; Write-Host ("[" + $n + "/19] " + $m) }
 function Ok($m)   { Write-Host ("      " + $m) }
 function Warn($m) { Write-Host ("      警告: " + $m) -ForegroundColor Yellow }
 
@@ -306,10 +306,41 @@ if ([IO.File]::Exists($menuDict)) {
                                  '-backupRoot', (Join-Path $packRoot 'backup\Mods-menus'))
 }
 Ok "完成"
+# ---------- 9f) MechEngineer 部位命名模板 ----------
+# Settings.json 的 MechLocationNamingTemplates 决定步兵/原型机甲/机甲小队/
+# VTOL/四足机甲等特殊单位在机甲实验室里各部位的显示名(如 "Trooper 5")。
+Step 14 "汉化特殊单位部位显示名"
+$locDict = Join-Path $PSScriptRoot 'dict-locnames.tsv'
+if ([IO.File]::Exists($locDict)) {
+    RunTool 'apply-fields.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                 '-pairs', $locDict,
+                                 '-fields', 'Label',
+                                 '-pathLike', 'MechEngineer\Settings.json',
+                                 '-backupRoot', (Join-Path $packRoot 'backup\Mods-locnames'))
+}
+# 战斗中"臂装精度加成"在提示里的显示名(WEAPON MOUNT)
+$mechFixDict = Join-Path $PSScriptRoot 'dict-mechfix.tsv'
+if ([IO.File]::Exists($mechFixDict)) {
+    RunTool 'apply-fields.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                 '-pairs', $mechFixDict,
+                                 '-fields', 'CombatHUDTooltipName',
+                                 '-pathLike', 'MechEngineer\Settings.json',
+                                 '-backupRoot', (Join-Path $packRoot 'backup\Mods-mechfix'))
+}
+# CustomFilters 的库存筛选标签: 只有 DLC / +Blacklisted 两条英文
+$cfDict = Join-Path $PSScriptRoot 'dict-cf.tsv'
+if ([IO.File]::Exists($cfDict)) {
+    RunTool 'apply-fields.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
+                                 '-pairs', $cfDict,
+                                 '-fields', 'Label',
+                                 '-pathLike', 'CustomFilters\Settings.json',
+                                 '-backupRoot', (Join-Path $packRoot 'backup\Mods-cf'))
+}
+Ok "完成"
 # Quirk_*.json 的 Description.Name 是显示名(装备特性栏), 包内不含这些定义
 # 文件, 只能靠词典在目标机应用。Name 字段在别处可能是内部标识符, 所以
 # 限定只处理 Quirks 目录下的文件。
-Step 14 "补译 Quirk 特性显示名"
+Step 15 "补译 Quirk 特性显示名"
 $quirkDict = Join-Path $PSScriptRoot 'dict-quirk.tsv'
 if ([IO.File]::Exists($quirkDict)) {
     RunTool 'apply-quirk.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
@@ -319,12 +350,12 @@ if ([IO.File]::Exists($quirkDict)) {
 Ok "完成"
 
 # ---------- 10) 装备分类显示名 ----------
-Step 15 "汉化装备分类显示名"
+Step 16 "汉化装备分类显示名"
 RunTool 'apply-category-zh.ps1' @('-gameRoot', $gameRoot)
 Ok "完成"
 
 # ---------- 11) 控制字符与标点空格 ----------
-Step 16 "清理控制字符、标点空格与插值占位符"
+Step 17 "清理控制字符、标点空格与插值占位符"
 RunTool 'fix-ctl.ps1' @('-gameRoot', $gameRoot) | Out-Null
 RunTool 'cleanup.ps1' @('-gameRoot', $gameRoot) | Out-Null
 # [[OBJ ， {OBJ.Field}]] 里的全角逗号会让游戏报 INVALID ALIAS 并显示"错误"
@@ -332,14 +363,14 @@ RunTool 'fix-interp-punct.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 11) 术语归一化与格式修复 ----------
-Step 17 "术语归一化与格式修复"
+Step 18 "术语归一化与格式修复"
 RunTool 'apply-norm.ps1' @('-mods', (Join-Path $gameRoot 'Mods'),
                            '-backupRoot', (Join-Path $packRoot 'backup\Mods-norm'))
 RunTool 'norm-csv.ps1' @('-csv', $csvDst)
 Ok "完成"
 
 # ---------- 12) 校验 ----------
-Step 18 "校验"
+Step 19 "校验"
 $zhs2 = @(Get-ChildItem (Join-Path $gameRoot "Mods") -Recurse -File -Force -ErrorAction SilentlyContinue |
           Where-Object { $_.Name -like "*.zhbak*" })
 if ($zhs2.Count -gt 0) { Warn ("仍有 " + $zhs2.Count + " 个 .zhbak 留在 Mods 下") }
