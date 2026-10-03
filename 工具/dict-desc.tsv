@@ -27,3 +27,13 @@ Survive the hacked turrets in bravo base	在 Bravo 基地被入侵的炮塔下�
 The contract didn't mention this part.	合同里可没提这一出。
 They sent a live camera guy.	他们派了个现场摄像师来。
 We can't leave technology like this in their hands.	不能把这种技术留在他们手里。
+The objective for the player to move into and capture the space port.	目标：玩家进入并占领太空港。
+The objective for the player to retrieve the primary target.	目标：玩家取回主要目标。
+The objective is destroying the units guarding the convoy.	目标是摧毁护送车队的单位。
+The objective is preventing the enemy from reaching their escape point, if this happens the player will lose.	目标是阻止敌人抵达其逃脱点，一旦敌人逃脱，玩家即告失败。
+The objective to destroy the force of enemies which will try an stop the player from reaching the rally point.	目标：摧毁试图阻止玩家抵达集结点的敌军。
+The objective to destroy the garrison / defenders of the base.	目标：摧毁基地的驻军/守备部队。
+The objective to keep the unit which is carrying the Data alive. The player can fail this objective.	目标：保护携带数据的单位存活。此项可失败。
+The objective to optionally destroy the defenders of the space port.	可选目标：摧毁太空港的守备部队。
+The primary objective to destroy the garrison / defenders of the base.	主要目标：摧毁基地的驻军/守备部队。
+The secondary and optional objective to secure the Data.	次要可选目标：确保数据安全。
