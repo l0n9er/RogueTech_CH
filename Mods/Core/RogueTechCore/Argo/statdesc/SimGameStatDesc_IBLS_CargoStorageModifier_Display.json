@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_IBLS_CargoStorageModifier_Display",
+    "Name": "IBLS_CargoStorageModifier_Display",
+    "Details": "影响非跳跃行进时间 - 不显示",
+    "Icon": null
+  },
+  "setResult": "所有库存装备、武器与单位的维护费用降低 {RES_VALUE.ToString}%",
+  "positiveResult": "",
+  "negativeResult": "",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "所有库存装备、武器与单位的维护费用降低 {RES_VALUE.ToString}%",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": "",
+  "hidden": false
+}

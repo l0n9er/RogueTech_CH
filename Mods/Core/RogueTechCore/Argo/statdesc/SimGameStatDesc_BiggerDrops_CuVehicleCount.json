@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_BiggerDrops_CuVehicleCount",
+    "Name": "BiggerDrops_CuVehicleCount",
+    "Details": "影响非跳跃行进时间 - 不显示",
+    "Icon": null
+  },
+  "setResult": "允许的空投规模增加 {RES_VALUE.ToString} 个载具槽位",
+  "positiveResult": "允许的空投规模增加 {RES_VALUE.ToString} 个载具槽位",
+  "negativeResult": "允许的空投规模增加 {RES_VALUE.ToString} 个载具槽位",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "允许的空投规模增加 {RES_VALUE.ToString} 个载具槽位",
+  "infinitivePositiveResult": "允许的空投规模增加 {RES_VALUE.ToString} 个载具槽位",
+  "infinitiveNegativeResult": "允许的空投规模增加 {RES_VALUE.ToString} 个载具槽位",
+  "hidden": false
+}

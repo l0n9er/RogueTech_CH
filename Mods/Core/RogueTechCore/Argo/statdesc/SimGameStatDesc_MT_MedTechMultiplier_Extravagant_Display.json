@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_MT_MedTechMultiplier_Extravagant_Display",
+    "Name": "MT_MedTechMultiplier_Extravagant_Display",
+    "Details": "影响维护状态倍率数值 - 不显示",
+    "Icon": null
+  },
+  "setResult": "奢华维护对医疗技师的加成提高 {RES_VALUE.ToString}%",
+  "positiveResult": "",
+  "negativeResult": "",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "奢华维护对医疗技师的加成提高 {RES_VALUE.ToString}%",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": "",
+  "hidden": false
+}

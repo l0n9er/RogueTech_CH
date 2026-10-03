@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_MT_MedTechMultiplier_Restrictive_Display",
+    "Name": "MT_MedTechMultiplier_Restrictive_Display",
+    "Details": "影响维护状态倍率数值 - 不显示",
+    "Icon": null
+  },
+  "setResult": "紧缩维护对医疗技师的惩罚降低 {RES_VALUE.ToString}%",
+  "positiveResult": "",
+  "negativeResult": "",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "紧缩维护对医疗技师的惩罚降低 {RES_VALUE.ToString}%",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": "",
+  "hidden": false
+}

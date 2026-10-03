@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_Intel_Show_Mood_Display",
+    "Name": "Intel_Show_Mood_Display",
+    "Details": "启用任务前天气信息",
+    "Icon": null
+  },
+  "setResult": "任务前天气信息已启用",
+  "positiveResult": "启用任务前天气信息",
+  "negativeResult": "禁用任务前天气信息",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "任务前天气信息已启用",
+  "infinitivePositiveResult": "启用任务前天气信息",
+  "infinitiveNegativeResult": "禁用任务前天气信息",
+  "hidden": true
+}

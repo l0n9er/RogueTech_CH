@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_BiggerDrops_LeopardEnabled",
+    "Name": "BiggerDrops_LeopardEnabled",
+    "Details": "启用豹式空投艇",
+    "Icon": null
+  },
+  "setResult": "启用“豹式”，通过升级提供额外的空投容量",
+  "positiveResult": "",
+  "negativeResult": "",
+  "temporalSetResult": "启用“豹式”，通过升级提供额外的空投容量",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "启用“豹式”，通过升级提供额外的空投容量",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": "",
+  "hidden": false
+}

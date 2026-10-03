@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_MT_MedTechMultiplier_Restrictive",
+    "Name": "MT_MedTechMultiplier_Restrictive",
+    "Details": "影响维护状态倍率数值 - 不显示",
+    "Icon": null
+  },
+  "setResult": "",
+  "positiveResult": "（所列）维护费用对医疗技师的影响改变 {RES_VALUE.ToString}%",
+  "negativeResult": "（所列）维护费用对医疗技师的影响改变 {RES_VALUE.ToString}%",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "（所列）维护费用对医疗技师的影响改变 {RES_VALUE.ToString}%",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": "",
+  "hidden": true
+}

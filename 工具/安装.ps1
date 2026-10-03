@@ -236,6 +236,16 @@ Step 9 "汉化游戏本体状态说明模板（simGameStatDesc）"
 RunTool 'apply-statdesc.ps1' @('-game', $gameRoot,
                                '-pairs', (Join-Path $PSScriptRoot 'dict-statdesc.tsv'),
                                '-backupRoot', (Join-Path $packRoot 'backup\simGameStatDesc'))
+# 模组自带的 SimGameStatDesc(Aircademy/IRTweaks/IttyBittyLivingSpace/
+# MissionControl/RogueTechCore 等 40 余个) 同样不查 CSV, 里面的合约报酬、
+# 声望变化、维护费用等结果模板同样是玩家可见文本。
+$modStatDict = Join-Path $PSScriptRoot 'dict-statdesc-mod.tsv'
+if ([IO.File]::Exists($modStatDict)) {
+    RunTool 'apply-statdesc.ps1' @('-game', $gameRoot,
+                                   '-pairs', $modStatDict,
+                                   '-ModsOnly',
+                                   '-backupRoot', (Join-Path $packRoot 'backup\simGameStatDesc-mod'))
+}
 Ok "完成"
 
 # ---------- 9) 对话/字幕汉化 ----------

@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_BiggerDrops_AdditionalMechSlots",
+    "Name": "BiggerDrops_AdditionalMechSlots",
+    "Details": "影响非跳跃行进时间 - 不显示",
+    "Icon": null
+  },
+  "setResult": "允许的空投规模增加 {RES_VALUE.ToString} 个槽位",
+  "positiveResult": "允许的空投规模增加 {RES_VALUE.ToString} 个槽位",
+  "negativeResult": "允许的空投规模增加 {RES_VALUE.ToString} 个槽位",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "允许的空投规模增加 {RES_VALUE.ToString} 个槽位",
+  "infinitivePositiveResult": "允许的空投规模增加 {RES_VALUE.ToString} 个槽位",
+  "infinitiveNegativeResult": "允许的空投规模增加 {RES_VALUE.ToString} 个槽位",
+  "hidden": false
+}

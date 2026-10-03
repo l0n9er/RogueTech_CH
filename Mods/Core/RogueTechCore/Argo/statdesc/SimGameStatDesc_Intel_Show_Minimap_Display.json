@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_Intel_Show_Minimap_Display",
+    "Name": "Intel_Show_Minimap_Display",
+    "Details": "启用任务前地形图",
+    "Icon": null
+  },
+  "setResult": "任务前地形图已启用",
+  "positiveResult": "启用任务前地形图",
+  "negativeResult": "禁用任务前地形图",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "任务前地形图已启用",
+  "infinitivePositiveResult": "启用任务前地形图",
+  "infinitiveNegativeResult": "禁用任务前地形图",
+  "hidden": false
+}

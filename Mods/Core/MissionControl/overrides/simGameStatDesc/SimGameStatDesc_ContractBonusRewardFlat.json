@@ -1,0 +1,17 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_ContractBonusRewardFlat",
+    "Name": "Objective Bonus Reward",
+    "Details": "完成特定目标的额外报酬",
+    "Icon": null
+  },
+  "setResult": "合约额外报酬 {RES_VALUE.ToString}",
+  "positiveResult": "合约报酬提高了 {RES_VALUE.ToString}",
+  "negativeResult": "合约报酬降低了 {RES_VALUE.ToString}",
+  "temporalSetResult": "合约额外报酬 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "temporalPositiveResult": "合约报酬提高了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "temporalNegativeResult": "合约报酬降低了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "infinitiveSetResult": "",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": ""
+}

@@ -12,9 +12,11 @@ param(
     [string]$game = "",
     [string]$pairs = "",
     [string]$backupRoot = "",
+    [switch]$ModsOnly,
     [switch]$DryRun
 )
 $ErrorActionPreference = 'Stop'
+$BS = [string][char]92
 $packRoot = Split-Path $PSScriptRoot -Parent
 if ([string]::IsNullOrWhiteSpace($game)) {
     $gr = & (Join-Path $PSScriptRoot 'find-game.ps1')
@@ -27,6 +29,18 @@ if (-not [IO.File]::Exists($pairs)) { Write-Host (" pairs not found: " + $pairs)
 
 $dir = Join-Path $game 'BattleTech_Data\StreamingAssets\data\simGameStatDesc'
 if (-not [IO.Directory]::Exists($dir)) { Write-Host (" simGameStatDesc not found: " + $dir) -ForegroundColor Yellow; exit 1 }
+
+# 目标文件: 游戏本体目录 + 各模组自带的 SimGameStatDesc(约 40 个模组带这类
+# 文件, 它们的结果模板同样不查 CSV, 必须就地改写)。-ModsOnly 只处理模组侧。
+$BS = [string][char]92
+$targets = New-Object System.Collections.Generic.List[string]
+if (-not $ModsOnly) { foreach ($f in Get-ChildItem $dir -Filter '*.json') { $targets.Add($f.FullName) } }
+$modsDir = Join-Path $game 'Mods'
+foreach ($f in @(Get-ChildItem $modsDir -Recurse -File -Filter 'SimGameStatDesc*.json' -ErrorAction SilentlyContinue |
+                 Where-Object { $_.FullName -notlike ('*' + $BS + '.modtek' + $BS + '*') })) {
+    $targets.Add($f.FullName)
+}
+Write-Host (' statdesc targets: ' + $targets.Count)
 
 # Read pairs. Keys are the English template strings, values the Chinese ones.
 $map = New-Object 'System.Collections.Generic.Dictionary[string,string]'
@@ -46,9 +60,9 @@ $stats = @{ files = 0; changed = 0; repl = 0 }
 $fields = @('setResult','positiveResult','negativeResult','temporalSetResult','temporalPositiveResult','temporalNegativeResult','infinitiveSetResult','infinitivePositiveResult','infinitiveNegativeResult')
 $rx = [regex]('("(?:' + ($fields -join '|') + ')"\s*:\s*")((?:[^"\\]|\\.)*)(")')
 
-foreach ($f in Get-ChildItem $dir -Filter '*.json') {
+foreach ($fp in $targets) {
     $stats.files++
-    $orig = [IO.File]::ReadAllText($f.FullName, [Text.Encoding]::UTF8)
+    $orig = [IO.File]::ReadAllText($fp, [Text.Encoding]::UTF8)
     $new = $rx.Replace($orig, {
         param($m)
         $val = $m.Groups[2].Value
@@ -66,11 +80,15 @@ foreach ($f in Get-ChildItem $dir -Filter '*.json') {
         Add-Type -AssemblyName System.Web.Extensions
         $ser = New-Object System.Web.Script.Serialization.JavaScriptSerializer
         $ser.MaxJsonLength = [int]::MaxValue
-        try { [void]$ser.DeserializeObject($new) } catch { Write-Host (" skip(invalid JSON): " + $f.Name); continue }
-        if (-not [IO.Directory]::Exists($backupRoot)) { [void][IO.Directory]::CreateDirectory($backupRoot) }
-        $bak = Join-Path $backupRoot $f.Name
+        try { [void]$ser.DeserializeObject($new) } catch { Write-Host (" skip(invalid JSON): " + (Split-Path $fp -Leaf)); continue }
+        # 模组文件可能同名(如 IBLS_MechbayUpkeepModifier 在多个模组里都有),
+        # 备份按"相对游戏根目录"存放, 避免相互覆盖
+        $rel = $fp.Substring($game.Length).TrimStart($BS)
+        $bak = Join-Path $backupRoot $rel
+        $d = Split-Path $bak -Parent
+        if (-not [IO.Directory]::Exists($d)) { [void][IO.Directory]::CreateDirectory($d) }
         if (-not [IO.File]::Exists($bak)) { [IO.File]::WriteAllText($bak, $orig, $enc) }
-        [IO.File]::WriteAllText($f.FullName, $new, $enc)
+        [IO.File]::WriteAllText($fp, $new, $enc)
     }
     $stats.changed++
 }

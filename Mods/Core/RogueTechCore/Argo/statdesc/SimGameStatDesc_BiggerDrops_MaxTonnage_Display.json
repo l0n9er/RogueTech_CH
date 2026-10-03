@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_BiggerDrops_MaxTonnage_Display",
+    "Name": "BiggerDrops_MaxTonnage_Display",
+    "Details": "影响非跳跃行进时间 - 不显示",
+    "Icon": null
+  },
+  "setResult": "最大空投吨位增加 {RES_VALUE.ToString} 吨",
+  "positiveResult": "最大空投吨位增加 {RES_VALUE.ToString} 吨",
+  "negativeResult": "最大空投吨位增加 {RES_VALUE.ToString} 吨",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "最大空投吨位增加 {RES_VALUE.ToString} 吨",
+  "infinitivePositiveResult": "最大空投吨位增加 {RES_VALUE.ToString} 吨",
+  "infinitiveNegativeResult": "最大空投吨位增加 {RES_VALUE.ToString} 吨",
+  "hidden": false
+}

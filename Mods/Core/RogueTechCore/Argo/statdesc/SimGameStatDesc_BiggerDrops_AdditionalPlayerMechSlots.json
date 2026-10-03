@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots",
+    "Name": "BiggerDrops_AdditionalPlayerMechSlots",
+    "Details": "影响非跳跃行进时间 - 不显示",
+    "Icon": null
+  },
+  "setResult": "玩家控制的机师数量增加 {RES_VALUE.ToString}%",
+  "positiveResult": "玩家控制的机师数量增加 {RES_VALUE.ToString}%",
+  "negativeResult": "玩家控制的机师数量减少 {RES_VALUE.ToString}%",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "玩家控制的机师数量 {RES_VALUE.ToString}%",
+  "infinitivePositiveResult": "玩家控制的机师数量增加 {RES_VALUE.ToString}%",
+  "infinitiveNegativeResult": "玩家控制的机师数量减少 {RES_VALUE.ToString}%",
+  "hidden": true
+}

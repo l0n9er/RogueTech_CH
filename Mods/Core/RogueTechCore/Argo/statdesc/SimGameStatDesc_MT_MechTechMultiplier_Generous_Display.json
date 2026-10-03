@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_MT_MechTechMultiplier_Generous_Display",
+    "Name": "MT_MechTechMultiplier_Generous_Display",
+    "Details": "影响维护状态倍率数值 - 不显示",
+    "Icon": null
+  },
+  "setResult": "慷慨维护对机甲技师的加成提高 {RES_VALUE.ToString}%",
+  "positiveResult": "",
+  "negativeResult": "",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "慷慨维护对机甲技师的加成提高 {RES_VALUE.ToString}%",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": "",
+  "hidden": false
+}

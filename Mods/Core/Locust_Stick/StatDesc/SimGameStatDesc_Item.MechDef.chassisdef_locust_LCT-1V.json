@@ -1,0 +1,20 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_Item.MechDef.chassisdef_locust_LCT-1V",
+    "Name": "Item.MechDef.chassisdef_locust_LCT-1V",
+    "Details": "蝗虫 LCT-1V 的车体",
+    "Icon": null
+  },
+  "setResult": "",
+  "positiveResult": "",
+  "negativeResult": "“蝗虫 LCT-1V”已从库存中移除",
+  "temporalSetResult": "",
+  "temporalPositiveResult": "",
+  "temporalNegativeResult": "",
+  "infinitiveSetResult": "",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": "",
+  "CustomParts": {
+    "CustomParts": []
+  }
+}

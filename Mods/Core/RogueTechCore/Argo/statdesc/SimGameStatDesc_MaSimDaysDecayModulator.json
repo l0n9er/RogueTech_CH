@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_MaSimDaysDecayModulator",
+    "Name": "MaSimDaysDecayModulator",
+    "Details": "在机师的契合度开始衰减之前可经过的天数。",
+    "Icon": null
+  },
+  "setResult": "好感度衰减所需天数 {RES_VALUE.ToString}%",
+  "positiveResult": "好感度衰减所需天数增加 {RES_VALUE.ToString}%",
+  "negativeResult": "好感度衰减所需天数减少 {RES_VALUE.ToString}%",
+  "temporalSetResult": "好感度衰减所需天数 {RES_VALUE.ToString}%",
+  "temporalPositiveResult": "好感度衰减所需天数增加 {RES_VALUE.ToString}%",
+  "temporalNegativeResult": "好感度衰减所需天数减少 {RES_VALUE.ToString}%",
+  "infinitiveSetResult": "好感度衰减所需天数 {RES_VALUE.ToString}%",
+  "infinitivePositiveResult": "好感度衰减所需天数增加 {RES_VALUE.ToString}%",
+  "infinitiveNegativeResult": "好感度衰减所需天数减少 {RES_VALUE.ToString}%",
+  "hidden": true
+}

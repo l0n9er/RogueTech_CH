@@ -1,0 +1,18 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_MaLowestDecay",
+    "Name": "MaLowestDecay",
+    "Details": "机师与机甲的契合度最低将衰减至。",
+    "Icon": null
+  },
+  "setResult": "机师对机甲的最低好感度将衰减至 {RES_VALUE.ToString}%",
+  "positiveResult": "机师对机甲的最低好感度衰减下限提高 {RES_VALUE.ToString}%",
+  "negativeResult": "机师对机甲的最低好感度衰减下限降低 {RES_VALUE.ToString}%",
+  "temporalSetResult": "机师对机甲的最低好感度将衰减至 {RES_VALUE.ToString}%",
+  "temporalPositiveResult": "机师对机甲的最低好感度衰减下限提高 {RES_VALUE.ToString}%",
+  "temporalNegativeResult": "机师对机甲的最低好感度衰减下限降低 {RES_VALUE.ToString}%",
+  "infinitiveSetResult": "机师对机甲的最低好感度将衰减至 {RES_VALUE.ToString}%",
+  "infinitivePositiveResult": "机师对机甲的最低好感度衰减下限提高 {RES_VALUE.ToString}%",
+  "infinitiveNegativeResult": "机师对机甲的最低好感度衰减下限降低 {RES_VALUE.ToString}%",
+  "hidden": true
+}

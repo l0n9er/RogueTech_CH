@@ -1,0 +1,17 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_ContractBonusTargetReputation",
+    "Name": "目标额外声望惩罚",
+    "Details": "完成特定目标时对目标阵营声望造成的额外惩罚",
+    "Icon": null
+  },
+  "setResult": "你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望现在是 {RES_VALUE.ToString}",
+  "positiveResult": "你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望降低了 {RES_VALUE.ToString}",
+  "negativeResult": "你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望提高了 {RES_VALUE.ToString}",
+  "temporalSetResult": "你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望现在是 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "temporalPositiveResult": "你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望降低了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "temporalNegativeResult": "你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望提高了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "infinitiveSetResult": "",
+  "infinitivePositiveResult": "",
+  "infinitiveNegativeResult": ""
+}

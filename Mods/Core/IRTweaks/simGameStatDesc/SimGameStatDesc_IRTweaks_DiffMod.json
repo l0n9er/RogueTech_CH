@@ -1,0 +1,17 @@
+{
+  "Description": {
+    "Id": "SimGameStatDesc_IRTweaks_DiffMod",
+    "Name": "IRTweaks_DiffMod",
+    "Details": "生涯难度已修改",
+    "Icon": null
+  },
+  "setResult": "生涯难度已设为 {RES_VALUE.ToString}",
+  "positiveResult": "生涯难度修正提高了 {RES_VALUE.ToString}",
+  "negativeResult": "生涯难度修正降低了 {RES_VALUE.ToString}",
+  "temporalSetResult": "生涯难度已设为 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "temporalPositiveResult": "生涯难度修正提高了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "temporalNegativeResult": "生涯难度修正降低了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天",
+  "infinitiveSetResult": "生涯难度已设为 {RES_VALUE.ToString}",
+  "infinitivePositiveResult": "生涯难度修正提高了 {RES_VALUE.ToString}",
+  "infinitiveNegativeResult": "生涯难度修正降低了 {RES_VALUE.ToString}"
+}

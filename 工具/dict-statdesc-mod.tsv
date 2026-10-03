@@ -1,0 +1,63 @@
+Career Difficulty set to {RES_VALUE.ToString}	生涯难度已设为 {RES_VALUE.ToString}
+Career Difficulty Modifier increased by {RES_VALUE.ToString}	生涯难度修正提高了 {RES_VALUE.ToString}
+Career Difficulty Modifier decreased by {RES_VALUE.ToString}	生涯难度修正降低了 {RES_VALUE.ToString}
+Career Difficulty set to {RES_VALUE.ToString} for {RES_DURATION.ToString} days	生涯难度已设为 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+Career Difficulty Modifier increased by {RES_VALUE.ToString} for {RES_DURATION.ToString} days	生涯难度修正提高了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+Career Difficulty Modifier decreased by {RES_VALUE.ToString} for {RES_DURATION.ToString} days	生涯难度修正降低了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+Cargo Upkeep cost set to {RES_VALUE.ToString}%	货舱维护费用已设为 {RES_VALUE.ToString}%
+Mechbay Upkeep cost set to {RES_VALUE.ToString}%	机库维护费用已设为 {RES_VALUE.ToString}%
+Locust LCT-1V removed from inventory	“蝗虫 LCT-1V”已从库存中移除
+Locust Stick added to inventory	“蝗虫棍”已加入库存
+Your Reputation with [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] is now {RES_VALUE.ToString}	你与 [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] 的声望现在是 {RES_VALUE.ToString}
+You gain {RES_VALUE.ToString} Reputation with [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]]	你与 [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] 的声望提高了 {RES_VALUE.ToString}
+You lose {RES_VALUE.ToString} Reputation with [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]]	你与 [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] 的声望降低了 {RES_VALUE.ToString}
+Your Reputation with [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] is now {RES_VALUE.ToString} for {RES_DURATION.ToString} days	你与 [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] 的声望现在是 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+You gain {RES_VALUE.ToString} Reputation with [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] for {RES_DURATION.ToString} days	你与 [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] 的声望提高了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+You lose {RES_VALUE.ToString} Reputation with [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] for {RES_DURATION.ToString} days	你与 [[TEAM_EMP  {TEAM_EMP.FactionDef.Name}]] 的声望降低了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+Contract bonus payment {RES_VALUE.ToString}	合约额外报酬 {RES_VALUE.ToString}
+Contract payment increased by {RES_VALUE.ToString}	合约报酬提高了 {RES_VALUE.ToString}
+Contract payment decreased by {RES_VALUE.ToString}	合约报酬降低了 {RES_VALUE.ToString}
+Contract bonus payment {RES_VALUE.ToString} for {RES_DURATION.ToString} days	合约额外报酬 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+Contract payment increased by {RES_VALUE.ToString} for {RES_DURATION.ToString} days	合约报酬提高了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+Contract payment decreased by {RES_VALUE.ToString} for {RES_DURATION.ToString} days	合约报酬降低了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+Your Reputation with [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] is now {RES_VALUE.ToString}	你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望现在是 {RES_VALUE.ToString}
+You lose {RES_VALUE.ToString} Reputation with [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]]	你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望降低了 {RES_VALUE.ToString}
+You gain {RES_VALUE.ToString} Reputation with [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]]	你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望提高了 {RES_VALUE.ToString}
+Your Reputation with [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] is now {RES_VALUE.ToString} for {RES_DURATION.ToString} days	你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望现在是 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+You lose {RES_VALUE.ToString} Reputation with [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] for {RES_DURATION.ToString} days	你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望降低了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+You gain {RES_VALUE.ToString} Reputation with [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] for {RES_DURATION.ToString} days	你与 [[TEAM_TAR  {TEAM_TAR.FactionDef.Name}]] 的声望提高了 {RES_VALUE.ToString}，持续 {RES_DURATION.ToString} 天
+Increases allowed drop size by {RES_VALUE.ToString} slot(s)	允许的空投规模增加 {RES_VALUE.ToString} 个槽位
+Increases Player Controlled Pilots by {RES_VALUE.ToString}%	玩家控制的机师数量增加 {RES_VALUE.ToString}%
+Decreases Player Controlled Pilots by {RES_VALUE.ToString}%	玩家控制的机师数量减少 {RES_VALUE.ToString}%
+Player Controlled Pilots {RES_VALUE.ToString}%	玩家控制的机师数量 {RES_VALUE.ToString}%
+Increases allowed drop size by {RES_VALUE.ToString} Battle Armor only slots	允许的空投规模增加 {RES_VALUE.ToString} 个战斗装甲专用槽位
+Increases allowed drop size by {RES_VALUE.ToString} Vehicle slots	允许的空投规模增加 {RES_VALUE.ToString} 个载具槽位
+Enables the Leopard, providing additional drop capacity through upgrades	启用“豹式”，通过升级提供额外的空投容量
+Increases Max Drop Tonnage by {RES_VALUE.ToString} tons	最大空投吨位增加 {RES_VALUE.ToString} 吨
+Decreases Max Drop Tonnage by {RES_VALUE.ToString} tons	最大空投吨位减少 {RES_VALUE.ToString} 吨
+Max Drop Tonnage {RES_VALUE.ToString} tons	最大空投吨位 {RES_VALUE.ToString} 吨
+Upkeep of all stored equipment, weapons and units reduced by {RES_VALUE.ToString}%	所有库存装备、武器与单位的维护费用降低 {RES_VALUE.ToString}%
+Upkeep for active units reduced by {RES_VALUE.ToString}%	现役单位的维护费用降低 {RES_VALUE.ToString}%
+Pre-mission terrain map enabled	任务前地形图已启用
+Enables pre-mission terrain map	启用任务前地形图
+Disables pre-mission terrain map	禁用任务前地形图
+Pre-mission weather information enabled	任务前天气信息已启用
+Enables pre-mission weather information	启用任务前天气信息
+Disables pre-mission weather information	禁用任务前天气信息
+Minimum pilot's affinity to mech will decay to {RES_VALUE.ToString}%	机师对机甲的最低好感度将衰减至 {RES_VALUE.ToString}%
+Increases minimum pilot's affinity to mech will decay to by {RES_VALUE.ToString}%	机师对机甲的最低好感度衰减下限提高 {RES_VALUE.ToString}%
+Decreases minimum pilot's affinity to mech will decay to by {RES_VALUE.ToString}%	机师对机甲的最低好感度衰减下限降低 {RES_VALUE.ToString}%
+Number of days until affinity decay {RES_VALUE.ToString}%	好感度衰减所需天数 {RES_VALUE.ToString}%
+Increase number of days until affinity decay by {RES_VALUE.ToString}%	好感度衰减所需天数增加 {RES_VALUE.ToString}%
+Decreases number of days until affinity decay by {RES_VALUE.ToString}%	好感度衰减所需天数减少 {RES_VALUE.ToString}%
+Increases number of days until affinity decay by {RES_VALUE.ToString}%	好感度衰减所需天数增加 {RES_VALUE.ToString}%
+Modifies effect of (Listed) Upkeep on MechTechs by {RES_VALUE.ToString}%	（所列）维护费用对机甲技师的影响改变 {RES_VALUE.ToString}%
+Increases effect of Extravagant Upkeep on MechTechs by {RES_VALUE.ToString}%	奢华维护对机甲技师的加成提高 {RES_VALUE.ToString}%
+Increases effect of Generous Upkeep on MechTechs by {RES_VALUE.ToString}%	慷慨维护对机甲技师的加成提高 {RES_VALUE.ToString}%
+Reduces penalty of Restrictive Upkeep on MechTechs by {RES_VALUE.ToString}%	紧缩维护对机甲技师的惩罚降低 {RES_VALUE.ToString}%
+Reduces penalty of Spartan Upkeep on MechTechs by {RES_VALUE.ToString}%	简朴维护对机甲技师的惩罚降低 {RES_VALUE.ToString}%
+Modifies effect of (Listed) Upkeep on MedTechs by {RES_VALUE.ToString}%	（所列）维护费用对医疗技师的影响改变 {RES_VALUE.ToString}%
+Increases effect of Extravagant Upkeep on MedTechs by {RES_VALUE.ToString}%	奢华维护对医疗技师的加成提高 {RES_VALUE.ToString}%
+Increases effect of Generous Upkeep on MedTechs by {RES_VALUE.ToString}%	慷慨维护对医疗技师的加成提高 {RES_VALUE.ToString}%
+Reduces penalty of Restrictive Upkeep on MedTechs by {RES_VALUE.ToString}%	紧缩维护对医疗技师的惩罚降低 {RES_VALUE.ToString}%
+Reduces penalty of Spartan Upkeep on MedTechs by {RES_VALUE.ToString}%	简朴维护对医疗技师的惩罚降低 {RES_VALUE.ToString}%
